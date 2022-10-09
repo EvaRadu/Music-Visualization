@@ -2,7 +2,10 @@ import pandas as pd
 import numpy as np
 import re
 
-df = pd.read_csv('DATA/wasabi_csv/songs.csv')
+dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv')
+dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv')
+dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv')
+dfArtists.rename(columns={'genres':'genre'}, inplace=True)
 
 #print(df.columns)
 #print(df['genre'][0])
@@ -24,7 +27,7 @@ def tri_genre_beta() :
     #print(frequent)
     return genre
 
-def tri_genre() : 
+def tri_genre(df) : 
     for i in range(len(df['genre'])):
         if type(df['genre'][i])!=float:
             df['genre'][i] = df['genre'][i].replace("list(", "").replace("list(", "").replace(")","").replace("\"", "").split(", ")
@@ -32,4 +35,7 @@ def tri_genre() :
     print(df['genre'][1001])
 
 if __name__ == '__main__' :
-    tri_genre()
+    tri_genre(dfSongs)
+    tri_genre(dfArtists)
+    tri_genre(dfAlbums)
+
