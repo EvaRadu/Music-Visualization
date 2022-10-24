@@ -11,25 +11,6 @@ dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.rename(columns={'genres':'genre'}, inplace=True)
 print(len(dfSongs["genre"]))
 
-#print(df['genre'][0])
-
-def tri_genre_beta(df) :
-    my_liste = []
-    genre = df['genre'].unique()
-    my_method = lambda x: x.replace("\"", "").replace("list(", "").replace(")","").split(", ")
-    #np.stack(np.vectorize(lambda x: x.replace("\"", "").replace("list(", "").replace(")","").split(", ")))(genre)
-    #print(map(my_method,genre))
-    for a in genre:
-        if not(np.nan(a)) :
-            my_liste.append(my_method(a))
-        else :
-            my_liste.append(a)
-    #print((genre[4]).find("list"))
-    #set(genre)
-    #frequent = max(set(genre), key = genre.count)
-    #print(frequent)
-    return genre
-#ouioui
 def tri_genre(df) : 
     global genre_set
     nans = df['genre'].isnull()
@@ -60,25 +41,29 @@ def cluster_genre(df):
         new_column.append(list(clustered_genre))
     df.insert(loc=len(df.columns), column="genre_cluster", value=new_column)
 
-
-alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
-genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul"
-    "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel"
-    "dupstep", "rap", "folk", "bossa nova"]
-genre_set = set()
+def complete(dfAlbums, dfArtists):
+    dataframe = dfAlbums[dfAlbums['genre'].isna()]
+    print(dataframe['id_artist'])
+    print(dfArtists[dfArtists["id_artist"] == "56d99384cc2ddd0c0f6bec10"])
+   
+    return dfAlbums
+     #   print(dataframe.columns)
 
 
 if __name__ == '__main__' :
-    print("Songs") 
-    tri_genre(dfSongs)
-    print("Artists") 
-    tri_genre(dfArtists)
-    print("Albums") 
-    tri_genre(dfAlbums)
+
+    alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
+    genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul"
+    "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel"
+    "dupstep", "rap", "folk", "bossa nova"]
+    genre_set = set()
+ 
     cluster_genre(dfSongs)
-    print(dfSongs["genre"][:50])
-    print(dfSongs["genre_cluster"][:50])
+    #print(dfSongs["genre"][:20])
+    #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
+
+    complete(dfAlbums, dfArtists)
 
 
 
