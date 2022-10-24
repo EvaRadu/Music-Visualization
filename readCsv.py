@@ -29,7 +29,7 @@ def tri_genre_beta() :
     #frequent = max(set(genre), key = genre.count)
     #print(frequent)
     return genre
-
+#ouioui
 def tri_genre(df) : 
     global genre_set
     for i in range(len(df['genre'])):
@@ -40,11 +40,15 @@ def tri_genre(df) :
     #print(df['genre'][1001])
 
 def cluster_genre(df):
+    global alias, genre_clusters
     new_column = []
     for i in range(len(df['genre'])):
         clustered_genre = set() 
         l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
         for genre in l:
+            for a in alias.keys():
+                if a in genre.lower():
+                    clustered_genre.add(alias[a])
             for cluster in genre_clusters:
                 if cluster in genre.lower():
                     clustered_genre.add(cluster)
