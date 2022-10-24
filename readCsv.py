@@ -2,14 +2,14 @@ import pandas as pd
 import numpy as np
 import re
 
-dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv').dropna()
-dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv').dropna()
-dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv').dropna()
+dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv')
+dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv')
+dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv')
 dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.rename(columns={'genres':'genre'}, inplace=True)
-
+print(len(dfSongs["genre"]))
 
 #print(df['genre'][0])
 
@@ -32,27 +32,31 @@ def tri_genre_beta() :
 #ouioui
 def tri_genre(df) : 
     global genre_set
+    nans = df['genre'].isnull()
     for i in range(len(df['genre'])):
-        l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
-        genre_set |= set(l)
+        if not nans[i]:
+            l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
+            genre_set |= set(l)
         #df['genre'][i] = df['genre'][i].replace("list(", "").replace("list(", "").replace(")","").replace("\"", "").split(", ")
             #print(df['genre'][i])
     #print(df['genre'][1001])
 
 def cluster_genre(df):
     global alias, genre_clusters
+    nans = df['genre'].isnull()
     new_column = []
     for i in range(len(df['genre'])):
         clustered_genre = set() 
-        l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
-        for genre in l:
-            for a in alias.keys():
-                if a in genre.lower():
-                    clustered_genre.add(alias[a])
-            for cluster in genre_clusters:
-                if cluster in genre.lower():
-                    clustered_genre.add(cluster)
-                    continue
+        if not nans[i]:
+            l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
+            for genre in l:
+                for a in alias.keys():
+                    if a in genre.lower():
+                        clustered_genre.add(alias[a])
+                for cluster in genre_clusters:
+                    if cluster in genre.lower():
+                        clustered_genre.add(cluster)
+                        continue
         new_column.append(list(clustered_genre))
     df.insert(loc=len(df.columns), column="genre_cluster", value=new_column)
 
@@ -69,9 +73,9 @@ if __name__ == '__main__' :
     tri_genre(dfArtists)
     tri_genre(dfAlbums)
     cluster_genre(dfSongs)
-    print(dfSongs["genre"][:20])
-    print(dfSongs["genre_cluster"][:20])
-    print(genre_set)
+    print(dfSongs["genre"][:50])
+    print(dfSongs["genre_cluster"][:50])
+    #print(genre_set)
 
 
 
