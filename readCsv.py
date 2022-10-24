@@ -13,7 +13,7 @@ print(len(dfSongs["genre"]))
 
 #print(df['genre'][0])
 
-def tri_genre_beta() :
+def tri_genre_beta(df) :
     my_liste = []
     genre = df['genre'].unique()
     my_method = lambda x: x.replace("\"", "").replace("list(", "").replace(")","").split(", ")
@@ -69,8 +69,11 @@ genre_set = set()
 
 
 if __name__ == '__main__' :
+    print("Songs") 
     tri_genre(dfSongs)
+    print("Artists") 
     tri_genre(dfArtists)
+    print("Albums") 
     tri_genre(dfAlbums)
     cluster_genre(dfSongs)
     print(dfSongs["genre"][:50])
