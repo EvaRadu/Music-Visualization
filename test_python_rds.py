@@ -1,8 +1,11 @@
 import pandas as pd
 import numpy as np
 
-songs = pd.read_csv("Wasabi-dataset-03-10-2022/songs.csv")
-albums = pd.read_csv("Wasabi-dataset-03-10-2022/albums_all_artists_3000.csv")
+songs = pd.read_csv("DATA/songs.csv")
+albums = pd.read_csv("DATA/albums_all_artists_3000.csv")
+artists = pd.read_csv("DATA/wasabi_all_artists_3000.csv")
+
+print(len(artists))
 
 songs_genre = songs[songs['genre'].notnull()]
 songs_no_genre = songs[songs['genre'].isnull()]
