@@ -42,12 +42,16 @@ def cluster_genre(df):
     df.insert(loc=len(df.columns), column="genre_cluster", value=new_column)
 
 def complete(dfAlbums, dfArtists):
-    dataframe = dfAlbums[dfAlbums['genre'].isna()]
-    print(dataframe['id_artist'])
-    print(dfArtists[dfArtists["id_artist"] == "56d99384cc2ddd0c0f6bec10"])
-   
-    return dfAlbums
-     #   print(dataframe.columns)
+    nansAlb = dfAlbums['genre'].isnull()
+    new_column = []
+    for i in range(len(dfAlbums)):
+        print(i)
+        if nansAlb[i] :
+            new_column.append(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['genre'][0])
+            continue
+        else :
+            new_column.append(dfAlbums['genre'][i])
+    print(new_column)
 
 
 if __name__ == '__main__' :
