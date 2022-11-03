@@ -47,7 +47,8 @@ def complete(dfAlbums, dfArtists):
         print(i)
         if nansAlb[i] :
             print("A")
-            new_column.append(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['genre'][0])
+
+            new_column.append(np.array(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['genre'])[0])
         else :
             print("B")
             print(dfAlbums['genre'][i])
