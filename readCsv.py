@@ -40,21 +40,34 @@ def cluster_genre(df):
         new_column.append(list(clustered_genre))
     df.insert(loc=len(df.columns), column="genre_cluster", value=new_column)
 
-def complete(dfAlbums, dfArtists):
+
+def completeGenreAlbums(dfAlbums, dfArtists):
     nansAlb = dfAlbums['genre'].isnull()
     new_column = []
     for i in range(len(dfAlbums)):
-        print(i)
         if nansAlb[i] :
-            print("A")
-
             new_column.append(np.array(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['genre'])[0])
         else :
-            print("B")
-            print(dfAlbums['genre'][i])
-            new_column.append(dfAlbums['genre'][i])
-        print()
-    print(new_column)
+            new_column.append(np.nan)
+    dfAlbums.insert(loc=len(dfAlbums.columns), column="genre_infere", value=new_column)
+
+
+def completeGenreSongs(dfSongs, dfAlbums):
+    nansSongs = dfSongs['genre'].isnull()
+    new_column = []
+    for i in range(len(dfSongs)):
+        if nansSongs[i] :
+            if i%100==0 :
+                print(i)
+            b = np.array(pd.isnull(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere']))[0]
+            elt = np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre'])[0]
+            if (b):
+                new_column.append(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
+            else :
+                new_column.append(elt)
+        else :
+            new_column.append(np.nan)
+    dfSongs.insert(loc=len(dfSongs.columns), column="genre_infere", value=new_column)
 
 
 if __name__ == '__main__' :
@@ -70,7 +83,11 @@ if __name__ == '__main__' :
     #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
 
-    complete(dfAlbums, dfArtists)
+    completeGenreAlbums(dfAlbums, dfArtists)
+    completeGenreSongs(dfSongs, dfAlbums)
+    print(dfAlbums.tail(20))
+    print(dfSongs.tail(20))
+
 
 
 
