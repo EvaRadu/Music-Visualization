@@ -5,11 +5,10 @@ import re
 dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv')
 dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv')
 dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv')
-dfSongs.reset_index(drop=True, inplace=True)
+dfAlbums.reset_index(drop=True, inplace=True)
 dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.rename(columns={'genres':'genre'}, inplace=True)
-print(len(dfSongs["genre"]))
 
 def tri_genre(df) : 
     global genre_set
@@ -47,10 +46,13 @@ def complete(dfAlbums, dfArtists):
     for i in range(len(dfAlbums)):
         print(i)
         if nansAlb[i] :
+            print("A")
             new_column.append(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['genre'][0])
-            continue
         else :
+            print("B")
+            print(dfAlbums['genre'][i])
             new_column.append(dfAlbums['genre'][i])
+        print()
     print(new_column)
 
 
