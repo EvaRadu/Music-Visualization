@@ -1,8 +1,12 @@
 library(ECharts2Shiny)
+library("rjson")
 
 if (interactive()) {
   library(shiny)
   library(ECharts2Shiny)
+  fileName <- 'test.txt'
+  myData <- readChar(fileName, file.info(fileName)$size)
+  print(myData)
   
   # Prepare sample data for plotting --------------------------
   dat <- "[{name: 'Artiste 1',
@@ -113,7 +117,7 @@ if (interactive()) {
     observeEvent(input$typeVisu, 
       {print(input$typeVisu); 
         if(input$typeVisu=="genreAlbums"){
-        output$treePlot <- renderTreeMap(div_id = "test", data = dat2, leafDepth=1, name="Visu2")}
+        output$treePlot <- renderTreeMap(div_id = "test", data = myData, leafDepth=1, name="Visu2")}
         else{
           output$treePlot <- renderTreeMap(div_id = "test", data = dat, leafDepth=1, name="Visu1")}
         },  ## handlerExpr
