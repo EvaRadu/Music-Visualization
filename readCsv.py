@@ -112,6 +112,7 @@ if __name__ == '__main__' :
     #completeGenreSongs(dfSongs, dfAlbums)
     #print(dfAlbums.tail(20))
     #print(dfSongs.tail(20))
+    print(dfSongs["genre_cluster"][:20])
 
 
 
