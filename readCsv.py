@@ -108,11 +108,13 @@ if __name__ == '__main__' :
     #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
 
-    #completeGenreAlbums(dfAlbums, dfArtists)
-    #completeGenreSongs(dfSongs, dfAlbums)
-    #print(dfAlbums.tail(20))
-    #print(dfSongs.tail(20))
+    ##completeGenreAlbums(dfAlbums, dfArtists)
+    ##completeGenreSongs(dfSongs, dfAlbums)
+    #print(dfAlbums.head)
+    #print(dfSongs.head)
     print(dfSongs["genre_cluster"][:20])
+    artists_csv_data = dfArtists.to_csv('artists.csv', index = True)
+    albums_csv_data = dfAlbums.to_csv('albums.csv', index = True)
+    songs_csv_data = dfSongs.to_csv('songs.csv', index = True)
 
-
-
+    
