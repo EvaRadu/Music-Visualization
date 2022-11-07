@@ -10,6 +10,31 @@ dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.rename(columns={'genres':'genre'}, inplace=True)
 
+# Removing the datasets 
+dfArtists = dfArtists.drop(columns=['Unnamed: 0', 'urlWikipedia', 'urlOfficialWebsite',
+       'urlFacebook', 'urlMySpace', 'urlTwitter', 'locationInfo', 'urlWikia',
+       'labels', 'urlAmazon', 'urlITunes', 'urlAllmusic',
+       'urlDiscogs', 'urlMusicBrainz', 'urlYouTube', 'urlSpotify',
+       'urlPureVolume', 'urlRateYourMusic', 'urlSoundCloud',
+       'id_artist_musicbrainz', 'disambiguation', 'type', 'lifeSpan.ended',
+       'lifeSpan.begin', 'lifeSpan.end', 'gender', 'id_artist_deezer',
+       'urlDeezer', 'urlBBC', 'urlLastFm', 'urlWikidata',
+       'id_artist_discogs', 'abstract', 'nameVariations', 'urls', 'subject',
+       'associatedMusicalArtist', 'dbp_genre', 'recordLabel', 'dbp_abstract',
+       'name_accent_fold', 'nameVariations_fold', 'urlSecondHandSongs',
+       'urlInstagram', 'animux_path', 'urlGooglePlus',
+       'animux_path_ambiguous'])
+
+dfAlbums = dfAlbums.drop(columns=['Unnamed: 0', 'urlWikipedia', 'length',
+       'urlAlbum', 'urlAmazon', 'urlITunes', 'urlAllmusic', 'urlDiscogs', 'urlMusicBrainz',
+       'urlSpotify', 'id_album_deezer', 'urlDeezer', 'explicitLyrics', 'upc', 'id_album_musicbrainz', 'country',
+       'disambiguation', 'barcode', 'id_album_discogs'])
+
+dfSongs = dfSongs.drop(columns=['Unnamed: 0','title_accent_fold', 'id_song_musicbrainz', 'language_detect',
+       'id_song_deezer', 'id_album_deezer', 'id_artist_deezer', 'rank',
+       'producer', 'recordLabel', 'recorded', 'subject', 'writer'])
+
+
 def tri_genre(df) : 
     global genre_set
     nans = df['genre'].isnull()
@@ -83,11 +108,10 @@ if __name__ == '__main__' :
     #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
 
-    completeGenreAlbums(dfAlbums, dfArtists)
-    completeGenreSongs(dfSongs, dfAlbums)
-    print(dfAlbums.tail(20))
-    print(dfSongs.tail(20))
-
+    #completeGenreAlbums(dfAlbums, dfArtists)
+    #completeGenreSongs(dfSongs, dfAlbums)
+    #print(dfAlbums.tail(20))
+    #print(dfSongs.tail(20))
 
 
 
