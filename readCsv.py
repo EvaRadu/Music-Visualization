@@ -78,17 +78,22 @@ def completeGenreAlbums(dfAlbums, dfArtists):
 
 
 def completeGenreSongs(dfSongs, dfAlbums):
+    print("completeGenreSongs")
     nansSongs = dfSongs['genre'].isnull()
     new_column = []
     for i in range(len(dfSongs)):
         if nansSongs[i] :
             if i%100==0 :
                 print(i)
-            b = np.array(pd.isnull(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere']))[0]
-            elt = np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre'])[0]
-            if (b):
+            b = np.array(pd.isnull(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere']))[0] #genre_inféré
+            elt = np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre'])[0] #genre
+            if (not b):
+                print("coucou")
+                print(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
                 new_column.append(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
-            else :
+            else:
+                print("coucou2")
+                print(elt)
                 new_column.append(elt)
         else :
             new_column.append(np.nan)
@@ -103,18 +108,18 @@ if __name__ == '__main__' :
     "dupstep", "rap", "folk", "bossa nova"]
     genre_set = set()
  
-    cluster_genre(dfSongs)
+    cluster_genre(dfArtists)
     #print(dfSongs["genre"][:20])
     #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
 
-    ##completeGenreAlbums(dfAlbums, dfArtists)
-    ##completeGenreSongs(dfSongs, dfAlbums)
+    completeGenreAlbums(dfAlbums, dfArtists)
+    completeGenreSongs(dfSongs, dfAlbums)
     #print(dfAlbums.head)
     #print(dfSongs.head)
-    print(dfSongs["genre_cluster"][:20])
-    artists_csv_data = dfArtists.to_csv('artists.csv', index = True)
-    albums_csv_data = dfAlbums.to_csv('albums.csv', index = True)
-    songs_csv_data = dfSongs.to_csv('songs.csv', index = True)
+    #print(dfSongs["genre_cluster"][:20])
+    artists_csv_data = dfArtists.to_csv('DATA/artists.csv', index = True)
+    albums_csv_data = dfAlbums.to_csv('DATA/albums.csv', index = True)
+    songs_csv_data = dfSongs.to_csv('DATA/songs.csv', index = True)
 
     
