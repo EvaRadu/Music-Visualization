@@ -64,13 +64,14 @@ if __name__ == '__main__' :
     "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel"
     "dupstep", "rap", "folk", "bossa nova"]
     genre_set = set()
- 
     cluster_genre(dfSongs)
+    print(dfSongs["genre"][190])
+    print(dfSongs["genre_cluster"][190])
     #print(dfSongs["genre"][:20])
     #print(dfSongs["genre_cluster"][:20])
     #print(genre_set)
 
-    complete(dfAlbums, dfArtists)
+    #complete(dfAlbums, dfArtists)
 
 
 
