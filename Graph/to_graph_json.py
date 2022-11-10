@@ -4,9 +4,9 @@ import re
 import json 
 from math import ceil
 
-dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv')
-dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv')
-dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv')
+dfSongs = pd.read_csv('../DATA/wasabi_csv/songs.csv')
+dfArtists = pd.read_csv('../DATA/wasabi_csv/wasabi_all_artists_3000.csv')
+dfAlbums = pd.read_csv('../DATA/wasabi_csv/albums_all_artists_3000.csv')
 dfAlbums.reset_index(drop=True, inplace=True)
 dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
