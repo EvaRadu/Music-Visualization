@@ -19,7 +19,7 @@ var data = [
 
       labels: unpack(rows, 'name'),
 
-      parents:unpack(rows, 'genre')
+      parents:unpack(rows, 'genre_cluster')
 
     }
 
