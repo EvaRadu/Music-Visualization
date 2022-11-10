@@ -42,7 +42,7 @@ def tri_genre(df) :
         if not nans[i]:
             l = df['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
             genre_set |= set(l)
-        #df['genre'][i] = df['genre'][i].replace("list(", "").replace("list(", "").replace(")","").replace("\"", "").split(", ")
+        # df['genre'][i] = df['genre'][i].replace("list(", "").replace("list(", "").replace(")","").replace("\"", "").split(", ")
             #print(df['genre'][i])
     #print(df['genre'][1001])
 
