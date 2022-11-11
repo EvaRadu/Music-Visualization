@@ -101,7 +101,8 @@ if __name__ == '__main__' :
 
     songs_csv_data = newDf.to_csv('../../DATA/songs_parallelCoord.csv',  index=False)
     '''
-    splitCol()
+    #splitCol()
+    #print(len(dfSongs["Genre inféré"].unique()))
 
 
 

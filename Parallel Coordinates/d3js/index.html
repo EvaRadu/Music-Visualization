@@ -46,11 +46,20 @@ svg {
 
 
 
+
+
+
+
 </style>
-<body onload="doFunction()">
+<body onload="readCsvArtist('../../DATA/artists.csv');">
   <h1>Music Parallel Coordinates</h1>
   <select name="artists" id="artists-select"></select>
-  <button type="button" onclick="doFunction();"> Confirm </button>
+  <div>
+    <input type="checkbox" id="unknownType">
+    <label for="unknownType">Afficher les données avec un genre inconnu</label>
+  </div>
+
+  <div><button type="button" onclick="doFunction();"> Confirm </button></div>
 <!-- <button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button> -->
 <div id="my_dataviz"></div> 
 
@@ -59,12 +68,12 @@ svg {
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-function loadVisualization(data, titles){  
-var m = [30, 10, 10, 10],
-    w = 650 - m[1] - m[3],
-    h = 550 - m[0] - m[2];
+function loadVisualization(data, titles, rangeColors){  
+  var margin = {top: 30, right: 0, bottom: 10, left: 0},
+  width = 780 - margin.left - margin.right,
+  height = 700 - margin.top - margin.bottom;
 
-var x = d3.scale.ordinal().rangePoints([0, w], 1),
+var x = d3.scale.ordinal().rangePoints([0, width], 1),
     y = {},
     dragging = {};
 
@@ -76,15 +85,22 @@ var line = d3.svg.line(),
 var clear = d3.select("svg").remove();
 
 
-var svg = d3.select("#my_dataviz").append("svg:svg")
-    .attr("width", w + m[1] + m[3])
-    .attr("height", h + m[0] + m[2])
-  .append("svg:g")
-    .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+var svg = d3.select("#my_dataviz")
+.append("svg")
+  .attr("width", width + margin.left + margin.right)
+  .attr("height", height + margin.top + margin.bottom)
+.append("g")
+  .attr("transform",
+        "translate(" + margin.left + "," + margin.top + ")");
+
+  
+
+  //console.log(titles);
+
   
   var color = d3.scale.ordinal()
     .domain(titles)
-    //.range([ "#440154ff", "#21908dff", "#fde725ff","#fde725ff"])
+    .range(rangeColors)
     
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
@@ -95,14 +111,14 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
       if(d==="Titre" || d === "Genre" || d==="Genre inféré" || d==="Nom Album" || d==="Langue") {
           y[d] = d3.scale.ordinal()
             .domain(data.map(function(p) { return p[d]; }))
-            .rangePoints([h, 0]);
+            .rangePoints([height, 0]);
  
       }
      
       else {
           y[d] = d3.scale.linear()
             .domain(d3.extent(data, function(p) { return +p[d]; }))
-            .range([h, 0]);
+            .range([height, 0]);
       }
 
       return true;
@@ -139,7 +155,7 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
           background.attr("visibility", "hidden");
         })
         .on("drag", function(d) {
-          dragging[d] = Math.min(w, Math.max(0, this.__origin__ += d3.event.dx));
+          dragging[d] = Math.min(width, Math.max(0, this.__origin__ += d3.event.dx));
           foreground.attr("d", path);
           dimensions.sort(function(a, b) { return position(a) - position(b); });
           x.domain(dimensions);
@@ -188,6 +204,8 @@ function transition(g) {
   return g.transition().duration(500);
 }
 
+
+
 // Returns the path for a given data point.
 function path(d) {
   return line(dimensions.map(function(p) {
@@ -204,19 +222,45 @@ function brush() {
     }) ? null : "none";
   });
 }
+
+svg
+    .selectAll("myPath")
+    .data(data)
+    .enter()
+    .append("path")
+      .attr("class", function (d) { return "line " + d.Titre } ) // 2 class for each line: 'line' and the group name
+      .attr("d",  path)
+      .style("fill", "none" )
+      .style("stroke", function(d){ return( color(d.Titre))} )
+      .style("opacity", 0.5)
+     
+
+      svg.selectAll("myAxis")
+    // For each dimension of the dataset I add a 'g' element:
+    .data(dimensions).enter()
+    .append("g")
+    .attr("class", "axis")
+    // I translate this element to its right position on the x axis
+    .attr("transform", function(d) { return "translate(" + x(d) + ")"; })
+    // Add axis title
+    .append("text")
+      .style("text-anchor", "middle")
+      .attr("y", -9)
+      .text(function(d) { return d; })
+      .style("fill", "black")   
+      
+      
 }
+
+
+
+
+
+
 
 function doFunction(){
 
-  /*var cars = [
-        {"name": "AMC Ambassador Brougham","weight (lb)":3821, "0-60 mph (s)": 11, "year": "premiere", "colour": "pink"},
-        {"name": "AMC Ambassador DPL", "weight (lb)":3850, "0-60 mph (s)": 8.5, "year": "deuxieme", "colour": "orange"},
-        {"name": "AMC Ambassador SST", "weight (lb)":3672, "0-60 mph (s)": 11.5, "year": "troisieme", "colour": "purple"},
-        {"name": "AMC Concord DL 6", "weight (lb)":3265, "0-60 mph (s)": 18.2, "year": "quatrieme", "colour": "magenta"},
-        {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "lilas"}
-        ];
-    loadVisualization(cars);*/
-    readCsvArtist();
+    readCsvArtist("../../DATA/artists.csv");
     readCsvSong();
 
 }
@@ -224,13 +268,6 @@ function doFunction(){
 
 function doFunction2(){
    
-  /*var cars = [
-        {"name": "AMC Ambassador Brougham","weight (lb)":3821, "0-60 mph (s)": 11, "year": "premiere", "colour": "RED"},
-        {"name": "AMC Ambassador DPL", "weight (lb)":3850, "0-60 mph (s)": 8.5, "year": "deuxieme", "colour": "GREEN"},
-        {"name": "AMC Ambassador SST", "weight (lb)":3672, "0-60 mph (s)": 11.5, "year": "troisieme", "colour": "BLUE"},
-        {"name": "AMC Concord DL 6", "weight (lb)":3265, "0-60 mph (s)": 18.2, "year": "quatrieme", "colour": "YELLOW"},
-        {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "BLUE"}
-        ];*/
     loadVisualization(cars,['title1','title2','title3','title4']);
     readCsvArtist("../../test.csv");
 
@@ -252,18 +289,17 @@ function filter() {
   }
 }
 
-function readCsvArtist(file){
-    d3.csv(file, function(data) {
-        //loadVisualization(data,['title1','title2','title3','title4']);
-        getListOfArtists("../../DATA/artists.csv")
-    });
+function readCsvArtist(filename){
+  getListOfArtists(filename);
 }
 
 function getListOfArtists(file){
   d3.csv(file, function(data){
     var listArtist = [];
     for(i=0; i<data.length; i++){
+      if(!(data[i]["name"].includes("http:"))){
       listArtist.push(data[i]["name"]);
+      }
     }
     
     var sel1 = document.getElementById('artists-select');
@@ -279,7 +315,6 @@ function getListOfArtists(file){
 
 function readCsvSong(){
   var artist = document.getElementById("artists-select").value;
-  console.log(artist);
   artist = artist.replace("/","")
   artist = artist.replace('"',"")
   artist = artist.replace("*","")
@@ -291,26 +326,45 @@ function readCsvSong(){
   artist = artist.replace("?","")
   artist = artist.replace('|',"")
   var path = "../../DATA/ParCoordCsv/"+artist+".csv" 
-  
+ 
     d3.csv(path, function(data) {
-      /*
+
       var songs = [];
+      var titles = [];
       for(i=0; i<data.length; i++){
-        if(data[i]["artist_name"] == artist){
+        if(!document.getElementById("unknownType").checked){
+          
+          if(data[i]["Genre"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            songs.push(data[i]);
+          
+        }
+        }
+        else{
+          titles.push(data[i]["Titre"]);
           songs.push(data[i]);
         }
       }
-      var titles = [];
-      for(i=0; i<songs.length; i++){
-        titles.push(songs[i]["title"]);
-      }*/
+      var colors = [];
+      for(j=0; j<songs.length; j++){
+        colors.push('#'+(Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0'));
+      } 
+      loadVisualization(songs,titles,colors);
+      
+    });
+}
+
+function init(){
+  var path = "../../DATA/ParCoordCsv/Tricky.csv" 
+  
+    d3.csv(path, function(data) {
+         
 
       var titles = [];
       for(i=0; i<data.length; i++){
         titles.push(data[i]["Titre"]);
       }
       loadVisualization(data,titles);
-      console.log(titles);
       
     });
 }
