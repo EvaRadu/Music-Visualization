@@ -4,9 +4,12 @@ import re
 import json 
 from math import ceil
 
-dfSongs = pd.read_csv('../DATA/wasabi_csv/songs.csv')
-dfArtists = pd.read_csv('../DATA/wasabi_csv/wasabi_all_artists_3000.csv')
-dfAlbums = pd.read_csv('../DATA/wasabi_csv/albums_all_artists_3000.csv')
+#dfSongs = pd.read_csv('../DATA/wasabi_csv/songs.csv')
+#dfArtists = pd.read_csv('../DATA/wasabi_csv/wasabi_all_artists_3000.csv')
+#dfAlbums = pd.read_csv('../DATA/wasabi_csv/albums_all_artists_3000.csv')
+dfSongs = pd.read_csv('../DATA/songs.csv')
+dfArtists = pd.read_csv('../DATA/artists.csv')
+dfAlbums = pd.read_csv('../DATA/albums.csv')
 dfAlbums.reset_index(drop=True, inplace=True)
 dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
@@ -18,7 +21,7 @@ artists_name = np.array([a for a in artists_name if type(a)==type(" ") and len(a
 np.savetxt("artists_name.txt", artists_name, delimiter=",", fmt='"%s",')
 
 alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
-genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul"
+genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul",
 	"classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "rap", "folk", "bossa nova"]
 
 
@@ -70,10 +73,15 @@ for i in range(len(dfAlbums)):
 		if dfAlbums["title"][i]=="Other Songs":
 			album = artist+"-"+album
 
+		if nans_genre[i]:
+			alb_genres = dfAlbums["genre_infere"][i]
+		else:
+			alb_genres = dfAlbums["genre"][i]
+
 		albums_infos[album] = {
 			"Title": album,
 			"Year": dfAlbums["publicationDate"][i],
-			 "Genre(s)":dfAlbums["genre"][i],
+			 "Genre(s)":alb_genres,
 			 "Songs":[]
 		}
 
@@ -99,7 +107,7 @@ for i in range(len(dfSongs)):
 		if nans_genre[i]:
 			albums_infos[album]["Songs"].append({
 				"Title":dfSongs["title"][i],
-				"Genres": "undocumented",
+				"Genres": dfSongs["genre_infere"][i],
 				"Publication": dfSongs["publicationDate"][i]
 			})
 		else:
