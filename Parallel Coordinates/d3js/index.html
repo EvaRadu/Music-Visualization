@@ -51,7 +51,7 @@ svg {
   <h1>Music Parallel Coordinates</h1>
   <select name="artists" id="artists-select"></select>
   <button type="button" onclick="doFunction();"> Test </button>
-<button type="button" onclick="readCsv('../../test.csv');"> Test2 </button>
+<button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button>
 <div id="my_dataviz"></div> 
 
 
@@ -215,7 +215,8 @@ function doFunction(){
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "lilas"}
         ];
     loadVisualization(cars);*/
-    readCsv("../../test.csv");
+    readCsvArtist("../../test.csv");
+    readCsvSong("Tricky");
 
 }
 
@@ -230,7 +231,7 @@ function doFunction2(){
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "BLUE"}
         ];*/
     loadVisualization(cars);
-    readCsv("../../test.csv");
+    readCsvArtist("../../test.csv");
 
 }
 
@@ -250,7 +251,7 @@ function filter() {
   }
 }
 
-function readCsv(file){
+function readCsvArtist(file){
     d3.csv(file, function(data) {
         loadVisualization(data);
         getListOfArtists("../../DATA/artists.csv")
@@ -275,8 +276,20 @@ function getListOfArtists(file){
   })
 }
 
-
-
+function readCsvSong(artist){
+  console.log("here");
+    d3.csv("../../DATA/songs_parallelCoord.csv", function(data) {
+      var songs = [];
+      for(i=0; i<data.length; i++){
+        if(data[i]["artist_name"] == artist){
+          songs.push(data[i]);
+        }
+      }
+        console.log(songs.length);
+        //loadVisualization(data);
+        //getListOfSongs("../../DATA/songs.csv")
+    });
+}
 
 
 </script>
