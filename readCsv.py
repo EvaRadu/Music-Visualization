@@ -88,12 +88,12 @@ def completeGenreSongs(dfSongs, dfAlbums):
             b = np.array(pd.isnull(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere']))[0] #genre_inféré
             elt = np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre'])[0] #genre
             if (not b):
-                print("coucou")
-                print(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
+                #print("coucou")
+                #print(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
                 new_column.append(np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre_infere'])[0])
             else:
-                print("coucou2")
-                print(elt)
+                #print("coucou2")
+                #print(elt)
                 new_column.append(elt)
         else :
             new_column.append(np.nan)
@@ -103,7 +103,7 @@ def completeGenreSongs(dfSongs, dfAlbums):
 if __name__ == '__main__' :
 
     alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
-    genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul"
+    genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul",
     "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel"
     "dupstep", "rap", "folk", "bossa nova"]
     genre_set = set()
