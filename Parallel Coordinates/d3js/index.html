@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
+<title>Music Parallel Coordinates</title>
 </head>
 
 
@@ -8,7 +9,11 @@
 
 svg {
   font: 10px sans-serif;
+  display: block;
+  margin:auto;
+  font-family: Helvetica
 }
+
 
 .background path {
   fill: none;
@@ -39,26 +44,25 @@ svg {
   cursor: move;
 }
 
-.axis {
-  opacity: 0.4;
-}
-.axis:hover {
-  opacity: 1;
-}
+
 
 </style>
 <body onload="doFunction()">
-  <div id="my_dataviz"><p id="test">Lala</p</div>
+  <h1>Music Parallel Coordinates</h1>
+  <select name="artists" id="artists-select"></select>
   <button type="button" onclick="doFunction();"> Test </button>
-<button type="button" onclick="doFunction2();"> Test2 </button>
+<button type="button" onclick="readCsv('../../test.csv');"> Test2 </button>
+<div id="my_dataviz"></div> 
+
+
 
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
 function loadVisualization(data){  
 var m = [30, 10, 10, 10],
-    w = 400 - m[1] - m[3],
-    h = 300 - m[0] - m[2];
+    w = 650 - m[1] - m[3],
+    h = 550 - m[0] - m[2];
 
 var x = d3.scale.ordinal().rangePoints([0, w], 1),
     y = {},
@@ -79,15 +83,15 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
   
   var color = d3.scale.ordinal()
-    .domain(["AMC Ambassador Brougham", "AMC Ambassador DPL", "AMC Ambassador SST","AMC Concord DL 6","AMC Concord DL"])
-    .range([ "#440154ff", "#21908dff", "#fde725ff","#fde725ff","#fde725ff"])
+    .domain(["title1", "title2", 'title3', 'title4'])
+    .range([ "#440154ff", "#21908dff", "#fde725ff","#fde725ff"])
     
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
       
-      if(d === "name") return false;
+      if(d === "title") return false;
       
-      if(d === "colour" || d === "year") {
+      if(d === "language" || d === "genre" || d === "genre_infere" || d === "artist_name" || d === "album_name" || d === "id_artist") {
           y[d] = d3.scale.ordinal()
             .domain(data.map(function(p) { return p[d]; }))
             .rangePoints([h, 0]);
@@ -203,26 +207,76 @@ function brush() {
 
 function doFunction(){
 
-  var cars = [
+  /*var cars = [
         {"name": "AMC Ambassador Brougham","weight (lb)":3821, "0-60 mph (s)": 11, "year": "premiere", "colour": "pink"},
         {"name": "AMC Ambassador DPL", "weight (lb)":3850, "0-60 mph (s)": 8.5, "year": "deuxieme", "colour": "orange"},
         {"name": "AMC Ambassador SST", "weight (lb)":3672, "0-60 mph (s)": 11.5, "year": "troisieme", "colour": "purple"},
         {"name": "AMC Concord DL 6", "weight (lb)":3265, "0-60 mph (s)": 18.2, "year": "quatrieme", "colour": "magenta"},
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "lilas"}
         ];
-    loadVisualization(cars);
+    loadVisualization(cars);*/
+    readCsv("../../test.csv");
+
 }
+
 
 function doFunction2(){
    
-  var cars = [
+  /*var cars = [
         {"name": "AMC Ambassador Brougham","weight (lb)":3821, "0-60 mph (s)": 11, "year": "premiere", "colour": "RED"},
         {"name": "AMC Ambassador DPL", "weight (lb)":3850, "0-60 mph (s)": 8.5, "year": "deuxieme", "colour": "GREEN"},
         {"name": "AMC Ambassador SST", "weight (lb)":3672, "0-60 mph (s)": 11.5, "year": "troisieme", "colour": "BLUE"},
         {"name": "AMC Concord DL 6", "weight (lb)":3265, "0-60 mph (s)": 18.2, "year": "quatrieme", "colour": "YELLOW"},
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "BLUE"}
-        ];
+        ];*/
     loadVisualization(cars);
+    readCsv("../../test.csv");
+
 }
+
+function filter() {
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  div = document.getElementById("myDropdown");
+  a = div.getElementsByTagName("a");
+  for (i = 0; i < a.length; i++) {
+    txtValue = a[i].textContent || a[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      a[i].style.display = "";
+    } else {
+      a[i].style.display = "none";
+    }
+  }
+}
+
+function readCsv(file){
+    d3.csv(file, function(data) {
+        loadVisualization(data);
+        getListOfArtists("../../DATA/artists.csv")
+    });
+}
+
+function getListOfArtists(file){
+  d3.csv(file, function(data){
+    var listArtist = [];
+    for(i=0; i<data.length; i++){
+      listArtist.push(data[i]["name"]);
+    }
+    
+    var sel1 = document.getElementById('artists-select');
+    for (var i = 1; i <= listArtist.length; i++) {
+    var opt = document.createElement('option');
+    opt.text = listArtist[i];
+    opt.value = listArtist[i];
+    sel1.appendChild(opt);
+  }
+
+  })
+}
+
+
+
+
 
 </script>
