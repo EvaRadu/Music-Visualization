@@ -59,7 +59,7 @@ svg {
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-function loadVisualization(data){  
+function loadVisualization(data, titles){  
 var m = [30, 10, 10, 10],
     w = 650 - m[1] - m[3],
     h = 550 - m[0] - m[2];
@@ -83,8 +83,8 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
   
   var color = d3.scale.ordinal()
-    .domain(["title1", "title2", 'title3', 'title4'])
-    .range([ "#440154ff", "#21908dff", "#fde725ff","#fde725ff"])
+    .domain(titles)
+    //.range([ "#440154ff", "#21908dff", "#fde725ff","#fde725ff"])
     
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
@@ -230,7 +230,7 @@ function doFunction2(){
         {"name": "AMC Concord DL 6", "weight (lb)":3265, "0-60 mph (s)": 18.2, "year": "quatrieme", "colour": "YELLOW"},
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "BLUE"}
         ];*/
-    loadVisualization(cars);
+    loadVisualization(cars,['title1','title2','title3','title4']);
     readCsvArtist("../../test.csv");
 
 }
@@ -253,7 +253,7 @@ function filter() {
 
 function readCsvArtist(file){
     d3.csv(file, function(data) {
-        loadVisualization(data);
+        loadVisualization(data,['title1','title2','title3','title4']);
         getListOfArtists("../../DATA/artists.csv")
     });
 }
@@ -285,9 +285,12 @@ function readCsvSong(artist){
           songs.push(data[i]);
         }
       }
-        console.log(songs.length);
-        //loadVisualization(data);
-        //getListOfSongs("../../DATA/songs.csv")
+      var titles = [];
+      for(i=0; i<songs.length; i++){
+        titles.push(songs[i]["title"]);
+      }
+      console.log(titles);
+      
     });
 }
 

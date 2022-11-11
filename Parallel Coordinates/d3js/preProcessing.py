@@ -4,7 +4,7 @@ import re
 
 dfSongs = pd.read_csv('../../DATA/songs_parallelCoord.csv')
 dfSongs.reset_index(drop=True, inplace=True)
-dfSongs.set_index('_id', inplace=True)
+#dfSongs.set_index('_id', inplace=True)
 
 dfAlbums = pd.read_csv('../../DATA/albums.csv')
 dfAlbums.reset_index(drop=True, inplace=True)
@@ -61,12 +61,17 @@ if __name__ == '__main__' :
     
     #tranformListGenre()
 
-    addArtistAndAlbumName()
-    cleanDataFrame()
+    #addArtistAndAlbumName()
+    #cleanDataFrame()
     
-    #cfSongs = dfSongs.drop(columns=['publicationDate','releaseDate',"id_album"])
+    #dfSongs.reset_index(drop = True).head()
+    print(dfSongs.columns)
+    dfSongs = dfSongs.drop(columns=['Unnamed: 0'])
+    dfSongs.reset_index(drop=True, inplace=True)
+    print(dfSongs)
 
-    songs_csv_data = dfSongs.to_csv('../../DATA/songs_parallelCoord.csv', index = "False")
+
+    songs_csv_data = dfSongs.to_csv('../../DATA/songs_parallelCoord.csv',  index=False)
 
 
 
