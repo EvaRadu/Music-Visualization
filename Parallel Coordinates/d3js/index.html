@@ -89,9 +89,9 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
       
-      if(d === "title") return false;
+  
       
-      if(d === "language" || d === "genre" || d === "genre_infere" || d === "artist_name" || d === "album_name" || d === "id_artist") {
+      if(d==="title" || d === "language" || d === "genre" || d === "genre_infere" || d === "artist_name" || d === "album_name" || d === "id_artist") {
           y[d] = d3.scale.ordinal()
             .domain(data.map(function(p) { return p[d]; }))
             .rangePoints([h, 0]);
@@ -216,7 +216,7 @@ function doFunction(){
         ];
     loadVisualization(cars);*/
     readCsvArtist("../../test.csv");
-    readCsvSong("Tricky");
+    readCsvSong("Tommy Dorsey");
 
 }
 
@@ -289,6 +289,7 @@ function readCsvSong(artist){
       for(i=0; i<songs.length; i++){
         titles.push(songs[i]["title"]);
       }
+      loadVisualization(songs,titles);
       console.log(titles);
       
     });
