@@ -1,17 +1,20 @@
-﻿id,name,genre,id_artist,title,publicationDate,language
-5714debf25ac0d8aee37cb42,Tommy Dorsey,Rock,56d98a0ccc2ddd0c0f6bdd9b,Other Songs,1991,NULL
-5714debf25ac0d8aee37d282,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Maxinquaye,1995,eng
-5714debf25ac0d8aee37d291,Trick Pony,Country,56d98bdfcc2ddd0c0f6be068,Trick Pony,2001,eng
-5714debf25ac0d8aee37d296,Tricot Machine,Indie Pop,56d98be0cc2ddd0c0f6be06a,Tricot Machine,2007,fra
-5714debf25ac0d8aee37d2a5,Trik Turner,Alternative Rock,56d98be4cc2ddd0c0f6be074,Trik Turner,2002,eng
-5714debf25ac0d8aee37cb64,Tommy Hunt,Soul,56d98a14cc2ddd0c0f6bddaa,I Just Don't Know What To Do With Myself,1962,eng
-5714debf25ac0d8aee37cb70,Tommy James And The Shondells,Bubblegum Pop,56d98a19cc2ddd0c0f6bddad,It's Only Love,1966,NULL
-5714debf25ac0d8ace37cb70,Tommy James And The Shondells,Rock,56d98a19cc2ddd0c0f6bddad,Only Love,1996,NULL
-5714debf25ac0d8ace37d291,Trick Pony,Rock,56d98bdfcc2ddd0c0f6be068,Pony,2001,eng
-5714debf25ac0d8xee37d282,Tricky,Country,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xee334d282,Album A,Rock,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xee7d282,Album B,Rock,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xee7sc282,Album C,Rock,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xec7d282,Album D,Rock,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xeexssc282,Album E,Country,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
-5714debf25ac0d8xeexssc2cd2,Album F,Country,56d98bdecc2ddd0c0f6be067,Maxinque,1996,eng
+﻿,Unnamed: 0,_id,id_album,title,publicationDate,language,genre,releaseDate,genre_infere
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,,Trip Hop
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Blues
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Soul
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Southern Rock
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Chicago Blues
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Rock 'N' Roll
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Soul Blues
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Country
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Christian Rock
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Contemporary Christian
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Gospel
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Religious
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Worship
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Country
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Singer-Songwriter
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Funk
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Soul
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, R&B
+0,0,5714deea25ac0d8aee55cfae,5714debf25ac0d8aee37cb42,Alice Blue Gown,,,,, Psychedelic Rock
