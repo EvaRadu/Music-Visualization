@@ -50,8 +50,8 @@ svg {
 <body onload="doFunction()">
   <h1>Music Parallel Coordinates</h1>
   <select name="artists" id="artists-select"></select>
-  <button type="button" onclick="doFunction();"> Test </button>
-<button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button>
+  <button type="button" onclick="doFunction();"> Confirm </button>
+<!-- <button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button> -->
 <div id="my_dataviz"></div> 
 
 
@@ -90,8 +90,9 @@ var svg = d3.select("#my_dataviz").append("svg:svg")
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
       
   
-      
-      if(d==="title" || d === "language" || d === "genre" || d === "genre_infere" || d === "artist_name" || d === "album_name" || d === "id_artist") {
+      if(d==="Nom artist"){ return;}
+
+      if(d==="Titre" || d === "Genre" || d==="Genre inféré" || d==="Nom Album" || d==="Langue") {
           y[d] = d3.scale.ordinal()
             .domain(data.map(function(p) { return p[d]; }))
             .rangePoints([h, 0]);
@@ -215,8 +216,8 @@ function doFunction(){
         {"name": "AMC Concord DL", "weight (lb)":3410, "0-60 mph (s)": 15.1, "year": "cinquieme", "colour": "lilas"}
         ];
     loadVisualization(cars);*/
-    readCsvArtist("../../test.csv");
-    readCsvSong("Tommy Dorsey");
+    readCsvArtist();
+    readCsvSong();
 
 }
 
@@ -253,7 +254,7 @@ function filter() {
 
 function readCsvArtist(file){
     d3.csv(file, function(data) {
-        loadVisualization(data,['title1','title2','title3','title4']);
+        //loadVisualization(data,['title1','title2','title3','title4']);
         getListOfArtists("../../DATA/artists.csv")
     });
 }
@@ -276,9 +277,23 @@ function getListOfArtists(file){
   })
 }
 
-function readCsvSong(artist){
-  console.log("here");
-    d3.csv("../../DATA/songs_parallelCoord.csv", function(data) {
+function readCsvSong(){
+  var artist = document.getElementById("artists-select").value;
+  console.log(artist);
+  artist = artist.replace("/","")
+  artist = artist.replace('"',"")
+  artist = artist.replace("*","")
+  artist = artist.replace(">","")
+  artist = artist.replace("'","")
+  artist = artist.replace("<","")
+  artist = artist.replace('\\',"")
+  artist = artist.replace(':',"")
+  artist = artist.replace("?","")
+  artist = artist.replace('|',"")
+  var path = "../../DATA/ParCoordCsv/"+artist+".csv" 
+  
+    d3.csv(path, function(data) {
+      /*
       var songs = [];
       for(i=0; i<data.length; i++){
         if(data[i]["artist_name"] == artist){
@@ -288,8 +303,13 @@ function readCsvSong(artist){
       var titles = [];
       for(i=0; i<songs.length; i++){
         titles.push(songs[i]["title"]);
+      }*/
+
+      var titles = [];
+      for(i=0; i<data.length; i++){
+        titles.push(data[i]["Titre"]);
       }
-      loadVisualization(songs,titles);
+      loadVisualization(data,titles);
       console.log(titles);
       
     });

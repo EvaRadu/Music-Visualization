@@ -17,7 +17,7 @@ dfArtists.reset_index(drop=True, inplace=True)
 def tranformListGenre() : 
     global dfSongs
     nans = dfSongs['genre'].isnull()
-    for i in range(1000):
+    for i in range(len(dfSongs)):
         print("nb : ", i)
         if not nans[i]:
             dfSongs['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
@@ -42,7 +42,7 @@ def addArtistAndAlbumName() :
     global dfArtists
     dfSongs['artist_name'] = ""
     dfSongs['album_name'] = ""
-    for i in range(8000):
+    for i in range(len(dfSongs)):
         print(i)
         id_album = dfSongs['id_album'][i]
         id_artist = dfAlbums.loc[dfAlbums['_id'] == id_album]["id_artist"].values[0]
@@ -55,6 +55,21 @@ def cleanDataFrame():
     global dfSongs
     dfSongs = dfSongs.replace(np.nan, 'Unknown', regex=True)
 
+def splitCol():
+    #print(dfSongs.columns)
+    #print(dfSongs["Nom artist"].unique())
+    #print(dfSongs[dfSongs["Nom artist"] == "Tricky"])
+    
+    for i in dfSongs["Nom artist"].unique():
+        newDf = dfSongs[dfSongs["Nom artist"] == i]
+
+               
+        newDf.to_csv('../../DATA/ParCoordCsv/'+i.replace("/","").replace('"',"").replace("*","").replace(">","").replace("'","").replace("<","").replace('\\',"").replace(':',"").replace("?","").replace('|',"") +'.csv',  index=False)
+
+
+
+
+
             
 
 if __name__ == '__main__' :
@@ -65,13 +80,28 @@ if __name__ == '__main__' :
     #cleanDataFrame()
     
     #dfSongs.reset_index(drop = True).head()
+    
+    '''
     print(dfSongs.columns)
-    dfSongs = dfSongs.drop(columns=['Unnamed: 0'])
+    dfSongs = dfSongs.drop(columns=['Unnamed: 0', 'id_album', 'publicationDate', 'releaseDate'])
     dfSongs.reset_index(drop=True, inplace=True)
     print(dfSongs)
+    '''
+    
+    #songs_csv_data = dfSongs.to_csv('../../DATA/songs_parallelCoord.csv',  index=False)
 
+    '''
+    newDf =  pd.DataFrame()
+    newDf['Nom artist'] = dfSongs['artist_name']
+    newDf['Titre'] = dfSongs['title']
+    newDf['Genre'] = dfSongs['genre']
+    newDf['Genre inféré'] = dfSongs['genre_infere']
+    newDf['Nom Album'] = dfSongs['album_name']
+    newDf['Langue'] = dfSongs['language']
 
-    songs_csv_data = dfSongs.to_csv('../../DATA/songs_parallelCoord.csv',  index=False)
+    songs_csv_data = newDf.to_csv('../../DATA/songs_parallelCoord.csv',  index=False)
+    '''
+    splitCol()
 
 
 
