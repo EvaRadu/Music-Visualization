@@ -1,12 +1,36 @@
-d3.csv('test.csv', function(err, rows){
+
+
+d3.json('sunburst_hierarchy.json', 
+function(error, root) {
+
+  
+  console.log(d3.hierarchy(root))
+
+var g = svg.selectAll("g")
+        .data(partition.nodes(root))
+        .enter().append("g");
+
+    var color = d3.scale.ordinal();
+
+    var path = g.append("path")
+        .attr("d", arc)
+        //.style("fill", function(d) { return colors((d.children ? d :     d.parent).name); })
+        .style("fill", function(d) { return color(d.color); })
+        .on("click", click);
+});
+
+
+
+
+/*
+
+function(err, rows){
 
   function unpack(rows, key) {
 
   return rows.map(function(row) { return row[key]; });
 
 }
-
-
 var data = [
 
     {
@@ -47,3 +71,4 @@ var layout = {
 Plotly.newPlot('myDiv', data, layout, {showSendToCloud: true});
 
 })
+*/
