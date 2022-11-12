@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Music Parallel Coordinates</title>
+<link rel="stylesheet" href="styleParallelCoord.css">
+</head>
+
+
+<body onload="readCsvArtist('../../DATA/artists.csv');">
+  <h1>Music Parallel Coordinates</h1>
+  <select name="artists" id="artists-select"></select>
+  <div>
+    <input type="checkbox" id="displayGenre" checked="true">
+    <label for="displayGenre">Afficher la colonne des genres</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayGenreInferes" checked="true">
+    <label for="displayGenreInferes">Afficher la colonne des genres inférés</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayAlbum" checked="true">
+    <label for="displayAlbums">Afficher la colonne des albums</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayLangues" checked="true">
+    <label for="displayLangues">Afficher la colonne des langues</label>
+  </div>
+  <div>
+    <input type="checkbox" id="unknownType" checked="true">
+    <label for="unknownType">Afficher les données avec un genre inconnu</label>
+  </div>
+  <div>
+    <input type="checkbox" id="unknownInferedType" checked="true">
+    <label for="unknownInferedType">Afficher les données avec un genre inféré inconnu</label>
+  </div>
+  <div>
+    <input type="checkbox" id="unknownLangue" checked="true">
+    <label for="unknownLangue">Afficher les données avec une langue inconnue</label>
+  </div>
+  <div><button type="button" onclick="displayVisualisation();"> Confirm </button></div>
+</div>
+<div class="middleRow">
+<div class="visu" id="my_dataviz"></div>
+<div class="tooltip" id="tooltip"></div>
+</div>
+<div class="row">
+<div>
+  <ul id="listSongs" class="block" ></ul>
+</div>
+<div>
+  <ul id="listGenres" class="block" ></ul>
+</div>
+<div>
+  <ul id="listGenresInferes" class="block" ></ul>
+</div>
+</div>
+<div class="row">
+  <div>
+    <ul id="listAlbums" class="block" ></ul>
+  </div>
+  <div>
+    <ul id="listLangues" class="block" ></ul>
+  </div>
+</div>
+</div>
+
+
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="parallelCoord.js"></script>
