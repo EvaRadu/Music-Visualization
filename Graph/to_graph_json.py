@@ -25,8 +25,8 @@ genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "
 	"classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "rap", "folk", "bossa nova"]
 
 
-sub_genres = {} # Pour chaque genre majeur, un ensemble de sous-genre
-artist_subgenres = {} # Pour genre, un ensemble d'artistes
+sub_genres = {}  # Pour chaque genre majeur, un ensemble de sous-genre
+artist_subgenres = {}  # Pour genre, un ensemble d'artistes
 for genre in genre_clusters:
 	sub_genres[genre] = set({})
 
@@ -35,7 +35,8 @@ for genre in genre_clusters:
 nans = dfArtists['genre'].isnull()
 for i in range(len(dfArtists)):
 	if not nans[i]:
-		artist_genres = dfArtists['genre'][i].replace("list(", "").replace(")", '').replace('"', '').replace("Dub(", "").split(', ')
+		artist_genres = dfArtists['genre'][i].replace("list(", "").replace(
+			")", '').replace('"', '').replace("Dub(", "").split(', ')
 		artist_name = dfArtists["name"][i]
 
 		# On relie chaque genre majeur à un ensemble de sous-genres
@@ -43,7 +44,7 @@ for i in range(len(dfArtists)):
 			for a in alias.keys():
 				if a.lower() in genre.lower():
 					sub_genres[alias[a]].update((a,))
-					if artist_subgenres.get(a) is None: 
+					if artist_subgenres.get(a) is None:
 						artist_subgenres[a] = set()
 						artist_subgenres[a].add(artist_name)
 					else:
@@ -52,7 +53,7 @@ for i in range(len(dfArtists)):
 			for cluster in genre_clusters:
 				if cluster.lower() in genre.lower():
 					sub_genres[cluster].update((genre,))
-					if artist_subgenres.get(genre) is None: 
+					if artist_subgenres.get(genre) is None:
 						artist_subgenres[genre] = set()
 						artist_subgenres[genre].add(artist_name)
 					else:
