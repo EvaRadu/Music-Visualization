@@ -13,7 +13,7 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
       background,
       foreground;
   
-  var clear = d3.select("svg").remove();
+  var clear = d3.select("svg").remove();  
   
   
   var svg = d3.select("#my_dataviz")
@@ -26,7 +26,6 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
   
     
   
-    //console.log(titles);
   
     
     var color = d3.scale.ordinal()
@@ -56,6 +55,8 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
               .domain(d3.extent(data, function(p) { return +p[d]; }))
               .range([height, 0]);
         }
+
+        
   
         return true;
     }));
@@ -174,12 +175,13 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
         .on("mouseover",  function (d) { 
           var toolTip = document.getElementById("tooltip");
           tooltip.innerHTML = "";
+          tooltip.style.visibility = "visible";
           tooltip.innerHTML = "<h3>Details de la chanson : </h3>";
-          toolTip.innerHTML += "<div>Titre : " + d.Titre +"</div>";
-          toolTip.innerHTML += "<div>Genre : " + d.Genre + "</div>";
-          toolTip.innerHTML += "<div>Genre inféré : " + d['Genre inféré'] + "</div>";
-          toolTip.innerHTML += "<div>Nom Album : " + d['Nom Album'] + "</div>";
-          toolTip.innerHTML += "<div>Langue : " + d.Langue + "</div>";;
+          toolTip.innerHTML += "<div><b>Titre : </b>" + d.Titre +"</div>";
+          toolTip.innerHTML += "<div><b>Genre : </b>" + d.Genre + "</div>";
+          toolTip.innerHTML += "<div><b>Genre inféré : </b>" + d['Genre inféré'] + "</div>";
+          toolTip.innerHTML += "<div><b>Nom Album : </b>" + d['Nom Album'] + "</div>";
+          toolTip.innerHTML += "<div><b>Langue : </b>" + d.Langue + "</div>";;
          })
   
   
@@ -274,6 +276,7 @@ function getListOfArtists(file){
         var isUnknownType = document.getElementById("unknownType").checked;
         var isUnknownInferedType = document.getElementById("unknownInferedType").checked;
         var isUnknownLangue = document.getElementById("unknownLangue").checked;
+
        
       /* FILTRES SUR LES DONNEES : GESTION DE L'AFFICHAGE DES DONNEES INCONNUES */
   
@@ -392,11 +395,11 @@ function getListOfArtists(file){
   
   
         /* REMPLISSAGE DES INFORMATIONS EN DESSOUS DE LA VISUALISATION */
-        fillInfo("listSongs",titles);
-        fillInfo("listGenres",genres);
-        fillInfo("listGenresInferes",genresInferes);
-        fillInfo("listAlbums",albums);
-        fillInfo("listLangues",langues);
+        fillInfo("listSongs",titles,"Titres");
+        fillInfo("listGenres",genres, "Genres");
+        fillInfo("listGenresInferes",genresInferes,"Genres inférés");
+        fillInfo("listAlbums",albums, "Noms albums");
+        fillInfo("listLangues",langues, "Langues");
         
   
         /* CREATION DU GRAPHIQUE */
@@ -413,15 +416,16 @@ function getListOfArtists(file){
   
   
   // Fonction pour remplire les infos en dessous de la visualisation
-  function fillInfo(listeName, dataList){
+  function fillInfo(listeName, dataList,nom){
     let list = document.getElementById(listeName);
         list.innerHTML = "";
+        list.innerHTML += "<h3 style='color: #553c9a;'>" + nom + "</h3>";
         uniqueList = dataList.filter(function(item, pos) {
         return dataList.indexOf(item) == pos;
         })
         uniqueList.forEach((item) => {
           let li = document.createElement("li");
-          li.innerText = item;
+          li.innerText += item;
           list.appendChild(li);
         });
   }
