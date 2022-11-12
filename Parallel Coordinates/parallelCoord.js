@@ -435,7 +435,7 @@ function getListOfArtists(file){
     var filters = [];
     var displayGenre = document.getElementById("displayGenre").checked;
     var displayGenreInferes = document.getElementById("displayGenreInferes").checked;
-    var displayAlbum = document.getElementById("displayAlbum").checked;
+    var displayAlbum = document.getElementById("displayAlbums").checked;
     var displayLangues = document.getElementById("displayLangues").checked;
     if(displayGenre){
       filters.push("Genre");
