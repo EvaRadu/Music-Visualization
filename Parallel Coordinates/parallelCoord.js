@@ -452,3 +452,10 @@ function getListOfArtists(file){
     return filters;
   
   }
+
+  function change_page_graphe(){
+    window.location.href = "../Graph/search_graph.html";
+  } 
+  function change_page_Sunburst(){
+    window.location.href = "../SunBurst/test.html";
+  } 
