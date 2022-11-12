@@ -57,8 +57,22 @@ svg {
   width: 200px; 
   height: 200px; 
   overflow: auto;
+  margin-left: 70px;
 }
 
+.middleRow {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.visu {
+  overflow: auto;
+  margin-left: 70px;
+}
+.tooltip{
+  overflow: auto;
+  margin-top: 300px;
+}
 
 
 
@@ -95,14 +109,12 @@ svg {
     <input type="checkbox" id="unknownLangue" checked="true">
     <label for="unknownLangue">Afficher les données avec une langue inconnue</label>
   </div>
-  
-
-  
-
-
   <div><button type="button" onclick="doFunction();"> Confirm </button></div>
-<!-- <button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button> -->
-<div id="my_dataviz"></div>
+</div>
+<div class="middleRow">
+<div class="visu" id="my_dataviz"></div>
+<div class="tooltip" id="tooltip"></div>
+</div>
 <div class="row">
 <div>
   <ul id="listSongs" class="block" ></ul>
@@ -253,8 +265,8 @@ var svg = d3.select("#my_dataviz")
       .attr("text-anchor", "middle")
       .attr("y", -9)
       .text(String)
-      .on("mouseover", console.log(String));
-    
+
+      
 
   // Add and store a brush for each axis.
   g.append("svg:g")
@@ -304,7 +316,17 @@ svg
       .style("fill", "none" )
       .style("stroke", function(d){ return( color(d.Titre))} )
       .style("opacity", 0.5)
-     
+      .on("mouseover",  function (d) { 
+        var toolTip = document.getElementById("tooltip");
+        tooltip.innerHTML = "";
+        tooltip.innerHTML = "<h3>Details de la chanson : </h3>";
+        toolTip.innerHTML += "<div>Titre : " + d.Titre +"</div>";
+        toolTip.innerHTML += "<div>Genre : " + d.Genre + "</div>";
+        toolTip.innerHTML += "<div>Genre inféré : " + d['Genre inféré'] + "</div>";
+        toolTip.innerHTML += "<div>Nom Album : " + d['Nom Album'] + "</div>";
+        toolTip.innerHTML += "<div>Langue : " + d.Langue + "</div>";;
+       })
+
 
       svg.selectAll("myAxis")
     // For each dimension of the dataset I add a 'g' element:
@@ -406,96 +428,127 @@ function readCsvSong(){
       var genresInferes = [];
       var albums = [];
       var langues = [];
-      for(i=0; i<data.length; i++){
-        console.log(i)
+      var isUnknownType = document.getElementById("unknownType").checked;
+      var isUnknownInferedType = document.getElementById("unknownInferedType").checked;
+      var isUnknownLangue = document.getElementById("unknownLangue").checked;
+     
+    /* FILTRES SUR LES DONNEES : GESTION DE L'AFFICHAGE DES DONNEES INCONNUES */
+
+      if(!isUnknownType){ // Si on ne veut pas les chansons dont le genre est inconnu
+        if(!isUnknownLangue && isUnknownInferedType){ // Et qu'on ne veut pas les chansons dont la langue est inconnue
+          for(i=0;i<data.length;i++){
+            if(data[i]["Genre"]!="Unknown" && data[i]["Langue"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom Album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          }
+          }
         
-        if(!document.getElementById("unknownType").checked){
+        }
+        else if(!isUnknownInferedType && isUnknownLangue){ // Et qu'on ne veut pas les chansons dont le genre inféré est inconnue
+          for(i=0;i<data.length;i++){
+            if(data[i]["Genre"]!="Unknown" && data[i]["Genre inféré"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom Album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          }
+          }
+        }
+        else if(!isUnknownInferedType && !isUnknownLangue){ // Et qu'on ne veut pas les chansons dont le genre inféré et la langue sont inconnus
+          for(i=0;i<data.length;i++){
+            if(data[i]["Genre inféré"]!="Unknown" && data[i]["Langue"]!="Unknown" && data[i]["Genre"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom Album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          }
+          }
+        }
+        else{
+          for(i=0; i<data.length;i++){
           if(data[i]["Genre"]!="Unknown"){
             titles.push(data[i]["Titre"]);
             genres.push(data[i]["Genre"]);
             genresInferes.push(data[i]["Genre inféré"])
-            albums.push(data[i]["Nom album"])
+            albums.push(data[i]["Nom Album"])
             langues.push(data[i]["Langue"])
             songs.push(data[i]);
-                     
-        }
-
-        }
-
-        else if(!document.getElementById("unknownInferedType").checked){
           
+        }
+      }
+        }
+      }
+      else if(!isUnknownInferedType){ // Si on ne veut pas les chansons dont le genre inféré est inconnu
+        if(!isUnknownLangue && isUnknownType){ // Et qu'on ne veut pas les chansons dont la langue est inconnue
+          console.log("infered + langue");
+          for(i=0;i<data.length;i++){
+            if(data[i]["Genre inféré"]!="Unknown" && data[i]["Langue"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom Album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          }
+          }
+        }
+        else{
+          console.log("infered");
+          for(i=0; i<data.length;i++){
           if(data[i]["Genre inféré"]!="Unknown"){
             titles.push(data[i]["Titre"]);
             genres.push(data[i]["Genre"]);
             genresInferes.push(data[i]["Genre inféré"])
-            albums.push(data[i]["Nom album"])
+            albums.push(data[i]["Nom Album"])
             langues.push(data[i]["Langue"])
             songs.push(data[i]);
           
         }
+      }
         }
-
-        else if(!document.getElementById("unknownLangue").checked){
-          
-          if(data[i]["Langue"]!="Unknown"){
+      }
+      else if(!isUnknownLangue){ // Si on ne veut pas les chansons dont la langue est inconnue
+        for(i=0; i<data.length;i++){
+        if(data[i]["Langue"]!="Unknown"){
             titles.push(data[i]["Titre"]);
             genres.push(data[i]["Genre"]);
             genresInferes.push(data[i]["Genre inféré"])
-            albums.push(data[i]["Nom album"])
+            albums.push(data[i]["Nom Album"])
             langues.push(data[i]["Langue"])
             songs.push(data[i]);
           
         }
-        }
-
-        else if(!document.getElementById("unknownType").checked && !document.getElementById("unknownInferedType").checked){
-          
-          if((data[i]["Genre"]!="Unknown" && data[i]["Genre inféré"]!="Unknown")
-          || (data[i]["Genre"]!="Unknown" && data[i]["Genre inféré"]=="Unknown")
-          || (data[i]["Genre"]=="Unknown" && data[i]["Genre inféré"]!="Unknown")){
-            titles.push(data[i]["Titre"]);
-            genres.push(data[i]["Genre"]);
-            genresInferes.push(data[i]["Genre inféré"])
-            albums.push(data[i]["Nom album"])
-            langues.push(data[i]["Langue"])
-            songs.push(data[i]);
-          
-        }
-        }
-
-        else if(!document.getElementById("unknownType").checked && !document.getElementById("unknownLangue").checked){
-          
-          if((data[i]["Genre"]!="Unknown" && data[i]["Langue"]!="Unknown")
-          || (data[i]["Genre"]!="Unknown" && data[i]["Langue"]=="Unknown")
-          || (data[i]["Genre"]=="Unknown" && data[i]["Langue"]!="Unknown")){
-            titles.push(data[i]["Titre"]);
-            genres.push(data[i]["Genre"]);
-            genresInferes.push(data[i]["Genre inféré"])
-            albums.push(data[i]["Nom album"])
-            langues.push(data[i]["Langue"])
-            songs.push(data[i]);
-          
-        }
-        }
-        
-        // Tout est selectionné 
-        else{
-          
+      }
+      }
+      else{ // Si on veut toutes les chansons (même avec des données inconnues)
+        for(i=0; i<data.length;i++){
           titles.push(data[i]["Titre"]);
           genres.push(data[i]["Genre"]);
           genresInferes.push(data[i]["Genre inféré"])
-          albums.push(data[i]["Nom album"])
+          albums.push(data[i]["Nom Album"])
           langues.push(data[i]["Langue"])
           songs.push(data[i]);
         }
       }
+
       
+      
+      /* GENERATION ALEATOIRE DE COULEUR POUR LES DONNEES */ 
       var colors = [];
       for(j=0; j<songs.length; j++){
         colors.push('#'+(Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0'));
       } 
 
 
+      /* REMPLISSAGE DES INFORMATIONS EN DESSOUS DE LA VISUALISATION */
       fillInfo("listSongs",titles);
       fillInfo("listGenres",genres);
       fillInfo("listGenresInferes",genresInferes);
@@ -503,10 +556,11 @@ function readCsvSong(){
       fillInfo("listLangues",langues);
       
 
-      if(songs.length==0){
+      /* CREATION DU GRAPHIQUE */
+      if(songs.length==0){ // Si il n'y a pas de données -> message d'erreur
         alert("La recherche que vous avez lancé n'a pas de résultat associé. Veuillez réessayer avec un autre artiste et/ou d'autres filtres.");
       }
-      else{
+      else{ // Sinon : création de la visualisation
       loadVisualization(songs,titles,colors, getColomunFilter());
       }
   
