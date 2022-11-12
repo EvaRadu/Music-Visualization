@@ -44,7 +44,20 @@ svg {
   cursor: move;
 }
 
+.axis :hover{
+  font: 20px sans-serif;
+}
 
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.block {
+  width: 200px; 
+  height: 200px; 
+  overflow: auto;
+}
 
 
 
@@ -55,20 +68,71 @@ svg {
   <h1>Music Parallel Coordinates</h1>
   <select name="artists" id="artists-select"></select>
   <div>
-    <input type="checkbox" id="unknownType">
+    <input type="checkbox" id="displayGenre" checked="true">
+    <label for="displayGenre">Afficher la colonne des genres</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayGenreInferes" checked="true">
+    <label for="displayGenreInferes">Afficher la colonne des genres inférés</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayAlbum" checked="true">
+    <label for="displayAlbums">Afficher la colonne des albums</label>
+  </div>
+  <div>
+    <input type="checkbox" id="displayLangues" checked="true">
+    <label for="displayLangues">Afficher la colonne des langues</label>
+  </div>
+  <div>
+    <input type="checkbox" id="unknownType" checked="true">
     <label for="unknownType">Afficher les données avec un genre inconnu</label>
   </div>
+  <div>
+    <input type="checkbox" id="unknownInferedType" checked="true">
+    <label for="unknownInferedType">Afficher les données avec un genre inféré inconnu</label>
+  </div>
+  <div>
+    <input type="checkbox" id="unknownLangue" checked="true">
+    <label for="unknownLangue">Afficher les données avec une langue inconnue</label>
+  </div>
+  
+
+  
+
 
   <div><button type="button" onclick="doFunction();"> Confirm </button></div>
 <!-- <button type="button" onclick="readCsvArtist('../../test.csv');"> Test2 </button> -->
-<div id="my_dataviz"></div> 
+<div id="my_dataviz"></div>
+<div class="row">
+<div>
+  <ul id="listSongs" class="block" ></ul>
+</div>
+<div>
+  <ul id="listGenres" class="block" ></ul>
+</div>
+<div>
+  <ul id="listGenresInferes" class="block" ></ul>
+</div>
+</div>
+<div class="row">
+  <div>
+    <ul id="listAlbums" class="block" ></ul>
+  </div>
+  <div>
+    <ul id="listLangues" class="block" ></ul>
+  </div>
+</div>
+
+
+
+</div>
 
 
 
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-function loadVisualization(data, titles, rangeColors){  
+function loadVisualization(data, titles, rangeColors,displayColomns){  
   var margin = {top: 30, right: 0, bottom: 10, left: 0},
   width = 780 - margin.left - margin.right,
   height = 700 - margin.top - margin.bottom;
@@ -105,15 +169,20 @@ var svg = d3.select("#my_dataviz")
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(data[0]).filter(function(d) {
       
-  
+      
       if(d==="Nom artist"){ return;}
 
       if(d==="Titre" || d === "Genre" || d==="Genre inféré" || d==="Nom Album" || d==="Langue") {
+        
+        if(displayColomns.includes(d) ||d==="Titre"){
           y[d] = d3.scale.ordinal()
             .domain(data.map(function(p) { return p[d]; }))
             .rangePoints([height, 0]);
  
       }
+      else{
+        return;
+      }}
      
       else {
           y[d] = d3.scale.linear()
@@ -183,7 +252,9 @@ var svg = d3.select("#my_dataviz")
     .append("svg:text")
       .attr("text-anchor", "middle")
       .attr("y", -9)
-      .text(String);
+      .text(String)
+      .on("mouseover", console.log(String));
+    
 
   // Add and store a brush for each axis.
   g.append("svg:g")
@@ -331,42 +402,154 @@ function readCsvSong(){
 
       var songs = [];
       var titles = [];
+      var genres = [];
+      var genresInferes = [];
+      var albums = [];
+      var langues = [];
       for(i=0; i<data.length; i++){
+        console.log(i)
+        
         if(!document.getElementById("unknownType").checked){
-          
           if(data[i]["Genre"]!="Unknown"){
             titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+                     
+        }
+
+        }
+
+        else if(!document.getElementById("unknownInferedType").checked){
+          
+          if(data[i]["Genre inféré"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom album"])
+            langues.push(data[i]["Langue"])
             songs.push(data[i]);
           
         }
         }
+
+        else if(!document.getElementById("unknownLangue").checked){
+          
+          if(data[i]["Langue"]!="Unknown"){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          
+        }
+        }
+
+        else if(!document.getElementById("unknownType").checked && !document.getElementById("unknownInferedType").checked){
+          
+          if((data[i]["Genre"]!="Unknown" && data[i]["Genre inféré"]!="Unknown")
+          || (data[i]["Genre"]!="Unknown" && data[i]["Genre inféré"]=="Unknown")
+          || (data[i]["Genre"]=="Unknown" && data[i]["Genre inféré"]!="Unknown")){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          
+        }
+        }
+
+        else if(!document.getElementById("unknownType").checked && !document.getElementById("unknownLangue").checked){
+          
+          if((data[i]["Genre"]!="Unknown" && data[i]["Langue"]!="Unknown")
+          || (data[i]["Genre"]!="Unknown" && data[i]["Langue"]=="Unknown")
+          || (data[i]["Genre"]=="Unknown" && data[i]["Langue"]!="Unknown")){
+            titles.push(data[i]["Titre"]);
+            genres.push(data[i]["Genre"]);
+            genresInferes.push(data[i]["Genre inféré"])
+            albums.push(data[i]["Nom album"])
+            langues.push(data[i]["Langue"])
+            songs.push(data[i]);
+          
+        }
+        }
+        
+        // Tout est selectionné 
         else{
+          
           titles.push(data[i]["Titre"]);
+          genres.push(data[i]["Genre"]);
+          genresInferes.push(data[i]["Genre inféré"])
+          albums.push(data[i]["Nom album"])
+          langues.push(data[i]["Langue"])
           songs.push(data[i]);
         }
       }
+      
       var colors = [];
       for(j=0; j<songs.length; j++){
         colors.push('#'+(Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0'));
       } 
-      loadVisualization(songs,titles,colors);
+
+
+      fillInfo("listSongs",titles);
+      fillInfo("listGenres",genres);
+      fillInfo("listGenresInferes",genresInferes);
+      fillInfo("listAlbums",albums);
+      fillInfo("listLangues",langues);
+      
+
+      if(songs.length==0){
+        alert("La recherche que vous avez lancé n'a pas de résultat associé. Veuillez réessayer avec un autre artiste et/ou d'autres filtres.");
+      }
+      else{
+      loadVisualization(songs,titles,colors, getColomunFilter());
+      }
+  
       
     });
 }
 
-function init(){
-  var path = "../../DATA/ParCoordCsv/Tricky.csv" 
-  
-    d3.csv(path, function(data) {
-         
 
-      var titles = [];
-      for(i=0; i<data.length; i++){
-        titles.push(data[i]["Titre"]);
-      }
-      loadVisualization(data,titles);
-      
-    });
+// Fonction pour remplire les infos en dessous de la visualisation
+function fillInfo(listeName, dataList){
+  let list = document.getElementById(listeName);
+      list.innerHTML = "";
+      uniqueList = dataList.filter(function(item, pos) {
+      return dataList.indexOf(item) == pos;
+      })
+      uniqueList.forEach((item) => {
+        let li = document.createElement("li");
+        li.innerText = item;
+        list.appendChild(li);
+      });
+}
+
+// Filtrer les colonnes à afficher
+function getColomunFilter(){
+  var filters = [];
+  var displayGenre = document.getElementById("displayGenre").checked;
+  var displayGenreInferes = document.getElementById("displayGenreInferes").checked;
+  var displayAlbum = document.getElementById("displayAlbum").checked;
+  var displayLangues = document.getElementById("displayLangues").checked;
+  if(displayGenre){
+    filters.push("Genre");
+  }
+  if(displayGenreInferes){
+    filters.push("Genre inféré");
+  }
+  if(displayAlbum){
+    filters.push("Nom Album");
+  }
+  if(displayLangues){
+    filters.push("Langue");
+  }
+  return filters;
+
 }
 
 
