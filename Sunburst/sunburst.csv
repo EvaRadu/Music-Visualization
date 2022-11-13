@@ -1,826 +1,895 @@
 ids,labels,parents,values
-1970,1970,,437
-hip hop1970,hip hop,1970,5
-Hip Hop1970,Hip Hop,hip hop1970,1
-French Hip Hop1970,French Hip Hop,hip hop1970,1
-Political Hip Hop1970,Political Hip Hop,hip hop1970,1
-Australian Hip Hop1970,Australian Hip Hop,hip hop1970,1
-Alternative Hip Hop1970,Alternative Hip Hop,hip hop1970,1
-pop rock1970,pop rock,1970,1
-Pop Rock1970,Pop Rock,pop rock1970,1
-rock1970,rock,1970,35
-Rap Rock1970,Rap Rock,rock1970,1
-Garage Rock1970,Garage Rock,rock1970,1
-Deutschrock1970,Deutschrock,rock1970,1
-Soft Rock1970,Soft Rock,rock1970,1
-Blues Rock1970,Blues Rock,rock1970,1
-Indie Rock1970,Indie Rock,rock1970,1
-Pop Rock1970,Pop Rock,rock1970,1
-Stoner Rock1970,Stoner Rock,rock1970,1
-Gothic Rock1970,Gothic Rock,rock1970,1
-Comedy Rock1970,Comedy Rock,rock1970,1
-Art Rock1970,Art Rock,rock1970,1
-Southern Rock1970,Southern Rock,rock1970,1
-Hard Rock1970,Hard Rock,rock1970,1
-Rock1970,Rock,rock1970,1
-Christian Rock1970,Christian Rock,rock1970,1
-Psychedelic Rock1970,Psychedelic Rock,rock1970,1
-Country Rock1970,Country Rock,rock1970,1
-Noise Rock1970,Noise Rock,rock1970,1
-Arena Rock1970,Arena Rock,rock1970,1
-Experimental Rock1970,Experimental Rock,rock1970,1
-Rock 'N' Roll1970,Rock 'N' Roll,rock1970,1
-Post-Rock1970,Post-Rock,rock1970,1
-Punk Rock1970,Punk Rock,rock1970,1
-Piano Rock1970,Piano Rock,rock1970,1
-Alternative Rock1970,Alternative Rock,rock1970,1
-Electronic Rock1970,Electronic Rock,rock1970,1
-Samba-Rock1970,Samba-Rock,rock1970,1
-Glam Rock1970,Glam Rock,rock1970,1
-Rockabilly1970,Rockabilly,rock1970,1
-Latin Rock1970,Latin Rock,rock1970,1
-Industrial Rock1970,Industrial Rock,rock1970,1
-Symphonic Rock1970,Symphonic Rock,rock1970,1
-Brazilian Rock1970,Brazilian Rock,rock1970,1
-Progressive Rock1970,Progressive Rock,rock1970,1
-Folk Rock1970,Folk Rock,rock1970,1
-metal1970,metal,1970,22
-Progressive Metal1970,Progressive Metal,metal1970,1
-Industrial Metal1970,Industrial Metal,metal1970,1
-Symphonic Metal1970,Symphonic Metal,metal1970,1
-Doom Metal1970,Doom Metal,metal1970,1
-Avant-garde Metal1970,Avant-garde Metal,metal1970,1
-Christian Metal1970,Christian Metal,metal1970,1
-Pagan Metal1970,Pagan Metal,metal1970,1
-Death Metal1970,Death Metal,metal1970,1
-Glam Metal1970,Glam Metal,metal1970,1
-Gothic Metal1970,Gothic Metal,metal1970,1
-Alternative Metal1970,Alternative Metal,metal1970,1
-Black Metal1970,Black Metal,metal1970,1
-Folk Metal1970,Folk Metal,metal1970,1
-Viking Metal1970,Viking Metal,metal1970,1
-Power Metal1970,Power Metal,metal1970,1
-Post-Metal1970,Post-Metal,metal1970,1
-Heavy Metal1970,Heavy Metal,metal1970,1
-Thrash Metal1970,Thrash Metal,metal1970,1
-Technical Death Metal1970,Technical Death Metal,metal1970,1
-Groove Metal1970,Groove Metal,metal1970,1
-Symphonic Black Metal1970,Symphonic Black Metal,metal1970,1
-Metalcore1970,Metalcore,metal1970,1
-electronic1970,electronic,1970,4
-Electronicore1970,Electronicore,electronic1970,1
-Electronic Rock1970,Electronic Rock,electronic1970,1
-Electronic1970,Electronic,electronic1970,1
-Electronica1970,Electronica,electronic1970,1
-pop1970,pop,1970,21
-Britpop1970,Britpop,pop1970,1
-J-Pop1970,J-Pop,pop1970,1
-Pop Rock1970,Pop Rock,pop1970,1
-Synthpop1970,Synthpop,pop1970,1
-Indie Pop1970,Indie Pop,pop1970,1
-Pop-Rap1970,Pop-Rap,pop1970,1
-Bubblegum Pop1970,Bubblegum Pop,pop1970,1
-French Pop1970,French Pop,pop1970,1
-Electropop1970,Electropop,pop1970,1
-Dance-Pop1970,Dance-Pop,pop1970,1
-Power Pop1970,Power Pop,pop1970,1
-Baroque Pop1970,Baroque Pop,pop1970,1
-Latin Pop1970,Latin Pop,pop1970,1
-Psychedelic Pop1970,Psychedelic Pop,pop1970,1
-Classic Pop1970,Classic Pop,pop1970,1
-Pop1970,Pop,pop1970,1
-Dream Pop1970,Dream Pop,pop1970,1
-Futurepop1970,Futurepop,pop1970,1
-Pop Punk1970,Pop Punk,pop1970,1
-Country Pop1970,Country Pop,pop1970,1
-Europop1970,Europop,pop1970,1
-country1970,country,1970,5
-Country1970,Country,country1970,1
-Alternative Country1970,Alternative Country,country1970,1
-Country Rock1970,Country Rock,country1970,1
-Country Blues1970,Country Blues,country1970,1
-Country Pop1970,Country Pop,country1970,1
-blues1970,blues,1970,8
-Chicago Blues1970,Chicago Blues,blues1970,1
-Soul Blues1970,Soul Blues,blues1970,1
-Country Blues1970,Country Blues,blues1970,1
-Electric Blues1970,Electric Blues,blues1970,1
-Piedmont Blues1970,Piedmont Blues,blues1970,1
-Blues Rock1970,Blues Rock,blues1970,1
-Delta Blues1970,Delta Blues,blues1970,1
-Blues1970,Blues,blues1970,1
-soul1970,soul,1970,3
-Soul1970,Soul,soul1970,1
-Blue-Eyed Soul1970,Blue-Eyed Soul,soul1970,1
-Soul Blues1970,Soul Blues,soul1970,1
-classical1970,classical,1970,2
-Classical1970,Classical,classical1970,1
-Indian Classical Music1970,Indian Classical Music,classical1970,1
-techno1970,techno,1970,1
-Techno1970,Techno,techno1970,1
-jazz1970,jazz,1970,4
-Jazz1970,Jazz,jazz1970,1
-Trad Jazz1970,Trad Jazz,jazz1970,1
-Jazz Fusion1970,Jazz Fusion,jazz1970,1
-Vocal Jazz1970,Vocal Jazz,jazz1970,1
-punk1970,punk,1970,10
-Punk Rock1970,Punk Rock,punk1970,1
-Post-Punk1970,Post-Punk,punk1970,1
-Folk Punk1970,Folk Punk,punk1970,1
-Hardcore Punk1970,Hardcore Punk,punk1970,1
-Street Punk1970,Street Punk,punk1970,1
-Deutschpunk1970,Deutschpunk,punk1970,1
-Pop Punk1970,Pop Punk,punk1970,1
-Horror Punk1970,Horror Punk,punk1970,1
-Ska Punk1970,Ska Punk,punk1970,1
-Electropunk1970,Electropunk,punk1970,1
-funk1970,funk,1970,3
+Australian Hip Hop0,Australian Hip Hop,hip hop0,0
+French Hip Hop0,French Hip Hop,hip hop0,0
+Hip Hop0,Hip Hop,hip hop0,0
+Alternative Hip Hop0,Alternative Hip Hop,hip hop0,0
+Political Hip Hop0,Political Hip Hop,hip hop0,0
+hip hop0,hip hop,0,0
+Latin Rock0,Latin Rock,rock0,0
+Electronic Rock0,Electronic Rock,rock0,0
+Christian Rock0,Christian Rock,rock0,0
+Gothic Rock0,Gothic Rock,rock0,0
+Art Rock0,Art Rock,rock0,0
+Symphonic Rock0,Symphonic Rock,rock0,0
+Country Rock0,Country Rock,rock0,0
+Psychedelic Rock0,Psychedelic Rock,rock0,0
+Brazilian Rock0,Brazilian Rock,rock0,0
+Soft Rock0,Soft Rock,rock0,0
+Samba-Rock0,Samba-Rock,rock0,0
+Post-Rock0,Post-Rock,rock0,0
+Noise Rock0,Noise Rock,rock0,0
+Rockabilly0,Rockabilly,rock0,0
+Industrial Rock0,Industrial Rock,rock0,0
+Folk Rock0,Folk Rock,rock0,0
+Rap Rock0,Rap Rock,rock0,0
+Southern Rock0,Southern Rock,rock0,0
+Garage Rock0,Garage Rock,rock0,0
+Stoner Rock0,Stoner Rock,rock0,0
+Indie Rock0,Indie Rock,rock0,0
+Progressive Rock0,Progressive Rock,rock0,0
+Rock 'N' Roll0,Rock 'N' Roll,rock0,0
+Hard Rock0,Hard Rock,rock0,0
+Pop Rock0,Pop Rock,rock0,0
+Deutschrock0,Deutschrock,rock0,0
+Piano Rock0,Piano Rock,rock0,0
+Glam Rock0,Glam Rock,rock0,0
+Arena Rock0,Arena Rock,rock0,0
+Rock0,Rock,rock0,0
+Punk Rock0,Punk Rock,rock0,0
+Comedy Rock0,Comedy Rock,rock0,0
+Blues Rock0,Blues Rock,rock0,0
+Alternative Rock0,Alternative Rock,rock0,0
+Experimental Rock0,Experimental Rock,rock0,0
+rock0,rock,0,0
+Glam Metal0,Glam Metal,metal0,0
+Folk Metal0,Folk Metal,metal0,0
+Christian Metal0,Christian Metal,metal0,0
+Power Metal0,Power Metal,metal0,0
+Doom Metal0,Doom Metal,metal0,0
+Metalcore0,Metalcore,metal0,0
+Viking Metal0,Viking Metal,metal0,0
+Symphonic Metal0,Symphonic Metal,metal0,0
+Avant-garde Metal0,Avant-garde Metal,metal0,0
+Groove Metal0,Groove Metal,metal0,0
+Death Metal0,Death Metal,metal0,0
+Industrial Metal0,Industrial Metal,metal0,0
+Gothic Metal0,Gothic Metal,metal0,0
+Heavy Metal0,Heavy Metal,metal0,0
+Post-Metal0,Post-Metal,metal0,0
+Alternative Metal0,Alternative Metal,metal0,0
+Pagan Metal0,Pagan Metal,metal0,0
+Black Metal0,Black Metal,metal0,0
+Technical Death Metal0,Technical Death Metal,metal0,0
+Thrash Metal0,Thrash Metal,metal0,0
+Progressive Metal0,Progressive Metal,metal0,0
+Symphonic Black Metal0,Symphonic Black Metal,metal0,0
+metal0,metal,0,0
+Electronic0,Electronic,electronic0,0
+Electronica0,Electronica,electronic0,0
+Electronicore0,Electronicore,electronic0,0
+electronic0,electronic,0,0
+French Pop0,French Pop,pop0,0
+Dream Pop0,Dream Pop,pop0,0
+Electropop0,Electropop,pop0,0
+Indie Pop0,Indie Pop,pop0,0
+Country Pop0,Country Pop,pop0,0
+Pop Punk0,Pop Punk,pop0,0
+Classic Pop0,Classic Pop,pop0,0
+Psychedelic Pop0,Psychedelic Pop,pop0,0
+Baroque Pop0,Baroque Pop,pop0,0
+Latin Pop0,Latin Pop,pop0,0
+J-Pop0,J-Pop,pop0,0
+Britpop0,Britpop,pop0,0
+Pop-Rap0,Pop-Rap,pop0,0
+Europop0,Europop,pop0,0
+Dance-Pop0,Dance-Pop,pop0,0
+Bubblegum Pop0,Bubblegum Pop,pop0,0
+Power Pop0,Power Pop,pop0,0
+Pop0,Pop,pop0,0
+Synthpop0,Synthpop,pop0,0
+Futurepop0,Futurepop,pop0,0
+pop0,pop,0,0
+Alternative Country0,Alternative Country,country0,0
+Country Blues0,Country Blues,country0,0
+Country0,Country,country0,0
+country0,country,0,0
+Delta Blues0,Delta Blues,blues0,0
+Soul Blues0,Soul Blues,blues0,0
+Blues0,Blues,blues0,0
+Chicago Blues0,Chicago Blues,blues0,0
+Electric Blues0,Electric Blues,blues0,0
+Piedmont Blues0,Piedmont Blues,blues0,0
+blues0,blues,0,0
+Soul0,Soul,soul0,0
+Blue-Eyed Soul0,Blue-Eyed Soul,soul0,0
+soul0,soul,0,0
+Indian Classical Music0,Indian Classical Music,classical0,0
+Classical0,Classical,classical0,0
+classical0,classical,0,0
+Techno0,Techno,techno0,0
+techno0,techno,0,0
+Trad Jazz0,Trad Jazz,jazz0,0
+Vocal Jazz0,Vocal Jazz,jazz0,0
+Jazz0,Jazz,jazz0,0
+Jazz Fusion0,Jazz Fusion,jazz0,0
+jazz0,jazz,0,0
+Hardcore Punk0,Hardcore Punk,punk0,0
+Street Punk0,Street Punk,punk0,0
+Post-Punk0,Post-Punk,punk0,0
+Electropunk0,Electropunk,punk0,0
+Folk Punk0,Folk Punk,punk0,0
+Deutschpunk0,Deutschpunk,punk0,0
+Horror Punk0,Horror Punk,punk0,0
+Ska Punk0,Ska Punk,punk0,0
+punk0,punk,0,0
+Funk Carioca0,Funk Carioca,funk0,0
+Funk Melody0,Funk Melody,funk0,0
+Funk0,Funk,funk0,0
+funk0,funk,0,0
+Italo Disco0,Italo Disco,disco0,0
+Disco0,Disco,disco0,0
+disco0,disco,0,0
+Reggae0,Reggae,reggae0,0
+reggae0,reggae,0,0
+R&B0,R&B,0,0
+Gospel0,Gospel,gospel0,0
+gospel0,gospel,0,0
+dupstep0,dupstep,0,0
+Midwest Rap0,Midwest Rap,rap0,0
+Gangsta Rap0,Gangsta Rap,rap0,0
+Trap0,Trap,rap0,0
+rap0,rap,0,0
+Neofolk‏‎0,Neofolk‏‎,folk0,0
+Irish Folk0,Irish Folk,folk0,0
+Italian Folk0,Italian Folk,folk0,0
+Folk0,Folk,folk0,0
+Neofolk0,Neofolk,folk0,0
+folk0,folk,0,0
+Bossa Nova0,Bossa Nova,bossa nova0,0
+bossa nova0,bossa nova,0,0
+0,Unknown,,0
+Australian Hip Hop1970,Australian Hip Hop,hip hop1970,0
+French Hip Hop1970,French Hip Hop,hip hop1970,0
+Hip Hop1970,Hip Hop,hip hop1970,0
+Alternative Hip Hop1970,Alternative Hip Hop,hip hop1970,0
+Political Hip Hop1970,Political Hip Hop,hip hop1970,0
+hip hop1970,hip hop,1970,0
+Latin Rock1970,Latin Rock,rock1970,112
+Electronic Rock1970,Electronic Rock,rock1970,112
+Christian Rock1970,Christian Rock,rock1970,112
+Gothic Rock1970,Gothic Rock,rock1970,112
+Art Rock1970,Art Rock,rock1970,112
+Symphonic Rock1970,Symphonic Rock,rock1970,112
+Country Rock1970,Country Rock,rock1970,112
+Psychedelic Rock1970,Psychedelic Rock,rock1970,112
+Brazilian Rock1970,Brazilian Rock,rock1970,112
+Soft Rock1970,Soft Rock,rock1970,112
+Samba-Rock1970,Samba-Rock,rock1970,112
+Post-Rock1970,Post-Rock,rock1970,112
+Noise Rock1970,Noise Rock,rock1970,112
+Rockabilly1970,Rockabilly,rock1970,112
+Industrial Rock1970,Industrial Rock,rock1970,112
+Folk Rock1970,Folk Rock,rock1970,112
+Rap Rock1970,Rap Rock,rock1970,112
+Southern Rock1970,Southern Rock,rock1970,112
+Garage Rock1970,Garage Rock,rock1970,112
+Stoner Rock1970,Stoner Rock,rock1970,112
+Indie Rock1970,Indie Rock,rock1970,112
+Progressive Rock1970,Progressive Rock,rock1970,112
+Rock 'N' Roll1970,Rock 'N' Roll,rock1970,112
+Hard Rock1970,Hard Rock,rock1970,112
+Pop Rock1970,Pop Rock,rock1970,112
+Deutschrock1970,Deutschrock,rock1970,112
+Piano Rock1970,Piano Rock,rock1970,112
+Glam Rock1970,Glam Rock,rock1970,112
+Arena Rock1970,Arena Rock,rock1970,112
+Rock1970,Rock,rock1970,112
+Punk Rock1970,Punk Rock,rock1970,112
+Comedy Rock1970,Comedy Rock,rock1970,112
+Blues Rock1970,Blues Rock,rock1970,112
+Alternative Rock1970,Alternative Rock,rock1970,112
+Experimental Rock1970,Experimental Rock,rock1970,112
+rock1970,rock,1970,3920
+Glam Metal1970,Glam Metal,metal1970,0
+Folk Metal1970,Folk Metal,metal1970,0
+Christian Metal1970,Christian Metal,metal1970,0
+Power Metal1970,Power Metal,metal1970,0
+Doom Metal1970,Doom Metal,metal1970,0
+Metalcore1970,Metalcore,metal1970,0
+Viking Metal1970,Viking Metal,metal1970,0
+Symphonic Metal1970,Symphonic Metal,metal1970,0
+Avant-garde Metal1970,Avant-garde Metal,metal1970,0
+Groove Metal1970,Groove Metal,metal1970,0
+Death Metal1970,Death Metal,metal1970,0
+Industrial Metal1970,Industrial Metal,metal1970,0
+Gothic Metal1970,Gothic Metal,metal1970,0
+Heavy Metal1970,Heavy Metal,metal1970,0
+Post-Metal1970,Post-Metal,metal1970,0
+Alternative Metal1970,Alternative Metal,metal1970,0
+Pagan Metal1970,Pagan Metal,metal1970,0
+Black Metal1970,Black Metal,metal1970,0
+Technical Death Metal1970,Technical Death Metal,metal1970,0
+Thrash Metal1970,Thrash Metal,metal1970,0
+Progressive Metal1970,Progressive Metal,metal1970,0
+Symphonic Black Metal1970,Symphonic Black Metal,metal1970,0
+metal1970,metal,1970,0
+Electronic1970,Electronic,electronic1970,7
+Electronica1970,Electronica,electronic1970,7
+Electronicore1970,Electronicore,electronic1970,7
+electronic1970,electronic,1970,28
+French Pop1970,French Pop,pop1970,31
+Dream Pop1970,Dream Pop,pop1970,31
+Electropop1970,Electropop,pop1970,31
+Indie Pop1970,Indie Pop,pop1970,31
+Country Pop1970,Country Pop,pop1970,31
+Pop Punk1970,Pop Punk,pop1970,31
+Classic Pop1970,Classic Pop,pop1970,31
+Psychedelic Pop1970,Psychedelic Pop,pop1970,31
+Baroque Pop1970,Baroque Pop,pop1970,31
+Latin Pop1970,Latin Pop,pop1970,31
+J-Pop1970,J-Pop,pop1970,31
+Britpop1970,Britpop,pop1970,31
+Pop-Rap1970,Pop-Rap,pop1970,31
+Europop1970,Europop,pop1970,31
+Dance-Pop1970,Dance-Pop,pop1970,31
+Bubblegum Pop1970,Bubblegum Pop,pop1970,31
+Power Pop1970,Power Pop,pop1970,31
+Pop1970,Pop,pop1970,31
+Synthpop1970,Synthpop,pop1970,31
+Futurepop1970,Futurepop,pop1970,31
+pop1970,pop,1970,651
+Alternative Country1970,Alternative Country,country1970,44
+Country Blues1970,Country Blues,country1970,44
+Country1970,Country,country1970,44
+country1970,country,1970,220
+Delta Blues1970,Delta Blues,blues1970,0
+Soul Blues1970,Soul Blues,blues1970,0
+Blues1970,Blues,blues1970,0
+Chicago Blues1970,Chicago Blues,blues1970,0
+Electric Blues1970,Electric Blues,blues1970,0
+Piedmont Blues1970,Piedmont Blues,blues1970,0
+blues1970,blues,1970,0
+Soul1970,Soul,soul1970,10
+Blue-Eyed Soul1970,Blue-Eyed Soul,soul1970,10
+soul1970,soul,1970,30
+Indian Classical Music1970,Indian Classical Music,classical1970,0
+Classical1970,Classical,classical1970,0
+classical1970,classical,1970,0
+Techno1970,Techno,techno1970,0
+techno1970,techno,1970,0
+Trad Jazz1970,Trad Jazz,jazz1970,44
+Vocal Jazz1970,Vocal Jazz,jazz1970,44
+Jazz1970,Jazz,jazz1970,44
+Jazz Fusion1970,Jazz Fusion,jazz1970,44
+jazz1970,jazz,1970,176
+Hardcore Punk1970,Hardcore Punk,punk1970,2
+Street Punk1970,Street Punk,punk1970,2
+Post-Punk1970,Post-Punk,punk1970,2
+Electropunk1970,Electropunk,punk1970,2
+Folk Punk1970,Folk Punk,punk1970,2
+Deutschpunk1970,Deutschpunk,punk1970,2
+Horror Punk1970,Horror Punk,punk1970,2
+Ska Punk1970,Ska Punk,punk1970,2
+punk1970,punk,1970,20
+Funk Carioca1970,Funk Carioca,funk1970,1
 Funk Melody1970,Funk Melody,funk1970,1
 Funk1970,Funk,funk1970,1
-Funk Carioca1970,Funk Carioca,funk1970,1
-disco1970,disco,1970,2
-Disco1970,Disco,disco1970,1
-Italo Disco1970,Italo Disco,disco1970,1
-reggae1970,reggae,1970,1
-Reggae1970,Reggae,reggae1970,1
-R&B1970,R&B,1970,1
-gospel1970,gospel,1970,1
-Gospel1970,Gospel,gospel1970,1
+funk1970,funk,1970,3
+Italo Disco1970,Italo Disco,disco1970,6
+Disco1970,Disco,disco1970,6
+disco1970,disco,1970,12
+Reggae1970,Reggae,reggae1970,0
+reggae1970,reggae,1970,0
+R&B1970,R&B,1970,0
+Gospel1970,Gospel,gospel1970,0
+gospel1970,gospel,1970,0
 dupstep1970,dupstep,1970,0
-rap1970,rap,1970,5
-Rap Rock1970,Rap Rock,rap1970,1
-Midwest Rap1970,Midwest Rap,rap1970,1
-Trap1970,Trap,rap1970,1
-Pop-Rap1970,Pop-Rap,rap1970,1
-Gangsta Rap1970,Gangsta Rap,rap1970,1
-folk1970,folk,1970,8
-Folk Punk1970,Folk Punk,folk1970,1
-Italian Folk1970,Italian Folk,folk1970,1
-Neofolk‏‎1970,Neofolk‏‎,folk1970,1
-Neofolk1970,Neofolk,folk1970,1
-Irish Folk1970,Irish Folk,folk1970,1
-Folk Metal1970,Folk Metal,folk1970,1
-Folk Rock1970,Folk Rock,folk1970,1
-Folk1970,Folk,folk1970,1
-bossa nova1970,bossa nova,1970,1
-Bossa Nova1970,Bossa Nova,bossa nova1970,1
-1980,1980,,534
-hip hop1980,hip hop,1980,5
-Hip Hop1980,Hip Hop,hip hop1980,1
-French Hip Hop1980,French Hip Hop,hip hop1980,1
-Political Hip Hop1980,Political Hip Hop,hip hop1980,1
-Australian Hip Hop1980,Australian Hip Hop,hip hop1980,1
-Alternative Hip Hop1980,Alternative Hip Hop,hip hop1980,1
-pop rock1980,pop rock,1980,1
-Pop Rock1980,Pop Rock,pop rock1980,1
-rock1980,rock,1980,35
-Rap Rock1980,Rap Rock,rock1980,1
-Garage Rock1980,Garage Rock,rock1980,1
-Deutschrock1980,Deutschrock,rock1980,1
-Soft Rock1980,Soft Rock,rock1980,1
-Blues Rock1980,Blues Rock,rock1980,1
-Indie Rock1980,Indie Rock,rock1980,1
-Pop Rock1980,Pop Rock,rock1980,1
-Stoner Rock1980,Stoner Rock,rock1980,1
-Gothic Rock1980,Gothic Rock,rock1980,1
-Comedy Rock1980,Comedy Rock,rock1980,1
-Art Rock1980,Art Rock,rock1980,1
-Southern Rock1980,Southern Rock,rock1980,1
-Hard Rock1980,Hard Rock,rock1980,1
-Rock1980,Rock,rock1980,1
-Christian Rock1980,Christian Rock,rock1980,1
-Psychedelic Rock1980,Psychedelic Rock,rock1980,1
-Country Rock1980,Country Rock,rock1980,1
-Noise Rock1980,Noise Rock,rock1980,1
-Arena Rock1980,Arena Rock,rock1980,1
-Experimental Rock1980,Experimental Rock,rock1980,1
-Rock 'N' Roll1980,Rock 'N' Roll,rock1980,1
-Post-Rock1980,Post-Rock,rock1980,1
-Punk Rock1980,Punk Rock,rock1980,1
-Piano Rock1980,Piano Rock,rock1980,1
-Alternative Rock1980,Alternative Rock,rock1980,1
-Electronic Rock1980,Electronic Rock,rock1980,1
-Samba-Rock1980,Samba-Rock,rock1980,1
-Glam Rock1980,Glam Rock,rock1980,1
-Rockabilly1980,Rockabilly,rock1980,1
-Latin Rock1980,Latin Rock,rock1980,1
-Industrial Rock1980,Industrial Rock,rock1980,1
-Symphonic Rock1980,Symphonic Rock,rock1980,1
-Brazilian Rock1980,Brazilian Rock,rock1980,1
-Progressive Rock1980,Progressive Rock,rock1980,1
-Folk Rock1980,Folk Rock,rock1980,1
-metal1980,metal,1980,22
-Progressive Metal1980,Progressive Metal,metal1980,1
-Industrial Metal1980,Industrial Metal,metal1980,1
-Symphonic Metal1980,Symphonic Metal,metal1980,1
-Doom Metal1980,Doom Metal,metal1980,1
-Avant-garde Metal1980,Avant-garde Metal,metal1980,1
-Christian Metal1980,Christian Metal,metal1980,1
-Pagan Metal1980,Pagan Metal,metal1980,1
-Death Metal1980,Death Metal,metal1980,1
-Glam Metal1980,Glam Metal,metal1980,1
-Gothic Metal1980,Gothic Metal,metal1980,1
-Alternative Metal1980,Alternative Metal,metal1980,1
-Black Metal1980,Black Metal,metal1980,1
-Folk Metal1980,Folk Metal,metal1980,1
-Viking Metal1980,Viking Metal,metal1980,1
-Power Metal1980,Power Metal,metal1980,1
-Post-Metal1980,Post-Metal,metal1980,1
-Heavy Metal1980,Heavy Metal,metal1980,1
-Thrash Metal1980,Thrash Metal,metal1980,1
-Technical Death Metal1980,Technical Death Metal,metal1980,1
-Groove Metal1980,Groove Metal,metal1980,1
-Symphonic Black Metal1980,Symphonic Black Metal,metal1980,1
-Metalcore1980,Metalcore,metal1980,1
-electronic1980,electronic,1980,4
-Electronicore1980,Electronicore,electronic1980,1
-Electronic Rock1980,Electronic Rock,electronic1980,1
-Electronic1980,Electronic,electronic1980,1
-Electronica1980,Electronica,electronic1980,1
-pop1980,pop,1980,21
-Britpop1980,Britpop,pop1980,1
-J-Pop1980,J-Pop,pop1980,1
-Pop Rock1980,Pop Rock,pop1980,1
-Synthpop1980,Synthpop,pop1980,1
-Indie Pop1980,Indie Pop,pop1980,1
-Pop-Rap1980,Pop-Rap,pop1980,1
-Bubblegum Pop1980,Bubblegum Pop,pop1980,1
-French Pop1980,French Pop,pop1980,1
-Electropop1980,Electropop,pop1980,1
-Dance-Pop1980,Dance-Pop,pop1980,1
-Power Pop1980,Power Pop,pop1980,1
-Baroque Pop1980,Baroque Pop,pop1980,1
-Latin Pop1980,Latin Pop,pop1980,1
-Psychedelic Pop1980,Psychedelic Pop,pop1980,1
-Classic Pop1980,Classic Pop,pop1980,1
-Pop1980,Pop,pop1980,1
-Dream Pop1980,Dream Pop,pop1980,1
-Futurepop1980,Futurepop,pop1980,1
-Pop Punk1980,Pop Punk,pop1980,1
-Country Pop1980,Country Pop,pop1980,1
-Europop1980,Europop,pop1980,1
-country1980,country,1980,5
-Country1980,Country,country1980,1
-Alternative Country1980,Alternative Country,country1980,1
-Country Rock1980,Country Rock,country1980,1
-Country Blues1980,Country Blues,country1980,1
-Country Pop1980,Country Pop,country1980,1
-blues1980,blues,1980,8
-Chicago Blues1980,Chicago Blues,blues1980,1
-Soul Blues1980,Soul Blues,blues1980,1
-Country Blues1980,Country Blues,blues1980,1
-Electric Blues1980,Electric Blues,blues1980,1
-Piedmont Blues1980,Piedmont Blues,blues1980,1
-Blues Rock1980,Blues Rock,blues1980,1
-Delta Blues1980,Delta Blues,blues1980,1
-Blues1980,Blues,blues1980,1
-soul1980,soul,1980,3
-Soul1980,Soul,soul1980,1
-Blue-Eyed Soul1980,Blue-Eyed Soul,soul1980,1
-Soul Blues1980,Soul Blues,soul1980,1
-classical1980,classical,1980,2
-Classical1980,Classical,classical1980,1
+Midwest Rap1970,Midwest Rap,rap1970,0
+Gangsta Rap1970,Gangsta Rap,rap1970,0
+Trap1970,Trap,rap1970,0
+rap1970,rap,1970,0
+Neofolk‏‎1970,Neofolk‏‎,folk1970,19
+Irish Folk1970,Irish Folk,folk1970,19
+Italian Folk1970,Italian Folk,folk1970,19
+Folk1970,Folk,folk1970,19
+Neofolk1970,Neofolk,folk1970,19
+folk1970,folk,1970,152
+Bossa Nova1970,Bossa Nova,bossa nova1970,0
+bossa nova1970,bossa nova,1970,0
+1970,1970,,5649
+Australian Hip Hop1980,Australian Hip Hop,hip hop1980,4
+French Hip Hop1980,French Hip Hop,hip hop1980,4
+Hip Hop1980,Hip Hop,hip hop1980,4
+Alternative Hip Hop1980,Alternative Hip Hop,hip hop1980,4
+Political Hip Hop1980,Political Hip Hop,hip hop1980,4
+hip hop1980,hip hop,1980,20
+Latin Rock1980,Latin Rock,rock1980,147
+Electronic Rock1980,Electronic Rock,rock1980,147
+Christian Rock1980,Christian Rock,rock1980,147
+Gothic Rock1980,Gothic Rock,rock1980,147
+Art Rock1980,Art Rock,rock1980,147
+Symphonic Rock1980,Symphonic Rock,rock1980,147
+Country Rock1980,Country Rock,rock1980,147
+Psychedelic Rock1980,Psychedelic Rock,rock1980,147
+Brazilian Rock1980,Brazilian Rock,rock1980,147
+Soft Rock1980,Soft Rock,rock1980,147
+Samba-Rock1980,Samba-Rock,rock1980,147
+Post-Rock1980,Post-Rock,rock1980,147
+Noise Rock1980,Noise Rock,rock1980,147
+Rockabilly1980,Rockabilly,rock1980,147
+Industrial Rock1980,Industrial Rock,rock1980,147
+Folk Rock1980,Folk Rock,rock1980,147
+Rap Rock1980,Rap Rock,rock1980,147
+Southern Rock1980,Southern Rock,rock1980,147
+Garage Rock1980,Garage Rock,rock1980,147
+Stoner Rock1980,Stoner Rock,rock1980,147
+Indie Rock1980,Indie Rock,rock1980,147
+Progressive Rock1980,Progressive Rock,rock1980,147
+Rock 'N' Roll1980,Rock 'N' Roll,rock1980,147
+Hard Rock1980,Hard Rock,rock1980,147
+Pop Rock1980,Pop Rock,rock1980,147
+Deutschrock1980,Deutschrock,rock1980,147
+Piano Rock1980,Piano Rock,rock1980,147
+Glam Rock1980,Glam Rock,rock1980,147
+Arena Rock1980,Arena Rock,rock1980,147
+Rock1980,Rock,rock1980,147
+Punk Rock1980,Punk Rock,rock1980,147
+Comedy Rock1980,Comedy Rock,rock1980,147
+Blues Rock1980,Blues Rock,rock1980,147
+Alternative Rock1980,Alternative Rock,rock1980,147
+Experimental Rock1980,Experimental Rock,rock1980,147
+rock1980,rock,1980,5145
+Glam Metal1980,Glam Metal,metal1980,42
+Folk Metal1980,Folk Metal,metal1980,42
+Christian Metal1980,Christian Metal,metal1980,42
+Power Metal1980,Power Metal,metal1980,42
+Doom Metal1980,Doom Metal,metal1980,42
+Metalcore1980,Metalcore,metal1980,42
+Viking Metal1980,Viking Metal,metal1980,42
+Symphonic Metal1980,Symphonic Metal,metal1980,42
+Avant-garde Metal1980,Avant-garde Metal,metal1980,42
+Groove Metal1980,Groove Metal,metal1980,42
+Death Metal1980,Death Metal,metal1980,42
+Industrial Metal1980,Industrial Metal,metal1980,42
+Gothic Metal1980,Gothic Metal,metal1980,42
+Heavy Metal1980,Heavy Metal,metal1980,42
+Post-Metal1980,Post-Metal,metal1980,42
+Alternative Metal1980,Alternative Metal,metal1980,42
+Pagan Metal1980,Pagan Metal,metal1980,42
+Black Metal1980,Black Metal,metal1980,42
+Technical Death Metal1980,Technical Death Metal,metal1980,42
+Thrash Metal1980,Thrash Metal,metal1980,42
+Progressive Metal1980,Progressive Metal,metal1980,42
+Symphonic Black Metal1980,Symphonic Black Metal,metal1980,42
+metal1980,metal,1980,924
+Electronic1980,Electronic,electronic1980,3
+Electronica1980,Electronica,electronic1980,3
+Electronicore1980,Electronicore,electronic1980,3
+electronic1980,electronic,1980,12
+French Pop1980,French Pop,pop1980,63
+Dream Pop1980,Dream Pop,pop1980,63
+Electropop1980,Electropop,pop1980,63
+Indie Pop1980,Indie Pop,pop1980,63
+Country Pop1980,Country Pop,pop1980,63
+Pop Punk1980,Pop Punk,pop1980,63
+Classic Pop1980,Classic Pop,pop1980,63
+Psychedelic Pop1980,Psychedelic Pop,pop1980,63
+Baroque Pop1980,Baroque Pop,pop1980,63
+Latin Pop1980,Latin Pop,pop1980,63
+J-Pop1980,J-Pop,pop1980,63
+Britpop1980,Britpop,pop1980,63
+Pop-Rap1980,Pop-Rap,pop1980,63
+Europop1980,Europop,pop1980,63
+Dance-Pop1980,Dance-Pop,pop1980,63
+Bubblegum Pop1980,Bubblegum Pop,pop1980,63
+Power Pop1980,Power Pop,pop1980,63
+Pop1980,Pop,pop1980,63
+Synthpop1980,Synthpop,pop1980,63
+Futurepop1980,Futurepop,pop1980,63
+pop1980,pop,1980,1323
+Alternative Country1980,Alternative Country,country1980,15
+Country Blues1980,Country Blues,country1980,15
+Country1980,Country,country1980,15
+country1980,country,1980,75
+Delta Blues1980,Delta Blues,blues1980,0
+Soul Blues1980,Soul Blues,blues1980,0
+Blues1980,Blues,blues1980,0
+Chicago Blues1980,Chicago Blues,blues1980,0
+Electric Blues1980,Electric Blues,blues1980,0
+Piedmont Blues1980,Piedmont Blues,blues1980,0
+blues1980,blues,1980,0
+Soul1980,Soul,soul1980,2
+Blue-Eyed Soul1980,Blue-Eyed Soul,soul1980,2
+soul1980,soul,1980,6
 Indian Classical Music1980,Indian Classical Music,classical1980,1
-techno1980,techno,1980,1
-Techno1980,Techno,techno1980,1
-jazz1980,jazz,1980,4
-Jazz1980,Jazz,jazz1980,1
-Trad Jazz1980,Trad Jazz,jazz1980,1
-Jazz Fusion1980,Jazz Fusion,jazz1980,1
-Vocal Jazz1980,Vocal Jazz,jazz1980,1
-punk1980,punk,1980,10
-Punk Rock1980,Punk Rock,punk1980,1
-Post-Punk1980,Post-Punk,punk1980,1
-Folk Punk1980,Folk Punk,punk1980,1
-Hardcore Punk1980,Hardcore Punk,punk1980,1
-Street Punk1980,Street Punk,punk1980,1
-Deutschpunk1980,Deutschpunk,punk1980,1
-Pop Punk1980,Pop Punk,punk1980,1
-Horror Punk1980,Horror Punk,punk1980,1
-Ska Punk1980,Ska Punk,punk1980,1
-Electropunk1980,Electropunk,punk1980,1
-funk1980,funk,1980,3
+Classical1980,Classical,classical1980,1
+classical1980,classical,1980,2
+Techno1980,Techno,techno1980,0
+techno1980,techno,1980,0
+Trad Jazz1980,Trad Jazz,jazz1980,6
+Vocal Jazz1980,Vocal Jazz,jazz1980,6
+Jazz1980,Jazz,jazz1980,6
+Jazz Fusion1980,Jazz Fusion,jazz1980,6
+jazz1980,jazz,1980,24
+Hardcore Punk1980,Hardcore Punk,punk1980,24
+Street Punk1980,Street Punk,punk1980,24
+Post-Punk1980,Post-Punk,punk1980,24
+Electropunk1980,Electropunk,punk1980,24
+Folk Punk1980,Folk Punk,punk1980,24
+Deutschpunk1980,Deutschpunk,punk1980,24
+Horror Punk1980,Horror Punk,punk1980,24
+Ska Punk1980,Ska Punk,punk1980,24
+punk1980,punk,1980,240
+Funk Carioca1980,Funk Carioca,funk1980,1
 Funk Melody1980,Funk Melody,funk1980,1
 Funk1980,Funk,funk1980,1
-Funk Carioca1980,Funk Carioca,funk1980,1
-disco1980,disco,1980,2
-Disco1980,Disco,disco1980,1
+funk1980,funk,1980,3
 Italo Disco1980,Italo Disco,disco1980,1
-reggae1980,reggae,1980,1
-Reggae1980,Reggae,reggae1980,1
-R&B1980,R&B,1980,1
-gospel1980,gospel,1980,1
-Gospel1980,Gospel,gospel1980,1
+Disco1980,Disco,disco1980,1
+disco1980,disco,1980,2
+Reggae1980,Reggae,reggae1980,15
+reggae1980,reggae,1980,15
+R&B1980,R&B,1980,0
+Gospel1980,Gospel,gospel1980,3
+gospel1980,gospel,1980,3
 dupstep1980,dupstep,1980,0
-rap1980,rap,1980,5
-Rap Rock1980,Rap Rock,rap1980,1
-Midwest Rap1980,Midwest Rap,rap1980,1
-Trap1980,Trap,rap1980,1
-Pop-Rap1980,Pop-Rap,rap1980,1
-Gangsta Rap1980,Gangsta Rap,rap1980,1
-folk1980,folk,1980,8
-Folk Punk1980,Folk Punk,folk1980,1
-Italian Folk1980,Italian Folk,folk1980,1
-Neofolk‏‎1980,Neofolk‏‎,folk1980,1
-Neofolk1980,Neofolk,folk1980,1
-Irish Folk1980,Irish Folk,folk1980,1
-Folk Metal1980,Folk Metal,folk1980,1
-Folk Rock1980,Folk Rock,folk1980,1
-Folk1980,Folk,folk1980,1
-bossa nova1980,bossa nova,1980,1
-Bossa Nova1980,Bossa Nova,bossa nova1980,1
-1990,1990,,1236
-hip hop1990,hip hop,1990,5
-Hip Hop1990,Hip Hop,hip hop1990,1
-French Hip Hop1990,French Hip Hop,hip hop1990,1
-Political Hip Hop1990,Political Hip Hop,hip hop1990,1
-Australian Hip Hop1990,Australian Hip Hop,hip hop1990,1
-Alternative Hip Hop1990,Alternative Hip Hop,hip hop1990,1
-pop rock1990,pop rock,1990,1
-Pop Rock1990,Pop Rock,pop rock1990,1
-rock1990,rock,1990,35
-Rap Rock1990,Rap Rock,rock1990,1
-Garage Rock1990,Garage Rock,rock1990,1
-Deutschrock1990,Deutschrock,rock1990,1
-Soft Rock1990,Soft Rock,rock1990,1
-Blues Rock1990,Blues Rock,rock1990,1
-Indie Rock1990,Indie Rock,rock1990,1
-Pop Rock1990,Pop Rock,rock1990,1
-Stoner Rock1990,Stoner Rock,rock1990,1
-Gothic Rock1990,Gothic Rock,rock1990,1
-Comedy Rock1990,Comedy Rock,rock1990,1
-Art Rock1990,Art Rock,rock1990,1
-Southern Rock1990,Southern Rock,rock1990,1
-Hard Rock1990,Hard Rock,rock1990,1
-Rock1990,Rock,rock1990,1
-Christian Rock1990,Christian Rock,rock1990,1
-Psychedelic Rock1990,Psychedelic Rock,rock1990,1
-Country Rock1990,Country Rock,rock1990,1
-Noise Rock1990,Noise Rock,rock1990,1
-Arena Rock1990,Arena Rock,rock1990,1
-Experimental Rock1990,Experimental Rock,rock1990,1
-Rock 'N' Roll1990,Rock 'N' Roll,rock1990,1
-Post-Rock1990,Post-Rock,rock1990,1
-Punk Rock1990,Punk Rock,rock1990,1
-Piano Rock1990,Piano Rock,rock1990,1
-Alternative Rock1990,Alternative Rock,rock1990,1
-Electronic Rock1990,Electronic Rock,rock1990,1
-Samba-Rock1990,Samba-Rock,rock1990,1
-Glam Rock1990,Glam Rock,rock1990,1
-Rockabilly1990,Rockabilly,rock1990,1
-Latin Rock1990,Latin Rock,rock1990,1
-Industrial Rock1990,Industrial Rock,rock1990,1
-Symphonic Rock1990,Symphonic Rock,rock1990,1
-Brazilian Rock1990,Brazilian Rock,rock1990,1
-Progressive Rock1990,Progressive Rock,rock1990,1
-Folk Rock1990,Folk Rock,rock1990,1
-metal1990,metal,1990,22
-Progressive Metal1990,Progressive Metal,metal1990,1
-Industrial Metal1990,Industrial Metal,metal1990,1
-Symphonic Metal1990,Symphonic Metal,metal1990,1
-Doom Metal1990,Doom Metal,metal1990,1
-Avant-garde Metal1990,Avant-garde Metal,metal1990,1
-Christian Metal1990,Christian Metal,metal1990,1
-Pagan Metal1990,Pagan Metal,metal1990,1
-Death Metal1990,Death Metal,metal1990,1
-Glam Metal1990,Glam Metal,metal1990,1
-Gothic Metal1990,Gothic Metal,metal1990,1
-Alternative Metal1990,Alternative Metal,metal1990,1
-Black Metal1990,Black Metal,metal1990,1
-Folk Metal1990,Folk Metal,metal1990,1
-Viking Metal1990,Viking Metal,metal1990,1
-Power Metal1990,Power Metal,metal1990,1
-Post-Metal1990,Post-Metal,metal1990,1
-Heavy Metal1990,Heavy Metal,metal1990,1
-Thrash Metal1990,Thrash Metal,metal1990,1
-Technical Death Metal1990,Technical Death Metal,metal1990,1
-Groove Metal1990,Groove Metal,metal1990,1
-Symphonic Black Metal1990,Symphonic Black Metal,metal1990,1
-Metalcore1990,Metalcore,metal1990,1
-electronic1990,electronic,1990,4
-Electronicore1990,Electronicore,electronic1990,1
-Electronic Rock1990,Electronic Rock,electronic1990,1
-Electronic1990,Electronic,electronic1990,1
-Electronica1990,Electronica,electronic1990,1
-pop1990,pop,1990,21
-Britpop1990,Britpop,pop1990,1
-J-Pop1990,J-Pop,pop1990,1
-Pop Rock1990,Pop Rock,pop1990,1
-Synthpop1990,Synthpop,pop1990,1
-Indie Pop1990,Indie Pop,pop1990,1
-Pop-Rap1990,Pop-Rap,pop1990,1
-Bubblegum Pop1990,Bubblegum Pop,pop1990,1
-French Pop1990,French Pop,pop1990,1
-Electropop1990,Electropop,pop1990,1
-Dance-Pop1990,Dance-Pop,pop1990,1
-Power Pop1990,Power Pop,pop1990,1
-Baroque Pop1990,Baroque Pop,pop1990,1
-Latin Pop1990,Latin Pop,pop1990,1
-Psychedelic Pop1990,Psychedelic Pop,pop1990,1
-Classic Pop1990,Classic Pop,pop1990,1
-Pop1990,Pop,pop1990,1
-Dream Pop1990,Dream Pop,pop1990,1
-Futurepop1990,Futurepop,pop1990,1
-Pop Punk1990,Pop Punk,pop1990,1
-Country Pop1990,Country Pop,pop1990,1
-Europop1990,Europop,pop1990,1
-country1990,country,1990,5
-Country1990,Country,country1990,1
-Alternative Country1990,Alternative Country,country1990,1
-Country Rock1990,Country Rock,country1990,1
-Country Blues1990,Country Blues,country1990,1
-Country Pop1990,Country Pop,country1990,1
-blues1990,blues,1990,8
-Chicago Blues1990,Chicago Blues,blues1990,1
-Soul Blues1990,Soul Blues,blues1990,1
-Country Blues1990,Country Blues,blues1990,1
-Electric Blues1990,Electric Blues,blues1990,1
-Piedmont Blues1990,Piedmont Blues,blues1990,1
-Blues Rock1990,Blues Rock,blues1990,1
-Delta Blues1990,Delta Blues,blues1990,1
-Blues1990,Blues,blues1990,1
-soul1990,soul,1990,3
-Soul1990,Soul,soul1990,1
-Blue-Eyed Soul1990,Blue-Eyed Soul,soul1990,1
-Soul Blues1990,Soul Blues,soul1990,1
-classical1990,classical,1990,2
-Classical1990,Classical,classical1990,1
-Indian Classical Music1990,Indian Classical Music,classical1990,1
-techno1990,techno,1990,1
-Techno1990,Techno,techno1990,1
-jazz1990,jazz,1990,4
-Jazz1990,Jazz,jazz1990,1
-Trad Jazz1990,Trad Jazz,jazz1990,1
-Jazz Fusion1990,Jazz Fusion,jazz1990,1
-Vocal Jazz1990,Vocal Jazz,jazz1990,1
-punk1990,punk,1990,10
-Punk Rock1990,Punk Rock,punk1990,1
-Post-Punk1990,Post-Punk,punk1990,1
-Folk Punk1990,Folk Punk,punk1990,1
-Hardcore Punk1990,Hardcore Punk,punk1990,1
-Street Punk1990,Street Punk,punk1990,1
-Deutschpunk1990,Deutschpunk,punk1990,1
-Pop Punk1990,Pop Punk,punk1990,1
-Horror Punk1990,Horror Punk,punk1990,1
-Ska Punk1990,Ska Punk,punk1990,1
-Electropunk1990,Electropunk,punk1990,1
-funk1990,funk,1990,3
-Funk Melody1990,Funk Melody,funk1990,1
-Funk1990,Funk,funk1990,1
-Funk Carioca1990,Funk Carioca,funk1990,1
-disco1990,disco,1990,2
-Disco1990,Disco,disco1990,1
-Italo Disco1990,Italo Disco,disco1990,1
-reggae1990,reggae,1990,1
-Reggae1990,Reggae,reggae1990,1
-R&B1990,R&B,1990,1
-gospel1990,gospel,1990,1
-Gospel1990,Gospel,gospel1990,1
+Midwest Rap1980,Midwest Rap,rap1980,0
+Gangsta Rap1980,Gangsta Rap,rap1980,0
+Trap1980,Trap,rap1980,0
+rap1980,rap,1980,0
+Neofolk‏‎1980,Neofolk‏‎,folk1980,10
+Irish Folk1980,Irish Folk,folk1980,10
+Italian Folk1980,Italian Folk,folk1980,10
+Folk1980,Folk,folk1980,10
+Neofolk1980,Neofolk,folk1980,10
+folk1980,folk,1980,80
+Bossa Nova1980,Bossa Nova,bossa nova1980,0
+bossa nova1980,bossa nova,1980,0
+1980,1980,,8408
+Australian Hip Hop1990,Australian Hip Hop,hip hop1990,0
+French Hip Hop1990,French Hip Hop,hip hop1990,0
+Hip Hop1990,Hip Hop,hip hop1990,0
+Alternative Hip Hop1990,Alternative Hip Hop,hip hop1990,0
+Political Hip Hop1990,Political Hip Hop,hip hop1990,0
+hip hop1990,hip hop,1990,0
+Latin Rock1990,Latin Rock,rock1990,0
+Electronic Rock1990,Electronic Rock,rock1990,0
+Christian Rock1990,Christian Rock,rock1990,0
+Gothic Rock1990,Gothic Rock,rock1990,0
+Art Rock1990,Art Rock,rock1990,0
+Symphonic Rock1990,Symphonic Rock,rock1990,0
+Country Rock1990,Country Rock,rock1990,0
+Psychedelic Rock1990,Psychedelic Rock,rock1990,0
+Brazilian Rock1990,Brazilian Rock,rock1990,0
+Soft Rock1990,Soft Rock,rock1990,0
+Samba-Rock1990,Samba-Rock,rock1990,0
+Post-Rock1990,Post-Rock,rock1990,0
+Noise Rock1990,Noise Rock,rock1990,0
+Rockabilly1990,Rockabilly,rock1990,0
+Industrial Rock1990,Industrial Rock,rock1990,0
+Folk Rock1990,Folk Rock,rock1990,0
+Rap Rock1990,Rap Rock,rock1990,0
+Southern Rock1990,Southern Rock,rock1990,0
+Garage Rock1990,Garage Rock,rock1990,0
+Stoner Rock1990,Stoner Rock,rock1990,0
+Indie Rock1990,Indie Rock,rock1990,0
+Progressive Rock1990,Progressive Rock,rock1990,0
+Rock 'N' Roll1990,Rock 'N' Roll,rock1990,0
+Hard Rock1990,Hard Rock,rock1990,0
+Pop Rock1990,Pop Rock,rock1990,0
+Deutschrock1990,Deutschrock,rock1990,0
+Piano Rock1990,Piano Rock,rock1990,0
+Glam Rock1990,Glam Rock,rock1990,0
+Arena Rock1990,Arena Rock,rock1990,0
+Rock1990,Rock,rock1990,0
+Punk Rock1990,Punk Rock,rock1990,0
+Comedy Rock1990,Comedy Rock,rock1990,0
+Blues Rock1990,Blues Rock,rock1990,0
+Alternative Rock1990,Alternative Rock,rock1990,0
+Experimental Rock1990,Experimental Rock,rock1990,0
+rock1990,rock,1990,0
+Glam Metal1990,Glam Metal,metal1990,0
+Folk Metal1990,Folk Metal,metal1990,0
+Christian Metal1990,Christian Metal,metal1990,0
+Power Metal1990,Power Metal,metal1990,0
+Doom Metal1990,Doom Metal,metal1990,0
+Metalcore1990,Metalcore,metal1990,0
+Viking Metal1990,Viking Metal,metal1990,0
+Symphonic Metal1990,Symphonic Metal,metal1990,0
+Avant-garde Metal1990,Avant-garde Metal,metal1990,0
+Groove Metal1990,Groove Metal,metal1990,0
+Death Metal1990,Death Metal,metal1990,0
+Industrial Metal1990,Industrial Metal,metal1990,0
+Gothic Metal1990,Gothic Metal,metal1990,0
+Heavy Metal1990,Heavy Metal,metal1990,0
+Post-Metal1990,Post-Metal,metal1990,0
+Alternative Metal1990,Alternative Metal,metal1990,0
+Pagan Metal1990,Pagan Metal,metal1990,0
+Black Metal1990,Black Metal,metal1990,0
+Technical Death Metal1990,Technical Death Metal,metal1990,0
+Thrash Metal1990,Thrash Metal,metal1990,0
+Progressive Metal1990,Progressive Metal,metal1990,0
+Symphonic Black Metal1990,Symphonic Black Metal,metal1990,0
+metal1990,metal,1990,0
+Electronic1990,Electronic,electronic1990,0
+Electronica1990,Electronica,electronic1990,0
+Electronicore1990,Electronicore,electronic1990,0
+electronic1990,electronic,1990,0
+French Pop1990,French Pop,pop1990,0
+Dream Pop1990,Dream Pop,pop1990,0
+Electropop1990,Electropop,pop1990,0
+Indie Pop1990,Indie Pop,pop1990,0
+Country Pop1990,Country Pop,pop1990,0
+Pop Punk1990,Pop Punk,pop1990,0
+Classic Pop1990,Classic Pop,pop1990,0
+Psychedelic Pop1990,Psychedelic Pop,pop1990,0
+Baroque Pop1990,Baroque Pop,pop1990,0
+Latin Pop1990,Latin Pop,pop1990,0
+J-Pop1990,J-Pop,pop1990,0
+Britpop1990,Britpop,pop1990,0
+Pop-Rap1990,Pop-Rap,pop1990,0
+Europop1990,Europop,pop1990,0
+Dance-Pop1990,Dance-Pop,pop1990,0
+Bubblegum Pop1990,Bubblegum Pop,pop1990,0
+Power Pop1990,Power Pop,pop1990,0
+Pop1990,Pop,pop1990,0
+Synthpop1990,Synthpop,pop1990,0
+Futurepop1990,Futurepop,pop1990,0
+pop1990,pop,1990,0
+Alternative Country1990,Alternative Country,country1990,0
+Country Blues1990,Country Blues,country1990,0
+Country1990,Country,country1990,0
+country1990,country,1990,0
+Delta Blues1990,Delta Blues,blues1990,0
+Soul Blues1990,Soul Blues,blues1990,0
+Blues1990,Blues,blues1990,0
+Chicago Blues1990,Chicago Blues,blues1990,0
+Electric Blues1990,Electric Blues,blues1990,0
+Piedmont Blues1990,Piedmont Blues,blues1990,0
+blues1990,blues,1990,0
+Soul1990,Soul,soul1990,0
+Blue-Eyed Soul1990,Blue-Eyed Soul,soul1990,0
+soul1990,soul,1990,0
+Indian Classical Music1990,Indian Classical Music,classical1990,0
+Classical1990,Classical,classical1990,0
+classical1990,classical,1990,0
+Techno1990,Techno,techno1990,0
+techno1990,techno,1990,0
+Trad Jazz1990,Trad Jazz,jazz1990,0
+Vocal Jazz1990,Vocal Jazz,jazz1990,0
+Jazz1990,Jazz,jazz1990,0
+Jazz Fusion1990,Jazz Fusion,jazz1990,0
+jazz1990,jazz,1990,0
+Hardcore Punk1990,Hardcore Punk,punk1990,0
+Street Punk1990,Street Punk,punk1990,0
+Post-Punk1990,Post-Punk,punk1990,0
+Electropunk1990,Electropunk,punk1990,0
+Folk Punk1990,Folk Punk,punk1990,0
+Deutschpunk1990,Deutschpunk,punk1990,0
+Horror Punk1990,Horror Punk,punk1990,0
+Ska Punk1990,Ska Punk,punk1990,0
+punk1990,punk,1990,0
+Funk Carioca1990,Funk Carioca,funk1990,0
+Funk Melody1990,Funk Melody,funk1990,0
+Funk1990,Funk,funk1990,0
+funk1990,funk,1990,0
+Italo Disco1990,Italo Disco,disco1990,0
+Disco1990,Disco,disco1990,0
+disco1990,disco,1990,0
+Reggae1990,Reggae,reggae1990,0
+reggae1990,reggae,1990,0
+R&B1990,R&B,1990,0
+Gospel1990,Gospel,gospel1990,0
+gospel1990,gospel,1990,0
 dupstep1990,dupstep,1990,0
-rap1990,rap,1990,5
-Rap Rock1990,Rap Rock,rap1990,1
-Midwest Rap1990,Midwest Rap,rap1990,1
-Trap1990,Trap,rap1990,1
-Pop-Rap1990,Pop-Rap,rap1990,1
-Gangsta Rap1990,Gangsta Rap,rap1990,1
-folk1990,folk,1990,8
-Folk Punk1990,Folk Punk,folk1990,1
-Italian Folk1990,Italian Folk,folk1990,1
-Neofolk‏‎1990,Neofolk‏‎,folk1990,1
-Neofolk1990,Neofolk,folk1990,1
-Irish Folk1990,Irish Folk,folk1990,1
-Folk Metal1990,Folk Metal,folk1990,1
-Folk Rock1990,Folk Rock,folk1990,1
-Folk1990,Folk,folk1990,1
-bossa nova1990,bossa nova,1990,1
-Bossa Nova1990,Bossa Nova,bossa nova1990,1
-2000,2000,,2162
-hip hop2000,hip hop,2000,5
-Hip Hop2000,Hip Hop,hip hop2000,1
-French Hip Hop2000,French Hip Hop,hip hop2000,1
-Political Hip Hop2000,Political Hip Hop,hip hop2000,1
-Australian Hip Hop2000,Australian Hip Hop,hip hop2000,1
-Alternative Hip Hop2000,Alternative Hip Hop,hip hop2000,1
-pop rock2000,pop rock,2000,1
-Pop Rock2000,Pop Rock,pop rock2000,1
-rock2000,rock,2000,35
-Rap Rock2000,Rap Rock,rock2000,1
-Garage Rock2000,Garage Rock,rock2000,1
-Deutschrock2000,Deutschrock,rock2000,1
-Soft Rock2000,Soft Rock,rock2000,1
-Blues Rock2000,Blues Rock,rock2000,1
-Indie Rock2000,Indie Rock,rock2000,1
-Pop Rock2000,Pop Rock,rock2000,1
-Stoner Rock2000,Stoner Rock,rock2000,1
-Gothic Rock2000,Gothic Rock,rock2000,1
-Comedy Rock2000,Comedy Rock,rock2000,1
-Art Rock2000,Art Rock,rock2000,1
-Southern Rock2000,Southern Rock,rock2000,1
-Hard Rock2000,Hard Rock,rock2000,1
-Rock2000,Rock,rock2000,1
-Christian Rock2000,Christian Rock,rock2000,1
-Psychedelic Rock2000,Psychedelic Rock,rock2000,1
-Country Rock2000,Country Rock,rock2000,1
-Noise Rock2000,Noise Rock,rock2000,1
-Arena Rock2000,Arena Rock,rock2000,1
-Experimental Rock2000,Experimental Rock,rock2000,1
-Rock 'N' Roll2000,Rock 'N' Roll,rock2000,1
-Post-Rock2000,Post-Rock,rock2000,1
-Punk Rock2000,Punk Rock,rock2000,1
-Piano Rock2000,Piano Rock,rock2000,1
-Alternative Rock2000,Alternative Rock,rock2000,1
-Electronic Rock2000,Electronic Rock,rock2000,1
-Samba-Rock2000,Samba-Rock,rock2000,1
-Glam Rock2000,Glam Rock,rock2000,1
-Rockabilly2000,Rockabilly,rock2000,1
-Latin Rock2000,Latin Rock,rock2000,1
-Industrial Rock2000,Industrial Rock,rock2000,1
-Symphonic Rock2000,Symphonic Rock,rock2000,1
-Brazilian Rock2000,Brazilian Rock,rock2000,1
-Progressive Rock2000,Progressive Rock,rock2000,1
-Folk Rock2000,Folk Rock,rock2000,1
-metal2000,metal,2000,22
-Progressive Metal2000,Progressive Metal,metal2000,1
-Industrial Metal2000,Industrial Metal,metal2000,1
-Symphonic Metal2000,Symphonic Metal,metal2000,1
-Doom Metal2000,Doom Metal,metal2000,1
-Avant-garde Metal2000,Avant-garde Metal,metal2000,1
-Christian Metal2000,Christian Metal,metal2000,1
-Pagan Metal2000,Pagan Metal,metal2000,1
-Death Metal2000,Death Metal,metal2000,1
-Glam Metal2000,Glam Metal,metal2000,1
-Gothic Metal2000,Gothic Metal,metal2000,1
-Alternative Metal2000,Alternative Metal,metal2000,1
-Black Metal2000,Black Metal,metal2000,1
-Folk Metal2000,Folk Metal,metal2000,1
-Viking Metal2000,Viking Metal,metal2000,1
-Power Metal2000,Power Metal,metal2000,1
-Post-Metal2000,Post-Metal,metal2000,1
-Heavy Metal2000,Heavy Metal,metal2000,1
-Thrash Metal2000,Thrash Metal,metal2000,1
-Technical Death Metal2000,Technical Death Metal,metal2000,1
-Groove Metal2000,Groove Metal,metal2000,1
-Symphonic Black Metal2000,Symphonic Black Metal,metal2000,1
-Metalcore2000,Metalcore,metal2000,1
-electronic2000,electronic,2000,4
-Electronicore2000,Electronicore,electronic2000,1
-Electronic Rock2000,Electronic Rock,electronic2000,1
-Electronic2000,Electronic,electronic2000,1
-Electronica2000,Electronica,electronic2000,1
-pop2000,pop,2000,21
-Britpop2000,Britpop,pop2000,1
-J-Pop2000,J-Pop,pop2000,1
-Pop Rock2000,Pop Rock,pop2000,1
-Synthpop2000,Synthpop,pop2000,1
-Indie Pop2000,Indie Pop,pop2000,1
-Pop-Rap2000,Pop-Rap,pop2000,1
-Bubblegum Pop2000,Bubblegum Pop,pop2000,1
-French Pop2000,French Pop,pop2000,1
-Electropop2000,Electropop,pop2000,1
-Dance-Pop2000,Dance-Pop,pop2000,1
-Power Pop2000,Power Pop,pop2000,1
-Baroque Pop2000,Baroque Pop,pop2000,1
-Latin Pop2000,Latin Pop,pop2000,1
-Psychedelic Pop2000,Psychedelic Pop,pop2000,1
-Classic Pop2000,Classic Pop,pop2000,1
-Pop2000,Pop,pop2000,1
-Dream Pop2000,Dream Pop,pop2000,1
-Futurepop2000,Futurepop,pop2000,1
-Pop Punk2000,Pop Punk,pop2000,1
-Country Pop2000,Country Pop,pop2000,1
-Europop2000,Europop,pop2000,1
-country2000,country,2000,5
-Country2000,Country,country2000,1
-Alternative Country2000,Alternative Country,country2000,1
-Country Rock2000,Country Rock,country2000,1
-Country Blues2000,Country Blues,country2000,1
-Country Pop2000,Country Pop,country2000,1
-blues2000,blues,2000,8
-Chicago Blues2000,Chicago Blues,blues2000,1
-Soul Blues2000,Soul Blues,blues2000,1
-Country Blues2000,Country Blues,blues2000,1
-Electric Blues2000,Electric Blues,blues2000,1
-Piedmont Blues2000,Piedmont Blues,blues2000,1
-Blues Rock2000,Blues Rock,blues2000,1
-Delta Blues2000,Delta Blues,blues2000,1
-Blues2000,Blues,blues2000,1
-soul2000,soul,2000,3
-Soul2000,Soul,soul2000,1
-Blue-Eyed Soul2000,Blue-Eyed Soul,soul2000,1
-Soul Blues2000,Soul Blues,soul2000,1
-classical2000,classical,2000,2
-Classical2000,Classical,classical2000,1
-Indian Classical Music2000,Indian Classical Music,classical2000,1
-techno2000,techno,2000,1
-Techno2000,Techno,techno2000,1
-jazz2000,jazz,2000,4
-Jazz2000,Jazz,jazz2000,1
-Trad Jazz2000,Trad Jazz,jazz2000,1
-Jazz Fusion2000,Jazz Fusion,jazz2000,1
-Vocal Jazz2000,Vocal Jazz,jazz2000,1
-punk2000,punk,2000,10
-Punk Rock2000,Punk Rock,punk2000,1
-Post-Punk2000,Post-Punk,punk2000,1
-Folk Punk2000,Folk Punk,punk2000,1
-Hardcore Punk2000,Hardcore Punk,punk2000,1
-Street Punk2000,Street Punk,punk2000,1
-Deutschpunk2000,Deutschpunk,punk2000,1
-Pop Punk2000,Pop Punk,punk2000,1
-Horror Punk2000,Horror Punk,punk2000,1
-Ska Punk2000,Ska Punk,punk2000,1
-Electropunk2000,Electropunk,punk2000,1
-funk2000,funk,2000,3
-Funk Melody2000,Funk Melody,funk2000,1
-Funk2000,Funk,funk2000,1
-Funk Carioca2000,Funk Carioca,funk2000,1
-disco2000,disco,2000,2
-Disco2000,Disco,disco2000,1
-Italo Disco2000,Italo Disco,disco2000,1
-reggae2000,reggae,2000,1
-Reggae2000,Reggae,reggae2000,1
-R&B2000,R&B,2000,1
-gospel2000,gospel,2000,1
-Gospel2000,Gospel,gospel2000,1
+Midwest Rap1990,Midwest Rap,rap1990,0
+Gangsta Rap1990,Gangsta Rap,rap1990,0
+Trap1990,Trap,rap1990,0
+rap1990,rap,1990,0
+Neofolk‏‎1990,Neofolk‏‎,folk1990,0
+Irish Folk1990,Irish Folk,folk1990,0
+Italian Folk1990,Italian Folk,folk1990,0
+Folk1990,Folk,folk1990,0
+Neofolk1990,Neofolk,folk1990,0
+folk1990,folk,1990,0
+Bossa Nova1990,Bossa Nova,bossa nova1990,0
+bossa nova1990,bossa nova,1990,0
+1990,1990,,1236
+Australian Hip Hop2000,Australian Hip Hop,hip hop2000,52
+French Hip Hop2000,French Hip Hop,hip hop2000,52
+Hip Hop2000,Hip Hop,hip hop2000,52
+Alternative Hip Hop2000,Alternative Hip Hop,hip hop2000,52
+Political Hip Hop2000,Political Hip Hop,hip hop2000,52
+hip hop2000,hip hop,2000,260
+Latin Rock2000,Latin Rock,rock2000,325
+Electronic Rock2000,Electronic Rock,rock2000,325
+Christian Rock2000,Christian Rock,rock2000,325
+Gothic Rock2000,Gothic Rock,rock2000,325
+Art Rock2000,Art Rock,rock2000,325
+Symphonic Rock2000,Symphonic Rock,rock2000,325
+Country Rock2000,Country Rock,rock2000,325
+Psychedelic Rock2000,Psychedelic Rock,rock2000,325
+Brazilian Rock2000,Brazilian Rock,rock2000,325
+Soft Rock2000,Soft Rock,rock2000,325
+Samba-Rock2000,Samba-Rock,rock2000,325
+Post-Rock2000,Post-Rock,rock2000,325
+Noise Rock2000,Noise Rock,rock2000,325
+Rockabilly2000,Rockabilly,rock2000,325
+Industrial Rock2000,Industrial Rock,rock2000,325
+Folk Rock2000,Folk Rock,rock2000,325
+Rap Rock2000,Rap Rock,rock2000,325
+Southern Rock2000,Southern Rock,rock2000,325
+Garage Rock2000,Garage Rock,rock2000,325
+Stoner Rock2000,Stoner Rock,rock2000,325
+Indie Rock2000,Indie Rock,rock2000,325
+Progressive Rock2000,Progressive Rock,rock2000,325
+Rock 'N' Roll2000,Rock 'N' Roll,rock2000,325
+Hard Rock2000,Hard Rock,rock2000,325
+Pop Rock2000,Pop Rock,rock2000,325
+Deutschrock2000,Deutschrock,rock2000,325
+Piano Rock2000,Piano Rock,rock2000,325
+Glam Rock2000,Glam Rock,rock2000,325
+Arena Rock2000,Arena Rock,rock2000,325
+Rock2000,Rock,rock2000,325
+Punk Rock2000,Punk Rock,rock2000,325
+Comedy Rock2000,Comedy Rock,rock2000,325
+Blues Rock2000,Blues Rock,rock2000,325
+Alternative Rock2000,Alternative Rock,rock2000,325
+Experimental Rock2000,Experimental Rock,rock2000,325
+rock2000,rock,2000,11375
+Glam Metal2000,Glam Metal,metal2000,193
+Folk Metal2000,Folk Metal,metal2000,193
+Christian Metal2000,Christian Metal,metal2000,193
+Power Metal2000,Power Metal,metal2000,193
+Doom Metal2000,Doom Metal,metal2000,193
+Metalcore2000,Metalcore,metal2000,193
+Viking Metal2000,Viking Metal,metal2000,193
+Symphonic Metal2000,Symphonic Metal,metal2000,193
+Avant-garde Metal2000,Avant-garde Metal,metal2000,193
+Groove Metal2000,Groove Metal,metal2000,193
+Death Metal2000,Death Metal,metal2000,193
+Industrial Metal2000,Industrial Metal,metal2000,193
+Gothic Metal2000,Gothic Metal,metal2000,193
+Heavy Metal2000,Heavy Metal,metal2000,193
+Post-Metal2000,Post-Metal,metal2000,193
+Alternative Metal2000,Alternative Metal,metal2000,193
+Pagan Metal2000,Pagan Metal,metal2000,193
+Black Metal2000,Black Metal,metal2000,193
+Technical Death Metal2000,Technical Death Metal,metal2000,193
+Thrash Metal2000,Thrash Metal,metal2000,193
+Progressive Metal2000,Progressive Metal,metal2000,193
+Symphonic Black Metal2000,Symphonic Black Metal,metal2000,193
+metal2000,metal,2000,4246
+Electronic2000,Electronic,electronic2000,37
+Electronica2000,Electronica,electronic2000,37
+Electronicore2000,Electronicore,electronic2000,37
+electronic2000,electronic,2000,148
+French Pop2000,French Pop,pop2000,177
+Dream Pop2000,Dream Pop,pop2000,177
+Electropop2000,Electropop,pop2000,177
+Indie Pop2000,Indie Pop,pop2000,177
+Country Pop2000,Country Pop,pop2000,177
+Pop Punk2000,Pop Punk,pop2000,177
+Classic Pop2000,Classic Pop,pop2000,177
+Psychedelic Pop2000,Psychedelic Pop,pop2000,177
+Baroque Pop2000,Baroque Pop,pop2000,177
+Latin Pop2000,Latin Pop,pop2000,177
+J-Pop2000,J-Pop,pop2000,177
+Britpop2000,Britpop,pop2000,177
+Pop-Rap2000,Pop-Rap,pop2000,177
+Europop2000,Europop,pop2000,177
+Dance-Pop2000,Dance-Pop,pop2000,177
+Bubblegum Pop2000,Bubblegum Pop,pop2000,177
+Power Pop2000,Power Pop,pop2000,177
+Pop2000,Pop,pop2000,177
+Synthpop2000,Synthpop,pop2000,177
+Futurepop2000,Futurepop,pop2000,177
+pop2000,pop,2000,3717
+Alternative Country2000,Alternative Country,country2000,37
+Country Blues2000,Country Blues,country2000,37
+Country2000,Country,country2000,37
+country2000,country,2000,185
+Delta Blues2000,Delta Blues,blues2000,6
+Soul Blues2000,Soul Blues,blues2000,6
+Blues2000,Blues,blues2000,6
+Chicago Blues2000,Chicago Blues,blues2000,6
+Electric Blues2000,Electric Blues,blues2000,6
+Piedmont Blues2000,Piedmont Blues,blues2000,6
+blues2000,blues,2000,48
+Soul2000,Soul,soul2000,8
+Blue-Eyed Soul2000,Blue-Eyed Soul,soul2000,8
+soul2000,soul,2000,24
+Indian Classical Music2000,Indian Classical Music,classical2000,2
+Classical2000,Classical,classical2000,2
+classical2000,classical,2000,4
+Techno2000,Techno,techno2000,4
+techno2000,techno,2000,4
+Trad Jazz2000,Trad Jazz,jazz2000,13
+Vocal Jazz2000,Vocal Jazz,jazz2000,13
+Jazz2000,Jazz,jazz2000,13
+Jazz Fusion2000,Jazz Fusion,jazz2000,13
+jazz2000,jazz,2000,52
+Hardcore Punk2000,Hardcore Punk,punk2000,46
+Street Punk2000,Street Punk,punk2000,46
+Post-Punk2000,Post-Punk,punk2000,46
+Electropunk2000,Electropunk,punk2000,46
+Folk Punk2000,Folk Punk,punk2000,46
+Deutschpunk2000,Deutschpunk,punk2000,46
+Horror Punk2000,Horror Punk,punk2000,46
+Ska Punk2000,Ska Punk,punk2000,46
+punk2000,punk,2000,460
+Funk Carioca2000,Funk Carioca,funk2000,0
+Funk Melody2000,Funk Melody,funk2000,0
+Funk2000,Funk,funk2000,0
+funk2000,funk,2000,0
+Italo Disco2000,Italo Disco,disco2000,0
+Disco2000,Disco,disco2000,0
+disco2000,disco,2000,0
+Reggae2000,Reggae,reggae2000,9
+reggae2000,reggae,2000,9
+R&B2000,R&B,2000,0
+Gospel2000,Gospel,gospel2000,7
+gospel2000,gospel,2000,7
 dupstep2000,dupstep,2000,0
-rap2000,rap,2000,5
-Rap Rock2000,Rap Rock,rap2000,1
-Midwest Rap2000,Midwest Rap,rap2000,1
-Trap2000,Trap,rap2000,1
-Pop-Rap2000,Pop-Rap,rap2000,1
-Gangsta Rap2000,Gangsta Rap,rap2000,1
-folk2000,folk,2000,8
-Folk Punk2000,Folk Punk,folk2000,1
-Italian Folk2000,Italian Folk,folk2000,1
-Neofolk‏‎2000,Neofolk‏‎,folk2000,1
-Neofolk2000,Neofolk,folk2000,1
-Irish Folk2000,Irish Folk,folk2000,1
-Folk Metal2000,Folk Metal,folk2000,1
-Folk Rock2000,Folk Rock,folk2000,1
-Folk2000,Folk,folk2000,1
-bossa nova2000,bossa nova,2000,1
+Midwest Rap2000,Midwest Rap,rap2000,7
+Gangsta Rap2000,Gangsta Rap,rap2000,7
+Trap2000,Trap,rap2000,7
+rap2000,rap,2000,35
+Neofolk‏‎2000,Neofolk‏‎,folk2000,69
+Irish Folk2000,Irish Folk,folk2000,69
+Italian Folk2000,Italian Folk,folk2000,69
+Folk2000,Folk,folk2000,69
+Neofolk2000,Neofolk,folk2000,69
+folk2000,folk,2000,552
 Bossa Nova2000,Bossa Nova,bossa nova2000,1
-2010,2010,,856
-hip hop2010,hip hop,2010,5
-Hip Hop2010,Hip Hop,hip hop2010,1
-French Hip Hop2010,French Hip Hop,hip hop2010,1
-Political Hip Hop2010,Political Hip Hop,hip hop2010,1
-Australian Hip Hop2010,Australian Hip Hop,hip hop2010,1
-Alternative Hip Hop2010,Alternative Hip Hop,hip hop2010,1
-pop rock2010,pop rock,2010,1
-Pop Rock2010,Pop Rock,pop rock2010,1
-rock2010,rock,2010,35
-Rap Rock2010,Rap Rock,rock2010,1
-Garage Rock2010,Garage Rock,rock2010,1
-Deutschrock2010,Deutschrock,rock2010,1
-Soft Rock2010,Soft Rock,rock2010,1
-Blues Rock2010,Blues Rock,rock2010,1
-Indie Rock2010,Indie Rock,rock2010,1
-Pop Rock2010,Pop Rock,rock2010,1
-Stoner Rock2010,Stoner Rock,rock2010,1
-Gothic Rock2010,Gothic Rock,rock2010,1
-Comedy Rock2010,Comedy Rock,rock2010,1
-Art Rock2010,Art Rock,rock2010,1
-Southern Rock2010,Southern Rock,rock2010,1
-Hard Rock2010,Hard Rock,rock2010,1
-Rock2010,Rock,rock2010,1
-Christian Rock2010,Christian Rock,rock2010,1
-Psychedelic Rock2010,Psychedelic Rock,rock2010,1
-Country Rock2010,Country Rock,rock2010,1
-Noise Rock2010,Noise Rock,rock2010,1
-Arena Rock2010,Arena Rock,rock2010,1
-Experimental Rock2010,Experimental Rock,rock2010,1
-Rock 'N' Roll2010,Rock 'N' Roll,rock2010,1
-Post-Rock2010,Post-Rock,rock2010,1
-Punk Rock2010,Punk Rock,rock2010,1
-Piano Rock2010,Piano Rock,rock2010,1
-Alternative Rock2010,Alternative Rock,rock2010,1
-Electronic Rock2010,Electronic Rock,rock2010,1
-Samba-Rock2010,Samba-Rock,rock2010,1
-Glam Rock2010,Glam Rock,rock2010,1
-Rockabilly2010,Rockabilly,rock2010,1
-Latin Rock2010,Latin Rock,rock2010,1
-Industrial Rock2010,Industrial Rock,rock2010,1
-Symphonic Rock2010,Symphonic Rock,rock2010,1
-Brazilian Rock2010,Brazilian Rock,rock2010,1
-Progressive Rock2010,Progressive Rock,rock2010,1
-Folk Rock2010,Folk Rock,rock2010,1
-metal2010,metal,2010,22
-Progressive Metal2010,Progressive Metal,metal2010,1
-Industrial Metal2010,Industrial Metal,metal2010,1
-Symphonic Metal2010,Symphonic Metal,metal2010,1
-Doom Metal2010,Doom Metal,metal2010,1
-Avant-garde Metal2010,Avant-garde Metal,metal2010,1
-Christian Metal2010,Christian Metal,metal2010,1
-Pagan Metal2010,Pagan Metal,metal2010,1
-Death Metal2010,Death Metal,metal2010,1
-Glam Metal2010,Glam Metal,metal2010,1
-Gothic Metal2010,Gothic Metal,metal2010,1
-Alternative Metal2010,Alternative Metal,metal2010,1
-Black Metal2010,Black Metal,metal2010,1
-Folk Metal2010,Folk Metal,metal2010,1
-Viking Metal2010,Viking Metal,metal2010,1
-Power Metal2010,Power Metal,metal2010,1
-Post-Metal2010,Post-Metal,metal2010,1
-Heavy Metal2010,Heavy Metal,metal2010,1
-Thrash Metal2010,Thrash Metal,metal2010,1
-Technical Death Metal2010,Technical Death Metal,metal2010,1
-Groove Metal2010,Groove Metal,metal2010,1
-Symphonic Black Metal2010,Symphonic Black Metal,metal2010,1
-Metalcore2010,Metalcore,metal2010,1
-electronic2010,electronic,2010,4
-Electronicore2010,Electronicore,electronic2010,1
-Electronic Rock2010,Electronic Rock,electronic2010,1
-Electronic2010,Electronic,electronic2010,1
-Electronica2010,Electronica,electronic2010,1
-pop2010,pop,2010,21
-Britpop2010,Britpop,pop2010,1
-J-Pop2010,J-Pop,pop2010,1
-Pop Rock2010,Pop Rock,pop2010,1
-Synthpop2010,Synthpop,pop2010,1
-Indie Pop2010,Indie Pop,pop2010,1
-Pop-Rap2010,Pop-Rap,pop2010,1
-Bubblegum Pop2010,Bubblegum Pop,pop2010,1
-French Pop2010,French Pop,pop2010,1
-Electropop2010,Electropop,pop2010,1
-Dance-Pop2010,Dance-Pop,pop2010,1
-Power Pop2010,Power Pop,pop2010,1
-Baroque Pop2010,Baroque Pop,pop2010,1
-Latin Pop2010,Latin Pop,pop2010,1
-Psychedelic Pop2010,Psychedelic Pop,pop2010,1
-Classic Pop2010,Classic Pop,pop2010,1
-Pop2010,Pop,pop2010,1
-Dream Pop2010,Dream Pop,pop2010,1
-Futurepop2010,Futurepop,pop2010,1
-Pop Punk2010,Pop Punk,pop2010,1
-Country Pop2010,Country Pop,pop2010,1
-Europop2010,Europop,pop2010,1
-country2010,country,2010,5
-Country2010,Country,country2010,1
-Alternative Country2010,Alternative Country,country2010,1
-Country Rock2010,Country Rock,country2010,1
-Country Blues2010,Country Blues,country2010,1
-Country Pop2010,Country Pop,country2010,1
-blues2010,blues,2010,8
-Chicago Blues2010,Chicago Blues,blues2010,1
-Soul Blues2010,Soul Blues,blues2010,1
-Country Blues2010,Country Blues,blues2010,1
-Electric Blues2010,Electric Blues,blues2010,1
-Piedmont Blues2010,Piedmont Blues,blues2010,1
-Blues Rock2010,Blues Rock,blues2010,1
-Delta Blues2010,Delta Blues,blues2010,1
-Blues2010,Blues,blues2010,1
-soul2010,soul,2010,3
-Soul2010,Soul,soul2010,1
-Blue-Eyed Soul2010,Blue-Eyed Soul,soul2010,1
-Soul Blues2010,Soul Blues,soul2010,1
-classical2010,classical,2010,2
-Classical2010,Classical,classical2010,1
-Indian Classical Music2010,Indian Classical Music,classical2010,1
-techno2010,techno,2010,1
-Techno2010,Techno,techno2010,1
-jazz2010,jazz,2010,4
-Jazz2010,Jazz,jazz2010,1
-Trad Jazz2010,Trad Jazz,jazz2010,1
-Jazz Fusion2010,Jazz Fusion,jazz2010,1
-Vocal Jazz2010,Vocal Jazz,jazz2010,1
-punk2010,punk,2010,10
-Punk Rock2010,Punk Rock,punk2010,1
-Post-Punk2010,Post-Punk,punk2010,1
-Folk Punk2010,Folk Punk,punk2010,1
-Hardcore Punk2010,Hardcore Punk,punk2010,1
-Street Punk2010,Street Punk,punk2010,1
-Deutschpunk2010,Deutschpunk,punk2010,1
-Pop Punk2010,Pop Punk,punk2010,1
-Horror Punk2010,Horror Punk,punk2010,1
-Ska Punk2010,Ska Punk,punk2010,1
-Electropunk2010,Electropunk,punk2010,1
-funk2010,funk,2010,3
-Funk Melody2010,Funk Melody,funk2010,1
-Funk2010,Funk,funk2010,1
-Funk Carioca2010,Funk Carioca,funk2010,1
-disco2010,disco,2010,2
-Disco2010,Disco,disco2010,1
-Italo Disco2010,Italo Disco,disco2010,1
-reggae2010,reggae,2010,1
-Reggae2010,Reggae,reggae2010,1
-R&B2010,R&B,2010,1
-gospel2010,gospel,2010,1
+bossa nova2000,bossa nova,2000,1
+2000,2000,,23289
+Australian Hip Hop2010,Australian Hip Hop,hip hop2010,39
+French Hip Hop2010,French Hip Hop,hip hop2010,39
+Hip Hop2010,Hip Hop,hip hop2010,39
+Alternative Hip Hop2010,Alternative Hip Hop,hip hop2010,39
+Political Hip Hop2010,Political Hip Hop,hip hop2010,39
+hip hop2010,hip hop,2010,195
+Latin Rock2010,Latin Rock,rock2010,143
+Electronic Rock2010,Electronic Rock,rock2010,143
+Christian Rock2010,Christian Rock,rock2010,143
+Gothic Rock2010,Gothic Rock,rock2010,143
+Art Rock2010,Art Rock,rock2010,143
+Symphonic Rock2010,Symphonic Rock,rock2010,143
+Country Rock2010,Country Rock,rock2010,143
+Psychedelic Rock2010,Psychedelic Rock,rock2010,143
+Brazilian Rock2010,Brazilian Rock,rock2010,143
+Soft Rock2010,Soft Rock,rock2010,143
+Samba-Rock2010,Samba-Rock,rock2010,143
+Post-Rock2010,Post-Rock,rock2010,143
+Noise Rock2010,Noise Rock,rock2010,143
+Rockabilly2010,Rockabilly,rock2010,143
+Industrial Rock2010,Industrial Rock,rock2010,143
+Folk Rock2010,Folk Rock,rock2010,143
+Rap Rock2010,Rap Rock,rock2010,143
+Southern Rock2010,Southern Rock,rock2010,143
+Garage Rock2010,Garage Rock,rock2010,143
+Stoner Rock2010,Stoner Rock,rock2010,143
+Indie Rock2010,Indie Rock,rock2010,143
+Progressive Rock2010,Progressive Rock,rock2010,143
+Rock 'N' Roll2010,Rock 'N' Roll,rock2010,143
+Hard Rock2010,Hard Rock,rock2010,143
+Pop Rock2010,Pop Rock,rock2010,143
+Deutschrock2010,Deutschrock,rock2010,143
+Piano Rock2010,Piano Rock,rock2010,143
+Glam Rock2010,Glam Rock,rock2010,143
+Arena Rock2010,Arena Rock,rock2010,143
+Rock2010,Rock,rock2010,143
+Punk Rock2010,Punk Rock,rock2010,143
+Comedy Rock2010,Comedy Rock,rock2010,143
+Blues Rock2010,Blues Rock,rock2010,143
+Alternative Rock2010,Alternative Rock,rock2010,143
+Experimental Rock2010,Experimental Rock,rock2010,143
+rock2010,rock,2010,5005
+Glam Metal2010,Glam Metal,metal2010,75
+Folk Metal2010,Folk Metal,metal2010,75
+Christian Metal2010,Christian Metal,metal2010,75
+Power Metal2010,Power Metal,metal2010,75
+Doom Metal2010,Doom Metal,metal2010,75
+Metalcore2010,Metalcore,metal2010,75
+Viking Metal2010,Viking Metal,metal2010,75
+Symphonic Metal2010,Symphonic Metal,metal2010,75
+Avant-garde Metal2010,Avant-garde Metal,metal2010,75
+Groove Metal2010,Groove Metal,metal2010,75
+Death Metal2010,Death Metal,metal2010,75
+Industrial Metal2010,Industrial Metal,metal2010,75
+Gothic Metal2010,Gothic Metal,metal2010,75
+Heavy Metal2010,Heavy Metal,metal2010,75
+Post-Metal2010,Post-Metal,metal2010,75
+Alternative Metal2010,Alternative Metal,metal2010,75
+Pagan Metal2010,Pagan Metal,metal2010,75
+Black Metal2010,Black Metal,metal2010,75
+Technical Death Metal2010,Technical Death Metal,metal2010,75
+Thrash Metal2010,Thrash Metal,metal2010,75
+Progressive Metal2010,Progressive Metal,metal2010,75
+Symphonic Black Metal2010,Symphonic Black Metal,metal2010,75
+metal2010,metal,2010,1650
+Electronic2010,Electronic,electronic2010,19
+Electronica2010,Electronica,electronic2010,19
+Electronicore2010,Electronicore,electronic2010,19
+electronic2010,electronic,2010,76
+French Pop2010,French Pop,pop2010,92
+Dream Pop2010,Dream Pop,pop2010,92
+Electropop2010,Electropop,pop2010,92
+Indie Pop2010,Indie Pop,pop2010,92
+Country Pop2010,Country Pop,pop2010,92
+Pop Punk2010,Pop Punk,pop2010,92
+Classic Pop2010,Classic Pop,pop2010,92
+Psychedelic Pop2010,Psychedelic Pop,pop2010,92
+Baroque Pop2010,Baroque Pop,pop2010,92
+Latin Pop2010,Latin Pop,pop2010,92
+J-Pop2010,J-Pop,pop2010,92
+Britpop2010,Britpop,pop2010,92
+Pop-Rap2010,Pop-Rap,pop2010,92
+Europop2010,Europop,pop2010,92
+Dance-Pop2010,Dance-Pop,pop2010,92
+Bubblegum Pop2010,Bubblegum Pop,pop2010,92
+Power Pop2010,Power Pop,pop2010,92
+Pop2010,Pop,pop2010,92
+Synthpop2010,Synthpop,pop2010,92
+Futurepop2010,Futurepop,pop2010,92
+pop2010,pop,2010,1932
+Alternative Country2010,Alternative Country,country2010,8
+Country Blues2010,Country Blues,country2010,8
+Country2010,Country,country2010,8
+country2010,country,2010,40
+Delta Blues2010,Delta Blues,blues2010,6
+Soul Blues2010,Soul Blues,blues2010,6
+Blues2010,Blues,blues2010,6
+Chicago Blues2010,Chicago Blues,blues2010,6
+Electric Blues2010,Electric Blues,blues2010,6
+Piedmont Blues2010,Piedmont Blues,blues2010,6
+blues2010,blues,2010,48
+Soul2010,Soul,soul2010,0
+Blue-Eyed Soul2010,Blue-Eyed Soul,soul2010,0
+soul2010,soul,2010,0
+Indian Classical Music2010,Indian Classical Music,classical2010,0
+Classical2010,Classical,classical2010,0
+classical2010,classical,2010,0
+Techno2010,Techno,techno2010,0
+techno2010,techno,2010,0
+Trad Jazz2010,Trad Jazz,jazz2010,6
+Vocal Jazz2010,Vocal Jazz,jazz2010,6
+Jazz2010,Jazz,jazz2010,6
+Jazz Fusion2010,Jazz Fusion,jazz2010,6
+jazz2010,jazz,2010,24
+Hardcore Punk2010,Hardcore Punk,punk2010,21
+Street Punk2010,Street Punk,punk2010,21
+Post-Punk2010,Post-Punk,punk2010,21
+Electropunk2010,Electropunk,punk2010,21
+Folk Punk2010,Folk Punk,punk2010,21
+Deutschpunk2010,Deutschpunk,punk2010,21
+Horror Punk2010,Horror Punk,punk2010,21
+Ska Punk2010,Ska Punk,punk2010,21
+punk2010,punk,2010,210
+Funk Carioca2010,Funk Carioca,funk2010,0
+Funk Melody2010,Funk Melody,funk2010,0
+Funk2010,Funk,funk2010,0
+funk2010,funk,2010,0
+Italo Disco2010,Italo Disco,disco2010,0
+Disco2010,Disco,disco2010,0
+disco2010,disco,2010,0
+Reggae2010,Reggae,reggae2010,2
+reggae2010,reggae,2010,2
+R&B2010,R&B,2010,0
 Gospel2010,Gospel,gospel2010,1
+gospel2010,gospel,2010,1
 dupstep2010,dupstep,2010,0
-rap2010,rap,2010,5
-Rap Rock2010,Rap Rock,rap2010,1
-Midwest Rap2010,Midwest Rap,rap2010,1
-Trap2010,Trap,rap2010,1
-Pop-Rap2010,Pop-Rap,rap2010,1
-Gangsta Rap2010,Gangsta Rap,rap2010,1
-folk2010,folk,2010,8
-Folk Punk2010,Folk Punk,folk2010,1
-Italian Folk2010,Italian Folk,folk2010,1
-Neofolk‏‎2010,Neofolk‏‎,folk2010,1
-Neofolk2010,Neofolk,folk2010,1
-Irish Folk2010,Irish Folk,folk2010,1
-Folk Metal2010,Folk Metal,folk2010,1
-Folk Rock2010,Folk Rock,folk2010,1
-Folk2010,Folk,folk2010,1
-bossa nova2010,bossa nova,2010,1
-Bossa Nova2010,Bossa Nova,bossa nova2010,1
+Midwest Rap2010,Midwest Rap,rap2010,2
+Gangsta Rap2010,Gangsta Rap,rap2010,2
+Trap2010,Trap,rap2010,2
+rap2010,rap,2010,10
+Neofolk‏‎2010,Neofolk‏‎,folk2010,25
+Irish Folk2010,Irish Folk,folk2010,25
+Italian Folk2010,Italian Folk,folk2010,25
+Folk2010,Folk,folk2010,25
+Neofolk2010,Neofolk,folk2010,25
+folk2010,folk,2010,200
+Bossa Nova2010,Bossa Nova,bossa nova2010,0
+bossa nova2010,bossa nova,2010,0
+2010,2010,,10249

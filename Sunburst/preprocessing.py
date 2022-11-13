@@ -4,14 +4,15 @@ import json
 import csv
 
 # Read the csv files
-dfSongs = pd.read_csv('DATA/wasabi_csv/songs.csv')
-dfArtists = pd.read_csv('DATA/wasabi_csv/wasabi_all_artists_3000.csv')
-dfAlbums = pd.read_csv('DATA/wasabi_csv/albums_all_artists_3000.csv')
+dfSongs = pd.read_csv('DATA/clean/songs.csv')
+dfArtists = pd.read_csv('DATA/clean/artists.csv')
+dfAlbums = pd.read_csv('DATA/clean/albums.csv')
 dfAlbums.reset_index(drop=True, inplace=True)
 dfArtists.reset_index(drop=True, inplace=True)
 dfSongs.reset_index(drop=True, inplace=True)
 dfArtists.rename(columns={'genres':'genre'}, inplace=True)
 
+cpt0 = 0
 cpt1970 = 0 #annees 1970
 cpt1980 = 0 #annees 1980
 cpt1990 = 0 #annees 1990
@@ -55,25 +56,17 @@ dfAlbums.insert(loc=len(dfAlbums.columns), column="decade", value=new_col)
 new_col = []
 for i in range(len(dfAlbums['_id'])):
     id_artist = dfAlbums['id_artist'][i]
-    print(id_artist)
+    name = np.array(dfArtists[dfArtists['_id'] == dfAlbums['id_artist'][i]]['name'])[0]
+    new_col.append(name)
+dfAlbums.insert(loc=len(dfAlbums.columns), column="artist_name", value=new_col)
 
 
-    b = np.array(pd.isnull(dfArtists[dfAlbums['_id'] == dfArtists['id_artist'][i]]['name']))[0] #genre_inféré
-    elt = np.array(dfAlbums[dfAlbums['_id'] == dfSongs['id_album'][i]]['genre'])[0] #genre
+alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock", "pop rock" : "rock", "punk rock": "punk", "folk rock" : "folk"}
+genre_clusters = ["hip hop", "rock", "metal", "electronic", "pop", "country", "blues", "soul", "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "dupstep", "rap", "folk", "bossa nova"]
 
-    name = dfArtists[dfArtists['_id'] == id_artist]['name'].values[0]
-    print(name)
-    new_col.append(dfArtists['name'][id_artist])
-print(new_col)
-
-
-
-alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
-genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul", "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "dupstep", "rap", "folk", "bossa nova"]
-
-mycolumns = list(dfAlbums.columns) + ["decade","sousGenre", "genreCluster"]
+mycolumns = list(dfAlbums.columns) + ["decade","sousGenre", "genreCluster", "artist_name"]
 myDf = pd.DataFrame(columns= mycolumns)
-print(dfAlbums.head)
+#print(dfAlbums.head)
 
 
 
@@ -111,27 +104,90 @@ for i in range(len(dfArtists)):
 					else:
 						artist_subgenres[genre].update((artist_name,))
 					continue
-print(sub_genres)
+
+
+
+
+
+
+
+
 
 hierachy = {"name": "Major Genres", "children": []}
 liste = []
 
-years = [1970, 1980, 1990, 2000, 2010]
+years = [0, 1970, 1980, 1990, 2000, 2010]
+
+
+#counting the number of albums per genre in each decade
+filtered_values = dfAlbums.loc[(dfAlbums['decade']==1970) & (dfAlbums['genre']=="Rock")]
+#print(filtered_values["_id"].count())
+
 
 #GENRE ET SOUS GENRE
+print("HERE")
+test = 0
+bool = False
+idees = []
 for year in years :
-    cpt = globals()['cpt'+str(year)]
-    liste.append([year, year, "", cpt ])
-    for genre in genre_clusters:
+    print(year)
+    valYear = globals()['cpt'+str(year)]
+    
+    for genre in genre_clusters: #genre majeur
+        
         hierachy["children"].append({"name": genre, "children": []})
+        
         children = list(sub_genres[genre])
-        liste.append([genre + str(year), genre, year, len(children)])
-        for c in children:
-            if (c!="R&B") :
+        valGenre = 0
+        
+        for c in children: #sous genre
+            if (c!="R&B") : 
+                  
                 hierachy["children"][-1]["children"].append({"name":c})
-                liste.append([c + str(year), c, genre + str(year), 1])
+                
+                #counting the number of albums per genre in each decade 
+                filtered_values = dfAlbums.loc[(dfAlbums['decade']==year) & (dfAlbums['genre'].isin(list(sub_genres[genre])))] 
+                count = filtered_values["_id"].count()
+                print(filtered_values)
+                #not a genre but a genre_infere
+                '''if count == 0 : 
+                    myDf = dfAlbums.loc[(dfAlbums['decade']==year)]
+                    for i in myDf.index:
+                        if (not pd.isna(myDf["genre_infere"][i])) :
+                            list_genre = (myDf["genre_infere"][i]).split(',')
+                            #print(list_genre)
+                            for j in list_genre:
+                                #print(j)
+                                if j in list(sub_genres[genre]) :
+                                    count += 1
+                                    break
+                     '''    
+                
+                if  (c + str(year) not in idees)  :   
+                    liste.append([c + str(year), c, genre + str(year), count])
+                    idees.append(c + str(year))
+                
+                '''for i in filtered_values['artist_name'].unique():
+                    if (i + str(year)) not in idees :
+                        liste.append([i + str(year), i, c + str(year), 1])
+                        idees.append(i + str(year))
+'''
+                valGenre += count
             else :
                 continue
+        
+        if (genre + str(year)) not in idees :
+            liste.append([genre + str(year), genre, year,valGenre])
+            idees.append(genre + str(year))
+        valYear += valGenre
+    
+    if (year !=0) and (year not in idees) :
+        liste.append([year, year, "", valYear ])
+        idees.append(year)
+    else :
+        liste.append([year, "Unknown", "", valYear])
+
+
 
 '''print("Saving hierachy json...")
 # Sauvegarder en json
@@ -142,6 +198,7 @@ with open("sunburst_hierachy.json", "w") as outfile:
 fields = ["ids","labels", "parents", "values"]
 rows = liste
 
+print("Writing the csv file...")
 with open('sunburst.csv', 'w') as f:
       
     # using csv.writer method from CSV package
