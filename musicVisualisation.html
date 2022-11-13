@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title class="title">Music Visualisation</title>
+</head>
+<body>
+  <div class="horizontalMenu">
+    <button  type="button"  value="create page" onclick="change_page_graphe()" class="buttonMenu"> Graphe </button>
+    <button  type="button" class="buttonMenu" onclick="change_page_Sunburst()"> Sunburst </button>
+    <button  type="button" value="create page" onclick="change_page_parallelCoord()" class="buttonMenu"> Coordonées parallèles </button>
+  </div>
+</body>
+<script>
+function change_page_graphe(){
+  window.location.href = "/Graph/search_graph.html";
+} 
+function change_page_Sunburst(){
+  window.location.href = "/SunBurst/test.html";
+} 
+function change_page_parallelCoord(){
+  window.location.href = "/Parallel Coordinates/parallelCoord.html";
+} 
+</script>
+<style>
+.horizontalMenu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #cfbefb;
+}
+.buttonMenu{
+  margin-left: 40px;
+  background-color: #7f5be0;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.buttonMenu:hover {opacity: 1}
+
+</style>

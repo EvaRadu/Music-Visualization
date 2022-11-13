@@ -1,0 +1,265 @@
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+
+.selectionArtiste, .filterUp{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+
+.filterDown{
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 425px;
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+/* The container */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #553c9a;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+button {
+  background-color: #7f5be0;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 7px;
+  margin-left: 550px;
+}
+
+
+button:hover {opacity: 1}
+
+html {background-color: rgb(255, 255, 255);}
+
+svg {
+    font: 10px sans-serif;
+    display: block;
+    margin:auto;
+    font-family: Helvetica
+  }
+  
+  
+  .background path {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+  }
+  
+  .foreground path {
+    fill: none;
+    stroke: steelblue;
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis line,
+  .axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+    cursor: move;
+  }
+  
+  .axis :hover{
+    font: 20px sans-serif;
+  }
+  
+  .row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .block {
+    width: 200px; 
+    height: 200px; 
+    overflow: auto;
+    margin-left: 70px;
+  }
+  
+  .middleRow {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .visu {
+    overflow: auto;
+    margin-left: 70px;
+  }
+  .tooltip{
+    overflow: auto;
+    height: 180px;
+    width: 250px;
+    margin-top: 300px;
+    background-color: rgb(253, 241, 255);
+    border-radius: 7px;
+    border: 1px solid #7f5be0;
+    visibility: hidden;
+  }
+  .tooltip h3{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to left, #553c9a, #553c9a);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .tooltip div{
+    text-align: center;
+  }
+
+  .block{
+    background-color: rgb(253, 241, 255);
+    border-radius: 7px;
+    border: 1px solid #7f5be0;
+  }
+
+  ul {
+    list-style: none;
+  }
+  
+  ul li::before {
+    content: "\2022";
+    color: #7f5be0;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+  .info{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+  .horizontalMenu{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #cfbefb;
+  }
+  .buttonMenu{
+    margin-left: 40px;
+    background-color: #7f5be0;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+  }
+  
+  .buttonMenu:hover {opacity: 1}
