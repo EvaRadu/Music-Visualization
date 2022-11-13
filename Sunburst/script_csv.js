@@ -51,3 +51,10 @@ var layout = {
 Plotly.newPlot('myDiv', data, layout, {showSendToCloud: true});
 
 })
+
+function change_page_graphe(){
+  window.location.href = "../Graph/search_graph.html";
+} 
+function change_page_parallelCoord(){
+  window.location.href = "../Parallel Coordinates/parallelCoord.html";
+} 

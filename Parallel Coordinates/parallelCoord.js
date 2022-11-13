@@ -457,5 +457,5 @@ function getListOfArtists(file){
     window.location.href = "../Graph/search_graph.html";
   } 
   function change_page_Sunburst(){
-    window.location.href = "../SunBurst/test.html";
+    window.location.href = "../SunBurst/test_csv.html";
   } 
