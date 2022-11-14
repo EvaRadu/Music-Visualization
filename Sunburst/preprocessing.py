@@ -61,8 +61,8 @@ for i in range(len(dfAlbums['_id'])):
 dfAlbums.insert(loc=len(dfAlbums.columns), column="artist_name", value=new_col)
 
 
-alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock", "pop rock" : "rock", "punk rock": "punk", "folk rock" : "folk"}
-genre_clusters = ["hip hop", "rock", "metal", "electronic", "pop", "country", "blues", "soul", "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "dupstep", "rap", "folk", "bossa nova"]
+alias = {"dubstep":"electronic", "synthpop":"electronic", "drum and bass":"rock"}
+genre_clusters = ["hip hop", "pop rock", "rock", "metal", "electronic", "pop", "country", "blues", "soul", "classical", "techno", "jazz", "punk", "funk", "disco", "reggae", "R&B", "gospel", "dupstep", "rap", "folk", "bossa nova"]
 
 mycolumns = list(dfAlbums.columns) + ["decade","sousGenre", "genreCluster", "artist_name"]
 myDf = pd.DataFrame(columns= mycolumns)
@@ -107,10 +107,7 @@ for i in range(len(dfArtists)):
 
 
 
-
-
-
-
+dfSousGenreAlbums = pd.DataFrame(columns=["idAlbums", "sousGenre"])
 
 
 hierachy = {"name": "Major Genres", "children": []}
@@ -120,8 +117,8 @@ years = [0, 1970, 1980, 1990, 2000, 2010]
 
 
 #counting the number of albums per genre in each decade
-filtered_values = dfAlbums.loc[(dfAlbums['decade']==1970) & (dfAlbums['genre']=="Rock")]
-#print(filtered_values["_id"].count())
+filtered_values = dfAlbums.loc[(dfAlbums['decade']==1970) & pd.isna(dfAlbums['genre'])]
+print(filtered_values["_id"].count())
 
 
 #GENRE ET SOUS GENRE
@@ -148,7 +145,7 @@ for year in years :
                 #counting the number of albums per genre in each decade 
                 filtered_values = dfAlbums.loc[(dfAlbums['decade']==year) & (dfAlbums['genre'].isin(list(sub_genres[genre])))] 
                 count = filtered_values["_id"].count()
-                print(filtered_values)
+                #print(filtered_values["genre"])
                 #not a genre but a genre_infere
                 '''if count == 0 : 
                     myDf = dfAlbums.loc[(dfAlbums['decade']==year)]
@@ -163,29 +160,39 @@ for year in years :
                                     break
                      '''    
                 
-                if  (c + str(year) not in idees)  :   
-                    liste.append([c + str(year), c, genre + str(year), count])
-                    idees.append(c + str(year))
+                #if  (c + str(year) not in idees)  :   
+                #liste.append([c + str(year), c, genre + str(year), count])
+                 #   idees.append(c + str(year))
                 
-                '''for i in filtered_values['artist_name'].unique():
-                    if (i + str(year)) not in idees :
-                        liste.append([i + str(year), i, c + str(year), 1])
-                        idees.append(i + str(year))
-'''
+                counting = 0
+                for i in filtered_values['artist_name'].unique():
+                    art = filtered_values[filtered_values['artist_name'] == i]
+                    counting += art["artist_name"].count()
+
+                for i in filtered_values['artist_name'].unique():
+                    art = filtered_values[filtered_values['artist_name'] == i]
+                    counting = art["artist_name"].count()
+                    #if (i + str(year)) not in idees :
+                    liste.append([i + str(year), i, genre + str(year),counting])
+                        #idees.append(i + str(year))
+                
                 valGenre += count
             else :
                 continue
         
-        if (genre + str(year)) not in idees :
-            liste.append([genre + str(year), genre, year,valGenre])
-            idees.append(genre + str(year))
+        liste.append([genre + str(year), genre, year,valGenre])
         valYear += valGenre
     
-    if (year !=0) and (year not in idees) :
-        liste.append([year, year, "", valYear ])
-        idees.append(year)
+    unknown = dfAlbums.loc[(dfAlbums['decade']==year) & pd.isna(dfAlbums['genre'])]
+    unknownCount = unknown["_id"].count()
+    liste.append(["unknown"+str(year), "Unknown", year, unknownCount])
+
+    if (year !=0) : 
+        liste.append([year, year, "", valYear + unknownCount])
     else :
-        liste.append([year, "Unknown", "", valYear])
+        liste.append([year, "UnknownYear", "", valYear + unknownCount])
+
+    
 
 
 
