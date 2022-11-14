@@ -20,10 +20,13 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
-  
+    .call(d3.behavior.zoom().on("zoom", function () {
+      svg.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
+    }))
+   .append("g")
+   .attr("transform",
+         "translate(" + margin.left + "," + margin.top + ")");
+   
     
   
   
@@ -457,5 +460,5 @@ function getListOfArtists(file){
     window.location.href = "../Graph/search_graph.html";
   } 
   function change_page_Sunburst(){
-    window.location.href = "../SunBurst/test.html";
+    window.location.href = "../SunBurst/test_csv.html";
   } 
