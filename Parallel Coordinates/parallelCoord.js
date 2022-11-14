@@ -20,10 +20,13 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
-  
+    .call(d3.behavior.zoom().on("zoom", function () {
+      svg.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
+    }))
+   .append("g")
+   .attr("transform",
+         "translate(" + margin.left + "," + margin.top + ")");
+   
     
   
   
