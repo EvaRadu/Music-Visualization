@@ -214,7 +214,6 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
   function displayVisualisation(){
       readCsvArtist("../../DATA/artists.csv");
       readCsvSong();
-  
   }
     
 
