@@ -10,7 +10,7 @@ Three representations have been implemented :
 
 
 ## Sunburst : 
-![gif sunburst](https://user-images.githubusercontent.com/91093212/202519777-ea9bc876-575e-4864-b424-4497e365bccf.gif)
+![new gif sunurst](https://user-images.githubusercontent.com/91093212/202808569-12c9e35c-5884-45fa-8205-f0eb2552cbad.gif)
 
 
 ## Parallel Coordinates :
