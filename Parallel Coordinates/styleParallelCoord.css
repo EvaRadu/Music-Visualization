@@ -45,6 +45,7 @@ h1 {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  margin-left: 70px;
 }
 
 /* Hide the browser's default checkbox */
@@ -115,7 +116,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   border-radius: 7px;
-  margin-left: 550px;
+  margin-left: 605px;
 }
 
 
