@@ -1,7 +1,7 @@
 # Music Visualizatoin 
 ## Members of the group : Mia Swery, Eva Radu, Hugo Bulzomi 
 
-This project aims to represent the present data of a musical database.
+This project aims to represent the data of the following musical database : https://github.com/micbuffa/WasabiDataset.
 
 Three representations have been implemented :
 
