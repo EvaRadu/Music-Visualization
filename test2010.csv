@@ -1,0 +1,857 @@
+Unnamed: 0,_id,name,genre,id_artist,title,publicationDate,deezerFans,dateRelease,language,genre_infere,decade,artist_name
+13,5714debf25ac0d8aee37d28e,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Mixed Race,2010.0,7970.0,2010-09-27,Unknown,Unknown,2010,Tricky
+14,5714debf25ac0d8aee37d28f,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,False Idols,2013.0,18056.0,2013-05-24,Unknown,Unknown,2010,Tricky
+23,5714debf25ac0d8aee37d298,Tricot Machine,Indie Pop,56d98be0cc2ddd0c0f6be06a,La Prochaine Étape,2010.0,388.0,2010-03-11,fra,Unknown,2010,Tricot Machine
+78,5714debf25ac0d8aee37cb6b,Tommy Heavenly6,Unknown,56d98a14cc2ddd0c0f6bddab,Heavenly,2012.0,Unknown,Unknown,Unknown,Trip Hop,2010,Tommy Heavenly6
+96,5714debf25ac0d8aee37d2a9,Triggerfinger,Hard Rock,56d98be5cc2ddd0c0f6be075,All This Dancin' Around,2010.0,1512.0,2010-10-01,Unknown,Unknown,2010,Triggerfinger
+97,5714debf25ac0d8aee37d2aa,Triggerfinger,Hard Rock,56d98be5cc2ddd0c0f6be075,By Absence Of The Sun,2014.0,1837.0,2014-04-17,Unknown,Unknown,2010,Triggerfinger
+103,5714debf25ac0d8aee37d2b0,Trikot,Pop,56d98be6cc2ddd0c0f6be079,Sonntag,2012.0,7.0,Unknown,Unknown,Unknown,2010,Trikot
+112,5714debf25ac0d8aee37d2b9,Trilogia,Hip Hop,56d98be8cc2ddd0c0f6be07f,Hakattu Kivestä 2007,2014.0,37.0,Unknown,Unknown,Unknown,2010,Trilogia
+120,5714debf25ac0d8aee37d2c1,Trina,Hip Hop,56d98beccc2ddd0c0f6be082,Amazin',2010.0,519.0,2010-05-04,eng,Unknown,2010,Trina
+182,5714debf25ac0d8aee37cbb6,Tommy Shaw,Unknown,56d98a23cc2ddd0c0f6bddc7,The Great Divide,2011.0,63.0,Unknown,Unknown,Trip Hop,2010,Tommy Shaw
+197,5714debf25ac0d8aee37cbc5,Tommy Stinson,Unknown,56d98a24cc2ddd0c0f6bddc9,One Man Mutiny,2011.0,72.0,Unknown,Unknown,Trip Hop,2010,Tommy Stinson
+218,5714debf25ac0d8aee37cbda,TommyXAngell,Electronic,56d98a27cc2ddd0c0f6bddd4,Rave,2012.0,1.0,Unknown,Unknown,Unknown,2010,TommyXAngell
+230,5714debf25ac0d8aee37d2cd,Trinidad James,Unknown,56d98befcc2ddd0c0f6be087,Don't Be S.A.F.E.,2012.0,2681.0,2012-10-16,eng,Trip Hop,2010,Trinidad James
+273,5714debf25ac0d8aee37cbe1,Tomohisa Yamashita,J-Pop,56d98a29cc2ddd0c0f6bddd9,"Supergood, Superbad",2011.0,Unknown,2011-01-26,jpn,Unknown,2010,Tomohisa Yamashita
+274,5714debf25ac0d8aee37cbe2,Tomohisa Yamashita,J-Pop,56d98a29cc2ddd0c0f6bddd9,エロ,2012.0,Unknown,2012-07-25,Unknown,Unknown,2010,Tomohisa Yamashita
+275,5714debf25ac0d8aee37cbe3,Tomohisa Yamashita,J-Pop,56d98a29cc2ddd0c0f6bddd9,A Nude,2013.0,Unknown,2013-09-11,jpn,Unknown,2010,Tomohisa Yamashita
+276,5714debf25ac0d8aee37cbe4,Tomohisa Yamashita,J-Pop,56d98a29cc2ddd0c0f6bddd9,遊,2014.0,Unknown,2014-08-20,jpn,Unknown,2010,Tomohisa Yamashita
+277,5714debf25ac0d8aee37cbe5,Tomohisa Yamashita,J-Pop,56d98a29cc2ddd0c0f6bddd9,You,2014.0,Unknown,2014-10-08,jpn,Unknown,2010,Tomohisa Yamashita
+288,5714debf25ac0d8aee37cbf0,Tomorrows Bad Seeds,Reggae,56d98a2ccc2ddd0c0f6bdde1,Sacred For Sale,2010.0,94.0,2010-05-25,eng,Unknown,2010,Tomorrows Bad Seeds
+318,5714debf25ac0d8aee37cc0e,Tomáš Klus,Folk,56d98a31cc2ddd0c0f6bddec,Racek,2011.0,2809.0,2011,Unknown,Unknown,2010,Tomáš Klus
+321,5714debf25ac0d8aee37d2f6,Trioscapes,Jazz Fusion,56d98c18cc2ddd0c0f6be09c,Separate Realities,2012.0,80.0,2012-05-08,Unknown,Unknown,2010,Trioscapes
+365,5714debf25ac0d8aee37d322,Tripod,Comedy,56d98c22cc2ddd0c0f6be0b2,Tripod Versus The Dragon,2010.0,Unknown,2010-03-16,Unknown,Unknown,2010,Tripod
+396,5714debf25ac0d8aee37d325,Triptykon,Unknown,56d98c23cc2ddd0c0f6be0b4,Eparistera Daimones,2010.0,247.0,2010-03-19,eng,Trip Hop,2010,Triptykon
+397,5714debf25ac0d8aee37d326,Triptykon,Unknown,56d98c23cc2ddd0c0f6be0b4,Shatter,2010.0,99.0,2010-10-25,Unknown,Trip Hop,2010,Triptykon
+398,5714debf25ac0d8aee37d327,Triptykon,Unknown,56d98c23cc2ddd0c0f6be0b4,Melana Chasmata,2014.0,388.0,2014-04-11,Unknown,Trip Hop,2010,Triptykon
+405,5714debf25ac0d8aee37d32e,Trip Lee,Christian Hip Hop,56d98c23cc2ddd0c0f6be0b8,Between Two Worlds,2010.0,1230.0,2010-06-22,eng,Unknown,2010,Trip Lee
+406,5714debf25ac0d8aee37d32f,Trip Lee,Hip Hop,56d98c23cc2ddd0c0f6be0b8,Brag On My Lord,2011.0,249.0,Unknown,Unknown,Unknown,2010,Trip Lee
+407,5714debf25ac0d8aee37d330,Trip Lee,Christian Hip Hop,56d98c23cc2ddd0c0f6be0b8,The Good Life,2012.0,Unknown,2012-04-10,eng,Unknown,2010,Trip Lee
+408,5714debf25ac0d8aee37d331,Trip Lee,Hip Hop,56d98c23cc2ddd0c0f6be0b8,Rise,2014.0,3495.0,2014-10-27,Unknown,Unknown,2010,Trip Lee
+423,5714debf25ac0d8aee37d340,Trisha Paytas,Unknown,56d98c29cc2ddd0c0f6be0be,Fat Chicks,2015.0,127.0,Unknown,Unknown,Trip Hop,2010,Trisha Paytas
+445,5714debf25ac0d8aee37cc38,Toni Braxton,R&amp;B,56d98a3acc2ddd0c0f6bddfb,Pulse,2010.0,3094.0,2010-05-10,Unknown,Unknown,2010,Toni Braxton
+458,5714debf25ac0d8aee37cc45,Toni Kater,Indie Pop,56d98a3dcc2ddd0c0f6bde03,Sie Fiel Vom Himmel,2012.0,18.0,Unknown,Unknown,Unknown,2010,Toni Kater
+459,5714debf25ac0d8aee37cc46,Toni Kater,Indie Pop,56d98a3dcc2ddd0c0f6bde03,Eigentum,2015.0,3.0,Unknown,Unknown,Unknown,2010,Toni Kater
+468,5714debf25ac0d8aee37cc4f,Tonic,Rock,56d98a3fcc2ddd0c0f6bde08,Tonic,2010.0,167.0,2010-05-04,eng,Unknown,2010,Tonic
+494,5714debf25ac0d8aee37d359,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,PrizeFighter Hit After Hit,2014.0,500.0,2014-11-17,eng,Unknown,2010,Trisha Yearwood
+507,5714debf25ac0d8aee37d366,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Rubicon,2010.0,568.0,2010-08-25,eng,Unknown,2010,Tristania
+508,5714debf25ac0d8aee37d367,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Darkest White,2013.0,827.0,2013-05-31,Unknown,Unknown,2010,Tristania
+515,5714debf25ac0d8aee37d36e,Tristan Prettyman,Pop,56d98c2fcc2ddd0c0f6be0c9,Cedar + Gold,2012.0,59.0,2012-10-02,eng,Unknown,2010,Tristan Prettyman
+516,5714debf25ac0d8aee37d36f,Tristan Prettyman,Folk,56d98c2fcc2ddd0c0f6be0c9,Back To Home,2014.0,498.0,Unknown,Unknown,Unknown,2010,Tristan Prettyman
+519,5714debf25ac0d8aee37d372,Tristian,Unknown,56d98c30cc2ddd0c0f6be0cb,Resurrected From The Fire,2010.0,Unknown,Unknown,Unknown,Pop,2010,Tristian
+520,5714debf25ac0d8aee37d373,Tritonal,Unknown,56d98c30cc2ddd0c0f6be0cc,Piercing The Quiet,2011.0,186.0,2011-05-09,Unknown,Pop,2010,Tritonal
+561,5714debf25ac0d8aee37d39c,Trivium,Melodic Metalcore,56d98c39cc2ddd0c0f6be0d6,In Waves,2011.0,6526.0,Unknown,Unknown,Unknown,2010,Trivium
+562,5714debf25ac0d8aee37d39d,Trivium,Heavy Metal,56d98c39cc2ddd0c0f6be0d6,Vengeance Falls,2013.0,2391.0,2013-10-11,eng,Unknown,2010,Trivium
+563,5714debf25ac0d8aee37d39e,Trivium,Heavy Metal,56d98c39cc2ddd0c0f6be0d6,Silence In The Snow,2015.0,5760.0,Unknown,Unknown,Unknown,2010,Trivium
+579,5714debf25ac0d8aee37d3ae,Trixie Whitley,Blues Rock,56d98c3bcc2ddd0c0f6be0de,Fourth Corner,2013.0,1206.0,2013-01-29,Unknown,Unknown,2010,Trixie Whitley
+580,5714debf25ac0d8aee37d3af,Trixie Whitley,Blues Rock,56d98c3bcc2ddd0c0f6be0de,Porta Bohemica,2015.0,775.0,2015-10-23,Unknown,Unknown,2010,Trixie Whitley
+582,5714debf25ac0d8aee37cc59,Tonight Alive,Alternative Rock,56d98a41cc2ddd0c0f6bde0d,All Shapes And Disguises,2010.0,3042.0,2010-06-18,eng,Unknown,2010,Tonight Alive
+583,5714debf25ac0d8aee37cc5a,Tonight Alive,Post-Punk,56d98a41cc2ddd0c0f6bde0d,Consider This,2011.0,3042.0,2011-11-08,eng,Unknown,2010,Tonight Alive
+584,5714debf25ac0d8aee37cc5b,Tonight Alive,Pop Punk,56d98a41cc2ddd0c0f6bde0d,Let It Land,2011.0,2024.0,2011-10-14,eng,Unknown,2010,Tonight Alive
+585,5714debf25ac0d8aee37cc5c,Tonight Alive,Pop Punk,56d98a41cc2ddd0c0f6bde0d,What Are You So Scared Of?,2011.0,2024.0,2012-02-14,eng,Unknown,2010,Tonight Alive
+586,5714debf25ac0d8aee37cc5d,Tonight Alive,Pop Punk,56d98a41cc2ddd0c0f6bde0d,The Other Side,2013.0,5756.0,2013-09-05,eng,Unknown,2010,Tonight Alive
+632,5714debf25ac0d8aee37cc8b,Tony Carreira,Ballad,56d98a59cc2ddd0c0f6bde26,Essencial,2012.0,5007.0,Unknown,Unknown,Unknown,2010,Tony Carreira
+691,5714debf25ac0d8aee37ccc6,Tony Bennett,Vocal Jazz,56d98a59cc2ddd0c0f6bde27,Duets II,2011.0,11192.0,2011-09-16,Unknown,Unknown,2010,Tony Bennett
+692,5714debf25ac0d8aee37ccc7,Tony Bennett,Vocal Jazz,56d98a59cc2ddd0c0f6bde27,Viva Duets,2012.0,2110.0,2012-10-22,eng,Unknown,2010,Tony Bennett
+693,5714debf25ac0d8aee37ccc8,Tony Bennett,Unknown,56d98a59cc2ddd0c0f6bde27,Cheek To Cheek,2014.0,27864.0,Unknown,Unknown,Pop,2010,Tony Bennett
+710,5714debf25ac0d8aee37d3bf,Trocadero,Experimental Rock,56d98c3fcc2ddd0c0f6be0e6,Flying By Wire,2012.0,37.0,Unknown,Unknown,Unknown,2010,Trocadero
+711,5714debf25ac0d8aee37d3c0,Trocadero,Experimental Rock,56d98c3fcc2ddd0c0f6be0e6,When We're Together,2014.0,22.0,Unknown,Unknown,Unknown,2010,Trocadero
+719,5714debf25ac0d8aee37d3c8,Trollfest,Folk Rock,56d98c40cc2ddd0c0f6be0e9,En Kvest For Den Hellige Gral,2011.0,65.0,2011-04-29,mul,Unknown,2010,Trollfest
+720,5714debf25ac0d8aee37d3c9,Trollfest,Folk Rock,56d98c40cc2ddd0c0f6be0e9,Brumlebassen,2012.0,74.0,2012-08-24,mul,Unknown,2010,Trollfest
+721,5714debf25ac0d8aee37d3ca,Trollfest,Folk Rock,56d98c40cc2ddd0c0f6be0e9,Kaptein Kaos,2014.0,185.0,2014-03-28,mul,Unknown,2010,Trollfest
+730,5714debf25ac0d8aee37d3d3,Tronic,Unknown,56d98c44cc2ddd0c0f6be0ed,Contra La Corriente,2010.0,0.0,Unknown,spa,Pop,2010,Tronic
+731,5714debf25ac0d8aee37d3d4,Tronic,Rock,56d98c44cc2ddd0c0f6be0ed,ValeOtro,2012.0,Unknown,2012,spa,Unknown,2010,Tronic
+734,5714debf25ac0d8aee37d3d7,Trombone Shorty,Jazz,56d98c44cc2ddd0c0f6be0ee,Backatown,2010.0,7646.0,2010-04-20,Unknown,Unknown,2010,Trombone Shorty
+735,5714debf25ac0d8aee37d3d8,Trombone Shorty,Jazz,56d98c44cc2ddd0c0f6be0ee,For True,2011.0,6508.0,2011-09-19,eng,Unknown,2010,Trombone Shorty
+743,5714debf25ac0d8aee37d3e0,Troop 41,Unknown,56d98c47cc2ddd0c0f6be0f1,Do The John Wall,2010.0,Unknown,Unknown,Unknown,Pop,2010,Troop 41
+812,5714debf25ac0d8aee37cd05,Tony Joe White,Unknown,56d98a77cc2ddd0c0f6bde45,The Shine,2010.0,684.0,2010-09-28,Unknown,Pop,2010,Tony Joe White
+814,5714debf25ac0d8aee37d3ec,Tropics,Unknown,56d98c4acc2ddd0c0f6be0f4,Rapture,2015.0,532.0,2015-03-23,Unknown,Pop,2010,Tropics
+824,5714debf25ac0d8aee37d3f6,Trophy Scars,Post-Hardcore,56d98c4bcc2ddd0c0f6be0f7,Holy Vacants,2014.0,97.0,2014-04-21,Unknown,Unknown,2010,Trophy Scars
+827,5714debf25ac0d8aee37d3f9,Trophy Scars,Blues,56d98c4bcc2ddd0c0f6be0f7,"Darkness, Oh Hell",2010.0,Unknown,2010-10-21,eng,Unknown,2010,Trophy Scars
+828,5714debf25ac0d8aee37d3fa,Trophy Scars,Blues,56d98c4bcc2ddd0c0f6be0f7,"Never Born, Never Dead",2011.0,Unknown,2011-07-19,Unknown,Unknown,2010,Trophy Scars
+853,5714debf25ac0d8aee37d413,Trouble Over Tokyo,Indie Rock,56d98c50cc2ddd0c0f6be104,The Hurricane,2010.0,36.0,2010-10-15,Unknown,Unknown,2010,Trouble Over Tokyo
+879,5714debf25ac0d8aee37cd1e,Tony Molina,Indie Rock,56d98a7acc2ddd0c0f6bde50,Dissed And Dismissed,2014.0,93.0,2013-02-26,Unknown,Unknown,2010,Tony Molina
+930,5714debf25ac0d8aee37d426,Troy Ave,Hip Hop,56d98c55cc2ddd0c0f6be10a,New York City: The Album,2013.0,503.0,Unknown,Unknown,Unknown,2010,Troy Ave
+935,5714debf25ac0d8aee37d42b,Troy Baker,Unknown,56d98c57cc2ddd0c0f6be10e,Sitting In The Fire,2014.0,151.0,Unknown,Unknown,Pop,2010,Troy Baker
+952,5714debf25ac0d8aee37d43c,Troye Sivan,Pop,56d98c59cc2ddd0c0f6be113,The June Haverly EP,2012.0,Unknown,Unknown,Unknown,Unknown,2010,Troye Sivan
+953,5714debf25ac0d8aee37d43d,Troye Sivan,Pop,56d98c59cc2ddd0c0f6be113,We're My Otp,2012.0,Unknown,2012-12-30,Unknown,Unknown,2010,Troye Sivan
+954,5714debf25ac0d8aee37d43e,Troye Sivan,Electropop,56d98c59cc2ddd0c0f6be113,TRXYE,2014.0,18331.0,2014-08-15,Unknown,Unknown,2010,Troye Sivan
+955,5714debf25ac0d8aee37d43f,Troye Sivan,Electropop,56d98c59cc2ddd0c0f6be113,WILD,2015.0,11917.0,2015-09-04,Unknown,Unknown,2010,Troye Sivan
+956,5714debf25ac0d8aee37d440,Troye Sivan,Synthpop,56d98c59cc2ddd0c0f6be113,Blue Neighbourhood,2015.0,20416.0,Unknown,Unknown,Unknown,2010,Troye Sivan
+979,5714debf25ac0d8aee37cd4c,Tony Sly,Unknown,56d98a84cc2ddd0c0f6bde6a,12 Song Program,2010.0,458.0,2010-02-16,Unknown,Pop,2010,Tony Sly
+998,5714debf25ac0d8aee37d451,Truckfighters,Unknown,56d98c5dcc2ddd0c0f6be119,Universe,2014.0,51.0,2014-01-24,Unknown,Pop,2010,Truckfighters
+1017,5714debf25ac0d8aee37d464,Trude Herr,Schlager,56d98c5ecc2ddd0c0f6be11e,Ich Bin Eine Frau Von Format,2011.0,48.0,2011,deu,Unknown,2010,Trude Herr
+1034,5714debf25ac0d8aee37d475,True Story,Unknown,56d98c62cc2ddd0c0f6be12b,Heaven's Wake,2010.0,Unknown,Unknown,Unknown,Christian Rock,2010,True Story
+1035,5714debf25ac0d8aee37d476,True Story,Unknown,56d98c62cc2ddd0c0f6be12b,More Than A Melody,2013.0,2.0,Unknown,Unknown,Christian Rock,2010,True Story
+1036,5714debf25ac0d8aee37d477,True Story,Unknown,56d98c62cc2ddd0c0f6be12b,A True Story Christmas,2013.0,Unknown,Unknown,Unknown,Christian Rock,2010,True Story
+1040,5714debf25ac0d8aee37d47b,True Widow,Shoegazing,56d98c62cc2ddd0c0f6be12d,As High As The Highest Heavens And From The Center To The Circumference Of The Earth,2011.0,20.0,2011-03-26,Unknown,Unknown,2010,True Widow
+1041,5714debf25ac0d8aee37d47c,True Widow,Stoner Rock,56d98c62cc2ddd0c0f6be12d,Circumambulation,2013.0,789.0,2013-07-23,Unknown,Unknown,2010,True Widow
+1056,5714debf25ac0d8aee37d48b,Trust (CA),Unknown,56d98c68cc2ddd0c0f6be138,TRST,2012.0,1825.0,Unknown,Unknown,Christian Rock,2010,Trust (CA)
+1057,5714debf25ac0d8aee37d48c,Trust (CA),Unknown,56d98c68cc2ddd0c0f6be138,Joyland,2014.0,Unknown,Unknown,Unknown,Christian Rock,2010,Trust (CA)
+1120,5714debf25ac0d8aee37cd87,Too $hort,Hip Hop,56d98a91cc2ddd0c0f6bde7b,Still Blowin',2010.0,649.0,2010-04-26,eng,Unknown,2010,Too $hort
+1121,5714debf25ac0d8aee37cd88,Too $hort,Hip Hop,56d98a91cc2ddd0c0f6bde7b,No Trespassing,2012.0,Unknown,2012-02-28,Unknown,Unknown,2010,Too $hort
+1127,5714debf25ac0d8aee37d4a0,Trust Company,Alternative Metal,56d98c69cc2ddd0c0f6be13b,Dreaming In Black And White,2011.0,305.0,2011-03-08,eng,Unknown,2010,Trust Company
+1148,5714debf25ac0d8aee37d4b5,Tryo,Unknown,56d98c6ecc2ddd0c0f6be144,Ladilafé,2012.0,33196.0,2012-08-27,fra,Christian Rock,2010,Tryo
+1154,5714debf25ac0d8aee37d4bb,Trzeci Wymiar,Unknown,56d98c70cc2ddd0c0f6be146,Dolina Klaunoow,2012.0,468.0,2012-05-12,Unknown,Christian Rock,2010,Trzeci Wymiar
+1257,5714debf25ac0d8aee37d504,Tua,Unknown,56d98c97cc2ddd0c0f6be15c,Stille,2010,71.0,2010,Unknown,Christian Rock,2010,Tua
+1261,5714debf25ac0d8aee37d508,Tubbe,Electropop,56d98c98cc2ddd0c0f6be15f,Keine Arbeit Lieber Tanzen,2015,197.0,2015-03-13,deu,Unknown,2010,Tubbe
+1282,5714debf25ac0d8aee37d51d,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,Secret Handshakes,2010,28.0,2010-08-31,eng,Unknown,2010,Tub Ring
+1309,5714debf25ac0d8aee37cdc1,Toploader,Unknown,56d98a9ecc2ddd0c0f6bde99,Only Human,2011,114.0,2011-05-29,Unknown,Christian Rock,2010,Toploader
+1312,5714debf25ac0d8aee37cdc4,TOPS,Indie Rock,56d98a9ecc2ddd0c0f6bde9a,Tender Opposites,2012,235.0,2012-02-28,Unknown,Unknown,2010,TOPS
+1313,5714debf25ac0d8aee37cdc5,TOPS,Indie Rock,56d98a9ecc2ddd0c0f6bde9a,Picture You Staring,2014,1568.0,2014-08,Unknown,Unknown,2010,TOPS
+1328,5714debf25ac0d8aee37cdd4,Topmodelz,Dance,56d98aa1cc2ddd0c0f6bdea0,Back To The 80s,2010,205.0,2010-09-24,eng,Unknown,2010,Topmodelz
+1335,5714debf25ac0d8aee37d525,Tubelord,Unknown,56d98c9fcc2ddd0c0f6be165,Tezcatlipōca,2010,38.0,Unknown,Unknown,Christian Rock,2010,Tubelord
+1356,5714debf25ac0d8aee37d53a,Tublatanka,Heavy Metal,56d98ca2cc2ddd0c0f6be16d,Svet V Ohrození,2010,183.0,Unknown,Unknown,Unknown,2010,Tublatanka
+1366,5714debf25ac0d8aee37d544,Tuka,Hip Hop,56d98ca5cc2ddd0c0f6be176,Feedback Loop,2012,89.0,Unknown,Unknown,Unknown,2010,Tuka
+1367,5714debf25ac0d8aee37d545,Tuka,Hip Hop,56d98ca5cc2ddd0c0f6be176,Life Death Time Eternal,2015,20.0,Unknown,Unknown,Unknown,2010,Tuka
+1369,5714debf25ac0d8aee37cdd6,Tor,Unknown,56d98aa2cc2ddd0c0f6bdea1,Drum Therapy,2012,0.0,2012-12-11,Unknown,Christian Rock,2010,Tor
+1370,5714debf25ac0d8aee37cdd7,Tor Miller,Unknown,56d98aa2cc2ddd0c0f6bdea2,Headlights,2015,539.0,2015-02-03,Unknown,Christian Rock,2010,Tor Miller
+1386,5714debf25ac0d8aee37cde7,Toquinho,Latin,56d98aa4cc2ddd0c0f6bdea7,La Chitarra E Gli Amici: Diario E Ricordi 1982-1983,2013,244.0,Unknown,Unknown,Unknown,2010,Toquinho
+1394,5714debf25ac0d8aee37cdef,Torchbearer,Black Metal,56d98aa7cc2ddd0c0f6bdeab,Death Meditations,2011,33.0,2011-04-25,eng,Unknown,2010,Torchbearer
+1395,5714debf25ac0d8aee37cdf0,Torch (US),Unknown,56d98aa8cc2ddd0c0f6bdeac,UFO,2011,Unknown,Unknown,Unknown,Christian Rock,2010,Torch (US)
+1409,5714debf25ac0d8aee37cdfe,Torche,Unknown,56d98aadcc2ddd0c0f6bdeb4,Songs For Singles,2010,162.0,2010-09-20,eng,Christian Rock,2010,Torche
+1410,5714debf25ac0d8aee37cdff,Torche,Sludge Metal,56d98aadcc2ddd0c0f6bdeb4,Harmonicraft,2012,1121.0,Unknown,Unknown,Unknown,2010,Torche
+1411,5714debf25ac0d8aee37ce00,Torche,Sludge Metal,56d98aadcc2ddd0c0f6bdeb4,Restarter,2015,1342.0,2015-02-19,Unknown,Unknown,2010,Torche
+1436,5714debf25ac0d8aee37ce19,Tori Amos,Unknown,56d98ab3cc2ddd0c0f6bdeb8,Night Of Hunters,2011,1453.0,2011-09-16,Unknown,Christian Rock,2010,Tori Amos
+1437,5714debf25ac0d8aee37ce1a,Tori Amos,Unknown,56d98ab3cc2ddd0c0f6bdeb8,Gold Dust,2012,3734.0,2012-09-28,Unknown,Christian Rock,2010,Tori Amos
+1438,5714debf25ac0d8aee37ce1b,Tori Amos,Piano Rock,56d98ab3cc2ddd0c0f6bdeb8,Unrepentant Geraldines,2014,4180.0,2014-05-09,Unknown,Unknown,2010,Tori Amos
+1444,5714debf25ac0d8aee37ce21,Tori Kelly,Pop,56d98ab3cc2ddd0c0f6bdeb9,Handmade Songs By Tori Kelly,2012,5644.0,2012-05-01,Unknown,Unknown,2010,Tori Kelly
+1445,5714debf25ac0d8aee37ce22,Tori Kelly,Pop,56d98ab3cc2ddd0c0f6bdeb9,Foreword,2013,7427.0,2013-10-22,Unknown,Unknown,2010,Tori Kelly
+1446,5714debf25ac0d8aee37ce23,Tori Kelly,Unknown,56d98ab3cc2ddd0c0f6bdeb9,Unbreakable Smile,2015,4083.0,Unknown,Unknown,Christian Rock,2010,Tori Kelly
+1453,5714debf25ac0d8aee37ce2a,Torment (IT),Unknown,56d98ab4cc2ddd0c0f6bdebd,The Damage Is Done,2012,Unknown,Unknown,Unknown,Christian Rock,2010,Torment (IT)
+1494,5714debf25ac0d8aee37daa7,Ultraleve,Pop,56d98df9cc2ddd0c0f6be341,Ultraleve,2013,81.0,2013,Unknown,Unknown,2010,Ultraleve
+1504,5714debf25ac0d8aee37d54c,Tukkanuotta,Unknown,56d98ca6cc2ddd0c0f6be17a,Huomenta Suoli,2010,0.0,Unknown,Unknown,Christian Rock,2010,Tukkanuotta
+1505,5714debf25ac0d8aee37d54d,Tukkanuotta,Unknown,56d98ca6cc2ddd0c0f6be17a,Subukokous,2012,1.0,Unknown,Unknown,Christian Rock,2010,Tukkanuotta
+1509,5714debf25ac0d8aee37d551,Tulisa,Dance,56d98ca8cc2ddd0c0f6be17d,The Female Boss,2012,1176.0,2012-11-26,eng,Unknown,2010,Tulisa
+1527,5714debf25ac0d8aee37d563,Tulus (ID),Unknown,56d98caacc2ddd0c0f6be184,Tulus,2011,1881.0,Unknown,Unknown,Christian Rock,2010,Tulus (ID)
+1528,5714debf25ac0d8aee37d564,Tulus (ID),Unknown,56d98caacc2ddd0c0f6be184,Gajah,2014,6369.0,Unknown,Unknown,Christian Rock,2010,Tulus (ID)
+1534,5714debf25ac0d8aee37d56a,Tulipa Ruiz,MPB,56d98cabcc2ddd0c0f6be186,Efêmera,2010,468.0,2010,por,Unknown,2010,Tulipa Ruiz
+1535,5714debf25ac0d8aee37d56b,Tulipa Ruiz,Unknown,56d98cabcc2ddd0c0f6be186,Tudo Tanto,2012,6506.0,2012,por,Christian Rock,2010,Tulipa Ruiz
+1538,5714debf25ac0d8aee37d56e,Tunde Olaniran,Unknown,56d98cabcc2ddd0c0f6be188,Yung Archetype,2014,4.0,2014-02-24,eng,Christian Rock,2010,Tunde Olaniran
+1546,5714debf25ac0d8aee37d576,Tune Up!,Unknown,56d98caecc2ddd0c0f6be18d,Ravers Fantasy (The Album),2010,1353.0,Unknown,Unknown,Black Metal,2010,Tune Up!
+1552,5714debf25ac0d8aee37d57c,TUnE-yArDs,Experimental,56d98cafcc2ddd0c0f6be192,W H O K I L L,2011,3018.0,2011-04-18,Unknown,Unknown,2010,TUnE-yArDs
+1553,5714debf25ac0d8aee37d57d,TUnE-yArDs,Experimental,56d98cafcc2ddd0c0f6be192,Nikki Nack,2014,2798.0,2014-05-05,Unknown,Unknown,2010,TUnE-yArDs
+1563,5714debf25ac0d8aee37ce3f,Toro Y Moi,Experimental Pop,56d98ab9cc2ddd0c0f6bdec9,Causers Of This,2010,477.0,2010-02-02,eng,Unknown,2010,Toro Y Moi
+1564,5714debf25ac0d8aee37ce40,Toro Y Moi,Experimental Pop,56d98ab9cc2ddd0c0f6bdec9,Underneath The Pine,2011,504.0,2011-02-22,eng,Unknown,2010,Toro Y Moi
+1565,5714debf25ac0d8aee37ce41,Toro Y Moi,Dance,56d98ab9cc2ddd0c0f6bdec9,Freaking Out,2011,100.0,2011-09-13,eng,Unknown,2010,Toro Y Moi
+1566,5714debf25ac0d8aee37ce42,Toro Y Moi,Synthpop,56d98ab9cc2ddd0c0f6bdec9,Anything In Return,2013,1279.0,2013-01-22,Unknown,Unknown,2010,Toro Y Moi
+1567,5714debf25ac0d8aee37ce43,Toro Y Moi,Psychedelic Pop,56d98ab9cc2ddd0c0f6bdec9,What For?,2015,1771.0,2015-04-06,Unknown,Unknown,2010,Toro Y Moi
+1573,5714debf25ac0d8aee37ce49,Torres,Alternative Rock,56d98abbcc2ddd0c0f6bdece,Torres,2013,1694.0,2013-01-22,Unknown,Unknown,2010,Torres
+1574,5714debf25ac0d8aee37ce4a,Torres,Indie Rock,56d98abbcc2ddd0c0f6bdece,Sprinter,2015,1763.0,2015-05-04,Unknown,Unknown,2010,Torres
+1606,5714debf25ac0d8aee37ce6a,Torture Squad,Death Metal,56d98ac2cc2ddd0c0f6bded9,Æquilibrium,2010,Unknown,2010-08-20,eng,Unknown,2010,Torture Squad
+1622,5714debf25ac0d8aee37dabb,Ultraje A Rigor,Unknown,56d98dfecc2ddd0c0f6be348,Música Esquisita A Troco De Nada!,2010,53.0,2009-04-05,Unknown,Black Metal,2010,Ultraje A Rigor
+1623,5714debf25ac0d8aee37dabc,Ultraje A Rigor,Unknown,56d98dfecc2ddd0c0f6be348,O Embate Do Século: Ultraje A Rigor Vs. Raimundos,2012,3279.0,Unknown,Unknown,Black Metal,2010,Ultraje A Rigor
+1633,5714debf25ac0d8aee37dac6,Ultraísta,Electronica,56d98e03cc2ddd0c0f6be34e,Ultraísta,2012,513.0,Unknown,Unknown,Unknown,2010,Ultraísta
+1636,5714debf25ac0d8aee37dac9,UltraViolet Sound,Electronic,56d98e03cc2ddd0c0f6be34f,UltraViolet Sound,2011,39.0,Unknown,Unknown,Unknown,2010,UltraViolet Sound
+1651,5714debf25ac0d8aee37dad8,Ultravox,Unknown,56d98e04cc2ddd0c0f6be350,Brilliant,2012,76.0,2012-05-25,Unknown,Black Metal,2010,Ultravox
+1666,5714debf25ac0d8aee37d58c,Tunng,Folktronica,56d98cb6cc2ddd0c0f6be19a,...And Then We Saw Land,2010,5979.0,2010-03-01,Unknown,Unknown,2010,Tunng
+1669,5714debf25ac0d8aee37d58f,Tuomas Henrikin Jeesuksen Kristuksen Bändi,Unknown,56d98cb6cc2ddd0c0f6be19b,Ruuvimeisseli Perseessä,2010,Unknown,2010,Unknown,Black Metal,2010,Tuomas Henrikin Jeesuksen Kristuksen Bändi
+1670,5714debf25ac0d8aee37d590,Tuomas Holopainen,Soundtrack,56d98cb6cc2ddd0c0f6be19c,Music Inspired By The Life And Times Of Scrooge,2014,42.0,Unknown,Unknown,Unknown,2010,Tuomas Holopainen
+1685,5714debf25ac0d8aee37d59f,Tuomio & Kone,Hip Hop,56d98cb7cc2ddd0c0f6be19e,Rokkaa,2015,32.0,Unknown,Unknown,Unknown,2010,Tuomio & Kone
+1692,5714debf25ac0d8aee37d5a6,Tuomas Kauhanen,Hip Hop,56d98cb8cc2ddd0c0f6be1a2,Sano Vaan Tuomas,2013,154.0,2013-06-07,Unknown,Unknown,2010,Tuomas Kauhanen
+1693,5714debf25ac0d8aee37d5a7,Tuomas Kauhanen,Hip Hop,56d98cb8cc2ddd0c0f6be1a2,1985,2012,13.0,Unknown,Unknown,Unknown,2010,Tuomas Kauhanen
+1694,5714debf25ac0d8aee37d5a8,Tuomas Kauhanen,Hip Hop,56d98cb8cc2ddd0c0f6be1a2,Miksi Naiset Rakastuu Renttuihin?,2012,29.0,Unknown,Unknown,Unknown,2010,Tuomas Kauhanen
+1695,5714debf25ac0d8aee37d5a9,Tuomas Kauhanen,Unknown,56d98cb8cc2ddd0c0f6be1a2,Enkeli,2013,96.0,Unknown,Unknown,Black Metal,2010,Tuomas Kauhanen
+1696,5714debf25ac0d8aee37d5aa,Tuomas Kauhanen,Unknown,56d98cb8cc2ddd0c0f6be1a2,Pummilla Tallinnaan,2014,77.0,Unknown,Unknown,Black Metal,2010,Tuomas Kauhanen
+1699,5714debf25ac0d8aee37ce6b,Tortured Soul (FR),Unknown,56d98ac3cc2ddd0c0f6bdeda,End Of Dreams,2012,Unknown,Unknown,Unknown,Black Metal,2010,Tortured Soul (FR)
+1705,5714debf25ac0d8aee37ce71,Torture Garden,Unknown,56d98ac3cc2ddd0c0f6bdedf,Dead Romantic,2011,Unknown,Unknown,Unknown,Black Metal,2010,Torture Garden
+1707,5714debf25ac0d8aee37ce73,Tortured Voice,Unknown,56d98ac3cc2ddd0c0f6bdee0,A Hate To The Weak,2010,Unknown,Unknown,Unknown,Black Metal,2010,Tortured Voice
+1717,5714debf25ac0d8aee37ce7d,Total Abuse,Unknown,56d98ac6cc2ddd0c0f6bdee5,Mutt,2010,8.0,Unknown,Unknown,Black Metal,2010,Total Abuse
+1729,5714debf25ac0d8aee37ce89,Totally Enormous Extinct Dinosaurs,Unknown,56d98ac9cc2ddd0c0f6bdeee,Trouble,2012,3872.0,2011-07-04,Unknown,Black Metal,2010,Totally Enormous Extinct Dinosaurs
+1755,5714debf25ac0d8aee37cea3,Toto,Hard Rock,56d98acecc2ddd0c0f6bdef7,Toto XIV,2015,5847.0,Unknown,Unknown,Unknown,2010,Toto
+1767,5714debf25ac0d8aee37dae4,Uma2rmaH,Unknown,56d98e08cc2ddd0c0f6be355,В Этом Городе Все Сумасшедшие,2011,58.0,2011-04-11,Unknown,Black Metal,2010,Uma2rmaH
+1778,5714debf25ac0d8aee37daef,Ulver,Progressive Rock,56d98e09cc2ddd0c0f6be358,Wars Of The Roses,2011,83.0,2011-04-25,eng,Unknown,2010,Ulver
+1798,5714debf25ac0d8aee37d5bd,Turbonegro,Glam Rock,56d98cbecc2ddd0c0f6be1a8,Sexual Harassment,2012,1446.0,2012-06-13,eng,Unknown,2010,Turbonegro
+1803,5714debf25ac0d8aee37d5c2,Turbostaat,Unknown,56d98cbecc2ddd0c0f6be1a9,Das Island Manöver,2010,433.0,2010-04-09,Unknown,Black Metal,2010,Turbostaat
+1804,5714debf25ac0d8aee37d5c3,Turbostaat,Unknown,56d98cbecc2ddd0c0f6be1a9,Stadt Der Angst,2013,50.0,2013-04-05,Unknown,Black Metal,2010,Turbostaat
+1809,5714debf25ac0d8aee37d5c8,Turboweekend,Electronic,56d98cbfcc2ddd0c0f6be1ab,Bound,2010,16.0,2011-04-03,eng,Unknown,2010,Turboweekend
+1810,5714debf25ac0d8aee37d5c9,Turboweekend,Unknown,56d98cbfcc2ddd0c0f6be1ab,Fault Lines,2012,258.0,2012-06-25,eng,Black Metal,2010,Turboweekend
+1821,5714debf25ac0d8aee37d5d4,Turisas,Folk Metal,56d98cc4cc2ddd0c0f6be1ae,Stand Up And Fight,2011,1018.0,2011-02-23,eng,Unknown,2010,Turisas
+1822,5714debf25ac0d8aee37d5d5,Turisas,Unknown,56d98cc4cc2ddd0c0f6be1ae,Turisas2013,2013,482.0,2013-08-21,Unknown,Black Metal,2010,Turisas
+1852,5714debf25ac0d8aee37db10,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,"Yesterday, Today",2012,8691.0,2012-05-15,Unknown,Unknown,2010,Umberto Tozzi
+1877,5714debf25ac0d8aee37db29,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Ohne Dich,2010,Unknown,2010-05-28,deu,Black Metal,2010,Umbra Et Imago
+1878,5714debf25ac0d8aee37db2a,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Opus Magnus,2010,16.0,2010,deu,Black Metal,2010,Umbra Et Imago
+1909,5714debf25ac0d8aee37cec2,Tove Lo,Pop,56d98af4cc2ddd0c0f6bdf09,Truth Serum,2014,29351.0,2014-03-03,Unknown,Unknown,2010,Tove Lo
+1910,5714debf25ac0d8aee37cec3,Tove Lo,Indie Pop,56d98af4cc2ddd0c0f6bdf09,Queen Of The Clouds,2014,41294.0,2014-09-24,Unknown,Unknown,2010,Tove Lo
+1918,5714debf25ac0d8aee37cecb,Tove Styrke,Electropop,56d98af7cc2ddd0c0f6bdf0c,Tove Styrke,2010,82.0,2010-11-17,eng,Unknown,2010,Tove Styrke
+1919,5714debf25ac0d8aee37cecc,Tove Styrke,Electropop,56d98af7cc2ddd0c0f6bdf0c,Kiddo,2015,1418.0,Unknown,Unknown,Unknown,2010,Tove Styrke
+1932,5714debf25ac0d8aee37ced9,Tourniquet,Thrash Metal,56d98af7cc2ddd0c0f6bdf0d,Antiseptic Bloodbath,2012,332.0,2012-07-17,Unknown,Unknown,2010,Tourniquet
+1949,5714debf25ac0d8aee37d5e3,Turin Brakes,Unknown,56d98cc4cc2ddd0c0f6be1b1,Outburst,2010,5.0,Unknown,Unknown,Black Metal,2010,Turin Brakes
+1973,5714debf25ac0d8aee37d5fb,Turmion Kätilöt,Industrial,56d98cc8cc2ddd0c0f6be1ba,Ihmisixsixsix,2010,367.0,Unknown,Unknown,Unknown,2010,Turmion Kätilöt
+1974,5714debf25ac0d8aee37d5fc,Turmion Kätilöt,Unknown,56d98cc8cc2ddd0c0f6be1ba,Perstechnique,2011,367.0,2011-02-23,fin,Black Metal,2010,Turmion Kätilöt
+1975,5714debf25ac0d8aee37d5fd,Turmion Kätilöt,Unknown,56d98cc8cc2ddd0c0f6be1ba,Technodiktator,2013,631.0,2013-09-27,Unknown,Black Metal,2010,Turmion Kätilöt
+1991,5714debf25ac0d8aee37db3a,Umphrey's McGee,Unknown,56d98e18cc2ddd0c0f6be369,Death By Stereo,2011,4.0,2011-09-13,eng,Black Metal,2010,Umphrey's McGee
+2006,5714debf25ac0d8aee37db49,Unantastbar,Unknown,56d98e1ccc2ddd0c0f6be370,Schuldig,2011,1857.0,2011-08-19,Unknown,Black Metal,2010,Unantastbar
+2007,5714debf25ac0d8aee37db4a,Unantastbar,Deutschrock,56d98e1ccc2ddd0c0f6be370,Gegen Die Stille,2013,1857.0,2013-01-18,Unknown,Unknown,2010,Unantastbar
+2015,5714debf25ac0d8aee37db52,Uncle Acid And The Deadbeats,Doom Metal,56d98e1fcc2ddd0c0f6be375,Blood Lust,2011,1860.0,2011-05-27,Unknown,Unknown,2010,Uncle Acid And The Deadbeats
+2019,5714debf25ac0d8aee37cedf,Touché Amoré,Unknown,56d98af8cc2ddd0c0f6bdf0e,Parting The Sea Between Brightness And Me,2011,219.0,2011-06-07,eng,Black Metal,2010,Touché Amoré
+2020,5714debf25ac0d8aee37cee0,Touché Amoré,Post-Hardcore,56d98af8cc2ddd0c0f6bdf0e,Is Survived By,2013,333.0,2013-09-24,Unknown,Unknown,2010,Touché Amoré
+2056,5714debf25ac0d8aee37cf04,Toxic Holocaust,Thrash Metal,56d98b09cc2ddd0c0f6bdf1d,Conjure And Command,2011,551.0,2011-07-19,eng,Unknown,2010,Toxic Holocaust
+2058,5714debf25ac0d8aee37cf06,Toxic Holocaust,Thrash Metal,56d98b09cc2ddd0c0f6bdf1d,Chemistry Of Consciousness,2013,1200.0,Unknown,Unknown,Unknown,2010,Toxic Holocaust
+2107,5714debf25ac0d8aee37d60e,Turnpike Troubadours,Unknown,56d98ccdcc2ddd0c0f6be1c7,Diamonds & Gasoline,2010,93.0,2010-08-21,eng,Acoustic,2010,Turnpike Troubadours
+2108,5714debf25ac0d8aee37d60f,Turnpike Troubadours,Unknown,56d98ccdcc2ddd0c0f6be1c7,Goodbye Normal Street,2012,302.0,2012-05-08,eng,Acoustic,2010,Turnpike Troubadours
+2109,5714debf25ac0d8aee37d610,Turnpike Troubadours,Unknown,56d98ccdcc2ddd0c0f6be1c7,Turnpike Troubadours,2015,164.0,Unknown,Unknown,Acoustic,2010,Turnpike Troubadours
+2122,5714debf25ac0d8aee37d61d,Turo's Hevi Gee,Unknown,56d98ccfcc2ddd0c0f6be1ce,Yhden Tähden Tähden,2014,42.0,Unknown,Unknown,Acoustic,2010,Turo's Hevi Gee
+2125,5714debf25ac0d8aee37d620,Tut Tut Child,Unknown,56d98cd0cc2ddd0c0f6be1d0,Dance To It EP: Monstercat,2012,182.0,Unknown,Unknown,Acoustic,2010,Tut Tut Child
+2127,5714debf25ac0d8aee37d622,Tusmørke,Unknown,56d98cd0cc2ddd0c0f6be1d1,Underjordisk Tusmørke,2012,21.0,2012-11-09,eng,Acoustic,2010,Tusmørke
+2135,5714debf25ac0d8aee37d62a,Tuuttimörkö,Unknown,56d98cd3cc2ddd0c0f6be1d5,On Totta,2013,136.0,2013-01-18,Unknown,Acoustic,2010,Tuuttimörkö
+2136,5714debf25ac0d8aee37d62b,Tuuttimörkö,Unknown,56d98cd3cc2ddd0c0f6be1d5,Savuke + Kola,2013,20.0,Unknown,Unknown,Acoustic,2010,Tuuttimörkö
+2137,5714debf25ac0d8aee37d62c,Tuuttimörkö,Unknown,56d98cd3cc2ddd0c0f6be1d5,Mä Muutan Caliin,2014,20.0,Unknown,Unknown,Acoustic,2010,Tuuttimörkö
+2138,5714debf25ac0d8aee37d62d,Tuuttimörkö,Unknown,56d98cd3cc2ddd0c0f6be1d5,TBA,2015,64.0,Unknown,Unknown,Acoustic,2010,Tuuttimörkö
+2146,5714debf25ac0d8aee37d635,TV Girl,Unknown,56d98cd4cc2ddd0c0f6be1d9,TV Girl,2010,Unknown,Unknown,Unknown,Acoustic,2010,TV Girl
+2148,5714debf25ac0d8aee37d637,Tuya,Unknown,56d98cd5cc2ddd0c0f6be1db,Waterspot,2012,37.0,Unknown,Unknown,Acoustic,2010,Tuya
+2156,5714debf25ac0d8aee37d63f,Tutti Frutti,Unknown,56d98cd6cc2ddd0c0f6be1dd,Pivo & Tequila,2010,34.0,Unknown,Unknown,Acoustic,2010,Tutti Frutti
+2173,5714debf25ac0d8aee37db64,Uncle Fester,Unknown,56d98e24cc2ddd0c0f6be382,As A Baby,2014,0.0,Unknown,Unknown,Acoustic,2010,Uncle Fester
+2178,5714debf25ac0d8aee37db69,Uncle Kracker,Country,56d98e24cc2ddd0c0f6be383,Midnight Special,2012,688.0,2012-11-19,eng,Unknown,2010,Uncle Kracker
+2187,5714debf25ac0d8aee37db72,Uncle Outrage,Unknown,56d98e29cc2ddd0c0f6be386,Best Before 2012,2010,Unknown,Unknown,Unknown,Acoustic,2010,Uncle Outrage
+2188,5714debf25ac0d8aee37db73,Uncle Outrage,Unknown,56d98e29cc2ddd0c0f6be386,Space Legs,2014,Unknown,Unknown,Unknown,Acoustic,2010,Uncle Outrage
+2249,5714debf25ac0d8aee37cf38,Toy,Post-Punk,56d98b0dcc2ddd0c0f6bdf24,Left Myself Behind,2011,14.0,2011-10-10,eng,Unknown,2010,Toy
+2250,5714debf25ac0d8aee37cf39,Toy,Post-Punk,56d98b0dcc2ddd0c0f6bdf24,Toy,2012,1060.0,2012-09-10,eng,Unknown,2010,Toy
+2251,5714debf25ac0d8aee37cf3a,Toy,Post-Punk,56d98b0dcc2ddd0c0f6bdf24,Join The Dots,2013,1924.0,2013-12-09,eng,Unknown,2010,Toy
+2306,5714debf25ac0d8aee37dbbf,Underoath,Metalcore,56d98e4acc2ddd0c0f6be3b5,Ø (Disambiguation),2010,671.0,2010-11-09,eng,Unknown,2010,Underoath
+2333,5714debf25ac0d8aee37dbda,Underworld,Unknown,56d98e4ecc2ddd0c0f6be3be,Barking,2010,826.0,2010-09-02,eng,Acoustic,2010,Underworld
+2336,5714debf25ac0d8aee37dbdd,Underwater Pilots,Futurepop,56d98e4ecc2ddd0c0f6be3bf,Endless,2012,Unknown,2012-02-01,Unknown,Unknown,2010,Underwater Pilots
+2358,5714debf25ac0d8aee37dbf3,Uneven Structure,Unknown,56d98e54cc2ddd0c0f6be3ce,Februus,2011,464.0,2011-10-31,Unknown,Acoustic,2010,Uneven Structure
+2365,5714debf25ac0d8aee37dbfa,Unearth,Metalcore,56d98e55cc2ddd0c0f6be3cf,Darkness In The Light,2011,987.0,2011-07-05,eng,Unknown,2010,Unearth
+2366,5714debf25ac0d8aee37dbfb,Unearth,Metalcore,56d98e55cc2ddd0c0f6be3cf,Watchers Of Rule,2014,346.0,Unknown,Unknown,Unknown,2010,Unearth
+2367,5714debf25ac0d8aee37dbfc,Unfathomable Ruination,Unknown,56d98e56cc2ddd0c0f6be3d0,Unfathomable Ruination,2010,3.0,2010-10-01,eng,Acoustic,2010,Unfathomable Ruination
+2368,5714debf25ac0d8aee37dbfd,Unfathomable Ruination,Unknown,56d98e56cc2ddd0c0f6be3d0,Misshapen Congenital Entropy,2012,76.0,2012-09-28,Unknown,Acoustic,2010,Unfathomable Ruination
+2373,5714debf25ac0d8aee37dc02,Unextraordinary Gentlemen,Unknown,56d98e56cc2ddd0c0f6be3d2,"Open Arms, Empty Air",2011,9.0,Unknown,Unknown,Acoustic,2010,Unextraordinary Gentlemen
+2377,5714debf25ac0d8aee37dc06,Unexpect,Avant-garde Metal,56d98e56cc2ddd0c0f6be3d3,Fables Of The Sleepless Empire,2011,Unknown,2011-05-31,eng,Unknown,2010,Unexpect
+2380,5714debf25ac0d8aee37dc09,Unfun,Unknown,56d98e58cc2ddd0c0f6be3d6,Sick Outside Views,2010,Unknown,Unknown,Unknown,Acoustic,2010,Unfun
+2397,5714debf25ac0d8aee37dc1a,Unheilig,Unknown,56d98e5ecc2ddd0c0f6be3da,Große Freiheit,2010,5888.0,Unknown,Unknown,Acoustic,2010,Unheilig
+2398,5714debf25ac0d8aee37dc1b,Unheilig,Industrial,56d98e5ecc2ddd0c0f6be3da,Lichter Der Stadt,2012,1848.0,2012-03-16,Unknown,Unknown,2010,Unheilig
+2399,5714debf25ac0d8aee37dc1c,Unheilig,Unknown,56d98e5ecc2ddd0c0f6be3da,Gipfelstürmer,2014,4783.0,2014-12-12,Unknown,Acoustic,2010,Unheilig
+2400,5714debf25ac0d8aee37dc1d,Unheilig,Modern Classical,56d98e5ecc2ddd0c0f6be3da,Unter Dampf - Ohne Strom,2015,6480.0,2015-12-11,deu,Unknown,2010,Unheilig
+2411,5714debf25ac0d8aee37d648,TV On The Radio,Art Rock,56d98cd7cc2ddd0c0f6be1e0,Nine Types Of Light,2011,931.0,2011-04-11,Unknown,Unknown,2010,TV On The Radio
+2412,5714debf25ac0d8aee37d649,TV On The Radio,Art Rock,56d98cd7cc2ddd0c0f6be1e0,Seeds,2014,6539.0,2014-11-17,Unknown,Unknown,2010,TV On The Radio
+2430,5714debf25ac0d8aee37d65b,Tuxedomoon,Unknown,56d98cd9cc2ddd0c0f6be1e4,At Twilight,2013,225.0,Unknown,Unknown,Acoustic,2010,Tuxedomoon
+2454,5714debf25ac0d8aee37d673,Tweaker,Unknown,56d98cdccc2ddd0c0f6be1ea,Call The Time Eternity,2012,17.0,Unknown,Unknown,Acoustic,2010,Tweaker
+2483,5714debf25ac0d8aee37cf6a,TQ,R&amp;B,56d98b1ecc2ddd0c0f6bdf34,Kind Of Blue,2010,137.0,2010-03-23,eng,Unknown,2010,TQ
+2502,5714debf25ac0d8aee37cf7d,Toše Proeski,Unknown,56d98b20cc2ddd0c0f6bdf38,Toše I Prijatelji,2010,265.0,Unknown,Unknown,Acoustic,2010,Toše Proeski
+2510,5714debf25ac0d8aee37cf85,Traband,World Music,56d98b20cc2ddd0c0f6bdf3a,Domasa,2010,77.0,2010-04-19,ces,Unknown,2010,Traband
+2519,5714debf25ac0d8aee37cf8e,Tracedawn,Unknown,56d98b29cc2ddd0c0f6bdf41,Lizard Dusk,2012,7.0,2012-02-15,eng,Acoustic,2010,Tracedawn
+2531,5714debf25ac0d8aee37cf9a,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,Cowboy's Back In Town,2010,Unknown,2010-08-17,eng,Unknown,2010,Trace Adkins
+2532,5714debf25ac0d8aee37cf9b,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,Proud To Be Here,2011,81.0,2011-08-02,Unknown,Unknown,2010,Trace Adkins
+2533,5714debf25ac0d8aee37cf9c,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,Love Will...,2013,61.0,2013-05-14,Unknown,Unknown,2010,Trace Adkins
+2534,5714debf25ac0d8aee37cf9d,Trace Adkins,Christmas,56d98b29cc2ddd0c0f6bdf42,The King's Gift,2013,449.0,Unknown,Unknown,Unknown,2010,Trace Adkins
+2537,5714debf25ac0d8aee37d679,Tweedy,Alternative Rock,56d98cddcc2ddd0c0f6be1ee,Sukierae,2014,832.0,2014-09-23,eng,Unknown,2010,Tweedy
+2548,5714debf25ac0d8aee37d684,Twelve Foot Ninja,Unknown,56d98cdfcc2ddd0c0f6be1f4,Smoke Bomb,2010,183.0,2010,eng,Acoustic,2010,Twelve Foot Ninja
+2549,5714debf25ac0d8aee37d685,Twelve Foot Ninja,Alternative Metal,56d98cdfcc2ddd0c0f6be1f4,Silent Machine,2012,518.0,2012-11-02,eng,Unknown,2010,Twelve Foot Ninja
+2550,5714debf25ac0d8aee37d686,Twelve Foot Ninja,Unknown,56d98cdfcc2ddd0c0f6be1f4,TBA,2016,659.0,Unknown,Unknown,Acoustic,2010,Twelve Foot Ninja
+2571,5714debf25ac0d8aee37d69b,Twenty One Pilots,Rap Rock,56d98ce3cc2ddd0c0f6be1ff,Regional At Best,2011,38983.0,2011-07-08,eng,Unknown,2010,Twenty One Pilots
+2572,5714debf25ac0d8aee37d69c,Twenty One Pilots,Rap Rock,56d98ce3cc2ddd0c0f6be1ff,Vessel,2013,54128.0,2012-12-26,Unknown,Unknown,2010,Twenty One Pilots
+2573,5714debf25ac0d8aee37d69d,Twenty One Pilots,Unknown,56d98ce3cc2ddd0c0f6be1ff,Holding On To You,2013,54128.0,2013-08-16,Unknown,Acoustic,2010,Twenty One Pilots
+2574,5714debf25ac0d8aee37d69e,Twenty One Pilots,Indie Pop,56d98ce3cc2ddd0c0f6be1ff,Blurryface,2015,254895.0,2015-05-18,Unknown,Unknown,2010,Twenty One Pilots
+2584,5714debf25ac0d8aee37cfa7,Tracey Thorn,Pop,56d98b2acc2ddd0c0f6bdf46,Love And Its Opposite,2010,1053.0,Unknown,Unknown,Unknown,2010,Tracey Thorn
+2585,5714debf25ac0d8aee37cfa8,Tracey Thorn,Christmas,56d98b2acc2ddd0c0f6bdf46,Tinsel And Lights,2012,619.0,Unknown,Unknown,Unknown,2010,Tracey Thorn
+2591,5714debf25ac0d8aee37cfae,Traci Lords,Unknown,56d98b2ccc2ddd0c0f6bdf48,Last Drag,2011,13.0,Unknown,Unknown,Pop,2010,Traci Lords
+2608,5714debf25ac0d8aee37cfbf,Tracktor Bowling,Unknown,56d98b31cc2ddd0c0f6bdf51,Tracktor Bowling,2010,132.0,2010-03,rus,Pop,2010,Tracktor Bowling
+2629,5714debf25ac0d8aee37dc26,Ungu,Pop Rock,56d98e5ecc2ddd0c0f6be3db,Timeless,2012,Unknown,2012-05,Unknown,Unknown,2010,Ungu
+2630,5714debf25ac0d8aee37dc27,Ungu,Pop Rock,56d98e5ecc2ddd0c0f6be3db,Ruang Hati,2013,Unknown,2013-07-09,Unknown,Unknown,2010,Ungu
+2631,5714debf25ac0d8aee37dc28,Ungu,Pop Rock,56d98e5ecc2ddd0c0f6be3db,Mozaik,2015,75.0,Unknown,Unknown,Unknown,2010,Ungu
+2665,5714debf25ac0d8aee37dc4a,Uniikki,Hip Hop,56d98e67cc2ddd0c0f6be3ee,Suurempaa,2011,84.0,2011-04-06,Unknown,Unknown,2010,Uniikki
+2666,5714debf25ac0d8aee37dc4b,Uniikki,Unknown,56d98e67cc2ddd0c0f6be3ee,8190,2011,84.0,Unknown,Unknown,Pop,2010,Uniikki
+2667,5714debf25ac0d8aee37dc4c,Uniikki,Hip Hop,56d98e67cc2ddd0c0f6be3ee,Kiitorata,2012,192.0,2012-06-06,Unknown,Unknown,2010,Uniikki
+2668,5714debf25ac0d8aee37dc4d,Uniikki,Hip Hop,56d98e67cc2ddd0c0f6be3ee,Kylänmies,2013,253.0,Unknown,Unknown,Unknown,2010,Uniikki
+2669,5714debf25ac0d8aee37dc4e,Uniikki,Hip Hop,56d98e67cc2ddd0c0f6be3ee,Pienen Miehen Isot Hitit,2014,76.0,Unknown,Unknown,Unknown,2010,Uniikki
+2738,5714debf25ac0d8aee37d6e2,Twin Atlantic,Alternative Rock,56d98cf2cc2ddd0c0f6be216,Free,2011,1227.0,2011-04-29,Unknown,Unknown,2010,Twin Atlantic
+2739,5714debf25ac0d8aee37d6e3,Twin Atlantic,Alternative Rock,56d98cf2cc2ddd0c0f6be216,Great Divide,2014,2332.0,2014-08-15,Unknown,Unknown,2010,Twin Atlantic
+2816,5714debf25ac0d8aee37dc53,Union (UK),Unknown,56d98e6acc2ddd0c0f6be3f1,Crime Scene,2010,Unknown,Unknown,Unknown,Pop,2010,Union (UK)
+2832,5714debf25ac0d8aee37dc63,Union J,Pop,56d98e6ccc2ddd0c0f6be3f8,Union J,2013,13309.0,2013-10-28,Unknown,Unknown,2010,Union J
+2833,5714debf25ac0d8aee37dc64,Union J,Pop,56d98e6ccc2ddd0c0f6be3f8,You Got It All - The Album,2014,Unknown,2014-12-08,Unknown,Unknown,2010,Union J
+2842,5714debf25ac0d8aee37dc6d,Union Town,Unknown,56d98e6fcc2ddd0c0f6be400,Blinding Lights,2010.0,Unknown,Unknown,Unknown,Pop,2010,Union Town
+2843,5714debf25ac0d8aee37dc6e,Unique (HU),Unknown,56d98e6fcc2ddd0c0f6be401,Magadban Keresd,2015.0,Unknown,Unknown,Unknown,Pop,2010,Unique (HU)
+2844,5714debf25ac0d8aee37dc6f,Unisonic,Hard Rock,56d98e70cc2ddd0c0f6be402,Ignition,2012.0,330.0,2012-02-14,Unknown,Unknown,2010,Unisonic
+2845,5714debf25ac0d8aee37dc70,Unisonic,Hard Rock,56d98e70cc2ddd0c0f6be402,Unisonic,2012.0,1455.0,2012-03-21,Unknown,Unknown,2010,Unisonic
+2846,5714debf25ac0d8aee37dc71,Unisonic,Hard Rock,56d98e70cc2ddd0c0f6be402,For The Kingdom (EP),2014.0,355.0,Unknown,Unknown,Unknown,2010,Unisonic
+2847,5714debf25ac0d8aee37dc72,Unisonic,Hard Rock,56d98e70cc2ddd0c0f6be402,Light Of Dawn,2014.0,1732.0,2014-01-08,Unknown,Unknown,2010,Unisonic
+2854,5714debf25ac0d8aee37d6ec,Twin Shadow,Unknown,56d98d17cc2ddd0c0f6be21c,Forget,2010.0,2544.0,2010-09-28,Unknown,Pop,2010,Twin Shadow
+2855,5714debf25ac0d8aee37d6ed,Twin Shadow,Indie Pop,56d98d17cc2ddd0c0f6be21c,Confess,2012.0,1418.0,2012-07-09,Unknown,Unknown,2010,Twin Shadow
+2856,5714debf25ac0d8aee37d6ee,Twin Shadow,Indie Pop,56d98d17cc2ddd0c0f6be21c,Eclipse,2015.0,1357.0,2015-03-17,eng,Unknown,2010,Twin Shadow
+2859,5714debf25ac0d8aee37d6f1,Twin Twin,Unknown,56d98d18cc2ddd0c0f6be21e,Vive La Vie,2013.0,1180.0,2013-04-22,Unknown,Pop,2010,Twin Twin
+2865,5714debf25ac0d8aee37d6f7,Twin Sister,Unknown,56d98d18cc2ddd0c0f6be221,Color Your Life,2010.0,404.0,2010-09-20,eng,Pop,2010,Twin Sister
+2866,5714debf25ac0d8aee37d6f8,Twin Sister,Unknown,56d98d18cc2ddd0c0f6be221,All Around & Away We Go,2010.0,404.0,Unknown,Unknown,Pop,2010,Twin Sister
+2867,5714debf25ac0d8aee37d6f9,Twin Sister,Unknown,56d98d18cc2ddd0c0f6be221,Bad Street,2011.0,17.0,Unknown,Unknown,Pop,2010,Twin Sister
+2868,5714debf25ac0d8aee37d6fa,Twin Sister,Unknown,56d98d18cc2ddd0c0f6be221,Gene Ciampi,2011.0,Unknown,Unknown,Unknown,Pop,2010,Twin Sister
+2869,5714debf25ac0d8aee37d6fb,Twin Sister,Unknown,56d98d18cc2ddd0c0f6be221,In Heaven,2011.0,430.0,2011-09-27,eng,Pop,2010,Twin Sister
+2887,5714debf25ac0d8aee37d70d,Twista,Hip Hop,56d98d1ecc2ddd0c0f6be227,The Perfect Storm,2010.0,2724.0,2010-11-09,Unknown,Unknown,2010,Twista
+2899,5714debf25ac0d8aee37dc7c,Unit:187,Unknown,56d98e72cc2ddd0c0f6be408,187:Out For Blood,2010.0,Unknown,Unknown,Unknown,Pop,2010,Unit:187
+2905,5714debf25ac0d8aee37dc82,Unitary,EBM,56d98e73cc2ddd0c0f6be40b,Safe From Harm,2011.0,Unknown,2011-07-29,Unknown,Unknown,2010,Unitary
+2906,5714debf25ac0d8aee37dc83,Unitary,EBM,56d98e73cc2ddd0c0f6be40b,Misanthropy,2012.0,Unknown,Unknown,Unknown,Unknown,2010,Unitary
+2908,5714debf25ac0d8aee37dc85,Unite To Prevail,Technical Death Metal,56d98e75cc2ddd0c0f6be40d,Unite To Prevail,2015.0,Unknown,Unknown,Unknown,Unknown,2010,Unite To Prevail
+2919,5714debf25ac0d8aee37dc90,United Progressive Fraternity,Unknown,56d98e77cc2ddd0c0f6be416,Fall In Love With The World,2014.0,129.0,Unknown,Unknown,Pop,2010,United Progressive Fraternity
+2926,5714debf25ac0d8aee37dc97,Unitopia,Progressive Rock,56d98e79cc2ddd0c0f6be41b,Artificial,2010.0,115.0,2010-05-03,eng,Unknown,2010,Unitopia
+2940,5714debf25ac0d8aee37dca5,Universum,Unknown,56d98e7fcc2ddd0c0f6be421,Mortuus Machina,2010.0,15.0,2010-12-16,eng,Pop,2010,Universum
+2962,5714debf25ac0d8aee37dcbb,Unkle,Electronica,56d98e80cc2ddd0c0f6be426,Where Did The Night Fall,2010.0,488.0,2010-05-10,eng,Unknown,2010,Unkle
+2970,5714debf25ac0d8aee37dcc3,Unkle Bob,Indie Rock,56d98e80cc2ddd0c0f6be429,Shockwaves,2010.0,73.0,2010-10-01,Unknown,Unknown,2010,Unkle Bob
+2979,5714debf25ac0d8aee37dccc,Unknown Hinson,Unknown,56d98e82cc2ddd0c0f6be42d,Reloaded,2012.0,Unknown,Unknown,Unknown,Pop,2010,Unknown Hinson
+2982,5714debf25ac0d8aee37dccf,Unleash The Archers,Unknown,56d98e85cc2ddd0c0f6be430,Demons Of The Astrowaste,2011.0,312.0,2011-03-11,Unknown,Pop,2010,Unleash The Archers
+2983,5714debf25ac0d8aee37dcd0,Unknown Mortal Orchestra,Unknown,56d98e86cc2ddd0c0f6be431,Unknown Mortal Orchestra,2011.0,2234.0,2011-06-17,Unknown,Pop,2010,Unknown Mortal Orchestra
+2984,5714debf25ac0d8aee37dcd1,Unknown Mortal Orchestra,Indie Rock,56d98e86cc2ddd0c0f6be431,II,2013.0,3560.0,2013-02-04,Unknown,Unknown,2010,Unknown Mortal Orchestra
+2985,5714debf25ac0d8aee37dcd2,Unknown Mortal Orchestra,Unknown,56d98e86cc2ddd0c0f6be431,Multi-Love,2015.0,6074.0,Unknown,Unknown,Pop,2010,Unknown Mortal Orchestra
+3003,5714debf25ac0d8aee37dce4,Unleashed,Death Metal,56d98e87cc2ddd0c0f6be437,As Yggdrasil Trembles,2010.0,198.0,2010-03-19,eng,Unknown,2010,Unleashed
+3046,5714debf25ac0d8aee37d727,Twitch The Ripper,Electronic,56d98d2acc2ddd0c0f6be236,Bodiless,2011.0,Unknown,Unknown,Unknown,Unknown,2010,Twitch The Ripper
+3058,5714debf25ac0d8aee37d733,Twiztid,Horrorcore,56d98d2acc2ddd0c0f6be237,Heartbroken And Homicidal,2010.0,494.0,2010-09-21,eng,Unknown,2010,Twiztid
+3063,5714debf25ac0d8aee37dcfb,Unreal,Unknown,56d98e8dcc2ddd0c0f6be447,Демиурги Сновидений,2012.0,Unknown,Unknown,Unknown,Hard Rock,2010,Unreal
+3069,5714debf25ac0d8aee37dd01,Unruly Child,Unknown,56d98e8ecc2ddd0c0f6be44a,Worlds Collide,2010.0,141.0,Unknown,Unknown,Hard Rock,2010,Unruly Child
+3073,5714debf25ac0d8aee37dd05,Unsilent,Unknown,56d98e90cc2ddd0c0f6be44d,Unsilent,2010.0,Unknown,Unknown,Unknown,Hard Rock,2010,Unsilent
+3074,5714debf25ac0d8aee37dd06,Unsilent,Unknown,56d98e90cc2ddd0c0f6be44d,Born Under A Bad Sign,2012.0,Unknown,Unknown,Unknown,Hard Rock,2010,Unsilent
+3077,5714debf25ac0d8aee37dd09,Unspoken,Unknown,56d98e91cc2ddd0c0f6be450,Get To Me,2012.0,Unknown,Unknown,Unknown,Hard Rock,2010,Unspoken
+3078,5714debf25ac0d8aee37dd0a,Unspoken,Contemporary Christian,56d98e91cc2ddd0c0f6be450,Unspoken,2014.0,1051.0,Unknown,Unknown,Unknown,2010,Unspoken
+3084,5714debf25ac0d8aee37dd10,UnSun,Alternative Metal,56d98e92cc2ddd0c0f6be455,Clinic For Dolls,2010.0,47.0,2010-10-11,eng,Unknown,2010,UnSun
+3120,5714debf25ac0d8aee37dd34,Unter Null,Unknown,56d98eb4cc2ddd0c0f6be460,Moving On,2010.0,108.0,2010-02-26,eng,Hard Rock,2010,Unter Null
+3127,5714debf25ac0d8aee37dd3b,Until I Breathe,Unknown,56d98eb5cc2ddd0c0f6be463,Мы Где-То Здесь,2010.0,Unknown,Unknown,Unknown,Hard Rock,2010,Until I Breathe
+3130,5714debf25ac0d8aee37dd3e,Until The Ribbon Breaks,Unknown,56d98eb6cc2ddd0c0f6be466,A Taste Of Silver,2013.0,489.0,Unknown,Unknown,Hard Rock,2010,Until The Ribbon Breaks
+3131,5714debf25ac0d8aee37dd3f,Until The Ribbon Breaks,Unknown,56d98eb6cc2ddd0c0f6be466,A Lesson Unlearnt,2014.0,489.0,Unknown,Unknown,Hard Rock,2010,Until The Ribbon Breaks
+3144,5714debf25ac0d8aee37dd4c,Unto Ashes,Unknown,56d98ebccc2ddd0c0f6be46b,Burials Foretold,2012.0,10.0,2012,Unknown,Hard Rock,2010,Unto Ashes
+3145,5714debf25ac0d8aee37dd4d,Unto Ashes,Unknown,56d98ebccc2ddd0c0f6be46b,Spellbound In Winter,2012.0,30.0,Unknown,Unknown,Hard Rock,2010,Unto Ashes
+3162,5714debf25ac0d8aee37dd5e,Untoten,Dark Wave,56d98ebccc2ddd0c0f6be46c,Liebe Oder Tod,2010.0,19.0,2010-10-29,deu,Unknown,2010,Untoten
+3163,5714debf25ac0d8aee37dd5f,Untoten,Dark Wave,56d98ebccc2ddd0c0f6be46c,Haus Der Lüge,2010.0,23.0,Unknown,Unknown,Unknown,2010,Untoten
+3179,5714debf25ac0d8aee37d743,Two Gallants,Indie Rock,56d98d2ecc2ddd0c0f6be23d,The Bloom And The Blight,2012.0,667.0,2012-09-03,Unknown,Unknown,2010,Two Gallants
+3180,5714debf25ac0d8aee37d744,Two Gallants,Indie Rock,56d98d2ecc2ddd0c0f6be23d,We Are Undone,2015.0,533.0,2015-02-02,Unknown,Unknown,2010,Two Gallants
+3184,5714debf25ac0d8aee37d748,Two Fingers,Unknown,56d98d2ecc2ddd0c0f6be23e,Stunt Rhythms,2012.0,2108.0,2012-10-08,Unknown,Hard Rock,2010,Two Fingers
+3185,5714debf25ac0d8aee37d749,Two Door Cinema Club,Indie Rock,56d98d2ecc2ddd0c0f6be23f,Tourist History,2010.0,9344.0,2010-03-01,eng,Unknown,2010,Two Door Cinema Club
+3186,5714debf25ac0d8aee37d74a,Two Door Cinema Club,Indie Pop,56d98d2ecc2ddd0c0f6be23f,Beacon,2012.0,7904.0,2012-09-03,Unknown,Unknown,2010,Two Door Cinema Club
+3215,5714debf25ac0d8aee37dd63,Unwoman,Unknown,56d98ebecc2ddd0c0f6be46f,Circling,2014.0,15.0,2014-07-24,Unknown,Hard Rock,2010,Unwoman
+3227,5714debf25ac0d8aee37dd6f,Unwound,Indie Rock,56d98ec3cc2ddd0c0f6be474,Rat Conspiracy,2014.0,51.0,2014-03-14,eng,Unknown,2010,Unwound
+3236,5714debf25ac0d8aee37dd78,Unwritten Law,Punk Rock,56d98ec4cc2ddd0c0f6be476,Swan,2011.0,152.0,2011-03-29,Unknown,Unknown,2010,Unwritten Law
+3262,5714debf25ac0d8aee37d76f,Two-9,Hip Hop,56d98d39cc2ddd0c0f6be25a,B4FRVR,2015.0,259.0,2015-02-09,Unknown,Unknown,2010,Two-9
+3282,5714debf25ac0d8aee37d783,Two Steps From Hell,Orchestral,56d98d3ecc2ddd0c0f6be260,Invincible,2010.0,17347.0,2010-05-03,eng,Unknown,2010,Two Steps From Hell
+3283,5714debf25ac0d8aee37d784,Two Steps From Hell,Orchestral,56d98d3ecc2ddd0c0f6be260,Archangel,2011.0,10828.0,2011-09-20,Unknown,Unknown,2010,Two Steps From Hell
+3284,5714debf25ac0d8aee37d785,Two Steps From Hell,Orchestral,56d98d3ecc2ddd0c0f6be260,SkyWorld,2012.0,11152.0,2012-10-25,eng,Unknown,2010,Two Steps From Hell
+3285,5714debf25ac0d8aee37d786,Two Steps From Hell,New Age,56d98d3ecc2ddd0c0f6be260,Miracles,2014.0,5654.0,2014-06-02,Unknown,Unknown,2010,Two Steps From Hell
+3286,5714debf25ac0d8aee37d787,Two Steps From Hell,Orchestral,56d98d3ecc2ddd0c0f6be260,Battlecry,2015.0,7023.0,2015-04-28,Unknown,Unknown,2010,Two Steps From Hell
+3299,5714debf25ac0d8aee37d794,Txarrena,Unknown,56d98d41cc2ddd0c0f6be267,Azulejo Frío,2011.0,148.0,Unknown,Unknown,Hard Rock,2010,Txarrena
+3300,5714debf25ac0d8aee37d795,Ty Dolla $ign,Hip Hop,56d98d41cc2ddd0c0f6be268,Beach House,2014.0,10573.0,2014-01-21,eng,Unknown,2010,Ty Dolla $ign
+3301,5714debf25ac0d8aee37d796,Ty Dolla $ign,Unknown,56d98d41cc2ddd0c0f6be268,Shell Shocked,2014.0,Unknown,Unknown,Unknown,Hard Rock,2010,Ty Dolla $ign
+3302,5714debf25ac0d8aee37d797,Ty Dolla $ign,Hip Hop,56d98d41cc2ddd0c0f6be268,Or Nah,2014.0,24932.0,Unknown,Unknown,Unknown,2010,Ty Dolla $ign
+3312,5714debf25ac0d8aee37dd90,Upon A Burning Body,Deathcore,56d98ec9cc2ddd0c0f6be485,The World Is Ours,2010.0,704.0,2010-04-06,eng,Unknown,2010,Upon A Burning Body
+3313,5714debf25ac0d8aee37dd91,Upon A Burning Body,Deathcore,56d98ec9cc2ddd0c0f6be485,Red. White. Green.,2012.0,1492.0,2012-04-10,eng,Unknown,2010,Upon A Burning Body
+3314,5714debf25ac0d8aee37dd92,Upon A Burning Body,Groove Metal,56d98ec9cc2ddd0c0f6be485,The World Is My Enemy Now,2014.0,2472.0,2014-08-12,Unknown,Unknown,2010,Upon A Burning Body
+3321,5714debf25ac0d8aee37dd99,Upon This Dawning,Metalcore,56d98ecacc2ddd0c0f6be48b,To Keep Us Safe,2012.0,Unknown,2012-10-22,eng,Unknown,2010,Upon This Dawning
+3322,5714debf25ac0d8aee37dd9a,Upon This Dawning,Metalcore,56d98ecacc2ddd0c0f6be48b,We Are All Sinners,2014.0,667.0,2014-04-29,Unknown,Unknown,2010,Upon This Dawning
+3337,5714debf25ac0d8aee37dda9,UR S MAN (Sam Reeves),Unknown,56d98ececc2ddd0c0f6be499,I Am Sam,2011.0,Unknown,Unknown,Unknown,Hard Rock,2010,UR S MAN (Sam Reeves)
+3347,5714debf25ac0d8aee37ddb3,Urbaanilegenda,Hip Hop,56d98ed0cc2ddd0c0f6be4a0,21 12,2011.0,0.0,Unknown,Unknown,Unknown,2010,Urbaanilegenda
+3348,5714debf25ac0d8aee37ddb4,Urban Cone,Indie Pop,56d98ed1cc2ddd0c0f6be4a1,Our Youth,2012.0,1623.0,2012-10-26,Unknown,Unknown,2010,Urban Cone
+3349,5714debf25ac0d8aee37ddb5,Urban Cone,Indie Pop,56d98ed1cc2ddd0c0f6be4a1,Our Youth Pt. 2,2012.0,152.0,2012-01-01,Unknown,Unknown,2010,Urban Cone
+3350,5714debf25ac0d8aee37ddb6,Urban Cone,Indie Pop,56d98ed1cc2ddd0c0f6be4a1,Polaroid Memories,2015.0,371.0,Unknown,Unknown,Unknown,2010,Urban Cone
+3372,5714debf25ac0d8aee37d7aa,Ty Segall,Indie Rock,56d98d45cc2ddd0c0f6be26c,Melted,2010.0,3265.0,2010-05-25,Unknown,Unknown,2010,Ty Segall
+3373,5714debf25ac0d8aee37d7ab,Ty Segall,Indie Rock,56d98d45cc2ddd0c0f6be26c,Goodbye Bread,2011.0,0.0,2011-06-21,Unknown,Unknown,2010,Ty Segall
+3374,5714debf25ac0d8aee37d7ac,Ty Segall,Indie Rock,56d98d45cc2ddd0c0f6be26c,Twins,2012.0,1354.0,2012-10-09,Unknown,Unknown,2010,Ty Segall
+3375,5714debf25ac0d8aee37d7ad,Ty Segall,Garage Rock,56d98d45cc2ddd0c0f6be26c,Sleeper,2013.0,Unknown,2013-08-20,Unknown,Unknown,2010,Ty Segall
+3376,5714debf25ac0d8aee37d7ae,Ty Segall,Psychedelic Rock,56d98d45cc2ddd0c0f6be26c,Manipulator,2014.0,0.0,2014-08-26,Unknown,Unknown,2010,Ty Segall
+3378,5714debf25ac0d8aee37d7b0,Tycho,Ambient,56d98d45cc2ddd0c0f6be26d,Awake,2014.0,6651.0,2014-03-18,Unknown,Unknown,2010,Tycho
+3381,5714debf25ac0d8aee37d7b3,TyDi,Chill-out,56d98d47cc2ddd0c0f6be270,Hotel Rooms,2013.0,294.0,2013-11-24,eng,Unknown,2010,TyDi
+3382,5714debf25ac0d8aee37d7b4,TyDi,Dance,56d98d47cc2ddd0c0f6be270,Redefined,2014.0,208.0,2014-10-30,eng,Unknown,2010,TyDi
+3391,5714debf25ac0d8aee37d7bd,Tye Tribbett,Gospel,56d98d4ecc2ddd0c0f6be275,Fresh,2010.0,1710.0,Unknown,Unknown,Unknown,2010,Tye Tribbett
+3396,5714debf25ac0d8aee37d7c2,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Well Done,2010.0,135869.0,2010-08-11,Unknown,Unknown,2010,Tyga
+3397,5714debf25ac0d8aee37d7c3,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Black Thoughts,2010.0,14750.0,2010-04-13,Unknown,Unknown,2010,Tyga
+3398,5714debf25ac0d8aee37d7c4,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Well Done 2,2011.0,19855.0,2011-07-18,Unknown,Unknown,2010,Tyga
+3399,5714debf25ac0d8aee37d7c5,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Black Thoughts Vol. 2,2011.0,Unknown,2011-04-12,Unknown,Unknown,2010,Tyga
+3400,5714debf25ac0d8aee37d7c6,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Bitchimtheshit,2011.0,Unknown,2011-12-04,Unknown,Unknown,2010,Tyga
+3401,5714debf25ac0d8aee37d7c7,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Careless World: Rise Of The Last King,2012.0,61177.0,2012-02-12,Unknown,Unknown,2010,Tyga
+3402,5714debf25ac0d8aee37d7c8,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Well Done 3,2012.0,5090.0,2012-08-11,Unknown,Unknown,2010,Tyga
+3403,5714debf25ac0d8aee37d7c9,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Hotel California,2013.0,0.0,2013-04-09,Unknown,Unknown,2010,Tyga
+3404,5714debf25ac0d8aee37d7ca,Tyga,Unknown,56d98d4ecc2ddd0c0f6be276,Fan Of A Fan: The Album,2015.0,135869.0,Unknown,Unknown,Hard Rock,2010,Tyga
+3405,5714debf25ac0d8aee37d7cb,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,The Gold Album: 18th Dynasty,2015.0,27234.0,2015-06-23,Unknown,Unknown,2010,Tyga
+3406,5714debf25ac0d8aee37d7cc,Tyga,Hip Hop,56d98d4ecc2ddd0c0f6be276,Fuk Wat They Talkin Bout,2015.0,38806.0,2015-08-24,Unknown,Unknown,2010,Tyga
+3422,5714debf25ac0d8aee37ddc6,Urban Symphony,Pop,56d98ed5cc2ddd0c0f6be4ad,Skorpion,2010.0,33.0,Unknown,Unknown,Unknown,2010,Urban Symphony
+3452,5714debf25ac0d8aee37dde4,Urge Overkill,Alternative Rock,56d98edccc2ddd0c0f6be4bc,Rock & Roll Submarine,2011.0,197.0,2011-05-10,eng,Unknown,2010,Urge Overkill
+3455,5714debf25ac0d8aee37dde7,Urgh!,Unknown,56d98eddcc2ddd0c0f6be4bd,Pozorište Surovosti,2011.0,Unknown,Unknown,Unknown,Hard Rock,2010,Urgh!
+3499,5714debf25ac0d8aee37de13,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Into The Wild,2011.0,1065.0,2011-04-11,eng,Unknown,2010,Uriah Heep
+3500,5714debf25ac0d8aee37de14,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Outsider,2014.0,1125.0,Unknown,Unknown,Unknown,2010,Uriah Heep
+3518,5714debf25ac0d8aee37de26,Urusen,Folk,56d98eeacc2ddd0c0f6be4cd,This Is Where We Meet,2012.0,1.0,Unknown,Unknown,Unknown,2010,Urusen
+3527,5714debf25ac0d8aee37de2f,"Us, From Outside",Unknown,56d98eefcc2ddd0c0f6be4d6,Inspired By The Threat Of  Failure,2010.0,49.0,2010-04-27,eng,Psychedelic Rock,2010,"Us, From Outside"
+3547,5714debf25ac0d8aee37de43,Useless Beauty,Unknown,56d98ef4cc2ddd0c0f6be4df,Sisters,2011.0,0.0,Unknown,Unknown,Psychedelic Rock,2010,Useless Beauty
+3548,5714debf25ac0d8aee37de44,Useless Beauty,Unknown,56d98ef4cc2ddd0c0f6be4df,We Know Someone,2014.0,1.0,Unknown,Unknown,Psychedelic Rock,2010,Useless Beauty
+3565,5714debf25ac0d8aee37d7db,Tyketto,Unknown,56d98d50cc2ddd0c0f6be279,Dig In Deep,2012.0,400.0,Unknown,Unknown,Psychedelic Rock,2010,Tyketto
+3570,5714debf25ac0d8aee37d7e0,Tykopaatti,Unknown,56d98d53cc2ddd0c0f6be27b,Bäk In Bisnes,2014.0,8.0,Unknown,Unknown,Psychedelic Rock,2010,Tykopaatti
+3577,5714debf25ac0d8aee37d7e7,Tyla,Glam Rock,56d98d53cc2ddd0c0f6be27d,Live In London MMXIII,2013.0,21.0,2013-09-23,Unknown,Unknown,2010,Tyla
+3590,5714debf25ac0d8aee37d7f4,Tyler Farr,Country,56d98d57cc2ddd0c0f6be286,Redneck Crazy,2013.0,1212.0,2013-09-30,Unknown,Unknown,2010,Tyler Farr
+3594,5714debf25ac0d8aee37d7f8,Tyler Hilton,Indie Rock,56d98d57cc2ddd0c0f6be287,Forget The Storm,2012.0,5461.0,Unknown,Unknown,Unknown,2010,Tyler Hilton
+3595,5714debf25ac0d8aee37d7f9,Tyler Hilton,Indie Rock,56d98d57cc2ddd0c0f6be287,Indian Summer,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Tyler Hilton
+3597,5714debf25ac0d8aee37d7fb,Tyler James (US),Unknown,56d98d58cc2ddd0c0f6be288,It Took The Fire,2010.0,Unknown,Unknown,Unknown,Psychedelic Rock,2010,Tyler James (US)
+3599,5714debf25ac0d8aee37d7fd,Tyler James,Pop,56d98d59cc2ddd0c0f6be289,A Place I Go,2012.0,Unknown,2012-10-26,Unknown,Unknown,2010,Tyler James
+3622,5714debf25ac0d8aee37de5e,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,Raymond V. Raymond,2010.0,6063.0,2010-03-30,eng,Unknown,2010,Usher
+3623,5714debf25ac0d8aee37de5f,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,Versus,2010.0,Unknown,2010-08-24,eng,Unknown,2010,Usher
+3624,5714debf25ac0d8aee37de60,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,Looking 4 Myself,2012.0,21686.0,2012-06-08,eng,Unknown,2010,Usher
+3625,5714debf25ac0d8aee37de61,Usher,Unknown,56d98efacc2ddd0c0f6be4e8,UR,2015.0,53.0,Unknown,Unknown,Psychedelic Rock,2010,Usher
+3647,5714debf25ac0d8aee37d809,Tyler Lyle,Unknown,56d98d5acc2ddd0c0f6be290,Inland Islands / Bad Things (& Collard Greens),2010.0,Unknown,Unknown,Unknown,Psychedelic Rock,2010,Tyler Lyle
+3648,5714debf25ac0d8aee37d80a,Tyler Lyle,Unknown,56d98d5acc2ddd0c0f6be290,The Golden Age & The Silver Girl,2011.0,28.0,Unknown,Unknown,Psychedelic Rock,2010,Tyler Lyle
+3649,5714debf25ac0d8aee37d80b,Tyler Lyle,Unknown,56d98d5acc2ddd0c0f6be290,Expatriates,2013.0,9.0,Unknown,Unknown,Psychedelic Rock,2010,Tyler Lyle
+3650,5714debf25ac0d8aee37d80c,Tyler Shaw,Unknown,56d98d5ccc2ddd0c0f6be291,Kiss Goodnight,2012.0,34.0,2012-12-04,Unknown,Psychedelic Rock,2010,Tyler Shaw
+3653,5714debf25ac0d8aee37d80f,Tyler Richardson,Christian,56d98d5dcc2ddd0c0f6be294,Melody Of Light - EP,2012.0,Unknown,Unknown,Unknown,Unknown,2010,Tyler Richardson
+3654,5714debf25ac0d8aee37d810,Tyler Richardson,Christian,56d98d5dcc2ddd0c0f6be294,In The Stillness (Acoustical EP),2012.0,Unknown,Unknown,Unknown,Unknown,2010,Tyler Richardson
+3655,5714debf25ac0d8aee37d811,Tyler Ward,Unknown,56d98d5ecc2ddd0c0f6be295,"1 Original, ONE Cover",2013.0,1735.0,Unknown,Unknown,Psychedelic Rock,2010,Tyler Ward
+3661,5714debf25ac0d8aee37d817,"Tyler, The Creator",Alternative Hip Hop,56d98d60cc2ddd0c0f6be299,Goblin,2011.0,21741.0,2011-05-10,Unknown,Unknown,2010,"Tyler, The Creator"
+3662,5714debf25ac0d8aee37d818,"Tyler, The Creator",Hip Hop,56d98d60cc2ddd0c0f6be299,Wolf,2013.0,29496.0,2013-04-01,Unknown,Unknown,2010,"Tyler, The Creator"
+3689,5714debf25ac0d8aee37de7b,UTN1,Unknown,56d98f01cc2ddd0c0f6be4f4,Tet'thakkareen,2010.0,2.0,Unknown,Unknown,Psychedelic Rock,2010,UTN1
+3695,5714debf25ac0d8aee37de81,Ute Freudenberg,Unknown,56d98f01cc2ddd0c0f6be4f5,Willkommen Im Leben,2012.0,369.0,Unknown,Unknown,Psychedelic Rock,2010,Ute Freudenberg
+3712,5714debf25ac0d8aee37de92,Utopians,Unknown,56d98f06cc2ddd0c0f6be4fa,Freak,2010.0,7.0,Unknown,Unknown,Psychedelic Rock,2010,Utopians
+3713,5714debf25ac0d8aee37de93,Utopians,Unknown,56d98f06cc2ddd0c0f6be4fa,Trastornados,2012.0,176.0,Unknown,Unknown,Psychedelic Rock,2010,Utopians
+3718,5714debf25ac0d8aee37de98,Uva,Latin Rock,56d98f09cc2ddd0c0f6be4fe,Entonces Todos Sabrán Qué Eres,2011.0,Unknown,Unknown,Unknown,Unknown,2010,Uva
+3719,5714debf25ac0d8aee37de99,Uva,Latin Rock,56d98f09cc2ddd0c0f6be4fe,No Va A Ser Así Para Siempre,2013.0,Unknown,Unknown,Unknown,Unknown,2010,Uva
+3736,5714debf25ac0d8aee37deaa,Uverworld,Unknown,56d98f09cc2ddd0c0f6be4ff,Last,2010.0,27.0,2010-04-14,jpn,Psychedelic Rock,2010,Uverworld
+3737,5714debf25ac0d8aee37deab,Uverworld,Unknown,56d98f09cc2ddd0c0f6be4ff,Life 6 Sense,2011.0,Unknown,2011-06-01,jpn,Psychedelic Rock,2010,Uverworld
+3738,5714debf25ac0d8aee37deac,Uverworld,Unknown,56d98f09cc2ddd0c0f6be4ff,The One,2012.0,Unknown,2012-11-28,jpn,Psychedelic Rock,2010,Uverworld
+3743,5714debf25ac0d8aee37d82a,Typhoon,Rock,56d98d63cc2ddd0c0f6be29c,Hunger And Thirst,2010.0,284.0,2010,Unknown,Unknown,2010,Typhoon
+3744,5714debf25ac0d8aee37d82b,Typhoon,Rock,56d98d63cc2ddd0c0f6be29c,A New Kind Of House,2011.0,94.0,2011-03-08,Unknown,Unknown,2010,Typhoon
+3745,5714debf25ac0d8aee37d82c,Typhoon,Baroque Pop,56d98d63cc2ddd0c0f6be29c,White Lighter,2013.0,369.0,2013-08-23,Unknown,Unknown,2010,Typhoon
+3748,5714debf25ac0d8aee37d82f,Tynisha Keli,R&amp;B,56d98d63cc2ddd0c0f6be29d,The 5th Element,2010.0,Unknown,Unknown,Unknown,Unknown,2010,Tynisha Keli
+3758,5714debf25ac0d8aee37d839,Typhoon (NL),Unknown,56d98d64cc2ddd0c0f6be2a1,Lobi Da Basi,2014.0,Unknown,Unknown,Unknown,Psychedelic Rock,2010,Typhoon (NL)
+3778,5714debf25ac0d8aee37d84d,Tyrese,R&amp;B,56d98d69cc2ddd0c0f6be2b0,Open Invitation,2011.0,1707.0,Unknown,Unknown,Unknown,2010,Tyrese
+3794,5714debf25ac0d8aee37debb,V Is For Villains,Steampunk,56d98f20cc2ddd0c0f6be50b,Evolve Or Die,2012.0,Unknown,Unknown,Unknown,Unknown,2010,V Is For Villains
+3804,5714debf25ac0d8aee37dec5,V. Bozeman,Unknown,56d98f22cc2ddd0c0f6be511,Season 1,2015.0,Unknown,Unknown,Unknown,Psychedelic Rock,2010,V. Bozeman
+3809,5714debf25ac0d8aee37deca,V.I.C.,Unknown,56d98f24cc2ddd0c0f6be515,Revenge Of The Beast,2012.0,8.0,Unknown,Unknown,Psychedelic Rock,2010,V.I.C.
+3811,5714debf25ac0d8aee37decc,V. Rose,Unknown,56d98f24cc2ddd0c0f6be516,V. Rose,2011.0,146.0,Unknown,Unknown,Psychedelic Rock,2010,V. Rose
+3812,5714debf25ac0d8aee37decd,V. Rose,Contemporary Christian,56d98f24cc2ddd0c0f6be516,Forever After,2014.0,397.0,2014-05-20,Unknown,Unknown,2010,V. Rose
+3813,5714debf25ac0d8aee37dece,V. Rose,Contemporary Christian,56d98f24cc2ddd0c0f6be516,Hearts Up EP,2015.0,71.0,Unknown,Unknown,Unknown,2010,V. Rose
+3841,5714debf25ac0d8aee37d85f,Tyson,Unknown,56d98d6ecc2ddd0c0f6be2b8,Die On The Dancefloor,2012.0,16.0,2012-02-20,eng,Psychedelic Rock,2010,Tyson
+3846,5714debf25ac0d8aee37d864,Tyrone Wells,Folk Rock,56d98d6ecc2ddd0c0f6be2b9,Metal & Wood,2010.0,2021.0,2010-03-02,Unknown,Unknown,2010,Tyrone Wells
+3847,5714debf25ac0d8aee37d865,Tyrone Wells,Folk Rock,56d98d6ecc2ddd0c0f6be2b9,Where We Meet,2012.0,997.0,2012-03-06,Unknown,Unknown,2010,Tyrone Wells
+3848,5714debf25ac0d8aee37d866,Tyrone Wells,Folk Rock,56d98d6ecc2ddd0c0f6be2b9,...This Love,2012.0,2323.0,2012-12-11,Unknown,Unknown,2010,Tyrone Wells
+3849,5714debf25ac0d8aee37d867,Tyrone Wells,Folk Rock,56d98d6ecc2ddd0c0f6be2b9,Roll With It,2015.0,4.0,2015-03-17,Unknown,Unknown,2010,Tyrone Wells
+3869,5714debf25ac0d8aee37d87b,Tété,Unknown,56d98d74cc2ddd0c0f6be2c0,Le Premier Clair De L'Aube,2010.0,1614.0,2010-02-22,fra,Psychedelic Rock,2010,Tété
+3892,5714debf25ac0d8aee37d892,Törr,Unknown,56d98d79cc2ddd0c0f6be2c6,Inferno Nocturno,2010.0,47.0,Unknown,Unknown,Psychedelic Rock,2010,Törr
+3893,5714debf25ac0d8aee37d893,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Tempus Fugit,2011.0,4.0,Unknown,Unknown,Unknown,2010,Törr
+3908,5714debf25ac0d8aee37d8a2,Têtes Raides,Francophone,56d98d7bcc2ddd0c0f6be2c8,L'An Demain,2011.0,Unknown,2011-01-31,Unknown,Unknown,2010,Têtes Raides
+3909,5714debf25ac0d8aee37d8a3,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Corps De Mots,2013.0,Unknown,2013-04-15,fra,Psychedelic Rock,2010,Têtes Raides
+3910,5714debf25ac0d8aee37d8a4,Têtes Raides,Francophone,56d98d7bcc2ddd0c0f6be2c8,Les Terriens,2014.0,Unknown,2014-02-17,fra,Unknown,2010,Têtes Raides
+3926,5714debf25ac0d8aee37dee8,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Ready?,2010.0,Unknown,2010-03-31,Unknown,Unknown,2010,V6
+3927,5714debf25ac0d8aee37dee9,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Oh! My! Goodness!,2013.0,Unknown,2013-02-20,Unknown,Unknown,2010,V6
+3931,5714debf25ac0d8aee37deed,Vaasankatu SS,Punk Rock,56d98f2ccc2ddd0c0f6be521,Mä Haluun Kamaa,2010.0,1.0,Unknown,Unknown,Unknown,2010,Vaasankatu SS
+3932,5714debf25ac0d8aee37deee,Vaasankatu SS,Punk Rock,56d98f2ccc2ddd0c0f6be521,Mummokeikka,2010.0,1.0,2010,fin,Unknown,2010,Vaasankatu SS
+3940,5714debf25ac0d8aee37def6,Vaccuum,Unknown,56d98f31cc2ddd0c0f6be529,Vaccuum,2011.0,Unknown,2011,Unknown,Psychedelic Rock,2010,Vaccuum
+3977,5714debf25ac0d8aee37df1b,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Welcome To The Morbid Reich,2011.0,624.0,2011-08-12,Unknown,Unknown,2010,Vader
+3992,5714debf25ac0d8aee37df2a,Vagrond,Progressive Metal,56d98f3acc2ddd0c0f6be53c,Regret,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Vagrond
+4003,5714debf25ac0d8aee37df35,Vaidas Baumila,Unknown,56d98f3ccc2ddd0c0f6be541,Iš Naujo,2015.0,91.0,Unknown,Unknown,Psychedelic Rock,2010,Vaidas Baumila
+4009,5714debf25ac0d8aee37df3b,Vaiko Eplik,Indie Pop,56d98f3dcc2ddd0c0f6be542,V Ehk Tants Klavessiini Ümber,2011.0,15.0,2011-05-20,est,Unknown,2010,Vaiko Eplik
+4010,5714debf25ac0d8aee37df3c,Vaiko Eplik,Indie Pop,56d98f3dcc2ddd0c0f6be542,6 Varielu,2012.0,63.0,Unknown,Unknown,Unknown,2010,Vaiko Eplik
+4011,5714debf25ac0d8aee37df3d,Vaiko Eplik,Indie Pop,56d98f3dcc2ddd0c0f6be542,7 Nõgesed,2014.0,77.0,Unknown,Unknown,Unknown,2010,Vaiko Eplik
+4012,5714debf25ac0d8aee37df3e,Vaiko Eplik,Indie Pop,56d98f3dcc2ddd0c0f6be542,8 Nelgid,2014.0,129.0,Unknown,Unknown,Unknown,2010,Vaiko Eplik
+4014,5714debf25ac0d8aee37d8a8,TЁЯRA,Unknown,56d98d7bcc2ddd0c0f6be2c9,ЁVOLUTIΦN,2011.0,Unknown,2011-09-07,Unknown,Psychedelic Rock,2010,TЁЯRA
+4023,5714debf25ac0d8aee37d8b1,Týr,Viking Metal,56d98d7bcc2ddd0c0f6be2ca,The Lay Of Thrym,2011.0,Unknown,2011-05-27,eng,Unknown,2010,Týr
+4024,5714debf25ac0d8aee37d8b2,Týr,Heavy Metal,56d98d7bcc2ddd0c0f6be2ca,Valkyrja,2013.0,1977.0,2013-09-13,Unknown,Unknown,2010,Týr
+4040,5714debf25ac0d8aee37bf57,Thenewno2,Unknown,56d986e9cc2ddd0c0f6bd91a,EP002,2011.0,58.0,2011-09-27,eng,Progressive Rock,2010,Thenewno2
+4041,5714debf25ac0d8aee37bf58,Thenewno2,Alternative Rock,56d986e9cc2ddd0c0f6bd91a,Thefearofmissingout,2012.0,8.0,2012-07-31,Unknown,Unknown,2010,Thenewno2
+4046,5714debf25ac0d8aee37e473,Veto,Unknown,56d99080cc2ddd0c0f6be71f,Everything Is Amplified,2011.0,391.0,2011-02-25,Unknown,Progressive Rock,2010,Veto
+4049,5714debf25ac0d8aee37e476,Vetusta Morla,Indie Pop,56d99080cc2ddd0c0f6be721,Mapas,2011.0,10.0,2011-05,spa,Unknown,2010,Vetusta Morla
+4073,5714debf25ac0d8aee37e48e,Via Audio,Unknown,56d99083cc2ddd0c0f6be72c,Animalore,2010.0,Unknown,2010-03-09,eng,Progressive Rock,2010,Via Audio
+4083,5714debf25ac0d8aee37e498,Viathyn,Unknown,56d99085cc2ddd0c0f6be734,The Peregrine Way,2010.0,14.0,Unknown,Unknown,Progressive Rock,2010,Viathyn
+4084,5714debf25ac0d8aee37e499,Viathyn,Unknown,56d99085cc2ddd0c0f6be734,Cynosure,2014.0,11.0,Unknown,Unknown,Progressive Rock,2010,Viathyn
+4097,5714debf25ac0d8aee37d8cb,U.D.R.,Unknown,56d98da4cc2ddd0c0f6be2d5,Racha De Chevettes,2011.0,Unknown,Unknown,Unknown,Progressive Rock,2010,U.D.R.
+4116,5714debf25ac0d8aee37d8de,U.D.O.,Heavy Metal,56d98da6cc2ddd0c0f6be2d7,Rev-Raptor,2011.0,234.0,2011-05-20,Unknown,Unknown,2010,U.D.O.
+4117,5714debf25ac0d8aee37d8df,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Celebrator,2012.0,287.0,2012-05-04,Unknown,Progressive Rock,2010,U.D.O.
+4118,5714debf25ac0d8aee37d8e0,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Live In Sofia,2012.0,145.0,2012,Unknown,Progressive Rock,2010,U.D.O.
+4119,5714debf25ac0d8aee37d8e1,U.D.O.,Heavy Metal,56d98da6cc2ddd0c0f6be2d7,Steelhammer,2013.0,267.0,2013-05-21,Unknown,Unknown,2010,U.D.O.
+4131,5714debf25ac0d8aee37df49,Vains Of Jenna,Unknown,56d98f3fcc2ddd0c0f6be547,Reverse Tripped,2011.0,195.0,Unknown,Unknown,Progressive Rock,2010,Vains Of Jenna
+4136,5714debf25ac0d8aee37df4e,Valadir,Unknown,56d98f41cc2ddd0c0f6be54b,Zwischen Lichtern Und Schatten,2010.0,Unknown,Unknown,Unknown,Progressive Rock,2010,Valadir
+4138,5714debf25ac0d8aee37df50,Vald,Unknown,56d98f42cc2ddd0c0f6be54d,NQNT2,2015.0,40778.0,Unknown,Unknown,Progressive Rock,2010,Vald
+4144,5714debf25ac0d8aee37df56,Valefor,Unknown,56d98f43cc2ddd0c0f6be550,Screams Of Suicide,2010.0,Unknown,Unknown,Unknown,Progressive Rock,2010,Valefor
+4145,5714debf25ac0d8aee37df57,Valefor,Unknown,56d98f43cc2ddd0c0f6be550,Hidden In The Arms Of Death,2012.0,Unknown,Unknown,Unknown,Progressive Rock,2010,Valefor
+4148,5714debf25ac0d8aee37df5a,Valencia,Pop Rock,56d98f44cc2ddd0c0f6be551,Dancing With A Ghost,2010.0,157.0,2010-10-12,eng,Unknown,2010,Valencia
+4153,5714debf25ac0d8aee37df5f,Valencia Vintage,Pop,56d98f46cc2ddd0c0f6be554,Eyo Eya,2011.0,1.0,Unknown,Unknown,Unknown,2010,Valencia Vintage
+4156,5714debf25ac0d8aee37df62,Valentine,Unknown,56d98f4ccc2ddd0c0f6be555,Love Like Gold,2010.0,9.0,2010-10-29,Unknown,Progressive Rock,2010,Valentine
+4187,5714debf25ac0d8aee37e4a3,Vic Anselmo,Unknown,56d99088cc2ddd0c0f6be73c,Who Disturbs The Water,2015.0,26.0,Unknown,Unknown,Progressive Rock,2010,Vic Anselmo
+4220,5714debf25ac0d8aee37e4c4,Vice Versa,Post-Hardcore,56d99090cc2ddd0c0f6be74d,Timing,2013.0,Unknown,Unknown,Unknown,Unknown,2010,Vice Versa
+4261,5714debf25ac0d8aee37d90b,U2,Rock,56d98db0cc2ddd0c0f6be2e2,Wide Awake In Europe,2010.0,48086.0,2010-11-26,eng,Unknown,2010,U2
+4262,5714debf25ac0d8aee37d90c,U2,Rock,56d98db0cc2ddd0c0f6be2e2,Songs Of Innocence,2014.0,23512.0,2014-09-09,eng,Unknown,2010,U2
+4267,5714debf25ac0d8aee37df7a,Valentina Monetta,Unknown,56d98f4dcc2ddd0c0f6be559,Maybe,2014.0,16.0,Unknown,Unknown,Progressive Rock,2010,Valentina Monetta
+4282,5714debf25ac0d8aee37df89,Valerie Guerra,Unknown,56d98f51cc2ddd0c0f6be564,It's Almost Christmas,2015.0,14.0,Unknown,Unknown,Progressive Rock,2010,Valerie Guerra
+4284,5714debf25ac0d8aee37df8b,Valerie June,Folk,56d98f51cc2ddd0c0f6be566,Pushin' Against A Stone,2013.0,28413.0,2013-05-03,Unknown,Unknown,2010,Valerie June
+4311,5714debf25ac0d8aee37d917,Uberbyte,Unknown,56d98db7cc2ddd0c0f6be2e7,EXS,2010.0,Unknown,2010-05-11,eng,Progressive Rock,2010,Uberbyte
+4312,5714debf25ac0d8aee37d918,Uberbyte,Unknown,56d98db7cc2ddd0c0f6be2e7,NFY,2011.0,Unknown,2011-09-02,eng,Progressive Rock,2010,Uberbyte
+4346,5714debf25ac0d8aee37d93a,Uda,Unknown,56d98dbccc2ddd0c0f6be2ed,Hurtownia Przebiśniegów,2010.0,Unknown,Unknown,Unknown,Progressive Rock,2010,Uda
+4377,5714debf25ac0d8aee37e4c9,Vicci Martinez,Pop,56d99091cc2ddd0c0f6be74e,I Love You In The Morning,2010.0,Unknown,Unknown,Unknown,Unknown,2010,Vicci Martinez
+4378,5714debf25ac0d8aee37e4ca,Vicci Martinez,Pop,56d99091cc2ddd0c0f6be74e,Vicci,2012.0,118.0,2012-06-01,Unknown,Unknown,2010,Vicci Martinez
+4389,5714debf25ac0d8aee37e4d5,Vicetone,Unknown,56d99095cc2ddd0c0f6be756,Heartbeat,2013.0,509.0,2013-03-01,Unknown,Progressive Rock,2010,Vicetone
+4390,5714debf25ac0d8aee37e4d6,Vicetone,Unknown,56d99095cc2ddd0c0f6be756,No Way Out,2015.0,503.0,2015-01-19,Unknown,Progressive Rock,2010,Vicetone
+4397,5714debf25ac0d8aee37e4dd,Vicentico,Rock,56d99096cc2ddd0c0f6be758,Sólo Un Momento,2010.0,1101.0,Unknown,Unknown,Unknown,2010,Vicentico
+4398,5714debf25ac0d8aee37e4de,Vicentico,Rock,56d99096cc2ddd0c0f6be758,Vicentico 5,2012.0,23707.0,Unknown,Unknown,Unknown,2010,Vicentico
+4442,5714debf25ac0d8aee37d979,Udo Jürgens,Pop,56d98dcacc2ddd0c0f6be2f4,Der Ganz Normale Wahnsinn,2011.0,318.0,2011-03-18,deu,Unknown,2010,Udo Jürgens
+4443,5714debf25ac0d8aee37d97a,Udo Jürgens,Schlager,56d98dcacc2ddd0c0f6be2f4,Mitten Im Leben,2014.0,1678.0,2014-02-21,Unknown,Unknown,2010,Udo Jürgens
+4453,5714debf25ac0d8aee37d984,Uffie,Electronica,56d98dcccc2ddd0c0f6be2f9,Sex Dreams And Denim Jeans,2010.0,12921.0,2010-05-31,eng,Unknown,2010,Uffie
+4485,5714debf25ac0d8aee37d9a4,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,Seven Deadly,2012.0,326.0,2012-02-22,Unknown,Unknown,2010,UFO
+4486,5714debf25ac0d8aee37d9a5,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,A Conspiracy Of Stars,2015.0,989.0,2015-02-18,eng,Unknown,2010,UFO
+4501,5714debf25ac0d8aee37dfac,Valle De Muñecas,Unknown,56d98f5acc2ddd0c0f6be579,La Autopista Corre Del Océano Hasta El Amanecer,2011.0,48.0,Unknown,Unknown,Progressive Rock,2010,Valle De Muñecas
+4514,5714debf25ac0d8aee37dfb9,Valora,Unknown,56d98f5dcc2ddd0c0f6be580,I Waited For You,2012.0,477.0,2011-10-24,Unknown,Progressive Rock,2010,Valora
+4535,5714debf25ac0d8aee37dfce,Valshe,J-Pop,56d98f61cc2ddd0c0f6be589,Valuable Sheaves,2010.0,Unknown,2010-03-24,jpn,Unknown,2010,Valshe
+4536,5714debf25ac0d8aee37dfcf,Valshe,J-Pop,56d98f61cc2ddd0c0f6be589,Storyteller,2010.0,Unknown,Unknown,Unknown,Unknown,2010,Valshe
+4537,5714debf25ac0d8aee37dfd0,Valshe,J-Pop,56d98f61cc2ddd0c0f6be589,Play The Joker,2012.0,107.0,2012-03-21,Unknown,Unknown,2010,Valshe
+4538,5714debf25ac0d8aee37dfd1,Valshe,J-Pop,56d98f61cc2ddd0c0f6be589,VD,2014.0,42.0,Unknown,Unknown,Unknown,2010,Valshe
+4539,5714debf25ac0d8aee37dfd2,Valshe,J-Pop,56d98f61cc2ddd0c0f6be589,Storyteller II ~The Age Limits~,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Valshe
+4557,5714debf25ac0d8aee37e4f6,Vicious Crusade,Unknown,56d990afcc2ddd0c0f6be766,End Of Line,2011.0,Unknown,2011-03-13,eng,Progressive Rock,2010,Vicious Crusade
+4575,5714debf25ac0d8aee37e508,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Razorback Killers,2011.0,82.0,2011-03-28,eng,Unknown,2010,Vicious Rumors
+4576,5714debf25ac0d8aee37e509,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Electric Punishment,2013.0,115.0,2013-04-26,Unknown,Unknown,2010,Vicious Rumors
+4581,5714debf25ac0d8aee37e50e,Vicky Beeching,Unknown,56d990b3cc2ddd0c0f6be76f,Vicky Beeching - EP,2010.0,253.0,Unknown,Unknown,Schlager,2010,Vicky Beeching
+4582,5714debf25ac0d8aee37e50f,Vicky Beeching,Contemporary Christian,56d990b3cc2ddd0c0f6be76f,Eternity Invades,2010.0,253.0,2010-04-06,eng,Unknown,2010,Vicky Beeching
+4593,5714debf25ac0d8aee37d9ad,UFX,Unknown,56d98dd6cc2ddd0c0f6be300,Reverse Engineering (Exits Exist),2014.0,1.0,Unknown,Unknown,Schlager,2010,UFX
+4623,5714debf25ac0d8aee37dfdd,Vampire Weekend,Unknown,56d98f65cc2ddd0c0f6be58e,L'Homme Run,2010.0,29143.0,Unknown,Unknown,Schlager,2010,Vampire Weekend
+4625,5714debf25ac0d8aee37dfdf,Vampire Weekend,Indie Rock,56d98f65cc2ddd0c0f6be58e,Contra,2010.0,29143.0,2010-01-12,eng,Unknown,2010,Vampire Weekend
+4626,5714debf25ac0d8aee37dfe0,Vampire Weekend,Indie Rock,56d98f65cc2ddd0c0f6be58e,Modern Vampires Of The City,2013.0,37572.0,2013-05-06,Unknown,Unknown,2010,Vampire Weekend
+4631,5714debf25ac0d8aee37dfe5,Vampires Everywhere!,Alternative Rock,56d98f66cc2ddd0c0f6be58f,Undead Heart,2010.0,44.0,2010-11-29,eng,Unknown,2010,Vampires Everywhere!
+4632,5714debf25ac0d8aee37dfe6,Vampires Everywhere!,Alternative Rock,56d98f66cc2ddd0c0f6be58f,Lost In The Shadows,2010.0,44.0,2010-04-13,eng,Unknown,2010,Vampires Everywhere!
+4633,5714debf25ac0d8aee37dfe7,Vampires Everywhere!,Unknown,56d98f66cc2ddd0c0f6be58f,Kiss The Sun Goodbye,2011.0,44.0,2011-05-17,eng,Schlager,2010,Vampires Everywhere!
+4634,5714debf25ac0d8aee37dfe8,Vampires Everywhere!,Unknown,56d98f66cc2ddd0c0f6be58f,Hellbound & Heartless,2012.0,68.0,Unknown,Unknown,Schlager,2010,Vampires Everywhere!
+4639,5714debf25ac0d8aee37dfed,Vamps,Hard Rock,56d98f66cc2ddd0c0f6be592,Beast,2010.0,240.0,Unknown,Unknown,Unknown,2010,Vamps
+4640,5714debf25ac0d8aee37dfee,Vamps,Hard Rock,56d98f66cc2ddd0c0f6be592,Sex Blood Rock N' Roll,2013.0,171.0,Unknown,Unknown,Unknown,2010,Vamps
+4644,5714debf25ac0d8aee37dff2,Van Canto,Heavy Metal,56d98f67cc2ddd0c0f6be594,Tribe Of Force,2010.0,594.0,2010-02-24,eng,Unknown,2010,Van Canto
+4645,5714debf25ac0d8aee37dff3,Van Canto,Heavy Metal,56d98f67cc2ddd0c0f6be594,Break The Silence,2011.0,195.0,2011-09-23,eng,Unknown,2010,Van Canto
+4646,5714debf25ac0d8aee37dff4,Van Canto,Heavy Metal,56d98f67cc2ddd0c0f6be594,Dawn Of The Brave,2014.0,973.0,2014-02-07,Unknown,Unknown,2010,Van Canto
+4651,5714debf25ac0d8aee37dff9,Van Coke Kartel,Rock,56d98f69cc2ddd0c0f6be597,Skop Skiet & Donner,2010.0,717.0,2010-03-12,afr,Unknown,2010,Van Coke Kartel
+4655,5714debf25ac0d8aee37e516,Victims,Unknown,56d990b4cc2ddd0c0f6be773,A Dissident,2011.0,14.0,Unknown,Unknown,Schlager,2010,Victims
+4678,5714debf25ac0d8aee37e52d,Victor & Leo,Sertanejo,56d990bacc2ddd0c0f6be77b,Boa Sorte Pra Você,2010.0,4858.0,2010,Unknown,Unknown,2010,Victor & Leo
+4679,5714debf25ac0d8aee37e52e,Victor & Leo,Sertanejo,56d990bacc2ddd0c0f6be77b,Amor De Alma,2011.0,5175.0,2011-11-01,Unknown,Unknown,2010,Victor & Leo
+4680,5714debf25ac0d8aee37e52f,Victor & Leo,Sertanejo,56d990bacc2ddd0c0f6be77b,Viva Por Mim,2013.0,24020.0,2013-10-07,Unknown,Unknown,2010,Victor & Leo
+4696,5714debf25ac0d8aee37d9d0,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Collectronics,2010.0,74.0,2010-06-21,Unknown,Schlager,2010,Ugress
+4697,5714debf25ac0d8aee37d9d1,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Planetfall,2011.0,23.0,2011-01-01,Unknown,Schlager,2010,Ugress
+4698,5714debf25ac0d8aee37d9d2,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,The Lost Ruins,2011.0,19.0,2011-03-28,Unknown,Schlager,2010,Ugress
+4699,5714debf25ac0d8aee37d9d3,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Wulfhoken Spaceport Affairs,2011.0,18.0,Unknown,Unknown,Schlager,2010,Ugress
+4700,5714debf25ac0d8aee37d9d4,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Pushwagner,2011.0,69.0,2011-09-02,Unknown,Schlager,2010,Ugress
+4701,5714debf25ac0d8aee37d9d5,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Luftslott,2011.0,38.0,Unknown,Unknown,Schlager,2010,Ugress
+4702,5714debf25ac0d8aee37d9d6,Ugress,Unknown,56d98ddacc2ddd0c0f6be306,Time Machine,2012.0,12.0,Unknown,Unknown,Schlager,2010,Ugress
+4708,5714debf25ac0d8aee37d9dc,Ugly Kid Joe,Unknown,56d98ddccc2ddd0c0f6be307,Stairway To Hell,2012.0,302.0,2013-04-16,Unknown,Schlager,2010,Ugly Kid Joe
+4768,5714debf25ac0d8aee37da18,Udo Lindenberg,Rock,56d98ddecc2ddd0c0f6be312,MTV Unplugged: Live Aus Dem Hotel Atlantic,2011.0,7592.0,2011-09-16,Unknown,Unknown,2010,Udo Lindenberg
+4795,5714debf25ac0d8aee37e013,Van Der Graaf Generator,Progressive Rock,56d98f70cc2ddd0c0f6be59c,A Grounding In Numbers,2011.0,202.0,2011-03-14,eng,Unknown,2010,Van Der Graaf Generator
+4796,5714debf25ac0d8aee37e014,Van Der Graaf Generator,Experimental,56d98f70cc2ddd0c0f6be59c,Alt,2012.0,295.0,2012-06-25,Unknown,Unknown,2010,Van Der Graaf Generator
+4813,5714debf25ac0d8aee37e025,Van Halen,Hard Rock,56d98f73cc2ddd0c0f6be59e,A Different Kind Of Truth,2012.0,5826.0,2012-02-06,Unknown,Unknown,2010,Van Halen
+4814,5714debf25ac0d8aee37e026,Van Halen,Hard Rock,56d98f73cc2ddd0c0f6be59e,Tokyo Dome Live In Concert,2015.0,2284.0,Unknown,Unknown,Unknown,2010,Van Halen
+4824,5714debf25ac0d8aee37e538,Victor Krummenacher,Folk Rock,56d990bccc2ddd0c0f6be783,Hard To See Trouble Coming,2015.0,0.0,Unknown,Unknown,Unknown,2010,Victor Krummenacher
+4850,5714debf25ac0d8aee37e552,Victoria Duffield,Unknown,56d990c2cc2ddd0c0f6be792,Shut Up And Dance,2012.0,59.0,2011-10-06,eng,Schlager,2010,Victoria Duffield
+4864,5714debf25ac0d8aee37e560,Victorian Halls,Unknown,56d990c5cc2ddd0c0f6be79d,Charlatan,2011.0,28.0,Unknown,Unknown,Schlager,2010,Victorian Halls
+4874,5714debf25ac0d8aee37e56a,Victorius,Unknown,56d990c8cc2ddd0c0f6be7a1,Unleash The Titans,2010.0,Unknown,Unknown,Unknown,Schlager,2010,Victorius
+4875,5714debf25ac0d8aee37e56b,Victorius,Unknown,56d990c8cc2ddd0c0f6be7a1,The Awakening,2012.0,50.0,Unknown,Unknown,Schlager,2010,Victorius
+4876,5714debf25ac0d8aee37e56c,Victorius,Unknown,56d990c8cc2ddd0c0f6be7a1,Dreamchaser,2014.0,94.0,Unknown,Unknown,Schlager,2010,Victorius
+4888,5714debf25ac0d8aee37e578,Victory,Heavy Metal,56d990c8cc2ddd0c0f6be7a2,Don't Talk Science,2011.0,47.0,2011-05-25,Unknown,Unknown,2010,Victory
+4894,5714debf25ac0d8aee37e57e,Victory Pill,Industrial Rock,56d990cacc2ddd0c0f6be7a7,The Digital Divide,2011.0,13.0,2011-05-02,eng,Unknown,2010,Victory Pill
+4938,5714debf25ac0d8aee37da31,Ulcerate,Death Metal,56d98de3cc2ddd0c0f6be31e,The Destroyers Of All,2011.0,83.0,2011-01-25,Unknown,Unknown,2010,Ulcerate
+4965,5714debf25ac0d8aee37da4c,Ulrich Schnauss,Unknown,56d98deccc2ddd0c0f6be326,Missing Deadlines - Selected Remixes,2010.0,28.0,Unknown,Unknown,Schlager,2010,Ulrich Schnauss
+4992,5714debf25ac0d8aee37da67,Ulrich Roski,Chanson,56d98deccc2ddd0c0f6be328,Wunschkonzert,2010.0,Unknown,Unknown,Unknown,Unknown,2010,Ulrich Roski
+5000,5714debf25ac0d8aee37e030,Van Hunt,Unknown,56d98f75cc2ddd0c0f6be5a2,What Were You Hoping For?,2011.0,12.0,Unknown,Unknown,Schlager,2010,Van Hunt
+5001,5714debf25ac0d8aee37e031,Van Hunt,Unknown,56d98f75cc2ddd0c0f6be5a2,The Fun Rises,2015.0,131.0,Unknown,Unknown,Schlager,2010,Van Hunt
+5021,5714debf25ac0d8aee37e045,Van She,Synthpop,56d98f85cc2ddd0c0f6be5a8,Idea Of Happiness,2012.0,560.0,2012-07-06,Unknown,Unknown,2010,Van She
+5078,5714debf25ac0d8aee37e07e,Van Morrison,Jazz,56d98f87cc2ddd0c0f6be5ac,Born To Sing: No Plan B,2012.0,258.0,Unknown,Unknown,Unknown,2010,Van Morrison
+5090,5714debf25ac0d8aee37e59c,Vienna Teng,Unknown,56d990d1cc2ddd0c0f6be7bb,Aims,2013.0,292.0,2013-09-24,eng,Schlager,2010,Vienna Teng
+5094,5714debf25ac0d8aee37e5a0,Viet Cong,Post-Punk,56d990d3cc2ddd0c0f6be7be,Viet Cong,2015.0,2815.0,2015-01-20,Unknown,Unknown,2010,Viet Cong
+5103,5714debf25ac0d8aee37e5a9,Vierkanttretlager,Indie Rock,56d990d4cc2ddd0c0f6be7c4,Die Natur Greift An,2012.0,142.0,2012-01-27,Unknown,Unknown,2010,Vierkanttretlager
+5104,5714debf25ac0d8aee37e5aa,Vierkanttretlager,Indie Rock,56d990d4cc2ddd0c0f6be7c4,Krieg&Krieg,2015.0,505.0,2015-04-17,Unknown,Unknown,2010,Vierkanttretlager
+5106,5714debf25ac0d8aee37e5ac,Vieux Farka Touré,Unknown,56d990d5cc2ddd0c0f6be7c5,The Secret,2011.0,1273.0,Unknown,Unknown,Schlager,2010,Vieux Farka Touré
+5115,5714debf25ac0d8aee37e5b5,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,Of Insanity And Justice,2012.0,Unknown,Unknown,Unknown,Schlager,2010,Vigilante
+5123,5714debf25ac0d8aee37e5bd,Vigilante (CL),Industrial Metal,56d990dacc2ddd0c0f6be7ca,Prison Break,2010.0,Unknown,Unknown,Unknown,Unknown,2010,Vigilante (CL)
+5124,5714debf25ac0d8aee37e5be,Vigilante (CL),Industrial Metal,56d990dacc2ddd0c0f6be7ca,Army Of Time,2011.0,Unknown,Unknown,Unknown,Unknown,2010,Vigilante (CL)
+5125,5714debf25ac0d8aee37e5bf,Vigilante (CL),Industrial Metal,56d990dacc2ddd0c0f6be7ca,The New Resistance,2011.0,9.0,2011-03-25,eng,Unknown,2010,Vigilante (CL)
+5177,5714debf25ac0d8aee37e5d0,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Electromeo,2011.0,Unknown,2000,Unknown,Unknown,2010,Vigilantes Of Love
+5221,5714debf25ac0d8aee37e5fc,Viking Skull,Unknown,56d990e1cc2ddd0c0f6be7d4,Heavy Metal Thunder,2010.0,312.0,2010,eng,Schlager,2010,Viking Skull
+5226,5714debf25ac0d8aee37e085,Vancouver Sleep Clinic,Unknown,56d98f88cc2ddd0c0f6be5b0,Winter,2014.0,3948.0,Unknown,Unknown,Schlager,2010,Vancouver Sleep Clinic
+5231,5714debf25ac0d8aee37e08a,Vance Joy,Folk Rock,56d98f8acc2ddd0c0f6be5b5,God Loves You When You're Dancing,2013.0,8030.0,2013-03-22,Unknown,Unknown,2010,Vance Joy
+5232,5714debf25ac0d8aee37e08b,Vance Joy,Indie Folk,56d98f8acc2ddd0c0f6be5b5,Dream Your Life Away,2014.0,10432.0,2014-09-09,Unknown,Unknown,2010,Vance Joy
+5235,5714debf25ac0d8aee37e08e,Vandaveer,Unknown,56d98f8acc2ddd0c0f6be5b6,Dig Down Deep,2011.0,29.0,Unknown,Unknown,Hard Rock,2010,Vandaveer
+5250,5714debf25ac0d8aee37e09d,Vanden Plas,Progressive Metal,56d98f8dcc2ddd0c0f6be5b9,The Seraphic Clockwork,2010.0,604.0,2010-06-04,eng,Unknown,2010,Vanden Plas
+5253,5714debf25ac0d8aee37e0a0,Vane K,Unknown,56d98f8ecc2ddd0c0f6be5bb,Não Precisa (Eu Bem Que Falei),2014.0,Unknown,Unknown,Unknown,Hard Rock,2010,Vane K
+5260,5714debf25ac0d8aee37e0a7,Vander Lee,Unknown,56d98f8fcc2ddd0c0f6be5bd,Loa,2014.0,1579.0,Unknown,Unknown,Hard Rock,2010,Vander Lee
+5280,5714debf25ac0d8aee37e605,Viktory,Unknown,56d990e2cc2ddd0c0f6be7d9,R4: Relentless 4ever,2012.0,116.0,2012-04-17,eng,Hard Rock,2010,Viktory
+5282,5714debf25ac0d8aee37e607,Viktor Mastoridis,Unknown,56d990e2cc2ddd0c0f6be7da,Nostalgia,2012.0,0.0,Unknown,Unknown,Hard Rock,2010,Viktor Mastoridis
+5297,5714debf25ac0d8aee37e616,Vildhjarta,Unknown,56d990e7cc2ddd0c0f6be7e0,Måsstaden,2011.0,322.0,2011-11-28,eng,Hard Rock,2010,Vildhjarta
+5307,5714debf25ac0d8aee37e620,Vile Intent,Unknown,56d990e8cc2ddd0c0f6be7e4,Shadow Of The Skull,2010.0,Unknown,Unknown,Unknown,Hard Rock,2010,Vile Intent
+5308,5714debf25ac0d8aee37e621,Vilis,Deathcore,56d990e8cc2ddd0c0f6be7e5,Vilis,2015.0,7.0,Unknown,Unknown,Unknown,2010,Vilis
+5309,5714debf25ac0d8aee37e622,Vile Evils,Electronic Rock,56d990e9cc2ddd0c0f6be7e6,Vive Le Vile Evils,2010.0,15.0,2010,Unknown,Unknown,2010,Vile Evils
+5310,5714debf25ac0d8aee37e623,Vile Evils,Electronic Rock,56d990e9cc2ddd0c0f6be7e6,Vile Evils Anthology 1,2010.0,15.0,Unknown,Unknown,Unknown,2010,Vile Evils
+5311,5714debf25ac0d8aee37e624,Vile Evils,Electronic Rock,56d990e9cc2ddd0c0f6be7e6,Vile Evils Anthology 2,2010.0,15.0,2010,eng,Unknown,2010,Vile Evils
+5312,5714debf25ac0d8aee37e625,Vile Evils,Electronic Rock,56d990e9cc2ddd0c0f6be7e6,Vile Evils Anthology 3,2010.0,15.0,2010,eng,Unknown,2010,Vile Evils
+5313,5714debf25ac0d8aee37e626,Vile Evils,Electronic Rock,56d990e9cc2ddd0c0f6be7e6,Vile Evils Anthology 4,2010.0,4.0,Unknown,Unknown,Unknown,2010,Vile Evils
+5319,5714debf25ac0d8aee37e0b9,Vanessa Carlton,Pop,56d98f96cc2ddd0c0f6be5c4,Rabbits On The Run,2011.0,1135.0,2011-07-26,eng,Unknown,2010,Vanessa Carlton
+5320,5714debf25ac0d8aee37e0ba,Vanessa Carlton,Alternative Rock,56d98f96cc2ddd0c0f6be5c4,I'll Wait For You,2013.0,95.0,Unknown,Unknown,Unknown,2010,Vanessa Carlton
+5321,5714debf25ac0d8aee37e0bb,Vanessa Carlton,Pop,56d98f96cc2ddd0c0f6be5c4,Young Heart,2015.0,Unknown,Unknown,Unknown,Unknown,2010,Vanessa Carlton
+5322,5714debf25ac0d8aee37e0bc,Vanessa Carlton,Pop,56d98f96cc2ddd0c0f6be5c4,Blue Pool,2015.0,75.0,2015-07-24,eng,Unknown,2010,Vanessa Carlton
+5323,5714debf25ac0d8aee37e0bd,Vanessa Carlton,Pop,56d98f96cc2ddd0c0f6be5c4,Liberman,2015.0,75.0,2015-10-23,eng,Unknown,2010,Vanessa Carlton
+5332,5714debf25ac0d8aee37e0c6,Vanessa Da Mata,MPB,56d98f96cc2ddd0c0f6be5c5,"Bicicletas, Bolos E Outras Alegrias",2010.0,7394.0,2010-10-13,por,Unknown,2010,Vanessa Da Mata
+5373,5714debf25ac0d8aee37e628,Vilija,Pop,56d990e9cc2ddd0c0f6be7e7,Attention!,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Vilija
+5376,5714debf25ac0d8aee37e62b,Villagrán Bolaños,Latin,56d990eacc2ddd0c0f6be7e9,La Fiesta Del Caos,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Villagrán Bolaños
+5377,5714debf25ac0d8aee37e62c,Villagrán Bolaños,Latin,56d990eacc2ddd0c0f6be7e9,El Ritmo Subtropical,2014.0,Unknown,Unknown,Unknown,Unknown,2010,Villagrán Bolaños
+5378,5714debf25ac0d8aee37e62d,Villagers,Folk,56d990eacc2ddd0c0f6be7ea,Becoming A Jackal,2010.0,5269.0,2010-05-24,Unknown,Unknown,2010,Villagers
+5379,5714debf25ac0d8aee37e62e,Villagers,Indie Folk,56d990eacc2ddd0c0f6be7ea,Awayland,2013.0,4090.0,2013-01-14,Unknown,Unknown,2010,Villagers
+5380,5714debf25ac0d8aee37e62f,Villagers,Indie Rock,56d990eacc2ddd0c0f6be7ea,Darling Arithmetic,2015.0,4704.0,2015-04-10,Unknown,Unknown,2010,Villagers
+5381,5714debf25ac0d8aee37e630,Villagers,Indie Folk,56d990eacc2ddd0c0f6be7ea,Where Have You Been All My Life?,2016.0,3333.0,2016-01-08,Unknown,Unknown,2010,Villagers
+5384,5714debf25ac0d8aee37e633,Villa Cariño,Unknown,56d990ebcc2ddd0c0f6be7ed,15añero,2010.0,2210.0,Unknown,Unknown,Hard Rock,2010,Villa Cariño
+5385,5714debf25ac0d8aee37e634,Villa Cariño,Unknown,56d990ebcc2ddd0c0f6be7ed,La Fiesta Es De Nosotros,2012.0,362.0,Unknown,Unknown,Hard Rock,2010,Villa Cariño
+5465,5714debf25ac0d8aee37e125,Vangough,Progressive Metal,56d98fc5cc2ddd0c0f6be5e4,Kingdom Of Ruin,2011.0,1.0,2011-10-24,Unknown,Unknown,2010,Vangough
+5466,5714debf25ac0d8aee37e126,Vangough,Progressive Metal,56d98fc5cc2ddd0c0f6be5e4,Between The Madness,2013.0,4.0,2013-11-12,Unknown,Unknown,2010,Vangough
+5468,5714debf25ac0d8aee37e128,Vanguart,Folk Rock,56d98fc5cc2ddd0c0f6be5e5,Boa Parte De Mim Vai Embora,2011.0,1489.0,2011-08-16,Unknown,Unknown,2010,Vanguart
+5469,5714debf25ac0d8aee37e129,Vanguart,Folk Rock,56d98fc5cc2ddd0c0f6be5e5,Muito Mais Que O Amor,2013.0,2946.0,2013-08-27,Unknown,Unknown,2010,Vanguart
+5491,5714debf25ac0d8aee37e658,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,Agarrate Fuerte,2012.0,269.0,Unknown,Unknown,Unknown,2010,Vilma Palma E Vampiros
+5518,5714debf25ac0d8aee37e673,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,Guitar Slinger,2011.0,138.0,2011-10-24,Unknown,Unknown,2010,Vince Gill
+5519,5714debf25ac0d8aee37e674,Vince Gill,Unknown,56d990f6cc2ddd0c0f6be7fe,Bakersfield,2013.0,Unknown,Unknown,Unknown,Hard Rock,2010,Vince Gill
+5520,5714debf25ac0d8aee37e675,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,Down To My Last Bad Habit,2016.0,202.0,Unknown,Unknown,Unknown,2010,Vince Gill
+5539,5714debf25ac0d8aee37e688,Vince Neil,Unknown,56d990facc2ddd0c0f6be807,Tattoos & Tequila,2010.0,Unknown,2010-06-22,Unknown,Hard Rock,2010,Vince Neil
+5547,5714debf25ac0d8aee37e13a,Vanilla Ice,Hip Hop,56d98fc6cc2ddd0c0f6be5e9,WTF,2011.0,2671.0,2011-08-30,Unknown,Unknown,2010,Vanilla Ice
+5552,5714debf25ac0d8aee37e13f,Vanir,Unknown,56d98fc9cc2ddd0c0f6be5ec,Jörmungandr,2010.0,66.0,2010,dan,Hard Rock,2010,Vanir
+5553,5714debf25ac0d8aee37e140,Vanir,Folk Metal,56d98fc9cc2ddd0c0f6be5ec,Særimners Kød,2011.0,66.0,2011-04-11,dan,Unknown,2010,Vanir
+5554,5714debf25ac0d8aee37e141,Vanir,Folk Metal,56d98fc9cc2ddd0c0f6be5ec,Onwards Into Battle,2012.0,88.0,2012-09-10,eng,Unknown,2010,Vanir
+5570,5714debf25ac0d8aee37e151,Vanishing Point,Progressive Metal,56d98fcacc2ddd0c0f6be5f1,Distant Is The Sun,2014.0,73.0,Unknown,Unknown,Unknown,2010,Vanishing Point
+5584,5714debf25ac0d8aee37e696,Vincent Delerm,Pop,56d990fdcc2ddd0c0f6be80e,Les Amants Parallèles,2013.0,11772.0,2013-11-25,Unknown,Unknown,2010,Vincent Delerm
+5592,5714debf25ac0d8aee37e69e,Vincent Vocoder Voice,Unknown,56d990fecc2ddd0c0f6be814,Vincent Vocoder Voice,2013.0,0.0,2013-11-18,Unknown,Hard Rock,2010,Vincent Vocoder Voice
+5593,5714debf25ac0d8aee37e69f,Vincent Vocoder Voice,Unknown,56d990fecc2ddd0c0f6be814,"Full Heart, Deaf Ears",2014.0,1.0,2014-06-13,Unknown,Hard Rock,2010,Vincent Vocoder Voice
+5596,5714debf25ac0d8aee37e6a2,Vindata,Chillwave,56d990ffcc2ddd0c0f6be817,Trough Time And Space,2015.0,159.0,2015-08-14,Unknown,Unknown,2010,Vindata
+5600,5714debf25ac0d8aee37e6a6,Vineet Saini,Blues,56d99100cc2ddd0c0f6be81b,Soch,2012.0,Unknown,2012-12-11,hin,Unknown,2010,Vineet Saini
+5623,5714debf25ac0d8aee37e15c,Vanity Theft,Unknown,56d98fcdcc2ddd0c0f6be5f6,Anatomy (EP),2010.0,11.0,Unknown,Unknown,Hard Rock,2010,Vanity Theft
+5624,5714debf25ac0d8aee37e15d,Vanity Theft,Unknown,56d98fcdcc2ddd0c0f6be5f6,Get What You Came For,2011.0,40.0,Unknown,Unknown,Hard Rock,2010,Vanity Theft
+5630,5714debf25ac0d8aee37e163,Vanna,Post-Hardcore,56d98fcfcc2ddd0c0f6be5f9,The Honest Hearts,2010.0,42.0,2010-10-12,Unknown,Unknown,2010,Vanna
+5631,5714debf25ac0d8aee37e164,Vanna,Metalcore,56d98fcfcc2ddd0c0f6be5f9,And They Came Baring Bones,2011.0,52.0,2011,eng,Unknown,2010,Vanna
+5632,5714debf25ac0d8aee37e165,Vanna,Unknown,56d98fcfcc2ddd0c0f6be5f9,The Few And The Far Between,2013.0,370.0,2013-03-19,Unknown,Hard Rock,2010,Vanna
+5633,5714debf25ac0d8aee37e166,Vanna,Unknown,56d98fcfcc2ddd0c0f6be5f9,Preying-Purging 7″,2013.0,Unknown,Unknown,Unknown,Hard Rock,2010,Vanna
+5661,5714debf25ac0d8aee37e182,Varg,Viking Metal,56d98fd6cc2ddd0c0f6be60a,Blutaar,2010.0,266.0,2010-01-29,deu,Unknown,2010,Varg
+5662,5714debf25ac0d8aee37e183,Varg,Viking Metal,56d98fd6cc2ddd0c0f6be60a,Wolfskult,2011.0,333.0,2011-03-04,deu,Unknown,2010,Varg
+5663,5714debf25ac0d8aee37e184,Varg,Viking Metal,56d98fd6cc2ddd0c0f6be60a,Guten Tag,2012.0,385.0,2012-10-05,mul,Unknown,2010,Varg
+5668,5714debf25ac0d8aee37e189,Various Cruelties,Rock,56d98fd9cc2ddd0c0f6be60e,Various Cruelties,2012.0,204.0,2012-04-30,Unknown,Unknown,2010,Various Cruelties
+5685,5714debf25ac0d8aee37e19a,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,Eli,2011.0,Unknown,2011-03-21,pol,Hard Rock,2010,Varius Manx
+5702,5714debf25ac0d8aee37e1ab,Vashti Bunyan,Unknown,56d98fe4cc2ddd0c0f6be61a,Heartleap,2014.0,59.0,Unknown,Unknown,Hard Rock,2010,Vashti Bunyan
+5724,5714debf25ac0d8aee37e1c1,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,Vivere O Niente,2011.0,6459.0,2011-03-29,ita,Unknown,2010,Vasco Rossi
+5725,5714debf25ac0d8aee37e1c2,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,L'altra Metà Del Cielo,2012.0,7077.0,2012-03-30,Unknown,Unknown,2010,Vasco Rossi
+5729,5714debf25ac0d8aee37e6b6,Viniloversus,Unknown,56d99103cc2ddd0c0f6be821,Si No Nos Mata,2010.0,440.0,2010-02-25,Unknown,Hard Rock,2010,Viniloversus
+5738,5714debf25ac0d8aee37e6bf,Vinnie Paz,Unknown,56d9911ecc2ddd0c0f6be826,Season of the Assassin,2010.0,3970.0,2010-06-21,Unknown,Hard Rock,2010,Vinnie Paz
+5739,5714debf25ac0d8aee37e6c0,Vinnie Paz,Hip Hop,56d9911ecc2ddd0c0f6be826,Fires Of The Judas Blood,2010.0,1826.0,Unknown,Unknown,Unknown,2010,Vinnie Paz
+5740,5714debf25ac0d8aee37e6c1,Vinnie Paz,Hip Hop,56d9911ecc2ddd0c0f6be826,The Priest Of Bloodshed (Mixtape),2012.0,111.0,Unknown,Unknown,Unknown,2010,Vinnie Paz
+5741,5714debf25ac0d8aee37e6c2,Vinnie Paz,Unknown,56d9911ecc2ddd0c0f6be826,God of the Serengeti,2012.0,2582.0,Unknown,Unknown,Hard Rock,2010,Vinnie Paz
+5745,5714debf25ac0d8aee37e6c6,Vintage Trouble,Blues,56d9911ecc2ddd0c0f6be829,The Bomb Shelter Sessions,2010.0,1447.0,2011-07-25,eng,Unknown,2010,Vintage Trouble
+5746,5714debf25ac0d8aee37e6c7,Vintage Trouble,R&amp;B,56d9911ecc2ddd0c0f6be829,1 Hopeful Rd.,2015.0,4549.0,2015-08,Unknown,Unknown,2010,Vintage Trouble
+5762,5714debf25ac0d8aee37e6d7,Vintersorg,Progressive Metal,56d99122cc2ddd0c0f6be830,Jordpuls,2011.0,92.0,2011-03-25,Unknown,Unknown,2010,Vintersorg
+5763,5714debf25ac0d8aee37e6d8,Vintersorg,Progressive Metal,56d99122cc2ddd0c0f6be830,Orkan,2012.0,90.0,2012-06-29,Unknown,Unknown,2010,Vintersorg
+5764,5714debf25ac0d8aee37e6d9,Vintersorg,Progressive Metal,56d99122cc2ddd0c0f6be830,Naturbål,2014.0,149.0,2014-06-27,Unknown,Unknown,2010,Vintersorg
+5778,5714debf25ac0d8aee37e6e7,Vinyl Theatre,Pop,56d99123cc2ddd0c0f6be833,I Need You Here,2013.0,35.0,Unknown,Unknown,Unknown,2010,Vinyl Theatre
+5779,5714debf25ac0d8aee37e6e8,Vinyl Theatre,Unknown,56d99123cc2ddd0c0f6be833,Gold,2013.0,134.0,Unknown,Unknown,Alternative Rock,2010,Vinyl Theatre
+5780,5714debf25ac0d8aee37e6e9,Vinyl Theatre,Unknown,56d99123cc2ddd0c0f6be833,Chromatic,2014.0,139.0,Unknown,Unknown,Alternative Rock,2010,Vinyl Theatre
+5781,5714debf25ac0d8aee37e6ea,Vinyl Theatre,Alternative Rock,56d99123cc2ddd0c0f6be833,Electrogram,2014.0,139.0,2014-09-19,eng,Unknown,2010,Vinyl Theatre
+5790,5714debf25ac0d8aee37e6f3,Viola Beach,Indie Pop,56d99125cc2ddd0c0f6be838,Swings & Waterslides,2015.0,766.0,Unknown,Unknown,Unknown,2010,Viola Beach
+5791,5714debf25ac0d8aee37e6f4,Viola Beach,Indie Pop,56d99125cc2ddd0c0f6be838,Boys That Sing / Like A Fool,2016.0,731.0,Unknown,Unknown,Unknown,2010,Viola Beach
+5798,5714debf25ac0d8aee37e6fb,Viola,Unknown,56d99126cc2ddd0c0f6be83a,Viola Music Club 2010,2010.0,0.0,2010-12-01,eng,Alternative Rock,2010,Viola
+5799,5714debf25ac0d8aee37e6fc,Viola,Unknown,56d99126cc2ddd0c0f6be83a,Viola Music Club 2011,2011.0,1.0,2011-12-01,eng,Alternative Rock,2010,Viola
+5819,5714debf25ac0d8aee37e710,Viola Valentino,Unknown,56d9912bcc2ddd0c0f6be83e,Alleati Non Ovvi,2010,33.0,2010,Unknown,Alternative Rock,2010,Viola Valentino
+5823,5714debf25ac0d8aee37e1c7,Vassendgutane,Unknown,56d98fe5cc2ddd0c0f6be61f,Hesteslepp,2013,82.0,Unknown,Unknown,Alternative Rock,2010,Vassendgutane
+5838,5714debf25ac0d8aee37e1d6,Vatican,Metalcore,56d98fe9cc2ddd0c0f6be623,Drowning The Apathy Inside,2015,5.0,Unknown,Unknown,Unknown,2010,Vatican
+5851,5714debf25ac0d8aee37e1e3,Vaults,Unknown,56d98fedcc2ddd0c0f6be62d,Vultures E.P,2014,863.0,2014-11-17,Unknown,Alternative Rock,2010,Vaults
+5886,5714debf25ac0d8aee37e1f8,Vavamuffin,Reggae,56d98ff0cc2ddd0c0f6be632,Mo' Better Rootz,2010,399.0,2010-08-13,pol,Unknown,2010,Vavamuffin
+5892,5714debf25ac0d8aee37e1fe,Veara,Punk Rock,56d98ff2cc2ddd0c0f6be637,What We Left Behind,2010,216.0,2010-05-24,eng,Unknown,2010,Veara
+5919,5714debf25ac0d8aee37e722,Violent Faith,Unknown,56d9912fcc2ddd0c0f6be845,Violent Faith,2012,Unknown,Unknown,Unknown,Alternative Rock,2010,Violent Faith
+5920,5714debf25ac0d8aee37e723,Violent Faith,Unknown,56d9912fcc2ddd0c0f6be845,The Thing,2012,Unknown,Unknown,Unknown,Alternative Rock,2010,Violent Faith
+5923,5714debf25ac0d8aee37e726,Violent Soho,Unknown,56d9912fcc2ddd0c0f6be847,Violent Soho,2010,999.0,Unknown,Unknown,Alternative Rock,2010,Violent Soho
+5924,5714debf25ac0d8aee37e727,Violent Soho,Alternative Rock,56d9912fcc2ddd0c0f6be847,Hungry Ghost,2013,199.0,Unknown,Unknown,Unknown,2010,Violent Soho
+5938,5714debf25ac0d8aee37e735,Violent Femmes,Alternative Rock,56d99130cc2ddd0c0f6be84a,Happy New Year,2015,81.0,2015-04-18,eng,Unknown,2010,Violent Femmes
+5944,5714debf25ac0d8aee37e73b,Violet Letters,Unknown,56d99131cc2ddd0c0f6be84c,Violet Letters,2011,Unknown,Unknown,Unknown,Alternative Rock,2010,Violet Letters
+5946,5714debf25ac0d8aee37e73d,Violet Sun,Symphonic Metal,56d99132cc2ddd0c0f6be84e,Loneliness In Supremacy,2010,17.0,2010-11-19,eng,Unknown,2010,Violet Sun
+5948,5714debf25ac0d8aee37e73f,Violet Road,Pop Rock,56d99132cc2ddd0c0f6be84f,Violet Road,2011,41.0,Unknown,Unknown,Unknown,2010,Violet Road
+5949,5714debf25ac0d8aee37e740,Violet Road,Pop Rock,56d99132cc2ddd0c0f6be84f,Peter Every And His Marching Band,2012,22.0,Unknown,Unknown,Unknown,2010,Violet Road
+5950,5714debf25ac0d8aee37e741,Violet Road,Pop Rock,56d99132cc2ddd0c0f6be84f,Back To The Roadshow,2014,46.0,Unknown,Unknown,Unknown,2010,Violet Road
+5985,5714debf25ac0d8aee37e231,Veil Of Maya,Unknown,56d98ffecc2ddd0c0f6be652,Id,2010,544.0,2010-04-06,eng,Alternative Rock,2010,Veil Of Maya
+5986,5714debf25ac0d8aee37e232,Veil Of Maya,Unknown,56d98ffecc2ddd0c0f6be652,Eclipse,2012,940.0,2012-02-28,eng,Alternative Rock,2010,Veil Of Maya
+5987,5714debf25ac0d8aee37e233,Veil Of Maya,Djent,56d98ffecc2ddd0c0f6be652,Matriarch,2015,1687.0,2015-05-11,Unknown,Unknown,2010,Veil Of Maya
+5991,5714debf25ac0d8aee37e237,Veja,Unknown,56d98fffcc2ddd0c0f6be655,Dolina mlinova,2014,6.0,Unknown,Unknown,Alternative Rock,2010,Veja
+5994,5714debf25ac0d8aee37e23a,Veljenpojat,Unknown,56d99003cc2ddd0c0f6be657,V Niinku Veljenpojat,2012,0.0,Unknown,Unknown,Alternative Rock,2010,Veljenpojat
+6019,5714debf25ac0d8aee37e253,Velhas Virgens,Unknown,56d99004cc2ddd0c0f6be65c,Ninguém Beija Como As Lésbicas,2010,1464.0,2009,por,Alternative Rock,2010,Velhas Virgens
+6020,5714debf25ac0d8aee37e254,Velhas Virgens,Unknown,56d99004cc2ddd0c0f6be65c,Carnavelhas 2 - Do Love Story À Avenida São João,2011,761.0,Unknown,Unknown,Alternative Rock,2010,Velhas Virgens
+6057,5714debf25ac0d8aee37e279,Velvet Illusions,Unknown,56d9900ecc2ddd0c0f6be66d,Acid Head,2011,18.0,Unknown,Unknown,Alternative Rock,2010,Velvet Illusions
+6072,5714debf25ac0d8aee37e288,Velvet Acid Christ,EBM,56d9900ecc2ddd0c0f6be66e,Maldire,2012,42.0,2012-09-11,eng,Unknown,2010,Velvet Acid Christ
+6073,5714debf25ac0d8aee37e289,Velvet Acid Christ,Unknown,56d9900ecc2ddd0c0f6be66e,Subconscious Landscapes,2014,87.0,2014-10-27,Unknown,Alternative Rock,2010,Velvet Acid Christ
+6116,5714debf25ac0d8aee37e771,Virgin Snatch,Thrash Metal,56d9913fcc2ddd0c0f6be863,We Serve No One,2014,Unknown,Unknown,Unknown,Unknown,2010,Virgin Snatch
+6133,5714debf25ac0d8aee37e299,Venenum,Unknown,56d99012cc2ddd0c0f6be678,Venenum,2011,Unknown,Unknown,Unknown,Alternative Rock,2010,Venenum
+6146,5714debf25ac0d8aee37e2a6,Velveteen,Unknown,56d99012cc2ddd0c0f6be67b,27,2010,12.0,Unknown,Unknown,Alternative Rock,2010,Velveteen
+6176,5714debf25ac0d8aee37e2c4,Venetian Snares,Punk Rock,56d99019cc2ddd0c0f6be681,My So-Called Life,2010,73.0,2010-08-23,eng,Unknown,2010,Venetian Snares
+6177,5714debf25ac0d8aee37e2c5,Venetian Snares,Breakcore,56d99019cc2ddd0c0f6be681,My Love Is A Bulldozer,2014,161.0,Unknown,Unknown,Unknown,2010,Venetian Snares
+6185,5714debf25ac0d8aee37e2cd,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,Video Girl - Rebooted,2011,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6186,5714debf25ac0d8aee37e2ce,Venetian Princess,Pop,56d9901acc2ddd0c0f6be683,It's Halloween,2011,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6187,5714debf25ac0d8aee37e2cf,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,Charlie Sheen,2011,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6188,5714debf25ac0d8aee37e2d0,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,Crush On A Yeti,2011,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6189,5714debf25ac0d8aee37e2d1,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,I'm A Gleek,2010,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6190,5714debf25ac0d8aee37e2d2,Venetian Princess,Pop,56d9901acc2ddd0c0f6be683,Silent Night,2010,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6191,5714debf25ac0d8aee37e2d3,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,Accident Prone,2010,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6192,5714debf25ac0d8aee37e2d4,Venetian Princess,Parody,56d9901acc2ddd0c0f6be683,The Snooki Song,2010,Unknown,Unknown,Unknown,Unknown,2010,Venetian Princess
+6219,5714debf25ac0d8aee37e2ef,Vennart,Indie,56d9901ecc2ddd0c0f6be68c,The Demon Joke,2015,96.0,Unknown,Unknown,Unknown,2010,Vennart
+6246,5714debf25ac0d8aee37e783,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,The Black Light Bacchanalia,2010,121.0,2010-11-09,eng,Unknown,2010,Virgin Steele
+6278,5714debf25ac0d8aee37e7a3,Virgins O.R Pigeons,Unknown,56d99144cc2ddd0c0f6be871,Bleed To Lead,2013,4.0,Unknown,Unknown,Alternative Rock,2010,Virgins O.R Pigeons
+6279,5714debf25ac0d8aee37e7a4,Virgins O.R Pigeons,Unknown,56d99144cc2ddd0c0f6be871,Gotta Get Mad,2013,3.0,Unknown,Unknown,Alternative Rock,2010,Virgins O.R Pigeons
+6281,5714debf25ac0d8aee37e7a6,Viridian,Unknown,56d99146cc2ddd0c0f6be872,Viridian I,2016,Unknown,Unknown,Unknown,Alternative Rock,2010,Viridian
+6305,5714debf25ac0d8aee37eeec,We Are Harlot,Hard Rock,56d992ebcc2ddd0c0f6beb16,We Are Harlot,2015,2688.0,2015-03-27,Unknown,Unknown,2010,We Are Harlot
+6306,5714debf25ac0d8aee37eeed,We Are Defiance,Unknown,56d992ebcc2ddd0c0f6beb17,Trust In Few,2011,502.0,2011-03-29,Unknown,Alternative Rock,2010,We Are Defiance
+6326,5714debf25ac0d8aee37e30c,Venom,Speed Metal,56d99022cc2ddd0c0f6be693,Fallen Angels,2011,914.0,Unknown,Unknown,Unknown,2010,Venom
+6333,5714debf25ac0d8aee37e313,Ventura Lights,Unknown,56d99041cc2ddd0c0f6be697,Way Up Here,2013,Unknown,2013-10-22,Unknown,Post-Hardcore,2010,Ventura Lights
+6367,5714debf25ac0d8aee37eef9,We Are The Emergency,Unknown,56d992f0cc2ddd0c0f6beb20,Whispers & Fragments,2010,1.0,2010,eng,Post-Hardcore,2010,We Are The Emergency
+6374,5714debf25ac0d8aee37ef00,We Are Scientists,Indie Rock,56d992f1cc2ddd0c0f6beb22,Barbara,2010,748.0,2010-06-14,eng,Unknown,2010,We Are Scientists
+6375,5714debf25ac0d8aee37ef01,We Are Scientists,Indie Rock,56d992f1cc2ddd0c0f6beb22,TV En Français,2014,1071.0,2014-03-03,Unknown,Unknown,2010,We Are Scientists
+6379,5714debf25ac0d8aee37ef05,We Are The Fallen,Alternative Rock,56d99302cc2ddd0c0f6beb24,Tear The World Down,2010,3409.0,2010-05-11,eng,Unknown,2010,We Are The Fallen
+6381,5714debf25ac0d8aee37ef07,We Are The Revolution,Unknown,56d99304cc2ddd0c0f6beb25,Land Of Liberty,2010,Unknown,Unknown,Unknown,Post-Hardcore,2010,We Are The Revolution
+6383,5714debf25ac0d8aee37ef09,We Are The Grand,Unknown,56d99304cc2ddd0c0f6beb27,Chasing Lights,2010,32.0,Unknown,Unknown,Post-Hardcore,2010,We Are The Grand
+6387,5714debf25ac0d8aee37ef0d,We Are The Ocean,Post-Hardcore,56d99305cc2ddd0c0f6beb28,Cutting Our Teeth,2010,464.0,2010-02-05,eng,Unknown,2010,We Are The Ocean
+6388,5714debf25ac0d8aee37ef0e,We Are The Ocean,Post-Hardcore,56d99305cc2ddd0c0f6beb28,Go Now And Live,2011,200.0,2011-04-25,eng,Unknown,2010,We Are The Ocean
+6389,5714debf25ac0d8aee37ef0f,We Are The Ocean,Alternative Rock,56d99305cc2ddd0c0f6beb28,"Maybe Today, Maybe Tomorrow",2012,130.0,Unknown,Unknown,Unknown,2010,We Are The Ocean
+6390,5714debf25ac0d8aee37ef10,We Are The Ocean,Alternative Rock,56d99305cc2ddd0c0f6beb28,Ark,2015,156.0,Unknown,Unknown,Unknown,2010,We Are The Ocean
+6400,5714debf25ac0d8aee37ef1a,We As Human,Unknown,56d99306cc2ddd0c0f6beb2c,We As Human,2011,203.0,2011-10-18,eng,Post-Hardcore,2010,We As Human
+6401,5714debf25ac0d8aee37ef1b,We As Human,Hard Rock,56d99306cc2ddd0c0f6beb2c,We As Human,2013,2061.0,2013-06-25,eng,Unknown,2010,We As Human
+6404,5714debf25ac0d8aee37ef1e,We Are!!,Unknown,56d99306cc2ddd0c0f6beb2e,The Bright Side,2011,5.0,2011,eng,Post-Hardcore,2010,We Are!!
+6405,5714debf25ac0d8aee37ef1f,We Break Hearts! Not Hymens,Unknown,56d99307cc2ddd0c0f6beb2f,Suicide Is The Most Honest Form Of Self-Deprecating Humour,2010,Unknown,Unknown,Unknown,Post-Hardcore,2010,We Break Hearts! Not Hymens
+6406,5714debf25ac0d8aee37ef20,We Break Hearts! Not Hymens,Unknown,56d99307cc2ddd0c0f6beb2f,Bitches On My Dick!,2011,Unknown,Unknown,Unknown,Post-Hardcore,2010,We Break Hearts! Not Hymens
+6407,5714debf25ac0d8aee37ef21,We Are The In Crowd,Pop Punk,56d99308cc2ddd0c0f6beb30,Guaranteed To Disagree,2010,65.0,2010-06-08,eng,Unknown,2010,We Are The In Crowd
+6408,5714debf25ac0d8aee37ef22,We Are The In Crowd,Pop Punk,56d99308cc2ddd0c0f6beb30,Best Intentions,2011,3480.0,2011-10-04,eng,Unknown,2010,We Are The In Crowd
+6409,5714debf25ac0d8aee37ef23,We Are The In Crowd,Pop Punk,56d99308cc2ddd0c0f6beb30,Weird Kids,2014,3318.0,2014-02-18,Unknown,Unknown,2010,We Are The In Crowd
+6414,5714debf25ac0d8aee37ef28,We Came As Romans,Post-Hardcore,56d9930acc2ddd0c0f6beb32,To Move On Is To Grow,2010,Unknown,Unknown,Unknown,Unknown,2010,We Came As Romans
+6415,5714debf25ac0d8aee37ef29,We Came As Romans,Post-Hardcore,56d9930acc2ddd0c0f6beb32,Understanding What We've Grown To Be,2011,1975.0,2011-09-13,eng,Unknown,2010,We Came As Romans
+6416,5714debf25ac0d8aee37ef2a,We Came As Romans,Post-Hardcore,56d9930acc2ddd0c0f6beb32,Let These Words Last Forever,2012,143.0,Unknown,Unknown,Unknown,2010,We Came As Romans
+6417,5714debf25ac0d8aee37ef2b,We Came As Romans,Post-Hardcore,56d9930acc2ddd0c0f6beb32,Tracing Back Roots,2013,2764.0,2013-07-23,eng,Unknown,2010,We Came As Romans
+6418,5714debf25ac0d8aee37ef2c,We Came As Romans,Melodic Metalcore,56d9930acc2ddd0c0f6beb32,We Came As Romans,2015,4232.0,Unknown,Unknown,Unknown,2010,We Came As Romans
+6423,5714debf25ac0d8aee37ef31,We Have Band,Unknown,56d9930bcc2ddd0c0f6beb35,WHB,2010,333.0,Unknown,Unknown,Post-Hardcore,2010,We Have Band
+6424,5714debf25ac0d8aee37ef32,We Have Band,Unknown,56d9930bcc2ddd0c0f6beb35,Ternion,2012,11.0,Unknown,Unknown,Post-Hardcore,2010,We Have Band
+6425,5714debf25ac0d8aee37ef33,We Have Band,Indie Rock,56d9930bcc2ddd0c0f6beb35,Movements,2014,427.0,2014-04-28,Unknown,Unknown,2010,We Have Band
+6429,5714debf25ac0d8aee37ef37,We Butter The Bread With Butter,Electronicore,56d9930bcc2ddd0c0f6beb36,Der Tag An Dem Die Welt Unterging,2010,2596.0,2010-05-14,deu,Unknown,2010,We Butter The Bread With Butter
+6430,5714debf25ac0d8aee37ef38,We Butter The Bread With Butter,Electronicore,56d9930bcc2ddd0c0f6beb36,Projekt Herz,2012,45.0,2012-12-19,deu,Unknown,2010,We Butter The Bread With Butter
+6431,5714debf25ac0d8aee37ef39,We Butter The Bread With Butter,Electronicore,56d9930bcc2ddd0c0f6beb36,Goldkinder,2013,389.0,2013-08-09,deu,Unknown,2010,We Butter The Bread With Butter
+6438,5714debf25ac0d8aee37ef40,We Invented Paris,Unknown,56d9930ccc2ddd0c0f6beb39,Tour D'Europe EP,2010,231.0,2010,eng,Post-Hardcore,2010,We Invented Paris
+6440,5714debf25ac0d8aee37ef42,We Invented Paris,Unknown,56d9930ccc2ddd0c0f6beb39,Rocket Spaceship Thing,2014,252.0,2014-02-14,Unknown,Post-Hardcore,2010,We Invented Paris
+6444,5714debf25ac0d8aee37ef46,We Singing Colors,Unknown,56d9930ecc2ddd0c0f6beb3d,"Made Of Wool, Made Of Heavy Metal",2014,318.0,Unknown,Unknown,Post-Hardcore,2010,We Singing Colors
+6463,5714debf25ac0d8aee37e7b0,Virhe,Progressive Folk,56d99149cc2ddd0c0f6be877,Teehetki,2012,Unknown,Unknown,Unknown,Unknown,2010,Virhe
+6472,5714debf25ac0d8aee37e7b9,Visa,Unknown,56d9914acc2ddd0c0f6be87b,187 Tyyliä,2012,Unknown,Unknown,Unknown,Post-Hardcore,2010,Visa
+6490,5714debf25ac0d8aee37e7cb,Visceral Disgorge,Unknown,56d9914ecc2ddd0c0f6be881,Ingesting Putridity,2011,184.0,2011-06-11,Unknown,Post-Hardcore,2010,Visceral Disgorge
+6499,5714debf25ac0d8aee37e332,VeraEuridice,Unknown,56d9904bcc2ddd0c0f6be6a8,VeraEuridice,2014,Unknown,2014,Unknown,Post-Hardcore,2010,VeraEuridice
+6542,5714debf25ac0d8aee37ef56,We Were Promised Jetpacks,Indie Rock,56d99311cc2ddd0c0f6beb47,In The Pit Of The Stomach,2011,43.0,2011-10-03,Unknown,Unknown,2010,We Were Promised Jetpacks
+6549,5714debf25ac0d8aee37ef5d,We The Kings,Pop Punk,56d99313cc2ddd0c0f6beb4a,Sunshine State Of Mind,2011,Unknown,2011-07-05,eng,Unknown,2010,We The Kings
+6550,5714debf25ac0d8aee37ef5e,We The Kings,Pop Punk,56d99313cc2ddd0c0f6beb4a,Somewhere Somehow,2013,5723.0,2013-12-13,Unknown,Unknown,2010,We The Kings
+6551,5714debf25ac0d8aee37ef5f,We The Kings,Pop Punk,56d99313cc2ddd0c0f6beb4a,Stripped,2014,1982.0,Unknown,Unknown,Unknown,2010,We The Kings
+6554,5714debf25ac0d8aee37ef62,We Were Skeletons,Unknown,56d99313cc2ddd0c0f6beb4b,Blame & Aging,2012,80.0,Unknown,Unknown,Post-Hardcore,2010,We Were Skeletons
+6562,5714debf25ac0d8aee37ef6a,We're Not Friends Anymore,Post-Hardcore,56d99316cc2ddd0c0f6beb52,You Are Television,2010,4.0,Unknown,Unknown,Unknown,2010,We're Not Friends Anymore
+6569,5714debf25ac0d8aee37ef71,We're About 9,Folk,56d99316cc2ddd0c0f6beb53,Amalgam,2010,1.0,Unknown,Unknown,Unknown,2010,We're About 9
+6570,5714debf25ac0d8aee37ef72,We're About 9,Unknown,56d99316cc2ddd0c0f6beb53,Future Pilot,2014,1.0,Unknown,Unknown,Post-Hardcore,2010,We're About 9
+6598,5714debf25ac0d8aee37e7d6,Visage,Synthpop,56d9914fcc2ddd0c0f6be885,Hearts And Knives,2013,1288.0,2013-05-20,Unknown,Unknown,2010,Visage
+6602,5714debf25ac0d8aee37e7da,Visceral Throne,Unknown,56d99152cc2ddd0c0f6be889,Omnipotent Asperity,2012,Unknown,Unknown,Unknown,Post-Hardcore,2010,Visceral Throne
+6613,5714debf25ac0d8aee37e7e5,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Klasika,2010,82.0,2010,Unknown,Unknown,2010,Visací Zámek
+6617,5714debf25ac0d8aee37e7e9,Visegruppa Kilden,Religious,56d99152cc2ddd0c0f6be88c,Sanger Fra Loftet,2015,Unknown,Unknown,Unknown,Unknown,2010,Visegruppa Kilden
+6620,5714debf25ac0d8aee37e7ec,ViSiBì,Folk,56d99153cc2ddd0c0f6be88e,Visibì,2011,Unknown,Unknown,Unknown,Unknown,2010,ViSiBì
+6636,5714debf25ac0d8aee37e7fc,Vision Divine,Power Metal,56d99157cc2ddd0c0f6be892,Destination Set To Nowhere,2012,662.0,2012-09-14,Unknown,Unknown,2010,Vision Divine
+6650,5714debf25ac0d8aee37e363,Verdict,Unknown,56d99054cc2ddd0c0f6be6bf,The Meaning Of Isolation,2013,0.0,2013-12-13,Unknown,Post-Hardcore,2010,Verdict
+6655,5714debf25ac0d8aee37e368,Verdunkeln,Unknown,56d99056cc2ddd0c0f6be6c2,Weder Licht Noch Schatten,2012,Unknown,2012-05-03,Unknown,Post-Hardcore,2010,Verdunkeln
+6657,5714debf25ac0d8aee37e36a,Veridia,Electronic Rock,56d99058cc2ddd0c0f6be6c4,Inseparable,2014,133.0,2014,Unknown,Unknown,2010,Veridia
+6658,5714debf25ac0d8aee37e36b,Veridia,Alternative Rock,56d99058cc2ddd0c0f6be6c4,Pretty Lies,2015,86.0,2015-09-25,Unknown,Unknown,2010,Veridia
+6672,5714debf25ac0d8aee37e379,Verdena,Alternative Rock,56d99058cc2ddd0c0f6be6c6,Wow,2011,917.0,2011-01-18,Unknown,Unknown,2010,Verdena
+6673,5714debf25ac0d8aee37e37a,Verdena,Unknown,56d99058cc2ddd0c0f6be6c6,Endkadenz Vol. 1,2015,1243.0,2015-01-27,ita,Post-Hardcore,2010,Verdena
+6674,5714debf25ac0d8aee37e37b,Verdena,Rock,56d99058cc2ddd0c0f6be6c6,Endkadenz Vol. 2,2015,1345.0,Unknown,Unknown,Unknown,2010,Verdena
+6683,5714debf25ac0d8aee37e384,Verjnuarmu,Unknown,56d9905acc2ddd0c0f6be6cb,Lohuton,2010,29.0,Unknown,Unknown,Post-Hardcore,2010,Verjnuarmu
+6684,5714debf25ac0d8aee37e385,Verjnuarmu,Unknown,56d9905acc2ddd0c0f6be6cb,Pimmeyvven Ruhtinas,2012,35.0,Unknown,Unknown,Post-Hardcore,2010,Verjnuarmu
+6690,5714debf25ac0d8aee37e38b,Verjnuarmu,Unknown,56d9905acc2ddd0c0f6be6cb,Kuvajaenen,2010,7.0,Unknown,Unknown,Post-Hardcore,2010,Verjnuarmu
+6691,5714debf25ac0d8aee37e38c,Verjnuarmu,Unknown,56d9905acc2ddd0c0f6be6cb,Turja,2010,29.0,Unknown,Unknown,Post-Hardcore,2010,Verjnuarmu
+6692,5714debf25ac0d8aee37e38d,Verjnuarmu,Unknown,56d9905acc2ddd0c0f6be6cb,Lentävä Kalakukko,2012,13.0,Unknown,Unknown,Post-Hardcore,2010,Verjnuarmu
+6724,5714debf25ac0d8aee37ef8b,Webbie,Southern Hip Hop,56d99321cc2ddd0c0f6beb5c,Savage Life 3,2011,0.0,2011-11-15,eng,Unknown,2010,Webbie
+6725,5714debf25ac0d8aee37ef8c,Webbie,Hip Hop,56d99321cc2ddd0c0f6beb5c,Savage Life 4,2013,378.0,2013-11-19,eng,Unknown,2010,Webbie
+6727,5714debf25ac0d8aee37ef8e,Weberty Moreira,Rock,56d99323cc2ddd0c0f6beb5d,Acústico,2010,Unknown,2010-12-22,por,Unknown,2010,Weberty Moreira
+6754,5714debf25ac0d8aee37efa9,Wednesday 13,Horror Punk,56d99327cc2ddd0c0f6beb65,Calling All Corpses,2011,521.0,2011-10-11,Unknown,Unknown,2010,Wednesday 13
+6755,5714debf25ac0d8aee37efaa,Wednesday 13,Heavy Metal,56d99327cc2ddd0c0f6beb65,The Dixie Dead,2013,562.0,2013-02-19,eng,Unknown,2010,Wednesday 13
+6763,5714debf25ac0d8aee37e3af,Vernian Process,Steampunk,56d9905fcc2ddd0c0f6be6d6,Behold The Machine,2010,126.0,2010-10-01,eng,Unknown,2010,Vernian Process
+6785,5714debf25ac0d8aee37e3c5,Veronica Falls,Unknown,56d99063cc2ddd0c0f6be6e4,Veronica Falls,2011,731.0,2011-09-19,Unknown,Post-Hardcore,2010,Veronica Falls
+6786,5714debf25ac0d8aee37e3c6,Veronica Falls,Unknown,56d99063cc2ddd0c0f6be6e4,Waiting For Something To Happen,2013,859.0,2013-06-18,Unknown,Post-Hardcore,2010,Veronica Falls
+6794,5714debf25ac0d8aee37e3ce,Veronica Maggio,Unknown,56d99065cc2ddd0c0f6be6e8,Satan I Gatan,2011,1189.0,2011-04-27,swe,Post-Hardcore,2010,Veronica Maggio
+6795,5714debf25ac0d8aee37e3cf,Veronica Maggio,Unknown,56d99065cc2ddd0c0f6be6e8,Handen I Fickan Fast Jag Bryr Mig,2013,787.0,2013-10-04,Unknown,Post-Hardcore,2010,Veronica Maggio
+6802,5714debf25ac0d8aee37e3d6,Versant,Unknown,56d99068cc2ddd0c0f6be6ee,Demos,2010,6.0,2010-09-21,Unknown,Symphonic Metal,2010,Versant
+6806,5714debf25ac0d8aee37e3da,Versailles,Symphonic Metal,56d99068cc2ddd0c0f6be6ef,Jubilee,2010,125.0,Unknown,Unknown,Unknown,2010,Versailles
+6807,5714debf25ac0d8aee37e3db,Versailles,Symphonic Metal,56d99068cc2ddd0c0f6be6ef,Holy Grail,2011,142.0,Unknown,Unknown,Unknown,2010,Versailles
+6828,5714debf25ac0d8aee37e811,Visions Of Atlantis,Symphonic Metal,56d9915ccc2ddd0c0f6be89c,Delta,2011,200.0,2011-02-23,eng,Unknown,2010,Visions Of Atlantis
+6829,5714debf25ac0d8aee37e812,Visions Of Atlantis,Unknown,56d9915ccc2ddd0c0f6be89c,Maria Magdalena,2011,97.0,2011-10-21,eng,Symphonic Metal,2010,Visions Of Atlantis
+6830,5714debf25ac0d8aee37e813,Visions Of Atlantis,Power Metal,56d9915ccc2ddd0c0f6be89c,Ethera,2013,295.0,2013-03-22,Unknown,Unknown,2010,Visions Of Atlantis
+6843,5714debf25ac0d8aee37e820,Vitalic,Unknown,56d9915ecc2ddd0c0f6be8a1,Rave Age,2012,22868.0,Unknown,Unknown,Symphonic Metal,2010,Vitalic
+6903,5714debf25ac0d8aee37efde,Weekend (DE),Unknown,56d9932bcc2ddd0c0f6beb6c,Am Wochenende Rapper,2013,Unknown,Unknown,Unknown,Symphonic Metal,2010,Weekend (DE)
+6907,5714debf25ac0d8aee37efe2,Weekend (US),Unknown,56d9932bcc2ddd0c0f6beb6e,Sports,2010,Unknown,Unknown,Unknown,Symphonic Metal,2010,Weekend (US)
+6917,5714debf25ac0d8aee37efec,Weena Morloch,Unknown,56d99330cc2ddd0c0f6beb73,Amok,2011,Unknown,2011,deu,Symphonic Metal,2010,Weena Morloch
+6918,5714debf25ac0d8aee37efed,Weena Morloch,Unknown,56d99330cc2ddd0c0f6beb73,.Käfer.Maden.Würmer.Spinnen.,2011,Unknown,Unknown,Unknown,Symphonic Metal,2010,Weena Morloch
+6930,5714debf25ac0d8aee37e831,Vitja,Metalcore,56d99162cc2ddd0c0f6be8a8,Echoes,2013,210.0,2013-12-13,Unknown,Unknown,2010,Vitja
+6948,5714debf25ac0d8aee37e843,Vitek,Unknown,56d99165cc2ddd0c0f6be8b3,Kaleidoscope,2012,Unknown,Unknown,Unknown,Symphonic Metal,2010,Vitek
+6959,5714debf25ac0d8aee37e84e,Vitun Kova Ääni,Unknown,56d99167cc2ddd0c0f6be8ba,Aikatauluis,2011,14.0,Unknown,Unknown,Symphonic Metal,2010,Vitun Kova Ääni
+6965,5714debf25ac0d8aee37e854,Viva Brother,Alternative Rock,56d9916acc2ddd0c0f6be8c0,Famous First Words,2011,252.0,2011-08-01,eng,Unknown,2010,Viva Brother
+6975,5714debf25ac0d8aee37e3e0,VersaEmerge,Alternative Rock,56d99068cc2ddd0c0f6be6f0,Fixed At Zero,2010,991.0,2010-06-21,eng,Unknown,2010,VersaEmerge
+6976,5714debf25ac0d8aee37e3e1,VersaEmerge,Acoustic,56d99068cc2ddd0c0f6be6f0,Live Acoustic,2011,413.0,Unknown,Unknown,Unknown,2010,VersaEmerge
+6977,5714debf25ac0d8aee37e3e2,VersaEmerge,Unknown,56d99068cc2ddd0c0f6be6f0,Another Atmosphere Preview,2012,190.0,Unknown,Unknown,Symphonic Metal,2010,VersaEmerge
+6986,5714debf25ac0d8aee37e3eb,Verse,Unknown,56d9906acc2ddd0c0f6be6f3,"Bitter Clarity, Uncommon Grace",2012,2.0,2012-07-17,eng,Symphonic Metal,2010,Verse
+6992,5714debf25ac0d8aee37e3f1,Versengold,Medieval,56d9906acc2ddd0c0f6be6f5,Dreck Am Stecken,2011,209.0,2011-01,deu,Unknown,2010,Versengold
+6993,5714debf25ac0d8aee37e3f2,Versengold,Folk,56d9906acc2ddd0c0f6be6f5,Im Namen Des Folkes,2012,791.0,2013-01-25,Unknown,Unknown,2010,Versengold
+6994,5714debf25ac0d8aee37e3f3,Versengold,Unknown,56d9906acc2ddd0c0f6be6f5,Auf In Den Wind,2014,563.0,Unknown,Unknown,Symphonic Metal,2010,Versengold
+6995,5714debf25ac0d8aee37e3f4,Versengold,Unknown,56d9906acc2ddd0c0f6be6f5,Zeitlos,2015,822.0,Unknown,Unknown,Symphonic Metal,2010,Versengold
+6999,5714debf25ac0d8aee37e3f8,Versus,Futurepop,56d9906bcc2ddd0c0f6be6f8,Different Twilight Places,2010,16.0,2010-09-24,eng,Unknown,2010,Versus
+7002,5714debf25ac0d8aee37e3fb,Versus Them,Unknown,56d9906dcc2ddd0c0f6be6fa,Six AM Salvation,2015,16.0,Unknown,Unknown,Symphonic Metal,2010,Versus Them
+7012,5714debf25ac0d8aee37e405,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,On The Ones And Threes,2010,Unknown,Unknown,Unknown,Symphonic Metal,2010,Versus (US)
+7035,5714debf25ac0d8aee37f003,Weep,Unknown,56d99333cc2ddd0c0f6beb78,Worn Thin,2010,3.0,2013,Unknown,Symphonic Metal,2010,Weep
+7036,5714debf25ac0d8aee37f004,Weep,Unknown,56d99333cc2ddd0c0f6beb78,6 Interpretations,2010,0.0,Unknown,Unknown,Symphonic Metal,2010,Weep
+7037,5714debf25ac0d8aee37f005,Weep,Unknown,56d99333cc2ddd0c0f6beb78,Alate,2012,3.0,Unknown,Unknown,Symphonic Metal,2010,Weep
+7045,5714debf25ac0d8aee37f00d,Weepers Circus,Francophone,56d99334cc2ddd0c0f6beb79,N'Importe Où Hors Du Monde,2011,1029.0,2011-10-10,fra,Unknown,2010,Weepers Circus
+7054,5714debf25ac0d8aee37f016,Weerd Science,Hip Hop,56d9933acc2ddd0c0f6beb7c,Sick Kids,2011,7.0,2011-05-17,eng,Unknown,2010,Weerd Science
+7059,5714debf25ac0d8aee37e40e,Vertical Church Band,Contemporary Christian,56d99070cc2ddd0c0f6be702,Live Worship From Vertical Church,2012,517.0,Unknown,Unknown,Unknown,2010,Vertical Church Band
+7060,5714debf25ac0d8aee37e40f,Vertical Church Band,Contemporary Christian,56d99070cc2ddd0c0f6be702,Vertical,2013,517.0,Unknown,Unknown,Unknown,2010,Vertical Church Band
+7061,5714debf25ac0d8aee37e410,Vertical Church Band,Contemporary Christian,56d99070cc2ddd0c0f6be702,The Rock Won't Move,2013,796.0,2013-10-25,eng,Unknown,2010,Vertical Church Band
+7062,5714debf25ac0d8aee37e411,Vertical Church Band,Contemporary Christian,56d99070cc2ddd0c0f6be702,White,2014,125.0,Unknown,Unknown,Unknown,2010,Vertical Church Band
+7063,5714debf25ac0d8aee37e412,Vertical Church Band,Contemporary Christian,56d99070cc2ddd0c0f6be702,Church Songs,2015,756.0,2015-01-16,eng,Unknown,2010,Vertical Church Band
+7092,5714debf25ac0d8aee37e42f,Veruca Salt,Alternative Rock,56d99074cc2ddd0c0f6be70b,Ghost Notes,2015,930.0,2015-07-10,Unknown,Unknown,2010,Veruca Salt
+7106,5714debf25ac0d8aee37e43d,Vesen,Black Metal,56d99079cc2ddd0c0f6be70f,Goat Carcass Rising,2012,0.0,Unknown,Unknown,Unknown,2010,Vesen
+7121,5714debf25ac0d8aee37e864,Vivian Green,Unknown,56d9916dcc2ddd0c0f6be8cb,Beautiful,2010,433.0,2010-04-06,eng,Symphonic Metal,2010,Vivian Green
+7127,5714debf25ac0d8aee37e86a,Vivian Girls,Indie,56d9916ecc2ddd0c0f6be8cd,Share The Joy,2011,376.0,2011-04-12,Unknown,Unknown,2010,Vivian Girls
+7133,5714debf25ac0d8aee37e870,ViViD,Unknown,56d9916fcc2ddd0c0f6be8d0,Across The Border (初回盤B),2010,Unknown,Unknown,Unknown,Symphonic Metal,2010,ViViD
+7137,5714debf25ac0d8aee37e874,Vivid Recollection,Unknown,56d9916fcc2ddd0c0f6be8d2,Nova,2012,1.0,Unknown,Unknown,Symphonic Metal,2010,Vivid Recollection
+7167,5714debf25ac0d8aee37f022,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Hurley,2010,1600.0,2010-09-10,Unknown,Unknown,2010,Weezer
+7168,5714debf25ac0d8aee37f023,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Death To False Metal,2010,2717.0,2010-11-02,Unknown,Unknown,2010,Weezer
+7169,5714debf25ac0d8aee37f024,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Everything Will Be Alright In The End,2014,6815.0,2014-09-30,Unknown,Unknown,2010,Weezer
+7170,5714debf25ac0d8aee37f025,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Weezer,2016,7770.0,2016-04-01,Unknown,Unknown,2010,Weezer
+7175,5714debf25ac0d8aee37f02a,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,...Happy Record Store Day!,2010,2500.0,Unknown,Unknown,Unknown,2010,Weezer
+7187,5714debf25ac0d8aee37f036,Wekeed,Dance,56d9933dcc2ddd0c0f6beb85,Wild Child,2013,629.0,Unknown,Unknown,Unknown,2010,Wekeed
+7222,5714debf25ac0d8aee37e45b,Vespertine,Alternative Rock,56d9907acc2ddd0c0f6be712,The End Of The World Suite,2012,2.0,Unknown,Unknown,Unknown,2010,Vespertine
+7246,5714debf25ac0d8aee37e88d,Viza,Rock,56d99175cc2ddd0c0f6be8e0,Made In Chernobyl,2010,1159.0,2010-07-27,Unknown,Unknown,2010,Viza
+7247,5714debf25ac0d8aee37e88e,Viza,Rock,56d99175cc2ddd0c0f6be8e0,Carnivalia,2011,449.0,2011-12-10,Unknown,Unknown,2010,Viza
+7248,5714debf25ac0d8aee37e88f,Viza,Rock,56d99175cc2ddd0c0f6be8e0,Aria,2014,249.0,2014-01-17,Unknown,Unknown,2010,Viza
+7257,5714debf25ac0d8aee37e898,Voces Unidas Por Chile,Pop,56d99179cc2ddd0c0f6be8e5,Gracias A La Vida,2010,114.0,Unknown,Unknown,Unknown,2010,Voces Unidas Por Chile
+7275,5714debf25ac0d8aee37e8aa,VNV Nation,Futurepop,56d9917acc2ddd0c0f6be8e6,Automatic,2011,1944.0,2011-10-25,eng,Unknown,2010,VNV Nation
+7276,5714debf25ac0d8aee37e8ab,VNV Nation,Futurepop,56d9917acc2ddd0c0f6be8e6,Transnational,2013,1082.0,2013-10-11,Unknown,Unknown,2010,VNV Nation
+7282,5714debf25ac0d8aee37e8b1,Vogelfrey,Folk Metal,56d9919bcc2ddd0c0f6be8e9,Wiegenfest,2010,178.0,2010-11-12,deu,Unknown,2010,Vogelfrey
+7283,5714debf25ac0d8aee37e8b2,Vogelfrey,Folk Metal,56d9919bcc2ddd0c0f6be8e9,Zwölf Schritte Zum Strick,2012,245.0,2012-05-18,deu,Unknown,2010,Vogelfrey
+7323,5714debf25ac0d8aee37f062,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Operation: Zeitsturm,2010,99.0,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7324,5714debf25ac0d8aee37f063,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Der Kalte Krieg,2011,136.0,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7325,5714debf25ac0d8aee37f064,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Computerklang,2012,Unknown,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7326,5714debf25ac0d8aee37f065,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Tanzmusik Für Roboter,2014,217.0,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7327,5714debf25ac0d8aee37f066,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Ich Rette Dich!,2014,195.0,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7328,5714debf25ac0d8aee37f067,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:1000 Engel,2015,Unknown,Unknown,Unknown,Symphonic Metal,2010,Welle:Erdball
+7336,5714debf25ac0d8aee37f06f,Wendolee,Latin,56d99347cc2ddd0c0f6beb9c,Wendolee,2011,Unknown,Unknown,Unknown,Unknown,2010,Wendolee
+7337,5714debf25ac0d8aee37f070,Wendolee,Latin,56d99347cc2ddd0c0f6beb9c,Wendolee Parte Dos,2014,3.0,Unknown,Unknown,Unknown,2010,Wendolee
+7346,5714debf25ac0d8aee37f079,Wendy & Lisa,Unknown,56d99348cc2ddd0c0f6beb9e,Snapshots,2011,23.0,2011-06-02,eng,Symphonic Metal,2010,Wendy & Lisa
+7351,5714debf25ac0d8aee37e8bb,Vogue,Unknown,56d9919dcc2ddd0c0f6be8ec,Pompshit,2010,Unknown,Unknown,Unknown,Symphonic Metal,2010,Vogue
+7373,5714debf25ac0d8aee37e8d1,Voices (UK),Unknown,56d991a2cc2ddd0c0f6be8f9,London,2014,112.0,Unknown,Unknown,Death Metal,2010,Voices (UK)
+7382,5714debf25ac0d8aee37e8da,Void Of Vision,Metalcore,56d991a5cc2ddd0c0f6be900,Broken // Bones,2014,44.0,Unknown,Unknown,Unknown,2010,Void Of Vision
+7386,5714debf25ac0d8aee37e8de,Void Of Silence,Unknown,56d991a5cc2ddd0c0f6be901,The Grave Of Civilization,2010,Unknown,2010-05-28,eng,Death Metal,2010,Void Of Silence
+7409,5714debf25ac0d8aee37f08e,Wendy Matthews,Unknown,56d9934ccc2ddd0c0f6beba8,The Welcome Fire,2013,16.0,Unknown,Unknown,Death Metal,2010,Wendy Matthews
+7414,5714debf25ac0d8aee37f093,Wendy Rene,Unknown,56d9934dcc2ddd0c0f6bebab,After Laughter Comes Tears: Complete Stax & Volt Singles + Rarities 1964-1965,2012,137.0,Unknown,Unknown,Death Metal,2010,Wendy Rene
+7432,5714debf25ac0d8aee37f0a5,Wendy Sulca,Latin,56d99351cc2ddd0c0f6bebb7,Papito Por Qué Me Dejaste ?,2013,21.0,Unknown,Unknown,Unknown,2010,Wendy Sulca
+7463,5714debf25ac0d8aee37e8f0,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,Target Earth,2013,195.0,2013-01-18,Unknown,Unknown,2010,Voivod
+7469,5714debf25ac0d8aee37e8f6,Volbeat,Unknown,56d991abcc2ddd0c0f6be905,Beyond Hell/Above Heaven,2010,20328.0,2010-09-13,eng,Death Metal,2010,Volbeat
+7470,5714debf25ac0d8aee37e8f7,Volbeat,Heavy Metal,56d991abcc2ddd0c0f6be905,Live From Beyond Hell/Above Heaven,2011,9180.0,2011-11-25,Unknown,Unknown,2010,Volbeat
+7471,5714debf25ac0d8aee37e8f8,Volbeat,Heavy Metal,56d991abcc2ddd0c0f6be905,Outlaw Gentlemen & Shady Ladies,2013,13253.0,2013-04-05,Unknown,Unknown,2010,Volbeat
+7473,5714debf25ac0d8aee37e8fa,Vola,Unknown,56d991abcc2ddd0c0f6be906,Homesick Machinery,2010,17.0,Unknown,Unknown,Death Metal,2010,Vola
+7479,5714debf25ac0d8aee37e900,Volcano Choir,Indie,56d991accc2ddd0c0f6be90b,Repave,2013,1976.0,2013-09-03,Unknown,Unknown,2010,Volcano Choir
+7493,5714debf25ac0d8aee37f0bb,Wesley Safadão,Forr&#xF3;,56d99356cc2ddd0c0f6bebc5,Ao Vivo Em Brasília,2015,129308.0,2015-11-27,por,Unknown,2010,Wesley Safadão
+7495,5714debf25ac0d8aee37f0bd,Wesley Klein,Unknown,56d99356cc2ddd0c0f6bebc6,Vandaag En Morgen,2010,164.0,2010-07-08,Unknown,Death Metal,2010,Wesley Klein
+7514,5714debf25ac0d8aee37f0d0,Wester (NY),Unknown,56d99361cc2ddd0c0f6bebd6,Flux,2012,0.0,Unknown,Unknown,Death Metal,2010,Wester (NY)
+7575,5714debf25ac0d8aee37e91b,Volkan Konak,Unknown,56d991b3cc2ddd0c0f6be919,Lifor,2012,1002.0,2012-02,Unknown,Death Metal,2010,Volkan Konak
+7576,5714debf25ac0d8aee37e91c,Volkan Konak,Unknown,56d991b3cc2ddd0c0f6be919,Manolya,2015,1481.0,Unknown,Unknown,Death Metal,2010,Volkan Konak
+7596,5714debf25ac0d8aee37e930,Voltaire,Unknown,56d991b6cc2ddd0c0f6be920,Spooky Songs For Creepy Kids,2010,262.0,Unknown,Unknown,Death Metal,2010,Voltaire
+7597,5714debf25ac0d8aee37e931,Voltaire,Unknown,56d991b6cc2ddd0c0f6be920,Hate Lives In A Small Town,2010,143.0,2010-09,eng,Death Metal,2010,Voltaire
+7598,5714debf25ac0d8aee37e932,Voltaire,Unknown,56d991b6cc2ddd0c0f6be920,Riding A Black Unicorn Down The Side Of An Erupting Volcano While Drinking From A Chalice Filled With The Laughter Of Small Children!,2011,83.0,2011-09-02,eng,Death Metal,2010,Voltaire
+7599,5714debf25ac0d8aee37e933,Voltaire,Unknown,56d991b6cc2ddd0c0f6be920,BiTrekual,2012,40.0,Unknown,Unknown,Death Metal,2010,Voltaire
+7600,5714debf25ac0d8aee37e934,Voltaire,Unknown,56d991b6cc2ddd0c0f6be920,Raised By Bats,2014,61.0,2014-03-01,eng,Death Metal,2010,Voltaire
+7616,5714debf25ac0d8aee37f109,Westlife,Pop,56d99368cc2ddd0c0f6bebe3,Gravity,2010,8879.0,2010-11-22,eng,Unknown,2010,Westlife
+7617,5714debf25ac0d8aee37f10a,Westlife,Pop,56d99368cc2ddd0c0f6bebe3,Greatest Hits,2011,50119.0,2011-11-18,Unknown,Unknown,2010,Westlife
+7628,5714debf25ac0d8aee37f115,Wet,Electronic,56d99368cc2ddd0c0f6bebe7,Don't You,2016,3483.0,2016-01-29,Unknown,Unknown,2010,Wet
+7642,5714debf25ac0d8aee37f123,Weval,Electronic,56d9937acc2ddd0c0f6bebf1,Half Age EP,2013,3627.0,Unknown,Unknown,Unknown,2010,Weval
+7643,5714debf25ac0d8aee37f124,Weval,Electronic,56d9937acc2ddd0c0f6bebf1,Easier EP,2014,2187.0,Unknown,Unknown,Unknown,2010,Weval
+7659,5714debf25ac0d8aee37e945,Volumes,Metalcore,56d991bbcc2ddd0c0f6be929,The Concept Of Dreaming,2010,Unknown,2010-11-16,eng,Unknown,2010,Volumes
+7660,5714debf25ac0d8aee37e946,Volumes,Metalcore,56d991bbcc2ddd0c0f6be929,Via,2011,Unknown,2011-10-11,eng,Unknown,2010,Volumes
+7661,5714debf25ac0d8aee37e947,Volumes,Metalcore,56d991bbcc2ddd0c0f6be929,No Sleep,2014,Unknown,2014-07-14,Unknown,Unknown,2010,Volumes
+7687,5714debf25ac0d8aee37e961,Vomitory,Unknown,56d991bfcc2ddd0c0f6be92f,Opus Mortis VIII,2011,293.0,2011-04-22,eng,Death Metal,2010,Vomitory
+7689,5714debf25ac0d8aee37e963,Von Brücken,Indie Pop,56d991c0cc2ddd0c0f6be930,Weit Weg Von Fertig,2015,1174.0,2015-10-30,deu,Unknown,2010,Von Brücken
+7693,5714debf25ac0d8aee37e967,Von Hertzen Brothers,Progressive Rock,56d991c2cc2ddd0c0f6be933,Nine Lives,2013,305.0,2013-03-15,Unknown,Unknown,2010,Von Hertzen Brothers
+7694,5714debf25ac0d8aee37e968,Von Hertzen Brothers,Progressive Rock,56d991c2cc2ddd0c0f6be933,Stars Aligned,2011,62.0,2011-03-23,eng,Unknown,2010,Von Hertzen Brothers
+7701,5714debf25ac0d8aee37e96f,Von Smith,Unknown,56d991c3cc2ddd0c0f6be936,On To Something,2014,13.0,Unknown,Unknown,Death Metal,2010,Von Smith
+7705,5714debf25ac0d8aee37e973,Von Thronstahl,Industrial,56d991c4cc2ddd0c0f6be938,Conscriptvm,2010,Unknown,2010-05-25,eng,Unknown,2010,Von Thronstahl
+7706,5714debf25ac0d8aee37e974,Von Thronstahl,Neofolk,56d991c4cc2ddd0c0f6be938,Pan-European Christian Freedom Movement,2011,Unknown,2011-08-15,mul,Unknown,2010,Von Thronstahl
+7723,5714debf25ac0d8aee37e985,Vonda Shepard,Vocal,56d991c7cc2ddd0c0f6be93e,Solo,2011,285.0,Unknown,Unknown,Unknown,2010,Vonda Shepard
+7737,5714debf25ac0d8aee37f129,Weto,Deutschrock,56d9937acc2ddd0c0f6bebf3,Schattenspieler,2011,74.0,2011-08-26,deu,Unknown,2010,Weto
+7760,5714debf25ac0d8aee37f140,What Lies Beneath,Unknown,56d9937dcc2ddd0c0f6bebfd,An Evolution Of The Masquerade,2010,2.0,2010-05-31,eng,Death Metal,2010,What Lies Beneath
+7780,5714debf25ac0d8aee37f154,What's Left Of The Sun,Unknown,56d99381cc2ddd0c0f6bec07,Life Rewinder,2014,1.0,Unknown,Unknown,Death Metal,2010,What's Left Of The Sun
+7781,5714debf25ac0d8aee37f155,What's Fair,Unknown,56d99381cc2ddd0c0f6bec08,Fill The Space,2010,1.0,2010-09-20,eng,Death Metal,2010,What's Fair

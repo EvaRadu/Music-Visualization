@@ -1,0 +1,1237 @@
+Unnamed: 0,_id,name,genre,id_artist,title,publicationDate,deezerFans,dateRelease,language,genre_infere,decade,artist_name
+1,5714debf25ac0d8aee37d282,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Maxinquaye,1995.0,7706.0,1995-02-21,eng,Unknown,1990,Tricky
+2,5714debf25ac0d8aee37d283,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Nearly God,1996.0,646.0,1996-08-13,eng,Unknown,1990,Tricky
+3,5714debf25ac0d8aee37d284,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Tricky Presents Grassroots,1996.0,2485.0,1996,eng,Unknown,1990,Tricky
+4,5714debf25ac0d8aee37d285,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Pre-Millennium Tension,1996.0,2485.0,1996-11-19,eng,Unknown,1990,Tricky
+5,5714debf25ac0d8aee37d286,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Angels With Dirty Faces,1998.0,1250.0,1998-05-25,eng,Unknown,1990,Tricky
+6,5714debf25ac0d8aee37d287,Tricky,Trip Hop,56d98bdecc2ddd0c0f6be067,Juxtapose,1999.0,3261.0,1999,eng,Unknown,1990,Tricky
+38,5714debf25ac0d8aee37cb43,Tommy Castro,Blues,56d98a0ccc2ddd0c0f6bdd9c,Exception To The Rule,1996.0,151.0,1996-01-30,Unknown,Unknown,1990,Tommy Castro
+39,5714debf25ac0d8aee37cb44,Tommy Castro,Blues,56d98a0ccc2ddd0c0f6bdd9c,Can't Keep A Good Man Down,1997.0,135.0,1997-05-06,eng,Unknown,1990,Tommy Castro
+40,5714debf25ac0d8aee37cb45,Tommy Castro,Blues,56d98a0ccc2ddd0c0f6bdd9c,Right As Rain,1999.0,213.0,1999-02-09,Unknown,Unknown,1990,Tommy Castro
+50,5714debf25ac0d8aee37cb4f,Tommy Edwards,Unknown,56d98a0ecc2ddd0c0f6bdd9f,It's All In The Game,1995.0,16.0,1993,eng,Trip Hop,1990,Tommy Edwards
+52,5714debf25ac0d8aee37cb51,Tommy Emmanuel,Unknown,56d98a0fcc2ddd0c0f6bdda0,The Journey,1993.0,42.0,Unknown,Unknown,Trip Hop,1990,Tommy Emmanuel
+53,5714debf25ac0d8aee37cb52,Tommy Emmanuel,Unknown,56d98a0fcc2ddd0c0f6bdda0,The Journey Continues,1993.0,31.0,Unknown,Unknown,Trip Hop,1990,Tommy Emmanuel
+54,5714debf25ac0d8aee37cb53,Tommy Emmanuel,Unknown,56d98a0fcc2ddd0c0f6bdda0,Can't Get Enough,1996.0,55.0,1996,Unknown,Trip Hop,1990,Tommy Emmanuel
+73,5714debf25ac0d8aee37cb66,Tommy Hunt,Soul,56d98a14cc2ddd0c0f6bddaa,Human,1991.0,18.0,Unknown,Unknown,Unknown,1990,Tommy Hunt
+131,5714debf25ac0d8aee37cb83,Tommy James,Unknown,56d98a1acc2ddd0c0f6bddaf,Hi-Fi,1990.0,9.0,Unknown,Unknown,Trip Hop,1990,Tommy James
+132,5714debf25ac0d8aee37cb84,Tommy James,Rock,56d98a1acc2ddd0c0f6bddaf,Discography: Deals And Demos '74-'92,1993.0,7.0,Unknown,Unknown,Unknown,1990,Tommy James
+133,5714debf25ac0d8aee37cb85,Tommy James,Rock,56d98a1acc2ddd0c0f6bddaf,A Night In Big City,1995.0,5.0,Unknown,Unknown,Unknown,1990,Tommy James
+169,5714debf25ac0d8aee37cba9,Tommy Page,Pop,56d98a21cc2ddd0c0f6bddc3,Paintings In My Mind,1990.0,208.0,1990-03-06,eng,Unknown,1990,Tommy Page
+170,5714debf25ac0d8aee37cbaa,Tommy Page,Pop,56d98a21cc2ddd0c0f6bddc3,From The Heart,1991.0,147.0,Unknown,eng,Unknown,1990,Tommy Page
+171,5714debf25ac0d8aee37cbab,Tommy Page,Pop,56d98a21cc2ddd0c0f6bddc3,A Friend To Rely On,1992.0,152.0,Unknown,Unknown,Unknown,1990,Tommy Page
+172,5714debf25ac0d8aee37cbac,Tommy Page,Pop,56d98a21cc2ddd0c0f6bddc3,Time,1994.0,208.0,Unknown,eng,Unknown,1990,Tommy Page
+173,5714debf25ac0d8aee37cbad,Tommy Page,Pop,56d98a21cc2ddd0c0f6bddc3,Loving You,1996.0,31.0,Unknown,eng,Unknown,1990,Tommy Page
+181,5714debf25ac0d8aee37cbb5,Tommy Shaw,Unknown,56d98a23cc2ddd0c0f6bddc7,7 Deadly Zens,1998.0,Unknown,1998-06-30,eng,Trip Hop,1990,Tommy Shaw
+194,5714debf25ac0d8aee37cbc2,Tommy Roe,Rock &apos;N&apos; Roll,56d98a23cc2ddd0c0f6bddc8,Greatest Hits,1993.0,14.0,1993-09-28,eng,Unknown,1990,Tommy Roe
+209,5714debf25ac0d8aee37cbd1,Tommy Tutone,Unknown,56d98a26cc2ddd0c0f6bddcf,Nervous Love,1996.0,29.0,1996-01-22,eng,Trip Hop,1990,Tommy Tutone
+210,5714debf25ac0d8aee37cbd2,Tommy Tutone,Unknown,56d98a26cc2ddd0c0f6bddcf,Tutone.rtf,1998.0,29.0,Unknown,Unknown,Trip Hop,1990,Tommy Tutone
+214,5714debf25ac0d8aee37cbd6,Tommy Wright III,Unknown,56d98a27cc2ddd0c0f6bddd2,On The Run,1996.0,Unknown,1996,Unknown,Trip Hop,1990,Tommy Wright III
+221,5714debf25ac0d8aee37d2c4,Trin-i-tee 5:7,Unknown,56d98bedcc2ddd0c0f6be083,7:Trin-i-tee 5:7,1998.0,Unknown,Unknown,Unknown,Trip Hop,1990,Trin-i-tee 5:7
+222,5714debf25ac0d8aee37d2c5,Trin-i-tee 5:7,Unknown,56d98bedcc2ddd0c0f6be083,7:Spiritual Love,1999.0,Unknown,Unknown,Unknown,Trip Hop,1990,Trin-i-tee 5:7
+236,5714debf25ac0d8aee37d2d3,Trini Lopez,Unknown,56d98befcc2ddd0c0f6be088,Best Of Trini Lopez,1993.0,66.0,1991,por,Trip Hop,1990,Trini Lopez
+241,5714debf25ac0d8aee37d2d8,Trinere,Unknown,56d98befcc2ddd0c0f6be08a,Forever Yours,1990.0,56.0,1991-07,Unknown,Trip Hop,1990,Trinere
+242,5714debf25ac0d8aee37d2d9,Trinere,Unknown,56d98befcc2ddd0c0f6be08a,Games,1991.0,56.0,1991-04-16,Unknown,Trip Hop,1990,Trinere
+243,5714debf25ac0d8aee37d2da,Trinere,Freestyle,56d98befcc2ddd0c0f6be08a,Trinere's In The House!,1992.0,124.0,1992-10,Unknown,Unknown,1990,Trinere
+244,5714debf25ac0d8aee37d2db,Trinere,Unknown,56d98befcc2ddd0c0f6be08a,Celebrating 10,1996.0,124.0,1996-04-02,Unknown,Trip Hop,1990,Trinere
+300,5714debf25ac0d8aee37cbfc,Tomte,Indie,56d98a2ecc2ddd0c0f6bdde7,Blinkmuffel,1996.0,358.0,1996,deu,Unknown,1990,Tomte
+301,5714debf25ac0d8aee37cbfd,Tomte,Indie Rock,56d98a2ecc2ddd0c0f6bdde7,"Du Weißt, Was Ich Meine",1998.0,358.0,1998-03-23,deu,Unknown,1990,Tomte
+314,5714debf25ac0d8aee37cc0a,Tonasia,Unknown,56d98a31cc2ddd0c0f6bddeb,Games Of Love,1990.0,15.0,Unknown,Unknown,Trip Hop,1990,Tonasia
+315,5714debf25ac0d8aee37cc0b,Tonasia,Unknown,56d98a31cc2ddd0c0f6bddeb,Tears Of Tears,1991.0,15.0,Unknown,Unknown,Trip Hop,1990,Tonasia
+328,5714debf25ac0d8aee37d2fd,Trip,Unknown,56d98c1acc2ddd0c0f6be0a2,Cultural Shift,1997.0,0.0,1997,Unknown,Trip Hop,1990,Trip
+338,5714debf25ac0d8aee37d307,Trip Shakespeare,Unknown,56d98c1bcc2ddd0c0f6be0a7,Across The Universe,1990.0,2.0,1990,eng,Trip Hop,1990,Trip Shakespeare
+339,5714debf25ac0d8aee37d308,Trip Shakespeare,Unknown,56d98c1bcc2ddd0c0f6be0a7,Lulu,1991.0,4.0,1991,eng,Trip Hop,1990,Trip Shakespeare
+340,5714debf25ac0d8aee37d309,Trip Shakespeare,Unknown,56d98c1bcc2ddd0c0f6be0a7,Volt,1992.0,Unknown,Unknown,eng,Trip Hop,1990,Trip Shakespeare
+345,5714debf25ac0d8aee37d30e,Triple Fast Action,Indie Rock,56d98c1dcc2ddd0c0f6be0ab,Broadcaster,1996.0,Unknown,1996,eng,Unknown,1990,Triple Fast Action
+346,5714debf25ac0d8aee37d30f,Triple Fast Action,Indie Rock,56d98c1dcc2ddd0c0f6be0ab,Cattlemen Don't,1997.0,4.0,1997-10-21,Unknown,Unknown,1990,Triple Fast Action
+356,5714debf25ac0d8aee37d319,Tripod,Unknown,56d98c22cc2ddd0c0f6be0b2,Box Set,1997.0,Unknown,Unknown,Unknown,Trip Hop,1990,Tripod
+374,5714debf25ac0d8aee37cc15,Ton Steine Scherben,Rock,56d98a31cc2ddd0c0f6bdded,Live II,1996.0,98.0,Unknown,Unknown,Unknown,1990,Ton Steine Scherben
+381,5714debf25ac0d8aee37cc1c,Tone-Lōc,Hip Hop,56d98a35cc2ddd0c0f6bddf2,Cool Hand Lōc,1991.0,Unknown,1991,eng,Unknown,1990,Tone-Lōc
+386,5714debf25ac0d8aee37cc21,Tonedeff,Unknown,56d98a35cc2ddd0c0f6bddf3,The Monotone EP,1997.0,Unknown,Unknown,Unknown,Trip Hop,1990,Tonedeff
+395,5714debf25ac0d8aee37cc2a,Tones On Tail,Gothic Rock,56d98a36cc2ddd0c0f6bddf8,Everything!,1998.0,505.0,1998-04-06,eng,Unknown,1990,Tones On Tail
+413,5714debf25ac0d8aee37d336,Tripping Daisy,Post-Grunge,56d98c25cc2ddd0c0f6be0bb,Bill,1992.0,14.0,1992,eng,Unknown,1990,Tripping Daisy
+414,5714debf25ac0d8aee37d337,Tripping Daisy,Unknown,56d98c25cc2ddd0c0f6be0bb,Get It On,1994.0,14.0,Unknown,Unknown,Trip Hop,1990,Tripping Daisy
+415,5714debf25ac0d8aee37d338,Tripping Daisy,Post-Grunge,56d98c25cc2ddd0c0f6be0bb,I Am An Elastic Firecracker,1995.0,52.0,1995-06-20,eng,Unknown,1990,Tripping Daisy
+416,5714debf25ac0d8aee37d339,Tripping Daisy,Post-Grunge,56d98c25cc2ddd0c0f6be0bb,Time Capsule,1997.0,273.0,1997,Unknown,Unknown,1990,Tripping Daisy
+417,5714debf25ac0d8aee37d33a,Tripping Daisy,Post-Grunge,56d98c25cc2ddd0c0f6be0bb,Jesus Hits Like The Atom Bomb,1998.0,Unknown,1998-07-07,eng,Unknown,1990,Tripping Daisy
+425,5714debf25ac0d8aee37d342,Trish Thuy Trang,Dance-Pop,56d98c2bcc2ddd0c0f6be0bf,Don't Know Why,1998.0,25.0,1999-10-05,eng,Unknown,1990,Trish Thuy Trang
+426,5714debf25ac0d8aee37d343,Trish Thuy Trang,Dance-Pop,56d98c2bcc2ddd0c0f6be0bf,I'll Dream Of You,1999.0,4.0,Unknown,Unknown,Unknown,1990,Trish Thuy Trang
+434,5714debf25ac0d8aee37cc2d,Toni Childs,Pop Rock,56d98a3acc2ddd0c0f6bddfa,House Of Hope,1991.0,9.0,1991-06-25,Unknown,Unknown,1990,Toni Childs
+435,5714debf25ac0d8aee37cc2e,Toni Childs,Pop Rock,56d98a3acc2ddd0c0f6bddfa,The Woman's Boat,1994.0,Unknown,1994-05-24,Unknown,Unknown,1990,Toni Childs
+436,5714debf25ac0d8aee37cc2f,Toni Childs,Pop Rock,56d98a3acc2ddd0c0f6bddfa,The Very Best Of Toni Childs,1996.0,343.0,1996,Unknown,Unknown,1990,Toni Childs
+438,5714debf25ac0d8aee37cc31,Toni Braxton,Soul,56d98a3acc2ddd0c0f6bddfb,Toni Braxton,1993.0,3846.0,1993-07-13,eng,Unknown,1990,Toni Braxton
+439,5714debf25ac0d8aee37cc32,Toni Braxton,Soul,56d98a3acc2ddd0c0f6bddfb,Secrets,1996.0,8582.0,1996-06-18,eng,Unknown,1990,Toni Braxton
+465,5714debf25ac0d8aee37cc4c,Tonic,Rock,56d98a3fcc2ddd0c0f6bde08,Lemon Parade,1996.0,112.0,Unknown,Unknown,Unknown,1990,Tonic
+466,5714debf25ac0d8aee37cc4d,Tonic,Rock,56d98a3fcc2ddd0c0f6bde08,Sugar,1999.0,315.0,Unknown,Unknown,Unknown,1990,Tonic
+476,5714debf25ac0d8aee37cc57,Toni Tennille,Pop,56d98a41cc2ddd0c0f6bde0c,Tennille Sings Big Band,1998.0,Unknown,1999,Unknown,Unknown,1990,Toni Tennille
+480,5714debf25ac0d8aee37d34b,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Trisha Yearwood,1991.0,Unknown,1991,eng,Unknown,1990,Trisha Yearwood
+481,5714debf25ac0d8aee37d34c,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Hearts In Armor,1992.0,Unknown,1992-09-01,eng,Unknown,1990,Trisha Yearwood
+482,5714debf25ac0d8aee37d34d,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,The Song Remembers When,1993.0,0.0,1993,eng,Unknown,1990,Trisha Yearwood
+483,5714debf25ac0d8aee37d34e,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,The Sweetest Gift,1994.0,117.0,1994,eng,Unknown,1990,Trisha Yearwood
+484,5714debf25ac0d8aee37d34f,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Thinkin' About You,1995.0,Unknown,1995-02-14,eng,Unknown,1990,Trisha Yearwood
+485,5714debf25ac0d8aee37d350,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Everybody Knows,1996.0,Unknown,1996-08-27,eng,Unknown,1990,Trisha Yearwood
+486,5714debf25ac0d8aee37d351,Trisha Yearwood,Unknown,56d98c2bcc2ddd0c0f6be0c2,Home For The Holidays,1997.0,59.0,1997,eng,Pop,1990,Trisha Yearwood
+487,5714debf25ac0d8aee37d352,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Songbook,1997.0,500.0,1997-08-26,eng,Unknown,1990,Trisha Yearwood
+488,5714debf25ac0d8aee37d353,Trisha Yearwood,Country,56d98c2bcc2ddd0c0f6be0c2,Where Your Road Leads,1998.0,Unknown,1998-07-14,eng,Unknown,1990,Trisha Yearwood
+502,5714debf25ac0d8aee37d361,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Widow's Weeds,1998.0,910.0,1998-03-02,eng,Unknown,1990,Tristania
+503,5714debf25ac0d8aee37d362,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Beyond The Veil,1999.0,973.0,1999-09,eng,Unknown,1990,Tristania
+509,5714debf25ac0d8aee37d368,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Midwinter Tears / Angina,1999.0,227.0,2001-04-24,Unknown,Unknown,1990,Tristania
+510,5714debf25ac0d8aee37d369,Tristania,Gothic Metal,56d98c2fcc2ddd0c0f6be0c8,Tristania,1997.0,910.0,1997-11-17,eng,Unknown,1990,Tristania
+535,5714debf25ac0d8aee37d382,Tristitia,Unknown,56d98c32cc2ddd0c0f6be0d0,One With Darkness,1995.0,Unknown,1995,Unknown,Pop,1990,Tristitia
+536,5714debf25ac0d8aee37d383,Tristitia,Unknown,56d98c32cc2ddd0c0f6be0d0,Crucidiction,1997.0,221.0,1996-12,Unknown,Pop,1990,Tristitia
+551,5714debf25ac0d8aee37d392,Triumph,Hard Rock,56d98c35cc2ddd0c0f6be0d3,Edge Of Excess,1992.0,Unknown,1992,eng,Unknown,1990,Triumph
+552,5714debf25ac0d8aee37d393,Triumph,Hard Rock,56d98c35cc2ddd0c0f6be0d3,In Concert,1996.0,32.0,1996,eng,Unknown,1990,Triumph
+576,5714debf25ac0d8aee37d3ab,Trixter,Glam Metal,56d98c3acc2ddd0c0f6be0dc,Trixter,1990.0,Unknown,1990,Unknown,Unknown,1990,Trixter
+577,5714debf25ac0d8aee37d3ac,Trixter,Glam Metal,56d98c3acc2ddd0c0f6be0dc,Hear!,1992.0,144.0,1992,Unknown,Unknown,1990,Trixter
+611,5714debf25ac0d8aee37cc76,Tony Banks,Pop,56d98a49cc2ddd0c0f6bde1a,Still,1991.0,202.0,1991-05-31,eng,Unknown,1990,Tony Banks
+612,5714debf25ac0d8aee37cc77,Tony Banks,Symphonic Rock,56d98a49cc2ddd0c0f6bde1a,Strictly Inc.,1995.0,202.0,Unknown,Unknown,Unknown,1990,Tony Banks
+615,5714debf25ac0d8aee37cc7a,Tony Bishop,Unknown,56d98a51cc2ddd0c0f6bde1b,Father Figure,1996.0,Unknown,Unknown,Unknown,Pop,1990,Tony Bishop
+630,5714debf25ac0d8aee37cc89,Tony Christie,Pop,56d98a59cc2ddd0c0f6bde25,Welcome To My Music,1991.0,Unknown,1991,eng,Unknown,1990,Tony Christie
+675,5714debf25ac0d8aee37ccb6,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,Astoria: Portrait Of The Artist,1990.0,37.0,1990,eng,Unknown,1990,Tony Bennett
+676,5714debf25ac0d8aee37ccb7,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,Perfectly Frank,1992.0,96.0,1992,eng,Unknown,1990,Tony Bennett
+677,5714debf25ac0d8aee37ccb8,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,Steppin' Out,1993.0,56.0,1993,eng,Unknown,1990,Tony Bennett
+678,5714debf25ac0d8aee37ccb9,Tony Bennett,Easy Listening,56d98a59cc2ddd0c0f6bde27,His Greatest Hits And Finest Performances,1993.0,11192.0,Unknown,eng,Unknown,1990,Tony Bennett
+679,5714debf25ac0d8aee37ccba,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,MTV Unplugged,1994.0,593.0,1994-08-03,Unknown,Unknown,1990,Tony Bennett
+680,5714debf25ac0d8aee37ccbb,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,Here's To The Ladies,1995.0,66.0,1995-10-30,eng,Unknown,1990,Tony Bennett
+681,5714debf25ac0d8aee37ccbc,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,Tony Bennett On Holiday,1997.0,36.0,1997,eng,Unknown,1990,Tony Bennett
+682,5714debf25ac0d8aee37ccbd,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,The Playground,1998.0,29.0,1998-09-29,Unknown,Unknown,1990,Tony Bennett
+683,5714debf25ac0d8aee37ccbe,Tony Bennett,Jazz,56d98a59cc2ddd0c0f6bde27,As Time Goes By,1998.0,27.0,1998-03-16,eng,Unknown,1990,Tony Bennett
+703,5714debf25ac0d8aee37d3b8,Troika,New Age,56d98c3ecc2ddd0c0f6be0e5,Goddess,1996.0,74.0,1996,mul,Unknown,1990,Troika
+704,5714debf25ac0d8aee37d3b9,Troika,New Age,56d98c3ecc2ddd0c0f6be0e5,Dream Palace,1997.0,23.0,1997,eng,Unknown,1990,Troika
+705,5714debf25ac0d8aee37d3ba,Troika,New Age,56d98c3ecc2ddd0c0f6be0e5,Faeries: A Realm Of Magic And Enchantment,1999.0,33.0,Unknown,eng,Unknown,1990,Troika
+725,5714debf25ac0d8aee37d3ce,Trolling Stones,Unknown,56d98c43cc2ddd0c0f6be0ec,Третью Эпоху На Эстраде,1998.0,Unknown,Unknown,Unknown,Pop,1990,Trolling Stones
+739,5714debf25ac0d8aee37d3dc,Troop,Unknown,56d98c47cc2ddd0c0f6be0f0,Deepa,1992.0,97.0,Unknown,Unknown,Pop,1990,Troop
+740,5714debf25ac0d8aee37d3dd,Troop,Unknown,56d98c47cc2ddd0c0f6be0f0,A Lil' Sumpin' Sumpin',1994.0,211.0,Unknown,Unknown,Pop,1990,Troop
+741,5714debf25ac0d8aee37d3de,Troop,Unknown,56d98c47cc2ddd0c0f6be0f0,Mayday,1998.0,196.0,Unknown,Unknown,Pop,1990,Troop
+752,5714debf25ac0d8aee37d3e9,Trooper,Hard Rock,56d98c49cc2ddd0c0f6be0f2,Ten,1991.0,27.0,1991-06-05,Unknown,Unknown,1990,Trooper
+773,5714debf25ac0d8aee37ccde,Tony Furtado,Americana,56d98a5fcc2ddd0c0f6bde38,Within Reach,1992.0,1.0,1992,Unknown,Unknown,1990,Tony Furtado
+775,5714debf25ac0d8aee37cce0,Tony Garcia,Unknown,56d98a60cc2ddd0c0f6bde39,Tony Garcia,1991.0,318.0,Unknown,Unknown,Pop,1990,Tony Garcia
+776,5714debf25ac0d8aee37cce1,Tony Garcia,Freestyle,56d98a60cc2ddd0c0f6bde39,Don't Let Me Go,1991.0,54.0,Unknown,Unknown,Unknown,1990,Tony Garcia
+777,5714debf25ac0d8aee37cce2,Tony Garcia,Unknown,56d98a60cc2ddd0c0f6bde39,Girl You Hear Me Crying,1992.0,125.0,Unknown,Unknown,Pop,1990,Tony Garcia
+778,5714debf25ac0d8aee37cce3,Tony Garcia,Freestyle,56d98a60cc2ddd0c0f6bde39,I Can Understand It,1994.0,220.0,Unknown,Unknown,Unknown,1990,Tony Garcia
+783,5714debf25ac0d8aee37cce8,Tony Hadley,Pop,56d98a72cc2ddd0c0f6bde3d,Tony Hadley,1997.0,Unknown,1997-09-08,eng,Unknown,1990,Tony Hadley
+788,5714debf25ac0d8aee37cced,Tony Hatch,Unknown,56d98a73cc2ddd0c0f6bde40,Best Of,1997.0,Unknown,Unknown,Unknown,Pop,1990,Tony Hatch
+789,5714debf25ac0d8aee37ccee,Tony Hatch,Unknown,56d98a73cc2ddd0c0f6bde40,Hatchback,1998.0,Unknown,Unknown,Unknown,Pop,1990,Tony Hatch
+806,5714debf25ac0d8aee37ccff,Tony Joe White,Rock,56d98a77cc2ddd0c0f6bde45,Closer To The Truth,1991.0,1955.0,1991,eng,Unknown,1990,Tony Joe White
+807,5714debf25ac0d8aee37cd00,Tony Joe White,Unknown,56d98a77cc2ddd0c0f6bde45,Lake Placid Blues,1995.0,1359.0,1995,Unknown,Pop,1990,Tony Joe White
+808,5714debf25ac0d8aee37cd01,Tony Joe White,Rock,56d98a77cc2ddd0c0f6bde45,One Hot July,1998.0,496.0,2000-04-18,eng,Unknown,1990,Tony Joe White
+818,5714debf25ac0d8aee37d3f0,Troopers,Unknown,56d98c4bcc2ddd0c0f6be0f6,Gassenhauer,1998.0,709.0,1998,deu,Pop,1990,Troopers
+819,5714debf25ac0d8aee37d3f1,Troopers,Unknown,56d98c4bcc2ddd0c0f6be0f6,Märchenprinz,1997.0,777.0,1997,deu,Pop,1990,Troopers
+820,5714debf25ac0d8aee37d3f2,Troopers,Unknown,56d98c4bcc2ddd0c0f6be0f6,Troopers,1996.0,13.0,Unknown,Unknown,Pop,1990,Troopers
+838,5714debf25ac0d8aee37d404,Trouble,Unknown,56d98c4dcc2ddd0c0f6be0fd,Trouble,1990.0,11.0,1990,Unknown,Pop,1990,Trouble
+839,5714debf25ac0d8aee37d405,Trouble,Unknown,56d98c4dcc2ddd0c0f6be0fd,Manic Frustration,1992.0,Unknown,1992,eng,Pop,1990,Trouble
+840,5714debf25ac0d8aee37d406,Trouble,Unknown,56d98c4dcc2ddd0c0f6be0fd,Plastic Green Head,1995.0,100.0,1995-04-24,Unknown,Pop,1990,Trouble
+869,5714debf25ac0d8aee37cd14,Tony Lucca,Rock,56d98a79cc2ddd0c0f6bde4c,So Satisfied,1997.0,41.0,Unknown,Unknown,Unknown,1990,Tony Lucca
+870,5714debf25ac0d8aee37cd15,Tony Lucca,Rock,56d98a79cc2ddd0c0f6bde4c,"Strong Words, Softly Spoken",1997.0,41.0,Unknown,Unknown,Unknown,1990,Tony Lucca
+887,5714debf25ac0d8aee37cd26,Tony Martin,Rock,56d98a7ccc2ddd0c0f6bde57,Back Where I Belong,1992.0,0.0,Unknown,Unknown,Unknown,1990,Tony Martin
+906,5714debf25ac0d8aee37cd39,Tony Orlando & Dawn,Pop,56d98a7ecc2ddd0c0f6bde5c,Big Hits,1995.0,107.0,1995-01-17,eng,Unknown,1990,Tony Orlando & Dawn
+908,5714debf25ac0d8aee37cd3b,Tony Rebel,Unknown,56d98a7fcc2ddd0c0f6bde5d,If Jah,1998.0,370.0,1997,eng,Pop,1990,Tony Rebel
+916,5714debf25ac0d8aee37d418,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Truth Is Stranger Than Fishin',1990.0,2.0,Unknown,eng,Pop,1990,Trout Fishing In America
+917,5714debf25ac0d8aee37d419,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Big Trouble,1991.0,11.0,1991-03-01,Unknown,Pop,1990,Trout Fishing In America
+918,5714debf25ac0d8aee37d41a,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Over The Limit,1992.0,1.0,Unknown,eng,Pop,1990,Trout Fishing In America
+919,5714debf25ac0d8aee37d41b,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Who Are These People?,1994.0,1.0,1994-07-19,Unknown,Pop,1990,Trout Fishing In America
+920,5714debf25ac0d8aee37d41c,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Mine!,1994.0,0.0,Unknown,Unknown,Pop,1990,Trout Fishing In America
+921,5714debf25ac0d8aee37d41d,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Reel Life,1996.0,2.0,Unknown,eng,Pop,1990,Trout Fishing In America
+922,5714debf25ac0d8aee37d41e,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,My World,1997.0,1.0,Unknown,Unknown,Pop,1990,Trout Fishing In America
+923,5714debf25ac0d8aee37d41f,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Family Music Party,1998.0,3.0,1998-04-21,Unknown,Pop,1990,Trout Fishing In America
+924,5714debf25ac0d8aee37d420,Trout Fishing In America,Unknown,56d98c55cc2ddd0c0f6be109,Closer To The Truth,1999.0,2.0,Unknown,Unknown,Pop,1990,Trout Fishing In America
+944,5714debf25ac0d8aee37d434,Trovante,Pop,56d98c57cc2ddd0c0f6be10f,Um Destes Dias...,1990.0,23.0,1990,Unknown,Unknown,1990,Trovante
+945,5714debf25ac0d8aee37d435,Trovante,Pop,56d98c57cc2ddd0c0f6be10f,Saudades Do Futuro - O Melhor Dos Trovante,1991.0,211.0,Unknown,Unknown,Unknown,1990,Trovante
+946,5714debf25ac0d8aee37d436,Trovante,Pop,56d98c57cc2ddd0c0f6be10f,Uma Noite Só,1999.0,211.0,1999,Unknown,Unknown,1990,Trovante
+960,5714debf25ac0d8aee37d444,TRU,Gangsta Rap,56d98c5ccc2ddd0c0f6be115,Understanding The Criminal Mind,1992.0,16.0,1992,Unknown,Unknown,1990,TRU
+961,5714debf25ac0d8aee37d445,TRU,Gangsta Rap,56d98c5ccc2ddd0c0f6be115,Who's Da Killer?,1993.0,Unknown,1993,Unknown,Unknown,1990,TRU
+962,5714debf25ac0d8aee37d446,TRU,Hip Hop,56d98c5ccc2ddd0c0f6be115,True,1995.0,427.0,1995-07-25,eng,Unknown,1990,TRU
+963,5714debf25ac0d8aee37d447,TRU,Gangsta Rap,56d98c5ccc2ddd0c0f6be115,Tru 2 Da Game,1997.0,2991.0,1997-02-18,Unknown,Unknown,1990,TRU
+964,5714debf25ac0d8aee37d448,TRU,Gangsta Rap,56d98c5ccc2ddd0c0f6be115,Da Crime Family,1999.0,401.0,1999,Unknown,Unknown,1990,TRU
+977,5714debf25ac0d8aee37cd4a,Tony Terry,R&amp;B,56d98a84cc2ddd0c0f6bde69,Tony Terry,1991.0,324.0,Unknown,eng,Unknown,1990,Tony Terry
+985,5714debf25ac0d8aee37cd52,Tony Rose,Unknown,56d98a84cc2ddd0c0f6bde6b,Bare Bones,1999.0,Unknown,Unknown,Unknown,Pop,1990,Tony Rose
+1016,5714debf25ac0d8aee37d463,Trude Herr,Schlager,56d98c5ecc2ddd0c0f6be11e,Niemals Geht Man So Ganz - Die Zwei Gesichter Der Trude Herr,1999.0,64.0,1995-10-12,ksh,Unknown,1990,Trude Herr
+1066,5714debf25ac0d8aee37d495,Trust,Hard Rock,56d98c68cc2ddd0c0f6be139,Prends Pas Ton Flingue,1992.0,Unknown,Unknown,Unknown,Unknown,1990,Trust
+1067,5714debf25ac0d8aee37d496,Trust,Hard Rock,56d98c68cc2ddd0c0f6be139,The Backsides,1993.0,14599.0,Unknown,Unknown,Unknown,1990,Trust
+1068,5714debf25ac0d8aee37d497,Trust,Hard Rock,56d98c68cc2ddd0c0f6be139,Europe Et Haines,1996.0,399.0,Unknown,Unknown,Unknown,1990,Trust
+1075,5714debf25ac0d8aee37cd5a,Tony Wakeford,Unknown,56d98a87cc2ddd0c0f6bde70,Cupid & Death,1996.0,15.0,1996,mul,Christian Rock,1990,Tony Wakeford
+1076,5714debf25ac0d8aee37cd5b,Tony Vincent,Contemporary Christian,56d98a87cc2ddd0c0f6bde71,Love Falling Down,1993.0,6.0,Unknown,Unknown,Unknown,1990,Tony Vincent
+1077,5714debf25ac0d8aee37cd5c,Tony Vincent,Contemporary Christian,56d98a87cc2ddd0c0f6bde71,Tony Vincent,1995.0,0.0,Unknown,Unknown,Unknown,1990,Tony Vincent
+1078,5714debf25ac0d8aee37cd5d,Tony Vincent,Contemporary Christian,56d98a87cc2ddd0c0f6bde71,One Deed,1997.0,8.0,1997-01-14,eng,Unknown,1990,Tony Vincent
+1081,5714debf25ac0d8aee37cd60,Tony Williams,Unknown,56d98a87cc2ddd0c0f6bde72,The Tony Williams Lifetime: Turn It Over,1997.0,10.0,Unknown,Unknown,Christian Rock,1990,Tony Williams
+1085,5714debf25ac0d8aee37cd64,Tony! Toni! Toné!,R&amp;B,56d98a89cc2ddd0c0f6bde74,The Revival,1990.0,468.0,1990-05-08,eng,Unknown,1990,Tony! Toni! Toné!
+1086,5714debf25ac0d8aee37cd65,Tony! Toni! Toné!,R&amp;B,56d98a89cc2ddd0c0f6bde74,Sons Of Soul,1993.0,203.0,1993-06-22,eng,Unknown,1990,Tony! Toni! Toné!
+1087,5714debf25ac0d8aee37cd66,Tony! Toni! Toné!,R&amp;B,56d98a89cc2ddd0c0f6bde74,House Of Music,1996.0,384.0,1996-11-19,eng,Unknown,1990,Tony! Toni! Toné!
+1106,5714debf25ac0d8aee37cd79,Too $hort,Hip Hop,56d98a91cc2ddd0c0f6bde7b,Short Dog's In The House,1990.0,1365.0,1990-08-21,Unknown,Unknown,1990,Too $hort
+1107,5714debf25ac0d8aee37cd7a,Too $hort,Hip Hop,56d98a91cc2ddd0c0f6bde7b,Shorty The Pimp,1992.0,891.0,1992-07-14,Unknown,Unknown,1990,Too $hort
+1108,5714debf25ac0d8aee37cd7b,Too $hort,Gangsta Rap,56d98a91cc2ddd0c0f6bde7b,"Greatest Hits, Volume 1: The Player Years 1983-1988",1993.0,568.0,Unknown,eng,Unknown,1990,Too $hort
+1109,5714debf25ac0d8aee37cd7c,Too $hort,Unknown,56d98a91cc2ddd0c0f6bde7b,Get In Where You Fit In,1993.0,145.0,1993-10-26,Unknown,Christian Rock,1990,Too $hort
+1110,5714debf25ac0d8aee37cd7d,Too $hort,Unknown,56d98a91cc2ddd0c0f6bde7b,Cocktails,1995.0,1336.0,1995-01-24,eng,Christian Rock,1990,Too $hort
+1111,5714debf25ac0d8aee37cd7e,Too $hort,Unknown,56d98a91cc2ddd0c0f6bde7b,Gettin' It (Album Number Ten),1996.0,268.0,1996-05-21,eng,Christian Rock,1990,Too $hort
+1112,5714debf25ac0d8aee37cd7f,Too $hort,Unknown,56d98a91cc2ddd0c0f6bde7b,Can't Stay Away,1999.0,609.0,1999-02-23,eng,Christian Rock,1990,Too $hort
+1129,5714debf25ac0d8aee37d4a2,Trust Obey,Industrial,56d98c69cc2ddd0c0f6be13c,Fear And Bullets,1994.0,Unknown,1994,Unknown,Unknown,1990,Trust Obey
+1130,5714debf25ac0d8aee37d4a3,Trust Obey,Industrial,56d98c69cc2ddd0c0f6be13c,Hands Of Ash,1996.0,4.0,1996,eng,Unknown,1990,Trust Obey
+1143,5714debf25ac0d8aee37d4b0,Tryo,Francophone,56d98c6ecc2ddd0c0f6be144,Mamagubida,1998.0,2043.0,1998,fra,Unknown,1990,Tryo
+1160,5714debf25ac0d8aee37d4c1,Trytan,Unknown,56d98c70cc2ddd0c0f6be148,Sylentiger,1990.0,Unknown,1990,eng,Christian Rock,1990,Trytan
+1163,5714debf25ac0d8aee37d4c4,Trísan,World Music,56d98c71cc2ddd0c0f6be14a,Trísan,1992.0,3.0,1992,eng,Unknown,1990,Trísan
+1181,5714debf25ac0d8aee37d4d6,Tröckener Kecks,Punk Rock,56d98c76cc2ddd0c0f6be150,Met Hart En Ziel,1990.0,211.0,1990,Unknown,Unknown,1990,Tröckener Kecks
+1182,5714debf25ac0d8aee37d4d7,Tröckener Kecks,Punk Rock,56d98c76cc2ddd0c0f6be150,"Andere Plaats, Andere Tijd",1992.0,211.0,1992,Unknown,Unknown,1990,Tröckener Kecks
+1183,5714debf25ac0d8aee37d4d8,Tröckener Kecks,Punk Rock,56d98c76cc2ddd0c0f6be150,Het Grote Geheim,1994.0,113.0,1994,Unknown,Unknown,1990,Tröckener Kecks
+1184,5714debf25ac0d8aee37d4d9,Tröckener Kecks,Punk Rock,56d98c76cc2ddd0c0f6be150,Dichterbij Dan Ooit,1997.0,82.0,1997,Unknown,Unknown,1990,Tröckener Kecks
+1187,5714debf25ac0d8aee37d4dc,Tsatthoggua,Unknown,56d98c76cc2ddd0c0f6be151,Hosanna Bizarre,1996.0,Unknown,1996-06-24,eng,Christian Rock,1990,Tsatthoggua
+1188,5714debf25ac0d8aee37d4dd,Tsatthoggua,Unknown,56d98c76cc2ddd0c0f6be151,Trans Cunt Whip,1998.0,24.0,1998-08-11,eng,Christian Rock,1990,Tsatthoggua
+1189,5714debf25ac0d8aee37d4de,Tsjuder,Black Metal,56d98c79cc2ddd0c0f6be152,Div Gammelt Stasj,1995.0,253.0,1995,mul,Unknown,1990,Tsjuder
+1190,5714debf25ac0d8aee37d4df,Tsjuder,Black Metal,56d98c79cc2ddd0c0f6be152,Ved Ferdens Ende,1995.0,178.0,Unknown,Unknown,Unknown,1990,Tsjuder
+1191,5714debf25ac0d8aee37d4e0,Tsjuder,Black Metal,56d98c79cc2ddd0c0f6be152,Possessed,1996.0,61.0,1996,eng,Unknown,1990,Tsjuder
+1192,5714debf25ac0d8aee37d4e1,Tsjuder,Black Metal,56d98c79cc2ddd0c0f6be152,Throne Of The Goat,1997.0,69.0,1997,eng,Unknown,1990,Tsjuder
+1193,5714debf25ac0d8aee37d4e2,Tsjuder,Black Metal,56d98c79cc2ddd0c0f6be152,Atum Nocturnem,1999.0,61.0,1999,eng,Unknown,1990,Tsjuder
+1204,5714debf25ac0d8aee37d4ed,TSOL,Unknown,56d98c7acc2ddd0c0f6be153,Strange Love,1990.0,14.0,1990,eng,Christian Rock,1990,TSOL
+1218,5714debf25ac0d8aee37cd95,Too Much Joy,Unknown,56d98a95cc2ddd0c0f6bde81,Cereal Killers,1991.0,4.0,Unknown,Unknown,Christian Rock,1990,Too Much Joy
+1219,5714debf25ac0d8aee37cd96,Too Much Joy,Rock,56d98a95cc2ddd0c0f6bde81,Mutiny,1992.0,7.0,1992-09-01,eng,Unknown,1990,Too Much Joy
+1220,5714debf25ac0d8aee37cd97,Too Much Joy,Indie Rock,56d98a95cc2ddd0c0f6bde81,...Finally,1996.0,0.0,1996-02-27,eng,Unknown,1990,Too Much Joy
+1224,5714debf25ac0d8aee37cd9b,Tool,Alternative Metal,56d98a97cc2ddd0c0f6bde84,72826,1991.0,Unknown,1991,eng,Unknown,1990,Tool
+1225,5714debf25ac0d8aee37cd9c,Tool,Alternative Metal,56d98a97cc2ddd0c0f6bde84,Opiate,1992.0,Unknown,1992-03-10,Unknown,Unknown,1990,Tool
+1226,5714debf25ac0d8aee37cd9d,Tool,Heavy Metal,56d98a97cc2ddd0c0f6bde84,Undertow,1993.0,Unknown,1993-04-06,eng,Unknown,1990,Tool
+1227,5714debf25ac0d8aee37cd9e,Tool,Alternative Metal,56d98a97cc2ddd0c0f6bde84,Ænima,1996.0,Unknown,1996-10-01,eng,Unknown,1990,Tool
+1249,5714debf25ac0d8aee37d4fc,Tsunami Bomb,Unknown,56d98c96cc2ddd0c0f6be15b,B-Movie Queens,1999,55.0,1999,eng,Christian Rock,1990,Tsunami Bomb
+1250,5714debf25ac0d8aee37d4fd,Tsunami Bomb,Unknown,56d98c96cc2ddd0c0f6be15b,Mayhem On The High Seas,1999,55.0,1999,eng,Christian Rock,1990,Tsunami Bomb
+1265,5714debf25ac0d8aee37d50c,Tuatha De Danann,Unknown,56d98c9acc2ddd0c0f6be163,The Last Pendragon,1995,Unknown,Unknown,Unknown,Christian Rock,1990,Tuatha De Danann
+1266,5714debf25ac0d8aee37d50d,Tuatha De Danann,Folk Metal,56d98c9acc2ddd0c0f6be163,Tuatha De Danann,1999,Unknown,1999-01-01,eng,Unknown,1990,Tuatha De Danann
+1271,5714debf25ac0d8aee37d512,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,Stupid Pet Tricks,1992,Unknown,Unknown,Unknown,Unknown,1990,Tub Ring
+1272,5714debf25ac0d8aee37d513,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,Music For The Bathroom,1993,Unknown,Unknown,Unknown,Unknown,1990,Tub Ring
+1273,5714debf25ac0d8aee37d514,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,...And The Mashed Potato Mountain Etiquette,1995,Unknown,Unknown,Unknown,Unknown,1990,Tub Ring
+1274,5714debf25ac0d8aee37d515,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,The Mike Fasano Years,1996,40.0,Unknown,Unknown,Unknown,1990,Tub Ring
+1275,5714debf25ac0d8aee37d516,Tub Ring,Avant-garde,56d98c9dcc2ddd0c0f6be164,Super Sci-Fi Samurai Rock Star Ultra Turbo II Ver.3.6,1997,12.0,Unknown,Unknown,Unknown,1990,Tub Ring
+1285,5714debf25ac0d8aee37cda9,Toontje Lager,Unknown,56d98a99cc2ddd0c0f6bde88,De Beste Van...,1990,309.0,Unknown,Unknown,Christian Rock,1990,Toontje Lager
+1316,5714debf25ac0d8aee37cdc8,Topi Sorsakoski,Unknown,56d98aa1cc2ddd0c0f6bde9c,Yksinäisyys,1991,10.0,1991,fin,Christian Rock,1990,Topi Sorsakoski
+1350,5714debf25ac0d8aee37d534,Tublatanka,Heavy Metal,56d98ca2cc2ddd0c0f6be16d,Nebo - Peklo - Raj,1990,298.0,Unknown,Unknown,Unknown,1990,Tublatanka
+1351,5714debf25ac0d8aee37d535,Tublatanka,Heavy Metal,56d98ca2cc2ddd0c0f6be16d,Volanie Divočiny,1992,183.0,Unknown,Unknown,Unknown,1990,Tublatanka
+1352,5714debf25ac0d8aee37d536,Tublatanka,Heavy Metal,56d98ca2cc2ddd0c0f6be16d,Poďme Bratia Do Betlehema,1993,Unknown,Unknown,Unknown,Unknown,1990,Tublatanka
+1353,5714debf25ac0d8aee37d537,Tublatanka,Heavy Metal,56d98ca2cc2ddd0c0f6be16d,Znovuzrodenie,1995,309.0,Unknown,Unknown,Unknown,1990,Tublatanka
+1359,5714debf25ac0d8aee37d53d,Tuff,Hard Rock,56d98ca3cc2ddd0c0f6be170,What Comes Around Goes Around,1991,108.0,Unknown,Unknown,Unknown,1990,Tuff
+1376,5714debf25ac0d8aee37cddd,Tora Tora,Hard Rock,56d98aa4cc2ddd0c0f6bdea6,Wild America,1992,Unknown,1992,Unknown,Unknown,1990,Tora Tora
+1405,5714debf25ac0d8aee37cdfa,Torgeir & Kjendisene,Pop,56d98aaacc2ddd0c0f6bdeb3,I Live,1996,4.0,1996,nor,Unknown,1990,Torgeir & Kjendisene
+1406,5714debf25ac0d8aee37cdfb,Torgeir & Kjendisene,Unknown,56d98aaacc2ddd0c0f6bdeb3,Strømløs I Live,1996,1.0,Unknown,Unknown,Christian Rock,1990,Torgeir & Kjendisene
+1412,5714debf25ac0d8aee37ce01,Tore Thomassen,Unknown,56d98ab2cc2ddd0c0f6bdeb5,Søndags ABC,1999,5.0,Unknown,Unknown,Christian Rock,1990,Tore Thomassen
+1418,5714debf25ac0d8aee37ce07,Tori Amos,Piano Rock,56d98ab3cc2ddd0c0f6bdeb8,Little Earthquakes,1992,3438.0,1992-01-13,Unknown,Unknown,1990,Tori Amos
+1419,5714debf25ac0d8aee37ce08,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,Crucify,1992,1156.0,1992-06-08,eng,Unknown,1990,Tori Amos
+1420,5714debf25ac0d8aee37ce09,Tori Amos,Piano Rock,56d98ab3cc2ddd0c0f6bdeb8,Under The Pink,1994,4121.0,1994-01-28,eng,Unknown,1990,Tori Amos
+1421,5714debf25ac0d8aee37ce0a,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,Boys For Pele,1996,1116.0,1996-01-22,eng,Unknown,1990,Tori Amos
+1422,5714debf25ac0d8aee37ce0b,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,Caught A Lite Sneeze,1996,1116.0,1996-01-04,eng,Unknown,1990,Tori Amos
+1423,5714debf25ac0d8aee37ce0c,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,Talula,1996,1116.0,1996-05-21,eng,Unknown,1990,Tori Amos
+1424,5714debf25ac0d8aee37ce0d,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,Hey Jupiter,1996,235.0,1996-08-20,eng,Unknown,1990,Tori Amos
+1425,5714debf25ac0d8aee37ce0e,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,From The Choirgirl Hotel,1998,2580.0,1998-05-04,eng,Unknown,1990,Tori Amos
+1426,5714debf25ac0d8aee37ce0f,Tori Amos,Alternative Rock,56d98ab3cc2ddd0c0f6bdeb8,To Venus And Back,1999,1944.0,1999-09-21,eng,Unknown,1990,Tori Amos
+1459,5714debf25ac0d8aee37ce30,Torn Apart,Unknown,56d98ab5cc2ddd0c0f6bdec1,Nothing Is Permanent,1996,Unknown,Unknown,Unknown,Christian Rock,1990,Torn Apart
+1460,5714debf25ac0d8aee37ce31,Torn Apart,Unknown,56d98ab5cc2ddd0c0f6bdec1,The Fifty-Ninth Session,1999,4.0,Unknown,Unknown,Christian Rock,1990,Torn Apart
+1469,5714debf25ac0d8aee37da8e,Ultra Naté,Unknown,56d98df5cc2ddd0c0f6be339,One Woman's Insanity,1994,12.0,1993-10-03,eng,Christian Rock,1990,Ultra Naté
+1470,5714debf25ac0d8aee37da8f,Ultra Naté,Unknown,56d98df5cc2ddd0c0f6be339,Situation Critical,1998,164.0,1998-05-12,eng,Christian Rock,1990,Ultra Naté
+1474,5714debf25ac0d8aee37da93,Ultra,Unknown,56d98df5cc2ddd0c0f6be33a,Ultra,1999,102.0,Unknown,Unknown,Christian Rock,1990,Ultra
+1477,5714debf25ac0d8aee37da96,Ultra Bra,Pop Rock,56d98df5cc2ddd0c0f6be33b,Houkutusten Kiihottava Maku,1995,192.0,1995,Unknown,Unknown,1990,Ultra Bra
+1478,5714debf25ac0d8aee37da97,Ultra Bra,Pop Rock,56d98df5cc2ddd0c0f6be33b,Vapaaherran Elämää,1996,67.0,1996-09-20,Unknown,Unknown,1990,Ultra Bra
+1479,5714debf25ac0d8aee37da98,Ultra Bra,Pop Rock,56d98df5cc2ddd0c0f6be33b,Kroketti,1997,92.0,1997,Unknown,Unknown,1990,Ultra Bra
+1480,5714debf25ac0d8aee37da99,Ultra Bra,Pop Rock,56d98df5cc2ddd0c0f6be33b,Kalifornia,1999,81.0,1999-03-13,Unknown,Unknown,1990,Ultra Bra
+1496,5714debf25ac0d8aee37daa9,Ultramagnetic MC's,Hip Hop,56d98df9cc2ddd0c0f6be342,Funk Your Head Up,1992,11.0,1992-03-17,eng,Unknown,1990,Ultramagnetic MC's
+1497,5714debf25ac0d8aee37daaa,Ultramagnetic MC's,Hip Hop,56d98df9cc2ddd0c0f6be342,The Four Horsemen,1993,0.0,1993,Unknown,Unknown,1990,Ultramagnetic MC's
+1499,5714debf25ac0d8aee37d547,Tuk Tuk Rally,Unknown,56d98ca5cc2ddd0c0f6be177,Luftballong,1993,2.0,1993,swe,Christian Rock,1990,Tuk Tuk Rally
+1500,5714debf25ac0d8aee37d548,Tuk Tuk Rally,Unknown,56d98ca5cc2ddd0c0f6be177,Eurodisco,1994,13.0,1994,swe,Christian Rock,1990,Tuk Tuk Rally
+1501,5714debf25ac0d8aee37d549,Tuk Tuk Rally,Unknown,56d98ca5cc2ddd0c0f6be177,Då Å Nu,1996,2.0,1996,swe,Christian Rock,1990,Tuk Tuk Rally
+1511,5714debf25ac0d8aee37d553,Tulivu-Donna Cumberbatch,Unknown,56d98ca8cc2ddd0c0f6be17e,Harmony,1990,Unknown,Unknown,Unknown,Christian Rock,1990,Tulivu-Donna Cumberbatch
+1512,5714debf25ac0d8aee37d554,Tulivu-Donna Cumberbatch,Unknown,56d98ca8cc2ddd0c0f6be17e,Lullabies In The Key Of Life ~ For The Child In All Of Us,1997,0.0,Unknown,Unknown,Christian Rock,1990,Tulivu-Donna Cumberbatch
+1513,5714debf25ac0d8aee37d555,Tulivu-Donna Cumberbatch,Unknown,56d98ca8cc2ddd0c0f6be17e,Daughters Of The Nile,1999,1.0,Unknown,Unknown,Christian Rock,1990,Tulivu-Donna Cumberbatch
+1514,5714debf25ac0d8aee37d556,Tulivu-Donna Cumberbatch,Unknown,56d98ca8cc2ddd0c0f6be17e,In The Company Of You (Single),1999,Unknown,Unknown,Unknown,Christian Rock,1990,Tulivu-Donna Cumberbatch
+1519,5714debf25ac0d8aee37d55b,Tumbleweed,Unknown,56d98caacc2ddd0c0f6be181,Galactaphonic,1995,23.0,Unknown,Unknown,Christian Rock,1990,Tumbleweed
+1521,5714debf25ac0d8aee37d55d,Tullycraft,Unknown,56d98caacc2ddd0c0f6be182,The Singles,1999,21.0,Unknown,Unknown,Christian Rock,1990,Tullycraft
+1530,5714debf25ac0d8aee37d566,Tumor,Unknown,56d98caacc2ddd0c0f6be185,Neues Fleisch - Operation 2,1998,33.0,Unknown,Unknown,Christian Rock,1990,Tumor
+1531,5714debf25ac0d8aee37d567,Tumor,Unknown,56d98caacc2ddd0c0f6be185,Seelenfresser,1999,Unknown,Unknown,Unknown,Christian Rock,1990,Tumor
+1539,5714debf25ac0d8aee37d56f,Tulus,Unknown,56d98cabcc2ddd0c0f6be189,Mysterion,1998,17.0,1998,Unknown,Black Metal,1990,Tulus
+1540,5714debf25ac0d8aee37d570,Tulus,Unknown,56d98cabcc2ddd0c0f6be189,Evil 1999,1999,17.0,1999-12-07,nor,Black Metal,1990,Tulus
+1585,5714debf25ac0d8aee37ce55,Torsson,Unknown,56d98ac0cc2ddd0c0f6bded5,Islands Of Hawaii,1995,4.0,1995,Unknown,Black Metal,1990,Torsson
+1586,5714debf25ac0d8aee37ce56,Torsson,Unknown,56d98ac0cc2ddd0c0f6bded5,Det Spelades Bättre Boll,1996,9.0,1996,Unknown,Black Metal,1990,Torsson
+1589,5714debf25ac0d8aee37ce59,Tortoise,Post-Rock,56d98ac1cc2ddd0c0f6bded6,Tortoise,1994,Unknown,1994-06-22,Unknown,Unknown,1990,Tortoise
+1590,5714debf25ac0d8aee37ce5a,Tortoise,Post-Rock,56d98ac1cc2ddd0c0f6bded6,"Rhythms, Resolutions & Clusters",1995,Unknown,1995,Unknown,Unknown,1990,Tortoise
+1591,5714debf25ac0d8aee37ce5b,Tortoise,Post-Rock,56d98ac1cc2ddd0c0f6bded6,Millions Now Living Will Never Die,1996,Unknown,1996-01-30,Unknown,Unknown,1990,Tortoise
+1592,5714debf25ac0d8aee37ce5c,Tortoise,Post-Rock,56d98ac1cc2ddd0c0f6bded6,TNT,1998,60.0,1998-03-09,Unknown,Unknown,1990,Tortoise
+1601,5714debf25ac0d8aee37ce65,Torture Squad,Death Metal,56d98ac2cc2ddd0c0f6bded9,Shivering,1998,Unknown,1998,eng,Unknown,1990,Torture Squad
+1602,5714debf25ac0d8aee37ce66,Torture Squad,Death Metal,56d98ac2cc2ddd0c0f6bded9,Asylum Of Shadows,1999,91.0,1999,eng,Unknown,1990,Torture Squad
+1616,5714debf25ac0d8aee37dab5,Ultraje A Rigor,Rock,56d98dfecc2ddd0c0f6be348,Por Que Ultraje A Rigor?,1990,213.0,1990,Unknown,Unknown,1990,Ultraje A Rigor
+1617,5714debf25ac0d8aee37dab6,Ultraje A Rigor,Unknown,56d98dfecc2ddd0c0f6be348,O Mundo Encantado Do Ultraje A Rigor,1992,6599.0,Unknown,Unknown,Black Metal,1990,Ultraje A Rigor
+1618,5714debf25ac0d8aee37dab7,Ultraje A Rigor,Rock,56d98dfecc2ddd0c0f6be348,Ó,1993,324.0,1993,por,Unknown,1990,Ultraje A Rigor
+1619,5714debf25ac0d8aee37dab8,Ultraje A Rigor,Rock,56d98dfecc2ddd0c0f6be348,18 Anos Sem Tirar!,1999,1081.0,1999,por,Unknown,1990,Ultraje A Rigor
+1625,5714debf25ac0d8aee37dabe,Ultraspank,Unknown,56d98dfecc2ddd0c0f6be349,Ultraspank,1998,48.0,1998-03-31,eng,Black Metal,1990,Ultraspank
+1631,5714debf25ac0d8aee37dac4,Ultraviolet,Rock,56d98e03cc2ddd0c0f6be34d,Unknown,1999,7.0,Unknown,eng,Unknown,1990,Ultraviolet
+1647,5714debf25ac0d8aee37dad4,Ultravox,New Wave,56d98e04cc2ddd0c0f6be350,Revelation,1993,Unknown,1993-05,eng,Unknown,1990,Ultravox
+1648,5714debf25ac0d8aee37dad5,Ultravox,New Wave,56d98e04cc2ddd0c0f6be350,"Rare, Volume 1",1993,28.0,1993-10,eng,Unknown,1990,Ultravox
+1649,5714debf25ac0d8aee37dad6,Ultravox,New Wave,56d98e04cc2ddd0c0f6be350,"Rare, Volume 2",1994,24.0,1994,eng,Unknown,1990,Ultravox
+1650,5714debf25ac0d8aee37dad7,Ultravox,New Wave,56d98e04cc2ddd0c0f6be350,Ingenuity,1994,71.0,1994,eng,Unknown,1990,Ultravox
+1678,5714debf25ac0d8aee37d598,Tuomari Nurmio,Rock,56d98cb6cc2ddd0c0f6be19d,24 Karaattia,1990,13.0,1990,Unknown,Unknown,1990,Tuomari Nurmio
+1679,5714debf25ac0d8aee37d599,Tuomari Nurmio,Rock,56d98cb6cc2ddd0c0f6be19d,Hullu Puutarhuri,1992,32.0,1992-01-31,Unknown,Unknown,1990,Tuomari Nurmio
+1680,5714debf25ac0d8aee37d59a,Tuomari Nurmio,Rock,56d98cb6cc2ddd0c0f6be19d,Tanssipalatsi,1996,18.0,1996,Unknown,Unknown,1990,Tuomari Nurmio
+1681,5714debf25ac0d8aee37d59b,Tuomari Nurmio,Rock,56d98cb6cc2ddd0c0f6be19d,Luuta Ja Nahkaa,1997,29.0,1997,Unknown,Unknown,1990,Tuomari Nurmio
+1682,5714debf25ac0d8aee37d59c,Tuomari Nurmio,Rock,56d98cb6cc2ddd0c0f6be19d,1999,1999,28.0,1999,fin,Unknown,1990,Tuomari Nurmio
+1711,5714debf25ac0d8aee37ce77,Total,R&amp;B,56d98ac6cc2ddd0c0f6bdee4,Total,1996,2681.0,1996-02-13,eng,Unknown,1990,Total
+1712,5714debf25ac0d8aee37ce78,Total,R&amp;B,56d98ac6cc2ddd0c0f6bdee4,"Kima, Keisha, And Pam",1998,1577.0,1998-11-03,eng,Unknown,1990,Total
+1723,5714debf25ac0d8aee37ce83,Total Chaos,Street Punk,56d98ac8cc2ddd0c0f6bdeeb,Pledge Of Defiance,1994,162.0,Unknown,Unknown,Unknown,1990,Total Chaos
+1724,5714debf25ac0d8aee37ce84,Total Chaos,Street Punk,56d98ac8cc2ddd0c0f6bdeeb,Patriotic Shock,1995,125.0,Unknown,Unknown,Unknown,1990,Total Chaos
+1725,5714debf25ac0d8aee37ce85,Total Chaos,Street Punk,56d98ac8cc2ddd0c0f6bdeeb,Anthems From The Alleyway,1996,142.0,Unknown,Unknown,Unknown,1990,Total Chaos
+1746,5714debf25ac0d8aee37ce9a,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Past To Present 1977-1990,1990,11234.0,1990,eng,Unknown,1990,Toto
+1747,5714debf25ac0d8aee37ce9b,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Kingdom Of Desire,1993,2596.0,1992-11-16,Unknown,Unknown,1990,Toto
+1748,5714debf25ac0d8aee37ce9c,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Absolutely Live,1993,4242.0,1993-09-27,eng,Unknown,1990,Toto
+1749,5714debf25ac0d8aee37ce9d,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Tambu,1995,3648.0,1995-09-29,eng,Unknown,1990,Toto
+1750,5714debf25ac0d8aee37ce9e,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Toto XX,1998,1836.0,1998-12-08,eng,Unknown,1990,Toto
+1751,5714debf25ac0d8aee37ce9f,Toto,Rock,56d98acecc2ddd0c0f6bdef7,Mindfields,1999,1513.0,1999,eng,Unknown,1990,Toto
+1757,5714debf25ac0d8aee37dada,Ulysses (DE),Unknown,56d98e04cc2ddd0c0f6be351,Neronia,1993,Unknown,Unknown,Unknown,Black Metal,1990,Ulysses (DE)
+1760,5714debf25ac0d8aee37dadd,Umbah,Unknown,56d98e08cc2ddd0c0f6be353,Continuum,1996,Unknown,1996,Unknown,Black Metal,1990,Umbah
+1761,5714debf25ac0d8aee37dade,Umbah,Unknown,56d98e08cc2ddd0c0f6be353,Solaris,1997,Unknown,1997,Unknown,Black Metal,1990,Umbah
+1762,5714debf25ac0d8aee37dadf,Umbah,Unknown,56d98e08cc2ddd0c0f6be353,Xominod,1998,Unknown,1998,Unknown,Black Metal,1990,Umbah
+1771,5714debf25ac0d8aee37dae8,Ulver,Unknown,56d98e09cc2ddd0c0f6be358,Bergtatt - Et Eeventyr I 5 Capitler,1995,Unknown,1994-11-30,Unknown,Black Metal,1990,Ulver
+1772,5714debf25ac0d8aee37dae9,Ulver,Folk,56d98e09cc2ddd0c0f6be358,Kveldssanger,1996,76.0,1996,nor,Unknown,1990,Ulver
+1773,5714debf25ac0d8aee37daea,Ulver,Black Metal,56d98e09cc2ddd0c0f6be358,Nattens Madrigal - Aatte Hymne Til Ulven I Manden,1996,Unknown,1997,Unknown,Unknown,1990,Ulver
+1774,5714debf25ac0d8aee37daeb,Ulver,Experimental,56d98e09cc2ddd0c0f6be358,Themes From William Blake's The Marriage Of Heaven And Hell,1999,Unknown,1998,eng,Unknown,1990,Ulver
+1780,5714debf25ac0d8aee37daf1,Umberto Bindi,Unknown,56d98e09cc2ddd0c0f6be359,Di Coraggio Non Si Muore,1996,Unknown,Unknown,Unknown,Black Metal,1990,Umberto Bindi
+1782,5714debf25ac0d8aee37d5ad,Tura Satana,Alternative Metal,56d98cb9cc2ddd0c0f6be1a3,Relief Through Release,1997,Unknown,1997,Unknown,Unknown,1990,Tura Satana
+1783,5714debf25ac0d8aee37d5ae,Tura Satana,Alternative Metal,56d98cb9cc2ddd0c0f6be1a3,All Is Not Well,1998,Unknown,Unknown,eng,Unknown,1990,Tura Satana
+1788,5714debf25ac0d8aee37d5b3,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,Hot Cars & Spent Contraceptives,1991,166.0,1992,Unknown,Unknown,1990,Turbonegro
+1789,5714debf25ac0d8aee37d5b4,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,Never Is Forever,1994,241.0,1994,eng,Unknown,1990,Turbonegro
+1790,5714debf25ac0d8aee37d5b5,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,Denim Demon,1995,437.0,1995,Unknown,Unknown,1990,Turbonegro
+1791,5714debf25ac0d8aee37d5b6,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,I Got Erection,1995,437.0,Unknown,Unknown,Unknown,1990,Turbonegro
+1792,5714debf25ac0d8aee37d5b7,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,Ass Cobra,1996,437.0,1996,eng,Unknown,1990,Turbonegro
+1793,5714debf25ac0d8aee37d5b8,Turbonegro,Hard Rock,56d98cbecc2ddd0c0f6be1a8,Apocalypse Dudes,1997,786.0,1998,Unknown,Unknown,1990,Turbonegro
+1814,5714debf25ac0d8aee37d5cd,Turisas,Unknown,56d98cc4cc2ddd0c0f6be1ae,Taiston Tie - The Battle Path,1998,Unknown,Unknown,Unknown,Black Metal,1990,Turisas
+1815,5714debf25ac0d8aee37d5ce,Turisas,Unknown,56d98cc4cc2ddd0c0f6be1ae,Unnamed Promo,1999,Unknown,Unknown,Unknown,Black Metal,1990,Turisas
+1839,5714debf25ac0d8aee37db03,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Le Mie Canzoni,1991,8691.0,1991,Unknown,Unknown,1990,Umberto Tozzi
+1840,5714debf25ac0d8aee37db04,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Gli Altri Siamo Noi,1991,261.0,1991,Unknown,Unknown,1990,Umberto Tozzi
+1841,5714debf25ac0d8aee37db05,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Equivocando,1994,62.0,1994,Unknown,Unknown,1990,Umberto Tozzi
+1842,5714debf25ac0d8aee37db06,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Il Grido,1996,53.0,1996,Unknown,Unknown,1990,Umberto Tozzi
+1843,5714debf25ac0d8aee37db07,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Aria & Cielo,1997,61.0,1997,Unknown,Unknown,1990,Umberto Tozzi
+1844,5714debf25ac0d8aee37db08,Umberto Tozzi,Pop,56d98e10cc2ddd0c0f6be35e,Bagaglio A Mano,1999,81.0,1999,Unknown,Unknown,1990,Umberto Tozzi
+1863,5714debf25ac0d8aee37db1b,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,"Träume, Sex Und Tod",1992,96.0,1992,eng,Black Metal,1990,Umbra Et Imago
+1864,5714debf25ac0d8aee37db1c,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Infantile Spiele,1993,64.0,1993-10-30,mul,Black Metal,1990,Umbra Et Imago
+1865,5714debf25ac0d8aee37db1d,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Gedanken Eines Vampirs,1995,65.0,1995,mul,Black Metal,1990,Umbra Et Imago
+1866,5714debf25ac0d8aee37db1e,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Mystica Sexualis,1996,54.0,1996-10-14,mul,Black Metal,1990,Umbra Et Imago
+1867,5714debf25ac0d8aee37db1f,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,"The Hard Years, Das Live-Album",1997,64.0,1997,mul,Black Metal,1990,Umbra Et Imago
+1868,5714debf25ac0d8aee37db20,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Machina Mundi,1998,58.0,1998,mul,Black Metal,1990,Umbra Et Imago
+1869,5714debf25ac0d8aee37db21,Umbra Et Imago,Unknown,56d98e17cc2ddd0c0f6be365,Weinst Du?,1999,135.0,1999,deu,Black Metal,1990,Umbra Et Imago
+1895,5714debf25ac0d8aee37ceb4,Toto Cutugno,Pop,56d98ad1cc2ddd0c0f6bdefe,Toto Cutugno,1990,1293.0,Unknown,Unknown,Unknown,1990,Toto Cutugno
+1896,5714debf25ac0d8aee37ceb5,Toto Cutugno,Pop,56d98ad1cc2ddd0c0f6bdefe,Toto Cutugno,1996,62.0,Unknown,Unknown,Unknown,1990,Toto Cutugno
+1899,5714debf25ac0d8aee37ceb8,Touch And Go,House,56d98ad2cc2ddd0c0f6bdf00,I Find You Very Attractive,1999,33.0,1999,eng,Unknown,1990,Touch And Go
+1902,5714debf25ac0d8aee37cebb,Touché,Unknown,56d98af1cc2ddd0c0f6bdf03,Part One,1997,36.0,Unknown,Unknown,Black Metal,1990,Touché
+1921,5714debf25ac0d8aee37cece,Tourniquet,Thrash Metal,56d98af7cc2ddd0c0f6bdf0d,Stop The Bleeding,1990,105.0,1990,eng,Unknown,1990,Tourniquet
+1922,5714debf25ac0d8aee37cecf,Tourniquet,Thrash Metal,56d98af7cc2ddd0c0f6bdf0d,Psycho Surgery,1991,87.0,1991,eng,Unknown,1990,Tourniquet
+1923,5714debf25ac0d8aee37ced0,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,Pathogenic Ocular Dissonance,1992,136.0,1992,eng,Black Metal,1990,Tourniquet
+1924,5714debf25ac0d8aee37ced1,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,Vanishing Lessons,1994,306.0,1994,eng,Black Metal,1990,Tourniquet
+1925,5714debf25ac0d8aee37ced2,Tourniquet,Heavy Metal,56d98af7cc2ddd0c0f6bdf0d,Carry The Wounded,1995,44.0,1995,eng,Unknown,1990,Tourniquet
+1926,5714debf25ac0d8aee37ced3,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,Intense Live EP,1996,71.0,Unknown,Unknown,Black Metal,1990,Tourniquet
+1927,5714debf25ac0d8aee37ced4,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,The Collected Works Of Tourniquet,1996,129.0,1996,eng,Black Metal,1990,Tourniquet
+1928,5714debf25ac0d8aee37ced5,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,Crawl To China,1997,118.0,1997,eng,Black Metal,1990,Tourniquet
+1929,5714debf25ac0d8aee37ced6,Tourniquet,Unknown,56d98af7cc2ddd0c0f6bdf0d,Acoustic Archives,1998,116.0,1998,eng,Black Metal,1990,Tourniquet
+1936,5714debf25ac0d8aee37d5d6,Turf,Rock,56d98cc4cc2ddd0c0f6be1af,Una Pila De Vida,1997,983.0,Unknown,Unknown,Unknown,1990,Turf
+1937,5714debf25ac0d8aee37d5d7,Turf,Rock,56d98cc4cc2ddd0c0f6be1af,Siempre Libre,1999,233.0,Unknown,Unknown,Unknown,1990,Turf
+1963,5714debf25ac0d8aee37d5f1,Turmoil,Unknown,56d98cc8cc2ddd0c0f6be1b9,Anchor,1997,7.0,Unknown,Unknown,Black Metal,1990,Turmoil
+1982,5714debf25ac0d8aee37db31,Umphrey's McGee,Unknown,56d98e18cc2ddd0c0f6be369,"Greatest Hits, Volume III",1998,59.0,1998,eng,Black Metal,1990,Umphrey's McGee
+1983,5714debf25ac0d8aee37db32,Umphrey's McGee,Unknown,56d98e18cc2ddd0c0f6be369,Songs For Older Women,1999,22.0,1999,eng,Black Metal,1990,Umphrey's McGee
+1996,5714debf25ac0d8aee37db3f,Unanimated,Unknown,56d98e19cc2ddd0c0f6be36c,In The Forest Of The Dreaming Dead,1993,26.0,1993,Unknown,Black Metal,1990,Unanimated
+1997,5714debf25ac0d8aee37db40,Unanimated,Unknown,56d98e19cc2ddd0c0f6be36c,Ancient God Of Evil,1995,13.0,1995,Unknown,Black Metal,1990,Unanimated
+2002,5714debf25ac0d8aee37db45,Unashamed,Unknown,56d98e1ccc2ddd0c0f6be36f,Silence,1994,8.0,1994,eng,Black Metal,1990,Unashamed
+2003,5714debf25ac0d8aee37db46,Unashamed,Unknown,56d98e1ccc2ddd0c0f6be36f,Reflection,1996,8.0,1996,eng,Black Metal,1990,Unashamed
+2008,5714debf25ac0d8aee37db4b,Unbelievable Truth,Unknown,56d98e1ccc2ddd0c0f6be371,Almost Here,1998,609.0,1998-04-27,eng,Black Metal,1990,Unbelievable Truth
+2029,5714debf25ac0d8aee37cee9,Tower Of Power,Unknown,56d98afacc2ddd0c0f6bdf10,Monster On A Leash,1991,281.0,1991,eng,Black Metal,1990,Tower Of Power
+2030,5714debf25ac0d8aee37ceea,Tower Of Power,Unknown,56d98afacc2ddd0c0f6bdf10,T.O.P.,1993,730.0,1993,eng,Black Metal,1990,Tower Of Power
+2031,5714debf25ac0d8aee37ceeb,Tower Of Power,Unknown,56d98afacc2ddd0c0f6bdf10,Souled Out,1995,644.0,1995,eng,Black Metal,1990,Tower Of Power
+2032,5714debf25ac0d8aee37ceec,Tower Of Power,Unknown,56d98afacc2ddd0c0f6bdf10,Rhythm & Business,1997,496.0,1997,eng,Black Metal,1990,Tower Of Power
+2035,5714debf25ac0d8aee37ceef,Tower,Death Metal,56d98afacc2ddd0c0f6bdf11,The Swan Princess,1998,12.0,2001-01,Unknown,Unknown,1990,Tower
+2036,5714debf25ac0d8aee37cef0,Tower,Death Metal,56d98afacc2ddd0c0f6bdf11,Mercury,1999,416.0,Unknown,Unknown,Unknown,1990,Tower
+2069,5714debf25ac0d8aee37cf11,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,Rain On A Conga Drum: Live In Berlin,1991,431.0,1991,Unknown,Black Metal,1990,Townes Van Zandt
+2070,5714debf25ac0d8aee37cf12,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,Roadsongs,1993,134.0,1993,Unknown,Black Metal,1990,Townes Van Zandt
+2071,5714debf25ac0d8aee37cf13,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,The Nashville Sessions,1993,104.0,1993-12-14,Unknown,Black Metal,1990,Townes Van Zandt
+2072,5714debf25ac0d8aee37cf14,Townes Van Zandt,Folk,56d98b09cc2ddd0c0f6bdf1e,Rear View Mirror,1993,5.0,1997-01-21,eng,Unknown,1990,Townes Van Zandt
+2073,5714debf25ac0d8aee37cf15,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,No Deeper Blue,1994,6.0,1994-11-23,eng,Black Metal,1990,Townes Van Zandt
+2074,5714debf25ac0d8aee37cf16,Townes Van Zandt,Folk,56d98b09cc2ddd0c0f6bdf1e,Abnormal,1996,104.0,1996,Unknown,Unknown,1990,Townes Van Zandt
+2075,5714debf25ac0d8aee37cf17,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,The Highway Kind,1997,134.0,1997-03-18,Unknown,Black Metal,1990,Townes Van Zandt
+2076,5714debf25ac0d8aee37cf18,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,Documentary,1997,113.0,1997-06-06,Unknown,Black Metal,1990,Townes Van Zandt
+2077,5714debf25ac0d8aee37cf19,Townes Van Zandt,Folk,56d98b09cc2ddd0c0f6bdf1e,In Pain,1999,134.0,1999-08-20,eng,Unknown,1990,Townes Van Zandt
+2078,5714debf25ac0d8aee37cf1a,Townes Van Zandt,Unknown,56d98b09cc2ddd0c0f6bdf1e,A Far Cry From Dead,1999,431.0,1999-06-29,Unknown,Black Metal,1990,Townes Van Zandt
+2103,5714debf25ac0d8aee37d60a,Turning Point,Unknown,56d98ccdcc2ddd0c0f6be1c6,It's Always Darkest Before The Dawn,1990,34.0,Unknown,Unknown,Acoustic,1990,Turning Point
+2104,5714debf25ac0d8aee37d60b,Turning Point,Unknown,56d98ccdcc2ddd0c0f6be1c6,The Few And The Proud,1995,34.0,Unknown,Unknown,Acoustic,1990,Turning Point
+2118,5714debf25ac0d8aee37d619,Turo's Hevi Gee,Unknown,56d98ccfcc2ddd0c0f6be1ce,Elämää Suurempi Äänilevy,1990,26.0,Unknown,Unknown,Acoustic,1990,Turo's Hevi Gee
+2119,5714debf25ac0d8aee37d61a,Turo's Hevi Gee,Unknown,56d98ccfcc2ddd0c0f6be1ce,Tuleva Keräilyharvinaisuus,1991,29.0,Unknown,Unknown,Acoustic,1990,Turo's Hevi Gee
+2128,5714debf25ac0d8aee37d623,Tut Das Not,Unknown,56d98cd1cc2ddd0c0f6be1d2,Fremdwelt,1999,Unknown,Unknown,Unknown,Acoustic,1990,Tut Das Not
+2133,5714debf25ac0d8aee37d628,Tutu Jones,Blues,56d98cd2cc2ddd0c0f6be1d4,I'm For Real,1994,Unknown,1994,Unknown,Unknown,1990,Tutu Jones
+2134,5714debf25ac0d8aee37d629,Tutu Jones,Blues,56d98cd2cc2ddd0c0f6be1d4,Blue Texas Soul,1996,Unknown,Unknown,eng,Unknown,1990,Tutu Jones
+2153,5714debf25ac0d8aee37d63c,Tutti Frutti,Unknown,56d98cd6cc2ddd0c0f6be1dd,Sjećanja Jednog Mangupa,1990,85.0,Unknown,Unknown,Acoustic,1990,Tutti Frutti
+2154,5714debf25ac0d8aee37d63d,Tutti Frutti,Unknown,56d98cd6cc2ddd0c0f6be1dd,Vozio Sam Cijelu Noć,1992,36.0,Unknown,Unknown,Acoustic,1990,Tutti Frutti
+2155,5714debf25ac0d8aee37d63e,Tutti Frutti,Unknown,56d98cd6cc2ddd0c0f6be1dd,Ruže I Vino,1996,24.0,Unknown,Unknown,Acoustic,1990,Tutti Frutti
+2195,5714debf25ac0d8aee37db7a,Uncle Walt's Band,Country,56d98e2bcc2ddd0c0f6be38b,The Girl On The Sunny Shore,1991,Unknown,Unknown,Unknown,Unknown,1990,Uncle Walt's Band
+2197,5714debf25ac0d8aee37db7c,Uncle Tupelo,Unknown,56d98e2ccc2ddd0c0f6be38d,No Depression,1990,155.0,1990,eng,Acoustic,1990,Uncle Tupelo
+2198,5714debf25ac0d8aee37db7d,Uncle Tupelo,Unknown,56d98e2ccc2ddd0c0f6be38d,Still Feel Gone,1991,68.0,1991-09-17,eng,Acoustic,1990,Uncle Tupelo
+2199,5714debf25ac0d8aee37db7e,Uncle Tupelo,Unknown,56d98e2ccc2ddd0c0f6be38d,"March 16-20, 1992",1992,64.0,1992,eng,Acoustic,1990,Uncle Tupelo
+2200,5714debf25ac0d8aee37db7f,Uncle Tupelo,Alternative Country,56d98e2ccc2ddd0c0f6be38d,Anodyne,1993,250.0,2003-03-11,eng,Unknown,1990,Uncle Tupelo
+2216,5714debf25ac0d8aee37db8f,Under Byen,Unknown,56d98e40cc2ddd0c0f6be399,Kyst,1999,111.0,1999-11-03,Unknown,Acoustic,1990,Under Byen
+2230,5714debf25ac0d8aee37db9d,Undercover,Unknown,56d98e44cc2ddd0c0f6be3a3,Balance Of Power,1990,40.0,1990,Unknown,Acoustic,1990,Undercover
+2231,5714debf25ac0d8aee37db9e,Undercover,Unknown,56d98e44cc2ddd0c0f6be3a3,Devotion,1992,Unknown,1992,eng,Acoustic,1990,Undercover
+2232,5714debf25ac0d8aee37db9f,Undercover,Unknown,56d98e44cc2ddd0c0f6be3a3,Forum,1994,3.0,1994,eng,Acoustic,1990,Undercover
+2238,5714debf25ac0d8aee37cf2d,Toxic Narcotic,Crust Punk,56d98b0bcc2ddd0c0f6bdf22,People Suck!,1994,Unknown,1994,Unknown,Unknown,1990,Toxic Narcotic
+2245,5714debf25ac0d8aee37cf34,Toxoplasma,Unknown,56d98b0dcc2ddd0c0f6bdf23,Monsters Of Bullshit,1990,270.0,1990,Unknown,Acoustic,1990,Toxoplasma
+2246,5714debf25ac0d8aee37cf35,Toxoplasma,Unknown,56d98b0dcc2ddd0c0f6bdf23,Ausverkauf,1991,179.0,1991,deu,Acoustic,1990,Toxoplasma
+2247,5714debf25ac0d8aee37cf36,Toxoplasma,Punk Rock,56d98b0dcc2ddd0c0f6bdf23,Gut & Böse,1992,179.0,1992,deu,Unknown,1990,Toxoplasma
+2248,5714debf25ac0d8aee37cf37,Toxoplasma,Unknown,56d98b0dcc2ddd0c0f6bdf23,Leben Verboten,1994,179.0,1994,deu,Acoustic,1990,Toxoplasma
+2255,5714debf25ac0d8aee37cf3e,Toy-Box,Pop,56d98b12cc2ddd0c0f6bdf28,FanTastic,1999,346.0,1999-09-21,eng,Unknown,1990,Toy-Box
+2262,5714debf25ac0d8aee37cf45,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,Wakey Wakey!,1990,60.0,1989-09,Unknown,Unknown,1990,Toy Dolls
+2263,5714debf25ac0d8aee37cf46,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,Twenty Two Tunes Live From Tokyo,1990,955.0,1990-10,eng,Unknown,1990,Toy Dolls
+2264,5714debf25ac0d8aee37cf47,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,Fat Bob's Feet,1991,60.0,1990-03,Unknown,Unknown,1990,Toy Dolls
+2265,5714debf25ac0d8aee37cf48,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,Absurd-Ditties,1993,60.0,1993-01,Unknown,Unknown,1990,Toy Dolls
+2266,5714debf25ac0d8aee37cf49,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,Orcastrated,1995,Unknown,1995,eng,Unknown,1990,Toy Dolls
+2267,5714debf25ac0d8aee37cf4a,Toy Dolls,Punk Rock,56d98b12cc2ddd0c0f6bdf29,One More Megabyte,1997,60.0,1997-04,eng,Unknown,1990,Toy Dolls
+2274,5714debf25ac0d8aee37cf51,Toy Matinee,Progressive Rock,56d98b15cc2ddd0c0f6bdf2b,Toy Matinee,1990,47.0,1990-06-28,eng,Unknown,1990,Toy Matinee
+2275,5714debf25ac0d8aee37dba0,Undercover (UK),Unknown,56d98e44cc2ddd0c0f6be3a4,Check Out The Groove,1992,75.0,Unknown,Unknown,Acoustic,1990,Undercover (UK)
+2282,5714debf25ac0d8aee37dba7,Undercroft,Unknown,56d98e45cc2ddd0c0f6be3aa,Twisted Souls,1995,Unknown,1995,Unknown,Acoustic,1990,Undercroft
+2283,5714debf25ac0d8aee37dba8,Undercroft,Unknown,56d98e45cc2ddd0c0f6be3aa,Bonebreaker,1997,24.0,1997,Unknown,Acoustic,1990,Undercroft
+2284,5714debf25ac0d8aee37dba9,Undercroft,Unknown,56d98e45cc2ddd0c0f6be3aa,Re-Demolition,1998,24.0,Unknown,Unknown,Acoustic,1990,Undercroft
+2300,5714debf25ac0d8aee37dbb9,Underoath,Screamo,56d98e4acc2ddd0c0f6be3b5,Act Of Depression,1999,303.0,1999-07-04,eng,Unknown,1990,Underoath
+2327,5714debf25ac0d8aee37dbd4,Underworld,Unknown,56d98e4ecc2ddd0c0f6be3be,Dubnobasswithmyheadman,1993,837.0,1993,eng,Acoustic,1990,Underworld
+2328,5714debf25ac0d8aee37dbd5,Underworld,Unknown,56d98e4ecc2ddd0c0f6be3be,Second Toughest In The Infants,1996,562.0,1996-03-19,eng,Acoustic,1990,Underworld
+2329,5714debf25ac0d8aee37dbd6,Underworld,Techno,56d98e4ecc2ddd0c0f6be3be,Beaucoup Fish,1998,1496.0,1998,Unknown,Unknown,1990,Underworld
+2344,5714debf25ac0d8aee37dbe5,Undying,Unknown,56d98e50cc2ddd0c0f6be3c7,This Day All Gods Die,1999,Unknown,1999,eng,Acoustic,1990,Undying
+2359,5714debf25ac0d8aee37dbf4,Unearth,Metalcore,56d98e55cc2ddd0c0f6be3cf,Above The Fall Of Man,1999,416.0,1999-05,eng,Unknown,1990,Unearth
+2374,5714debf25ac0d8aee37dc03,Unexpect,Avant-garde Metal,56d98e56cc2ddd0c0f6be3d3,Utopia,1999,Unknown,1999,eng,Unknown,1990,Unexpect
+2428,5714debf25ac0d8aee37d659,Tuxedomoon,Unknown,56d98cd9cc2ddd0c0f6be1e4,Joeboy In Mexico,1998,Unknown,Unknown,Unknown,Acoustic,1990,Tuxedomoon
+2433,5714debf25ac0d8aee37d65e,TVO,Children&apos;s Music,56d98cdacc2ddd0c0f6be1e6,TVO,1991,Unknown,Unknown,Unknown,Unknown,1990,TVO
+2434,5714debf25ac0d8aee37d65f,TVO,Children&apos;s Music,56d98cdacc2ddd0c0f6be1e6,TVO 2,1992,Unknown,Unknown,Unknown,Unknown,1990,TVO
+2435,5714debf25ac0d8aee37d660,TVO,Children&apos;s Music,56d98cdacc2ddd0c0f6be1e6,TVO 3,1992,Unknown,Unknown,Unknown,Unknown,1990,TVO
+2443,5714debf25ac0d8aee37d668,TV-2,Pop,56d98cdbcc2ddd0c0f6be1e7,Vi Blir Alligevel Aldrig Voksne,1990,24.0,1990,Unknown,Unknown,1990,TV-2
+2444,5714debf25ac0d8aee37d669,TV-2,Pop,56d98cdbcc2ddd0c0f6be1e7,Verdens Lykkeligste Mand,1994,48.0,1994,Unknown,Unknown,1990,TV-2
+2445,5714debf25ac0d8aee37d66a,TV-2,Pop,56d98cdbcc2ddd0c0f6be1e7,Kys Bruden,1995,75.0,1996-01-16,Unknown,Unknown,1990,TV-2
+2446,5714debf25ac0d8aee37d66b,TV-2,Pop,56d98cdbcc2ddd0c0f6be1e7,Yndlingsbabe,1998,48.0,1998-02-22,Unknown,Unknown,1990,TV-2
+2474,5714debf25ac0d8aee37cf61,Toyah Willcox,Unknown,56d98b18cc2ddd0c0f6bdf32,Ophelia's Shadow,1991,Unknown,Unknown,Unknown,Acoustic,1990,Toyah Willcox
+2475,5714debf25ac0d8aee37cf62,Toyah Willcox,Unknown,56d98b18cc2ddd0c0f6bdf32,Dreamchild,1994,Unknown,Unknown,Unknown,Acoustic,1990,Toyah Willcox
+2478,5714debf25ac0d8aee37cf65,TQ,R&amp;B,56d98b1ecc2ddd0c0f6bdf34,They Never Saw Me Coming,1998,1221.0,1998-11-10,eng,Unknown,1990,TQ
+2489,5714debf25ac0d8aee37cf70,Toše Proeski,Unknown,56d98b20cc2ddd0c0f6bdf38,Nekade Vo Nokta,1999,Unknown,Unknown,Unknown,Acoustic,1990,Toše Proeski
+2505,5714debf25ac0d8aee37cf80,Traband,World Music,56d98b20cc2ddd0c0f6bdf3a,O Čem Mluví Muži?,1997,94.0,1997,ces,Unknown,1990,Traband
+2521,5714debf25ac0d8aee37cf90,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,Dreamin' Out Loud,1996,273.0,1996,eng,Unknown,1990,Trace Adkins
+2522,5714debf25ac0d8aee37cf91,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,Big Time,1997,199.0,1997-10-21,eng,Unknown,1990,Trace Adkins
+2523,5714debf25ac0d8aee37cf92,Trace Adkins,Country,56d98b29cc2ddd0c0f6bdf42,More...,1999,228.0,1999-11-02,eng,Unknown,1990,Trace Adkins
+2561,5714debf25ac0d8aee37d691,Twenty 4 Seven,Electronic,56d98ce1cc2ddd0c0f6be1fb,Slave To The Music,1993,368.0,1993,eng,Unknown,1990,Twenty 4 Seven
+2562,5714debf25ac0d8aee37d692,Twenty 4 Seven,Electronic,56d98ce1cc2ddd0c0f6be1fb,I Wanna Show You,1994,122.0,1994,eng,Unknown,1990,Twenty 4 Seven
+2563,5714debf25ac0d8aee37d693,Twenty 4 Seven,Electronic,56d98ce1cc2ddd0c0f6be1fb,"Twenty 4 Hours A Day, Seven Days A Week",1997,53.0,1997,eng,Unknown,1990,Twenty 4 Seven
+2589,5714debf25ac0d8aee37cfac,Traci Lords,Electronic,56d98b2ccc2ddd0c0f6bdf48,1000 Fires,1995,11.0,1995-02-28,Unknown,Unknown,1990,Traci Lords
+2600,5714debf25ac0d8aee37cfb7,Tracie Spencer,R&amp;B,56d98b2dcc2ddd0c0f6bdf4e,Make The Difference,1990,209.0,1990-08-27,eng,Unknown,1990,Tracie Spencer
+2601,5714debf25ac0d8aee37cfb8,Tracie Spencer,R&amp;B,56d98b2dcc2ddd0c0f6bdf4e,Tracie,1999,215.0,1999-06-29,eng,Unknown,1990,Tracie Spencer
+2610,5714debf25ac0d8aee37cfc1,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,Tracy Byrd,1993,35.0,1993,eng,Unknown,1990,Tracy Byrd
+2611,5714debf25ac0d8aee37cfc2,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,No Ordinary Man,1994,111.0,1994-08-08,eng,Unknown,1990,Tracy Byrd
+2612,5714debf25ac0d8aee37cfc3,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,Love Lessons,1995,Unknown,1985-07-18,eng,Unknown,1990,Tracy Byrd
+2613,5714debf25ac0d8aee37cfc4,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,Big Love,1996,35.0,1996-10-22,eng,Unknown,1990,Tracy Byrd
+2614,5714debf25ac0d8aee37cfc5,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,I'm From The Country,1998,Unknown,1998-05-12,eng,Unknown,1990,Tracy Byrd
+2615,5714debf25ac0d8aee37cfc6,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,It's About Time,1999,116.0,1999-11-02,eng,Unknown,1990,Tracy Byrd
+2616,5714debf25ac0d8aee37cfc7,Tracy Byrd,Country,56d98b33cc2ddd0c0f6bdf52,Keepers: Greatest Hits,1999,111.0,1999-02-23,eng,Unknown,1990,Tracy Byrd
+2637,5714debf25ac0d8aee37dc2e,Unholy,Unknown,56d98e60cc2ddd0c0f6be3df,From The Shadows,1993,2.0,Unknown,Unknown,Pop,1990,Unholy
+2638,5714debf25ac0d8aee37dc2f,Unholy,Unknown,56d98e60cc2ddd0c0f6be3df,The Second Ring Of River,1994,4.0,Unknown,Unknown,Pop,1990,Unholy
+2639,5714debf25ac0d8aee37dc30,Unholy,Unknown,56d98e60cc2ddd0c0f6be3df,Rapture,1998,1.0,Unknown,Unknown,Pop,1990,Unholy
+2640,5714debf25ac0d8aee37dc31,Unholy,Unknown,56d98e60cc2ddd0c0f6be3df,Gracefallen,1999,3.0,Unknown,Unknown,Pop,1990,Unholy
+2657,5714debf25ac0d8aee37dc42,Unicorn (SE),Unknown,56d98e65cc2ddd0c0f6be3eb,Ever Since,1993,Unknown,Unknown,Unknown,Pop,1990,Unicorn (SE)
+2658,5714debf25ac0d8aee37dc43,Unicorn (SE),Unknown,56d98e65cc2ddd0c0f6be3eb,Emotional Wasteland,1995,Unknown,Unknown,Unknown,Pop,1990,Unicorn (SE)
+2692,5714debf25ac0d8aee37d6b4,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Cry For The Desert,1990,53.0,1990,eng,Unknown,1990,Twila Paris
+2693,5714debf25ac0d8aee37d6b5,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Sanctuary,1991,76.0,1991,eng,Unknown,1990,Twila Paris
+2694,5714debf25ac0d8aee37d6b6,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,The Early Works,1991,74.0,1990,Unknown,Unknown,1990,Twila Paris
+2695,5714debf25ac0d8aee37d6b7,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,A Heart That Knows You,1992,107.0,1992,eng,Unknown,1990,Twila Paris
+2696,5714debf25ac0d8aee37d6b8,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Beyond A Dream,1993,60.0,1993,eng,Unknown,1990,Twila Paris
+2697,5714debf25ac0d8aee37d6b9,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,The Time Is Now,1995,107.0,1995,eng,Unknown,1990,Twila Paris
+2698,5714debf25ac0d8aee37d6ba,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Early Years,1996,41.0,Unknown,eng,Unknown,1990,Twila Paris
+2699,5714debf25ac0d8aee37d6bb,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Where I Stand,1996,67.0,1996,eng,Unknown,1990,Twila Paris
+2700,5714debf25ac0d8aee37d6bc,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Perennial: Songs For The Seasons Of Life,1998,70.0,1998,eng,Unknown,1990,Twila Paris
+2701,5714debf25ac0d8aee37d6bd,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,True North,1999,56.0,1999,eng,Unknown,1990,Twila Paris
+2702,5714debf25ac0d8aee37d6be,Twila Paris,Pop,56d98ceecc2ddd0c0f6be20b,Twila Collector's Series,1999,77.0,Unknown,Unknown,Unknown,1990,Twila Paris
+2721,5714debf25ac0d8aee37d6d1,Twilight Guardians,Power Metal,56d98cf0cc2ddd0c0f6be211,Land Of The Kings,1998,Unknown,1998,Unknown,Unknown,1990,Twilight Guardians
+2733,5714debf25ac0d8aee37d6dd,Twilight Ophera,Unknown,56d98cf1cc2ddd0c0f6be215,Shadows Embrace The Dark,1998,20.0,1997,eng,Pop,1990,Twilight Ophera
+2734,5714debf25ac0d8aee37d6de,Twilight Ophera,Unknown,56d98cf1cc2ddd0c0f6be215,Midnight Horror,1999,18.0,1998,eng,Pop,1990,Twilight Ophera
+2746,5714debf25ac0d8aee37cfd2,Tracy Chapman,Alternative Rock,56d98b34cc2ddd0c0f6bdf55,Matters Of The Heart,1992,5374.0,1992-04-28,eng,Unknown,1990,Tracy Chapman
+2747,5714debf25ac0d8aee37cfd3,Tracy Chapman,Folk,56d98b34cc2ddd0c0f6bdf55,New Beginning,1995,12271.0,1995-11-10,eng,Unknown,1990,Tracy Chapman
+2755,5714debf25ac0d8aee37cfdb,Tracy Bonham,Rock,56d98b35cc2ddd0c0f6bdf56,The Liverpool Sessions,1995,Unknown,1995,eng,Unknown,1990,Tracy Bonham
+2756,5714debf25ac0d8aee37cfdc,Tracy Bonham,Unknown,56d98b35cc2ddd0c0f6bdf56,The Burdens Of Being Upright,1996,Unknown,1996-03-19,eng,Pop,1990,Tracy Bonham
+2768,5714debf25ac0d8aee37cfe8,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,Sticks And Stones,1991,163.0,1991-11-21,eng,Unknown,1990,Tracy Lawrence
+2769,5714debf25ac0d8aee37cfe9,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,Alibis,1993,235.0,1993,eng,Unknown,1990,Tracy Lawrence
+2770,5714debf25ac0d8aee37cfea,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,I See It Now,1994,202.0,1997,Unknown,Unknown,1990,Tracy Lawrence
+2771,5714debf25ac0d8aee37cfeb,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,Tracy Lawrence Live And Unplugged,1995,1003.0,Unknown,Unknown,Unknown,1990,Tracy Lawrence
+2772,5714debf25ac0d8aee37cfec,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,Time Marches On,1996,39.0,1996-01-23,eng,Unknown,1990,Tracy Lawrence
+2773,5714debf25ac0d8aee37cfed,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,The Coast Is Clear,1997,103.0,1997,Unknown,Unknown,1990,Tracy Lawrence
+2774,5714debf25ac0d8aee37cfee,Tracy Lawrence,Country,56d98b39cc2ddd0c0f6bdf5c,The Best Of Tracy Lawrence,1998,1003.0,1998,eng,Unknown,1990,Tracy Lawrence
+2812,5714debf25ac0d8aee37d014,Traffic,Rock,56d98b40cc2ddd0c0f6bdf68,Far From Home,1994,260.0,1994-05-03,eng,Unknown,1990,Traffic
+2818,5714debf25ac0d8aee37dc55,Union 13,Unknown,56d98e6acc2ddd0c0f6be3f3,East Los Presents...,1997,123.0,1997,Unknown,Pop,1990,Union 13
+2819,5714debf25ac0d8aee37dc56,Union 13,Unknown,56d98e6acc2ddd0c0f6be3f3,Why Are We Destroying Ourselves?,1998,82.0,1998-10-20,Unknown,Pop,1990,Union 13
+2828,5714debf25ac0d8aee37dc5f,Union,Unknown,56d98e6ccc2ddd0c0f6be3f6,Union,1998,16.0,1998-01,Unknown,Pop,1990,Union
+2850,5714debf25ac0d8aee37d6e8,Twin Obscenity,Unknown,56d98cf3cc2ddd0c0f6be21a,Where Light Touches None,1997.0,0.0,1997,eng,Pop,1990,Twin Obscenity
+2851,5714debf25ac0d8aee37d6e9,Twin Obscenity,Unknown,56d98cf3cc2ddd0c0f6be21a,"For Blood, Honour And Soil",1998.0,9.0,1998-05,eng,Pop,1990,Twin Obscenity
+2876,5714debf25ac0d8aee37d702,Twista,Midwest Rap,56d98d1ecc2ddd0c0f6be227,Runnin' Off At Da Mouth,1992.0,Unknown,1992-06-09,eng,Unknown,1990,Twista
+2877,5714debf25ac0d8aee37d703,Twista,Midwest Rap,56d98d1ecc2ddd0c0f6be227,Resurrection,1994.0,79.0,1994-10-18,Unknown,Unknown,1990,Twista
+2878,5714debf25ac0d8aee37d704,Twista,Midwest Rap,56d98d1ecc2ddd0c0f6be227,Adrenaline Rush,1997.0,3583.0,1997-06-24,eng,Unknown,1990,Twista
+2879,5714debf25ac0d8aee37d705,Twista,Midwest Rap,56d98d1ecc2ddd0c0f6be227,Mobstability,1998.0,415.0,1998-10-06,eng,Unknown,1990,Twista
+2880,5714debf25ac0d8aee37d706,Twista,Midwest Rap,56d98d1ecc2ddd0c0f6be227,Legit Ballin',1999.0,80.0,1999-11-30,eng,Unknown,1990,Twista
+2895,5714debf25ac0d8aee37dc78,Unit:187,Unknown,56d98e72cc2ddd0c0f6be408,187:Unit:187,1996.0,Unknown,Unknown,Unknown,Pop,1990,Unit:187
+2896,5714debf25ac0d8aee37dc79,Unit:187,Unknown,56d98e72cc2ddd0c0f6be408,187:Loaded,1997.0,Unknown,Unknown,Unknown,Pop,1990,Unit:187
+2897,5714debf25ac0d8aee37dc7a,Unit:187,Unknown,56d98e72cc2ddd0c0f6be408,187:Dead Dog,1997.0,Unknown,Unknown,Unknown,Pop,1990,Unit:187
+2941,5714debf25ac0d8aee37dca6,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,The Best Of,1991.0,Unknown,1991,Unknown,Pop,1990,Universe
+2942,5714debf25ac0d8aee37dca7,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,Magnes Serc,1992.0,Unknown,1992,Unknown,Pop,1990,Universe
+2943,5714debf25ac0d8aee37dca8,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,...Ciągle Szukam Drogi,1993.0,15.0,1993,Unknown,Pop,1990,Universe
+2944,5714debf25ac0d8aee37dca9,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,Być Przy Tobie,1994.0,Unknown,1994,Unknown,Pop,1990,Universe
+2945,5714debf25ac0d8aee37dcaa,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,Latawce,1996.0,15.0,1996,Unknown,Pop,1990,Universe
+2946,5714debf25ac0d8aee37dcab,Universe,Unknown,56d98e7fcc2ddd0c0f6be422,Bahama Yellow,1997.0,Unknown,1997,Unknown,Pop,1990,Universe
+2950,5714debf25ac0d8aee37dcaf,Unjust,Unknown,56d98e7fcc2ddd0c0f6be423,Thin Line Emotions,1999.0,6.0,1999,eng,Pop,1990,Unjust
+2958,5714debf25ac0d8aee37dcb7,Unkle,Electronica,56d98e80cc2ddd0c0f6be426,Psyence Fiction,1998.0,6045.0,1998-09-29,eng,Unknown,1990,Unkle
+2974,5714debf25ac0d8aee37dcc7,Unknown Hinson,Unknown,56d98e82cc2ddd0c0f6be42d,21 Chart-Toppers,1999.0,2.0,1999,Unknown,Pop,1990,Unknown Hinson
+2989,5714debf25ac0d8aee37dcd6,Unleashed Power,Unknown,56d98e87cc2ddd0c0f6be435,Blindfolded,1990.0,4.0,Unknown,Unknown,Pop,1990,Unleashed Power
+2990,5714debf25ac0d8aee37dcd7,Unleashed Power,Unknown,56d98e87cc2ddd0c0f6be435,Quintet Of Spheres,1993.0,Unknown,Unknown,Unknown,Pop,1990,Unleashed Power
+2991,5714debf25ac0d8aee37dcd8,Unleashed Power,Unknown,56d98e87cc2ddd0c0f6be435,Mindfailure,1997.0,5.0,Unknown,Unknown,Pop,1990,Unleashed Power
+2992,5714debf25ac0d8aee37dcd9,Unleashed Power,Unknown,56d98e87cc2ddd0c0f6be435,Absorbed,1999.0,4.0,Unknown,Unknown,Pop,1990,Unleashed Power
+2994,5714debf25ac0d8aee37dcdb,Unleashed,Unknown,56d98e87cc2ddd0c0f6be437,Where No Life Dwells,1991.0,163.0,1991-05-01,eng,Pop,1990,Unleashed
+2995,5714debf25ac0d8aee37dcdc,Unleashed,Unknown,56d98e87cc2ddd0c0f6be437,Shadows In The Deep,1992.0,153.0,1992-05-01,eng,Pop,1990,Unleashed
+2996,5714debf25ac0d8aee37dcdd,Unleashed,Unknown,56d98e87cc2ddd0c0f6be437,Across The Open Sea,1993.0,153.0,1993-10-01,eng,Pop,1990,Unleashed
+2997,5714debf25ac0d8aee37dcde,Unleashed,Unknown,56d98e87cc2ddd0c0f6be437,Victory,1995.0,94.0,1995-02-27,eng,Pop,1990,Unleashed
+2998,5714debf25ac0d8aee37dcdf,Unleashed,Unknown,56d98e87cc2ddd0c0f6be437,Warrior,1997.0,94.0,1997-06-05,eng,Pop,1990,Unleashed
+3007,5714debf25ac0d8aee37dce8,Unlord,Black Metal,56d98e88cc2ddd0c0f6be43a,Schwarzwald,1997.0,3.0,1997,eng,Unknown,1990,Unlord
+3034,5714debf25ac0d8aee37d71b,Twisted Sister,Glam Rock,56d98d23cc2ddd0c0f6be22e,Big Hits And Nasty Cuts,1992.0,581.0,Unknown,Unknown,Unknown,1990,Twisted Sister
+3041,5714debf25ac0d8aee37d722,Two,Industrial Metal,56d98d29cc2ddd0c0f6be233,Voyeurs,1998.0,88.0,1998-03-10,eng,Unknown,1990,Two
+3042,5714debf25ac0d8aee37d723,Two Cowboys,Unknown,56d98d2acc2ddd0c0f6be234,Everybody Gonfi-Gon,1994.0,9.0,1994,Unknown,Pop,1990,Two Cowboys
+3047,5714debf25ac0d8aee37d728,Twiztid,Horrorcore,56d98d2acc2ddd0c0f6be237,Mostasteless,1998.0,284.0,1998,eng,Unknown,1990,Twiztid
+3064,5714debf25ac0d8aee37dcfc,Unrest,Indie Rock,56d98e8ecc2ddd0c0f6be448,Imperial F.F.R.R.,1992.0,36.0,Unknown,Unknown,Unknown,1990,Unrest
+3065,5714debf25ac0d8aee37dcfd,Unrest,Unknown,56d98e8ecc2ddd0c0f6be448,Perfect Teeth,1993.0,36.0,1993-08-23,Unknown,Hard Rock,1990,Unrest
+3068,5714debf25ac0d8aee37dd00,Unruly Child,Progressive Rock,56d98e8ecc2ddd0c0f6be44a,Unruly Child,1992.0,Unknown,1992,Unknown,Unknown,1990,Unruly Child
+3071,5714debf25ac0d8aee37dd03,Unsane,Unknown,56d98e8fcc2ddd0c0f6be44c,Scattered Smothered & Covered,1995.0,117.0,1995,eng,Hard Rock,1990,Unsane
+3072,5714debf25ac0d8aee37dd04,Unsane,Unknown,56d98e8fcc2ddd0c0f6be44c,Occupational Hazard (Ltd Ed),1998.0,211.0,1998-01-27,eng,Hard Rock,1990,Unsane
+3111,5714debf25ac0d8aee37dd2b,Untergangskommando,Unknown,56d98eb4cc2ddd0c0f6be45f,Tatort ALDI,1996.0,Unknown,1996-10-09,deu,Hard Rock,1990,Untergangskommando
+3112,5714debf25ac0d8aee37dd2c,Untergangskommando,Punk Rock,56d98eb4cc2ddd0c0f6be45f,Morgenrot,1997.0,Unknown,1997,deu,Unknown,1990,Untergangskommando
+3113,5714debf25ac0d8aee37dd2d,Untergangskommando,Unknown,56d98eb4cc2ddd0c0f6be45f,Hol' Dir Die Pest,1997.0,Unknown,1998-02-03,deu,Hard Rock,1990,Untergangskommando
+3114,5714debf25ac0d8aee37dd2e,Untergangskommando,Unknown,56d98eb4cc2ddd0c0f6be45f,Hass Und Gewalt,1998.0,Unknown,Unknown,deu,Hard Rock,1990,Untergangskommando
+3136,5714debf25ac0d8aee37dd44,Unto Ashes,Electronic Rock,56d98ebccc2ddd0c0f6be46b,Moon Oppose Moon,1999.0,26.0,2000-09-12,eng,Unknown,1990,Unto Ashes
+3148,5714debf25ac0d8aee37dd50,Untoten,Unknown,56d98ebccc2ddd0c0f6be46c,Hab Keine Angst Veluzifer,1996.0,Unknown,1996,mul,Hard Rock,1990,Untoten
+3149,5714debf25ac0d8aee37dd51,Untoten,Unknown,56d98ebccc2ddd0c0f6be46c,Kiss Of Death,1997.0,Unknown,1997,eng,Hard Rock,1990,Untoten
+3150,5714debf25ac0d8aee37dd52,Untoten,Unknown,56d98ebccc2ddd0c0f6be46c,Nekropolis,1998.0,Unknown,1998,eng,Hard Rock,1990,Untoten
+3151,5714debf25ac0d8aee37dd53,Untoten,Unknown,56d98ebccc2ddd0c0f6be46c,Schwarze Messe,1999.0,Unknown,1999,mul,Hard Rock,1990,Untoten
+3199,5714debf25ac0d8aee37d757,Two Man Advantage,Punk Rock,56d98d32cc2ddd0c0f6be249,Drafted,1998.0,5.0,Unknown,Unknown,Unknown,1990,Two Man Advantage
+3220,5714debf25ac0d8aee37dd68,Unwound,Indie Rock,56d98ec3cc2ddd0c0f6be474,Fake Train,1993.0,58.0,1993,eng,Unknown,1990,Unwound
+3221,5714debf25ac0d8aee37dd69,Unwound,Indie Rock,56d98ec3cc2ddd0c0f6be474,New Plastic Ideas,1994.0,51.0,1994-03-21,eng,Unknown,1990,Unwound
+3222,5714debf25ac0d8aee37dd6a,Unwound,Indie Rock,56d98ec3cc2ddd0c0f6be474,Unwound,1995.0,15.0,1995-08-29,eng,Unknown,1990,Unwound
+3223,5714debf25ac0d8aee37dd6b,Unwound,Indie Rock,56d98ec3cc2ddd0c0f6be474,The Future Of What,1995.0,46.0,1995-04,eng,Unknown,1990,Unwound
+3224,5714debf25ac0d8aee37dd6c,Unwound,Post-Hardcore,56d98ec3cc2ddd0c0f6be474,Repetition,1996.0,65.0,1996-04,eng,Unknown,1990,Unwound
+3225,5714debf25ac0d8aee37dd6d,Unwound,Post-Hardcore,56d98ec3cc2ddd0c0f6be474,Challenge For A Civilized Society,1998.0,38.0,1998-01-13,eng,Unknown,1990,Unwound
+3230,5714debf25ac0d8aee37dd72,Unwritten Law,Punk Rock,56d98ec4cc2ddd0c0f6be476,Blue Room,1994.0,128.0,1994,eng,Unknown,1990,Unwritten Law
+3231,5714debf25ac0d8aee37dd73,Unwritten Law,Punk Rock,56d98ec4cc2ddd0c0f6be476,Oz Factor,1996.0,176.0,1996-04-02,eng,Unknown,1990,Unwritten Law
+3232,5714debf25ac0d8aee37dd74,Unwritten Law,Punk Rock,56d98ec4cc2ddd0c0f6be476,Unwritten Law,1998.0,28.0,2000,eng,Unknown,1990,Unwritten Law
+3243,5714debf25ac0d8aee37dd7f,Up Front,Hardcore Punk,56d98ec4cc2ddd0c0f6be47a,Daybreak,1990.0,18.0,Unknown,Unknown,Unknown,1990,Up Front
+3244,5714debf25ac0d8aee37dd80,Up Front,Hardcore Punk,56d98ec4cc2ddd0c0f6be47a,Changes,1992.0,18.0,Unknown,Unknown,Unknown,1990,Up Front
+3245,5714debf25ac0d8aee37dd81,Up Front,Hardcore Punk,56d98ec4cc2ddd0c0f6be47a,What Fire Does,1994.0,18.0,Unknown,Unknown,Unknown,1990,Up Front
+3246,5714debf25ac0d8aee37dd82,Up Front,Hardcore Punk,56d98ec4cc2ddd0c0f6be47a,Movement,1997.0,26.0,Unknown,Unknown,Unknown,1990,Up Front
+3267,5714debf25ac0d8aee37d774,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,BPM 132,1995.0,Unknown,1995-08-23,eng,Hard Rock,1990,Two-Mix
+3268,5714debf25ac0d8aee37d775,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,BPM 143,1996.0,Unknown,1996-01-24,Unknown,Hard Rock,1990,Two-Mix
+3269,5714debf25ac0d8aee37d776,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,BPM 150Max,1996.0,Unknown,1996-11-21,Unknown,Hard Rock,1990,Two-Mix
+3270,5714debf25ac0d8aee37d777,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,"BPM ""Best Files""",1997.0,Unknown,1997-03-13,Unknown,Hard Rock,1990,Two-Mix
+3271,5714debf25ac0d8aee37d778,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Fantastix,1997.0,Unknown,1997-12-22,eng,Hard Rock,1990,Two-Mix
+3272,5714debf25ac0d8aee37d779,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Fantastix II,1998.0,Unknown,1998-03-04,Unknown,Hard Rock,1990,Two-Mix
+3273,5714debf25ac0d8aee37d77a,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Dream Tactix,1998.0,Unknown,1998-09-23,eng,Hard Rock,1990,Two-Mix
+3274,5714debf25ac0d8aee37d77b,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Baroque Best,1998.0,Unknown,1998-11-26,Unknown,Hard Rock,1990,Two-Mix
+3275,5714debf25ac0d8aee37d77c,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Super Best Files 1995-1998,1998.0,Unknown,1998-12-21,eng,Hard Rock,1990,Two-Mix
+3276,5714debf25ac0d8aee37d77d,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Rhythm Formula,1999.0,Unknown,1999-11-25,eng,Hard Rock,1990,Two-Mix
+3277,5714debf25ac0d8aee37d77e,Two-Mix,Unknown,56d98d3ecc2ddd0c0f6be25f,Side Formula,1999.0,Unknown,1999-10-27,Unknown,Hard Rock,1990,Two-Mix
+3291,5714debf25ac0d8aee37d78c,Twothirtyeight,Unknown,56d98d3fcc2ddd0c0f6be264,Missing You Dearly,1998.0,8.0,1998-10-07,Unknown,Hard Rock,1990,Twothirtyeight
+3292,5714debf25ac0d8aee37d78d,Twothirtyeight,Unknown,56d98d3fcc2ddd0c0f6be264,Matter Has A Breaking Point,1999.0,Unknown,1999-07-04,Unknown,Hard Rock,1990,Twothirtyeight
+3298,5714debf25ac0d8aee37d793,Txarrena,Unknown,56d98d41cc2ddd0c0f6be267,Txarrena,1992.0,121.0,Unknown,Unknown,Hard Rock,1990,Txarrena
+3356,5714debf25ac0d8aee37d79a,Ty England,Country,56d98d44cc2ddd0c0f6be26a,Ty England,1995.0,Unknown,Unknown,Unknown,Unknown,1990,Ty England
+3357,5714debf25ac0d8aee37d79b,Ty England,Country,56d98d44cc2ddd0c0f6be26a,Two Ways To Fall,1996.0,Unknown,Unknown,eng,Unknown,1990,Ty England
+3358,5714debf25ac0d8aee37d79c,Ty England,Country,56d98d44cc2ddd0c0f6be26a,Highways & Dance Halls,1999.0,Unknown,Unknown,Unknown,Unknown,1990,Ty England
+3361,5714debf25ac0d8aee37d79f,Ty Herndon,Country,56d98d44cc2ddd0c0f6be26b,What Mattered Most,1995.0,42.0,1995-04-18,eng,Unknown,1990,Ty Herndon
+3362,5714debf25ac0d8aee37d7a0,Ty Herndon,Country,56d98d44cc2ddd0c0f6be26b,Living In A Moment,1996.0,85.0,1996-08-13,eng,Unknown,1990,Ty Herndon
+3363,5714debf25ac0d8aee37d7a1,Ty Herndon,Country,56d98d44cc2ddd0c0f6be26b,Big Hopes,1998.0,51.0,1998-05-26,Unknown,Unknown,1990,Ty Herndon
+3364,5714debf25ac0d8aee37d7a2,Ty Herndon,Country,56d98d44cc2ddd0c0f6be26b,Steam,1999.0,39.0,1999-11-02,eng,Unknown,1990,Ty Herndon
+3429,5714debf25ac0d8aee37ddcd,Urban Voodoo,Alternative Rock,56d98ed7cc2ddd0c0f6be4b2,Elegant Friction,1997.0,Unknown,Unknown,Unknown,Unknown,1990,Urban Voodoo
+3431,5714debf25ac0d8aee37ddcf,Urban Tapestry,Unknown,56d98ed8cc2ddd0c0f6be4b4,Myths And Urban Legends,1997.0,0.0,Unknown,Unknown,Hard Rock,1990,Urban Tapestry
+3446,5714debf25ac0d8aee37ddde,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,Americruiser,1990.0,9.0,1990,eng,Hard Rock,1990,Urge Overkill
+3447,5714debf25ac0d8aee37dddf,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,The Supersonic Storybook,1991.0,6.0,1991,eng,Hard Rock,1990,Urge Overkill
+3448,5714debf25ac0d8aee37dde0,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,Stull EP,1992.0,Unknown,1992,eng,Hard Rock,1990,Urge Overkill
+3449,5714debf25ac0d8aee37dde1,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,Saturation,1993.0,482.0,1993,eng,Hard Rock,1990,Urge Overkill
+3450,5714debf25ac0d8aee37dde2,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,Dropout,1993.0,482.0,1993,eng,Hard Rock,1990,Urge Overkill
+3451,5714debf25ac0d8aee37dde3,Urge Overkill,Unknown,56d98edccc2ddd0c0f6be4bc,Exit The Dragon,1995.0,54.0,1995-10,eng,Hard Rock,1990,Urge Overkill
+3456,5714debf25ac0d8aee37dde8,Urgehal,Unknown,56d98ee0cc2ddd0c0f6be4be,Arma Christi,1997.0,46.0,1997,Unknown,Hard Rock,1990,Urgehal
+3457,5714debf25ac0d8aee37dde9,Urgehal,Black Metal,56d98ee0cc2ddd0c0f6be4be,Massive Terrestrial Strike,1999.0,Unknown,1998,eng,Unknown,1990,Urgehal
+3488,5714debf25ac0d8aee37de08,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Different World,1991.0,5.0,Unknown,Unknown,Unknown,1990,Uriah Heep
+3489,5714debf25ac0d8aee37de09,Uriah Heep,Rock,56d98ee8cc2ddd0c0f6be4c4,Rarities From The Bronze Age,1991.0,12.0,1991,eng,Unknown,1990,Uriah Heep
+3490,5714debf25ac0d8aee37de0a,Uriah Heep,Rock,56d98ee8cc2ddd0c0f6be4c4,From Spice To Uriah Heep - Transition The Lansdowne Tapes,1993.0,59.0,1993-07,eng,Unknown,1990,Uriah Heep
+3491,5714debf25ac0d8aee37de0b,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Sea Of Light,1995.0,263.0,1995-04,eng,Unknown,1990,Uriah Heep
+3492,5714debf25ac0d8aee37de0c,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Spellbinder Live,1996.0,158.0,1996,eng,Unknown,1990,Uriah Heep
+3493,5714debf25ac0d8aee37de0d,Uriah Heep,Hard Rock,56d98ee8cc2ddd0c0f6be4c4,Sonic Origami,1998.0,486.0,1998-09,eng,Unknown,1990,Uriah Heep
+3494,5714debf25ac0d8aee37de0e,Uriah Heep,Rock,56d98ee8cc2ddd0c0f6be4c4,A Time Of Revelation - 25 Years On...,1996.0,223.0,1996-05,eng,Unknown,1990,Uriah Heep
+3506,5714debf25ac0d8aee37de1a,Urszula,Unknown,56d98ee8cc2ddd0c0f6be4c7,Best Of Urszula,1992.0,642.0,1992,pol,Hard Rock,1990,Urszula
+3507,5714debf25ac0d8aee37de1b,Urszula,Unknown,56d98ee8cc2ddd0c0f6be4c7,Akustycznie,1996.0,642.0,1996,pol,Hard Rock,1990,Urszula
+3508,5714debf25ac0d8aee37de1c,Urszula,Unknown,56d98ee8cc2ddd0c0f6be4c7,Biała Droga,1996.0,69.0,1996,pol,Hard Rock,1990,Urszula
+3509,5714debf25ac0d8aee37de1d,Urszula,Unknown,56d98ee8cc2ddd0c0f6be4c7,Supernova,1998.0,43.0,1998,pol,Hard Rock,1990,Urszula
+3524,5714debf25ac0d8aee37de2c,US Marines,Unknown,56d98eeccc2ddd0c0f6be4d3,Marching Cadences Of The US Marines,1998.0,230.0,Unknown,Unknown,Psychedelic Rock,1990,US Marines
+3529,5714debf25ac0d8aee37de31,Us3,J-Rap,56d98ef0cc2ddd0c0f6be4d7,Hand On The Torch,1993.0,3270.0,1993-11-16,Unknown,Unknown,1990,Us3
+3538,5714debf25ac0d8aee37de3a,USCB Allstars,Unknown,56d98ef1cc2ddd0c0f6be4da,Hygglo Birdo,1998.0,8.0,Unknown,Unknown,Psychedelic Rock,1990,USCB Allstars
+3539,5714debf25ac0d8aee37de3b,USCB Allstars,Unknown,56d98ef1cc2ddd0c0f6be4da,Moodswing,1999.0,8.0,1999-11-29,Unknown,Psychedelic Rock,1990,USCB Allstars
+3549,5714debf25ac0d8aee37de45,USER (Artist),Unknown,56d98ef4cc2ddd0c0f6be4e0,Semi-Mental Journey,1996.0,1.0,1996-06,Unknown,Psychedelic Rock,1990,USER (Artist)
+3550,5714debf25ac0d8aee37de46,USER (Artist),Unknown,56d98ef4cc2ddd0c0f6be4e0,The Last Days Of Beauty,1998.0,10.0,1999,Unknown,Psychedelic Rock,1990,USER (Artist)
+3562,5714debf25ac0d8aee37d7d8,Tyketto,Glam Metal,56d98d50cc2ddd0c0f6be279,Don't Come Easy,1991.0,25.0,1991-04-21,eng,Unknown,1990,Tyketto
+3563,5714debf25ac0d8aee37d7d9,Tyketto,Rock,56d98d50cc2ddd0c0f6be279,Strength In Numbers,1994.0,25.0,1994,eng,Unknown,1990,Tyketto
+3564,5714debf25ac0d8aee37d7da,Tyketto,Unknown,56d98d50cc2ddd0c0f6be279,Shine,1995.0,Unknown,1995,eng,Psychedelic Rock,1990,Tyketto
+3572,5714debf25ac0d8aee37d7e2,Tyla,Glam Rock,56d98d53cc2ddd0c0f6be27d,The Life & Times Of A Ballad Monger,1994.0,26.0,Unknown,Unknown,Unknown,1990,Tyla
+3573,5714debf25ac0d8aee37d7e3,Tyla,Glam Rock,56d98d53cc2ddd0c0f6be27d,Libertine,1996.0,18.0,Unknown,Unknown,Unknown,1990,Tyla
+3574,5714debf25ac0d8aee37d7e4,Tyla,Glam Rock,56d98d53cc2ddd0c0f6be27d,Gothic: Flowers Of A Brutal Calling,1997.0,18.0,1997,Unknown,Unknown,1990,Tyla
+3575,5714debf25ac0d8aee37d7e5,Tyla,Glam Rock,56d98d53cc2ddd0c0f6be27d,Nocturnal Nomad,1999.0,25.0,1999-02-08,Unknown,Unknown,1990,Tyla
+3582,5714debf25ac0d8aee37d7ec,Tyler Collins,Unknown,56d98d55cc2ddd0c0f6be281,Tyler,1992.0,2.0,Unknown,Unknown,Psychedelic Rock,1990,Tyler Collins
+3603,5714debf25ac0d8aee37de4b,Useless ID,Unknown,56d98ef4cc2ddd0c0f6be4e1,Dead's Not Punk,1997.0,Unknown,Unknown,Unknown,Psychedelic Rock,1990,Useless ID
+3604,5714debf25ac0d8aee37de4c,Useless ID,Unknown,56d98ef4cc2ddd0c0f6be4e1,Get In The Pita Bread Pit,1999.0,59.0,Unknown,Unknown,Psychedelic Rock,1990,Useless ID
+3616,5714debf25ac0d8aee37de58,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,Usher,1994.0,3082.0,1994-08-30,eng,Unknown,1990,Usher
+3617,5714debf25ac0d8aee37de59,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,My Way,1997.0,7991.0,1997-09-16,eng,Unknown,1990,Usher
+3618,5714debf25ac0d8aee37de5a,Usher,R&amp;B,56d98efacc2ddd0c0f6be4e8,Live,1999.0,4225.0,1999-03-23,eng,Unknown,1990,Usher
+3633,5714debf25ac0d8aee37de69,Utah Phillips,Unknown,56d98efecc2ddd0c0f6be4ec,Fellow Workers,1999.0,Unknown,Unknown,Unknown,Psychedelic Rock,1990,Utah Phillips
+3667,5714debf25ac0d8aee37d81d,Type O Negative,Heavy Metal,56d98d63cc2ddd0c0f6be29b,Slow Deep And Hard,1991.0,436.0,1991,eng,Unknown,1990,Type O Negative
+3668,5714debf25ac0d8aee37d81e,Type O Negative,Heavy Metal,56d98d63cc2ddd0c0f6be29b,The Origin Of The Feces,1992.0,1042.0,1992,eng,Unknown,1990,Type O Negative
+3669,5714debf25ac0d8aee37d81f,Type O Negative,Unknown,56d98d63cc2ddd0c0f6be29b,Bloody Kisses,1993.0,3045.0,1993-08-17,eng,Psychedelic Rock,1990,Type O Negative
+3670,5714debf25ac0d8aee37d820,Type O Negative,Unknown,56d98d63cc2ddd0c0f6be29b,October Rust,1996.0,2272.0,1996,eng,Psychedelic Rock,1990,Type O Negative
+3671,5714debf25ac0d8aee37d821,Type O Negative,Unknown,56d98d63cc2ddd0c0f6be29b,World Coming Down,1999.0,1595.0,1999-09-21,eng,Psychedelic Rock,1990,Type O Negative
+3677,5714debf25ac0d8aee37de6f,Utah Saints,Electronic,56d98efecc2ddd0c0f6be4ef,Utah Saints,1992.0,1284.0,2005-12-08,eng,Unknown,1990,Utah Saints
+3682,5714debf25ac0d8aee37de74,Usurper,Thrash Metal,56d98f00cc2ddd0c0f6be4f1,Threshold Of The Usurper,1997.0,5.0,Unknown,Unknown,Unknown,1990,Usurper
+3683,5714debf25ac0d8aee37de75,Usurper,Thrash Metal,56d98f00cc2ddd0c0f6be4f1,Skeletal Season,1999.0,5.0,Unknown,Unknown,Unknown,1990,Usurper
+3690,5714debf25ac0d8aee37de7c,Ute Freudenberg,Unknown,56d98f01cc2ddd0c0f6be4f5,Und Da Fragst Du Noch,1994.0,0.0,Unknown,Unknown,Psychedelic Rock,1990,Ute Freudenberg
+3691,5714debf25ac0d8aee37de7d,Ute Freudenberg,Unknown,56d98f01cc2ddd0c0f6be4f5,Jubilee,1999.0,28.0,1999-01-11,Unknown,Psychedelic Rock,1990,Ute Freudenberg
+3714,5714debf25ac0d8aee37de94,Utumno,Unknown,56d98f08cc2ddd0c0f6be4fb,The Light Of Day,1991.0,17.0,Unknown,Unknown,Psychedelic Rock,1990,Utumno
+3715,5714debf25ac0d8aee37de95,Utumno,Death Metal,56d98f08cc2ddd0c0f6be4fb,Across The Horizon,1993.0,17.0,Unknown,Unknown,Unknown,1990,Utumno
+3774,5714debf25ac0d8aee37d849,Tyrese,Contemporary R&amp;B,56d98d69cc2ddd0c0f6be2b0,Tyrese,1998.0,6994.0,1998-09-29,Unknown,Unknown,1990,Tyrese
+3801,5714debf25ac0d8aee37dec2,V-mob,Unknown,56d98f22cc2ddd0c0f6be510,Rough Cut,1999.0,1.0,Unknown,Unknown,Psychedelic Rock,1990,V-mob
+3815,5714debf25ac0d8aee37ded0,V.M.18,Heavy Metal,56d98f24cc2ddd0c0f6be517,V.M.18,1996.0,Unknown,Unknown,Unknown,Unknown,1990,V.M.18
+3816,5714debf25ac0d8aee37ded1,V2,Unknown,56d98f25cc2ddd0c0f6be518,背徳の瞳 〜Eyes Of Venus〜,1991.0,Unknown,Unknown,Unknown,Psychedelic Rock,1990,V2
+3851,5714debf25ac0d8aee37d869,Tyrävyö,Unknown,56d98d6ecc2ddd0c0f6be2ba,Helminauha,1999.0,16.0,1999,fin,Psychedelic Rock,1990,Tyrävyö
+3865,5714debf25ac0d8aee37d877,Táxi,Rock,56d98d74cc2ddd0c0f6be2bf,The Very Best Of,1992.0,98.0,1992,por,Unknown,1990,Táxi
+3879,5714debf25ac0d8aee37d885,Téléphone,Rock,56d98d74cc2ddd0c0f6be2c2,Rappels,1992.0,37651.0,1991,fra,Unknown,1990,Téléphone
+3880,5714debf25ac0d8aee37d886,Téléphone,Rock,56d98d74cc2ddd0c0f6be2c2,Rappels 2,1993.0,16768.0,Unknown,Unknown,Unknown,1990,Téléphone
+3884,5714debf25ac0d8aee37d88a,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Armageddon,1990.0,47.0,Unknown,Unknown,Unknown,1990,Törr
+3885,5714debf25ac0d8aee37d88b,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Institut Klinické Smrti,1991.0,Unknown,Unknown,Unknown,Unknown,1990,Törr
+3886,5714debf25ac0d8aee37d88c,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Chcípni O Kus Dál,1992.0,Unknown,Unknown,Unknown,Unknown,1990,Törr
+3887,5714debf25ac0d8aee37d88d,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Kladivo Na Čarodějnice,1993.0,47.0,1993,Unknown,Unknown,1990,Törr
+3888,5714debf25ac0d8aee37d88e,Törr,Black Metal,56d98d79cc2ddd0c0f6be2c6,Morituri Te Salutant,1996.0,Unknown,1996,Unknown,Unknown,1990,Törr
+3897,5714debf25ac0d8aee37d897,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Mange Tes Morts,1990.0,Unknown,1991,fra,Psychedelic Rock,1990,Têtes Raides
+3898,5714debf25ac0d8aee37d898,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,La Galette Molle,1991.0,Unknown,Unknown,Unknown,Psychedelic Rock,1990,Têtes Raides
+3899,5714debf25ac0d8aee37d899,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Les Oiseaux,1992.0,Unknown,1992,fra,Psychedelic Rock,1990,Têtes Raides
+3900,5714debf25ac0d8aee37d89a,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Fleur De Yeux,1993.0,Unknown,1993-10-15,fra,Psychedelic Rock,1990,Têtes Raides
+3901,5714debf25ac0d8aee37d89b,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Le Bout Du Toit,1996.0,Unknown,1996,fra,Psychedelic Rock,1990,Têtes Raides
+3902,5714debf25ac0d8aee37d89c,Têtes Raides,Unknown,56d98d7bcc2ddd0c0f6be2c8,Chamboultou,1998.0,Unknown,1998,fra,Psychedelic Rock,1990,Têtes Raides
+3914,5714debf25ac0d8aee37dedc,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Since 1995 ~ Forever,1996.0,Unknown,Unknown,Unknown,Unknown,1990,V6
+3915,5714debf25ac0d8aee37dedd,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Greeting,1996.0,Unknown,Unknown,Unknown,Unknown,1990,V6
+3916,5714debf25ac0d8aee37dede,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Nature Rhythm,1997.0,Unknown,1997-08-13,Unknown,Unknown,1990,V6
+3917,5714debf25ac0d8aee37dedf,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,Super Heroes,1998.0,Unknown,1998-02-11,Unknown,Unknown,1990,V6
+3918,5714debf25ac0d8aee37dee0,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,A Jack In The Box,1998.0,Unknown,1998-08-05,Unknown,Unknown,1990,V6
+3919,5714debf25ac0d8aee37dee1,V6,J-Pop,56d98f2ccc2ddd0c0f6be51e,"""Lucky"" 20th Century, Coming Century To Be Continued...",1999.0,Unknown,1999-08-18,Unknown,Unknown,1990,V6
+3942,5714debf25ac0d8aee37def8,Vacuum,Unknown,56d98f31cc2ddd0c0f6be52b,The Plutonium Cathedral,1997.0,64.0,1997,eng,Psychedelic Rock,1990,Vacuum
+3943,5714debf25ac0d8aee37def9,Vacuum,Unknown,56d98f31cc2ddd0c0f6be52b,Seance At The Chaebol,1998.0,68.0,1998,eng,Psychedelic Rock,1990,Vacuum
+3956,5714debf25ac0d8aee37df06,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Morbid Reich (DEMO),1990.0,509.0,Unknown,Unknown,Unknown,1990,Vader
+3957,5714debf25ac0d8aee37df07,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,The Ultimate Incantation,1992.0,509.0,1992,eng,Unknown,1990,Vader
+3958,5714debf25ac0d8aee37df08,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Sothis (MCD),1994.0,92.0,Unknown,Unknown,Unknown,1990,Vader
+3959,5714debf25ac0d8aee37df09,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,The Darkest Age '93,1994.0,509.0,Unknown,Unknown,Unknown,1990,Vader
+3960,5714debf25ac0d8aee37df0a,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,An Act Of Darkness (Single),1995.0,Unknown,Unknown,Unknown,Unknown,1990,Vader
+3961,5714debf25ac0d8aee37df0b,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,De Profundis,1995.0,20.0,1995,eng,Unknown,1990,Vader
+3962,5714debf25ac0d8aee37df0c,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Future Of The Past,1996.0,116.0,1996-12-03,eng,Unknown,1990,Vader
+3963,5714debf25ac0d8aee37df0d,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Black To The Blind,1997.0,102.0,1997-10-13,eng,Unknown,1990,Vader
+3964,5714debf25ac0d8aee37df0e,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Carnal/Black To The Blind (Single),1997.0,102.0,Unknown,Unknown,Unknown,1990,Vader
+3965,5714debf25ac0d8aee37df0f,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Reborn In Chaos,1997.0,626.0,1997,eng,Unknown,1990,Vader
+3966,5714debf25ac0d8aee37df10,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Kingdom (MCD),1998.0,20.0,Unknown,Unknown,Unknown,1990,Vader
+3967,5714debf25ac0d8aee37df11,Vader,Death Metal,56d98f36cc2ddd0c0f6be52f,Live In Japan,1998.0,102.0,1998-11-30,eng,Unknown,1990,Vader
+3994,5714debf25ac0d8aee37df2c,Vaginal Jesus,Rock Against Communism,56d98f3ccc2ddd0c0f6be53e,Jesus Saves... His Pennies,1992.0,Unknown,Unknown,Unknown,Unknown,1990,Vaginal Jesus
+3995,5714debf25ac0d8aee37df2d,Vaginal Jesus,Rock Against Communism,56d98f3ccc2ddd0c0f6be53e,Beat Rodney Down,1993.0,Unknown,Unknown,Unknown,Unknown,1990,Vaginal Jesus
+4030,5714debf25ac0d8aee37d8b8,U-God,Hip Hop,56d98d9bcc2ddd0c0f6be2d0,Golden Arms Redemption,1999.0,741.0,1999-10-05,eng,Unknown,1990,U-God
+4087,5714debf25ac0d8aee37d8c1,U.N.L.V.,Southern Hip Hop,56d98da4cc2ddd0c0f6be2d4,6th & Baronne,1993.0,Unknown,Unknown,Unknown,Unknown,1990,U.N.L.V.
+4088,5714debf25ac0d8aee37d8c2,U.N.L.V.,Southern Hip Hop,56d98da4cc2ddd0c0f6be2d4,Straight Out Tha Gutta,1994.0,Unknown,Unknown,Unknown,Unknown,1990,U.N.L.V.
+4089,5714debf25ac0d8aee37d8c3,U.N.L.V.,Southern Hip Hop,56d98da4cc2ddd0c0f6be2d4,Mac Melph Calio,1995.0,16.0,Unknown,Unknown,Unknown,1990,U.N.L.V.
+4090,5714debf25ac0d8aee37d8c4,U.N.L.V.,Southern Hip Hop,56d98da4cc2ddd0c0f6be2d4,Uptown 4 Life,1996.0,16.0,Unknown,Unknown,Unknown,1990,U.N.L.V.
+4102,5714debf25ac0d8aee37d8d0,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Faceless World,1990.0,248.0,1990,eng,Progressive Rock,1990,U.D.O.
+4103,5714debf25ac0d8aee37d8d1,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Timebomb,1991.0,227.0,1991,eng,Progressive Rock,1990,U.D.O.
+4104,5714debf25ac0d8aee37d8d2,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Solid,1997.0,138.0,1997-03-24,eng,Progressive Rock,1990,U.D.O.
+4105,5714debf25ac0d8aee37d8d3,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,No Limits,1998.0,156.0,1998-04-27,eng,Progressive Rock,1990,U.D.O.
+4106,5714debf25ac0d8aee37d8d4,U.D.O.,Unknown,56d98da6cc2ddd0c0f6be2d7,Holy,1999.0,176.0,1999-10-25,eng,Progressive Rock,1990,U.D.O.
+4150,5714debf25ac0d8aee37df5c,Valensia,Unknown,56d98f45cc2ddd0c0f6be552,Valensia,1993.0,64.0,Unknown,Unknown,Progressive Rock,1990,Valensia
+4158,5714debf25ac0d8aee37df64,Valentin Elizalde,Unknown,56d98f4ccc2ddd0c0f6be557,Más Allá Del Mar,1998.0,27.0,Unknown,Unknown,Progressive Rock,1990,Valentin Elizalde
+4159,5714debf25ac0d8aee37df65,Valentin Elizalde,Unknown,56d98f4ccc2ddd0c0f6be557,Regresan Los Mafiosos,1999.0,1165.0,Unknown,Unknown,Progressive Rock,1990,Valentin Elizalde
+4160,5714debf25ac0d8aee37df66,Valentin Elizalde,Unknown,56d98f4ccc2ddd0c0f6be557,En Vivo Con Banda La Nueva Sierreña,1999.0,803.0,Unknown,Unknown,Progressive Rock,1990,Valentin Elizalde
+4189,5714debf25ac0d8aee37e4a5,Vic Damone,Vocal,56d99088cc2ddd0c0f6be73d,16 Most Requested Songs,1992.0,53.0,1992,eng,Unknown,1990,Vic Damone
+4198,5714debf25ac0d8aee37e4ae,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,Little,1990.0,34.0,1990,Unknown,Unknown,1990,Vic Chesnutt
+4199,5714debf25ac0d8aee37e4af,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,West Of Rome,1991.0,48.0,1991,eng,Unknown,1990,Vic Chesnutt
+4200,5714debf25ac0d8aee37e4b0,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,Drunk,1993.0,58.0,1993,eng,Unknown,1990,Vic Chesnutt
+4201,5714debf25ac0d8aee37e4b1,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,Is The Actor Happy,1995.0,85.0,1995-05-23,eng,Unknown,1990,Vic Chesnutt
+4202,5714debf25ac0d8aee37e4b2,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,About To Choke,1996.0,Unknown,1996-11-12,Unknown,Unknown,1990,Vic Chesnutt
+4203,5714debf25ac0d8aee37e4b3,Vic Chesnutt,Folk Rock,56d9908ccc2ddd0c0f6be743,The Salesman And Bernadette,1998.0,116.0,1998-11-10,Unknown,Unknown,1990,Vic Chesnutt
+4218,5714debf25ac0d8aee37e4c2,Vice,Glam Metal,56d9908ecc2ddd0c0f6be74b,Second Excess,1990.0,Unknown,Unknown,Unknown,Unknown,1990,Vice
+4221,5714debf25ac0d8aee37d8e3,U.S. Bombs,Unknown,56d98da7cc2ddd0c0f6be2d8,Garibaldi Guard,1996.0,57.0,1996-06-04,eng,Progressive Rock,1990,U.S. Bombs
+4222,5714debf25ac0d8aee37d8e4,U.S. Bombs,Unknown,56d98da7cc2ddd0c0f6be2d8,War Birth,1997.0,136.0,1997-09-23,eng,Progressive Rock,1990,U.S. Bombs
+4223,5714debf25ac0d8aee37d8e5,U.S. Bombs,Unknown,56d98da7cc2ddd0c0f6be2d8,The World,1999.0,141.0,Unknown,Unknown,Progressive Rock,1990,U.S. Bombs
+4250,5714debf25ac0d8aee37d900,U2,Rock,56d98db0cc2ddd0c0f6be2e2,Achtung Baby,1991.0,63735.0,1991-11-18,Unknown,Unknown,1990,U2
+4251,5714debf25ac0d8aee37d901,U2,Alternative Rock,56d98db0cc2ddd0c0f6be2e2,Zooropa,1993.0,26108.0,1993-07-05,Unknown,Unknown,1990,U2
+4252,5714debf25ac0d8aee37d902,U2,Alternative Rock,56d98db0cc2ddd0c0f6be2e2,Pop,1997.0,19262.0,1997-02-26,Unknown,Unknown,1990,U2
+4253,5714debf25ac0d8aee37d903,U2,Rock,56d98db0cc2ddd0c0f6be2e2,The Best Of 1980-1990,1998.0,60834.0,1998-11-02,Unknown,Unknown,1990,U2
+4272,5714debf25ac0d8aee37df7f,Valentine (US),Unknown,56d98f4ecc2ddd0c0f6be55b,Valentine,1990.0,Unknown,Unknown,Unknown,Progressive Rock,1990,Valentine (US)
+4329,5714debf25ac0d8aee37d929,UB40,Unknown,56d98db7cc2ddd0c0f6be2e8,I'll Be Your Baby Tonight,1990.0,Unknown,Unknown,Unknown,Progressive Rock,1990,UB40
+4330,5714debf25ac0d8aee37d92a,UB40,Reggae,56d98db7cc2ddd0c0f6be2e8,Promises And Lies,1993.0,4239.0,1993-07-12,Unknown,Unknown,1990,UB40
+4331,5714debf25ac0d8aee37d92b,UB40,Reggae,56d98db7cc2ddd0c0f6be2e8,Guns In The Ghetto,1997.0,1929.0,1997-07-01,eng,Unknown,1990,UB40
+4332,5714debf25ac0d8aee37d92c,UB40,Reggae,56d98db7cc2ddd0c0f6be2e8,UB40 Present The Dancehall Album,1998.0,942.0,Unknown,Unknown,Unknown,1990,UB40
+4333,5714debf25ac0d8aee37d92d,UB40,Reggae,56d98db7cc2ddd0c0f6be2e8,Labour Of Love III,1998.0,2829.0,1998-09-21,Unknown,Unknown,1990,UB40
+4353,5714debf25ac0d8aee37d941,Ua,Jazz,56d98dc7cc2ddd0c0f6be2f2,Petit,1995.0,0.0,1995-10-21,jpn,Unknown,1990,Ua
+4354,5714debf25ac0d8aee37d942,Ua,Jazz,56d98dc7cc2ddd0c0f6be2f2,11,1996.0,Unknown,1996-10-23,Unknown,Unknown,1990,Ua
+4355,5714debf25ac0d8aee37d943,Ua,Jazz Fusion,56d98dc7cc2ddd0c0f6be2f2,Fine Feathers Make Fine Birds,1997.0,0.0,1997-04-23,Unknown,Unknown,1990,Ua
+4356,5714debf25ac0d8aee37d944,Ua,Soul,56d98dc7cc2ddd0c0f6be2f2,アメトラ,1998.0,Unknown,1998-04-22,jpn,Unknown,1990,Ua
+4357,5714debf25ac0d8aee37d945,Ua,Soul,56d98dc7cc2ddd0c0f6be2f2,Turbo,1999.0,Unknown,1999-10-27,jpn,Unknown,1990,Ua
+4381,5714debf25ac0d8aee37e4cd,Vice Squad,Unknown,56d99091cc2ddd0c0f6be74f,Get A Life,1999.0,86.0,1998-04-27,Unknown,Progressive Rock,1990,Vice Squad
+4434,5714debf25ac0d8aee37d971,Udo Jürgens,Unknown,56d98dcacc2ddd0c0f6be2f4,Wünsche Zur Weihnachtszeit,1991.0,131.0,Unknown,Unknown,Progressive Rock,1990,Udo Jürgens
+4435,5714debf25ac0d8aee37d972,Udo Jürgens,Schlager,56d98dcacc2ddd0c0f6be2f4,Geradeaus!,1991.0,79.0,1991,Unknown,Unknown,1990,Udo Jürgens
+4436,5714debf25ac0d8aee37d973,Udo Jürgens,Schlager,56d98dcacc2ddd0c0f6be2f4,Café Größenwahn,1993.0,13.0,1993-10-11,deu,Unknown,1990,Udo Jürgens
+4437,5714debf25ac0d8aee37d974,Udo Jürgens,Unknown,56d98dcacc2ddd0c0f6be2f4,Zärtlicher Chaot,1995.0,20.0,Unknown,Unknown,Progressive Rock,1990,Udo Jürgens
+4438,5714debf25ac0d8aee37d975,Udo Jürgens,Schlager,56d98dcacc2ddd0c0f6be2f4,Ich Werde Da Sein,1999.0,105.0,1999-03-15,deu,Unknown,1990,Udo Jürgens
+4475,5714debf25ac0d8aee37d99a,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,Essential UFO,1992.0,Unknown,1992,eng,Unknown,1990,UFO
+4476,5714debf25ac0d8aee37d99b,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,High Stakes & Dangerous Men,1992.0,61.0,1992,eng,Unknown,1990,UFO
+4477,5714debf25ac0d8aee37d99c,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,Walk On Water,1995.0,72.0,1995,eng,Unknown,1990,UFO
+4478,5714debf25ac0d8aee37d99d,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,Lights Out In Tokyo,1995.0,61.0,1993-12-27,Unknown,Unknown,1990,UFO
+4479,5714debf25ac0d8aee37d99e,UFO,Hard Rock,56d98dd2cc2ddd0c0f6be2fe,On With The Action,1998.0,89.0,Unknown,Unknown,Unknown,1990,UFO
+4493,5714debf25ac0d8aee37dfa4,Valhalla (RU),Unknown,56d98f58cc2ddd0c0f6be576,The Wolfish Nocturne (Demo),1998.0,Unknown,Unknown,Unknown,Progressive Rock,1990,Valhalla (RU)
+4505,5714debf25ac0d8aee37dfb0,Vallanzaska,Ska Punk,56d98f5bcc2ddd0c0f6be57d,Cheope,1998.0,74.0,Unknown,Unknown,Unknown,1990,Vallanzaska
+4511,5714debf25ac0d8aee37dfb6,Valley's Eve,Unknown,56d98f5bcc2ddd0c0f6be57f,Prodigia,1997.0,Unknown,Unknown,Unknown,Progressive Rock,1990,Valley's Eve
+4512,5714debf25ac0d8aee37dfb7,Valley's Eve,Unknown,56d98f5bcc2ddd0c0f6be57f,The Atmosphere Of Silence,1999.0,Unknown,Unknown,Unknown,Progressive Rock,1990,Valley's Eve
+4517,5714debf25ac0d8aee37dfbc,Value Pac,Unknown,56d98f5dcc2ddd0c0f6be582,Value Pac,1996.0,14.0,1996-08-30,eng,Progressive Rock,1990,Value Pac
+4518,5714debf25ac0d8aee37dfbd,Value Pac,Unknown,56d98f5dcc2ddd0c0f6be582,Jalapeno,1997.0,13.0,1997,eng,Progressive Rock,1990,Value Pac
+4526,5714debf25ac0d8aee37dfc5,Vamp,Folk Rock,56d98f61cc2ddd0c0f6be588,"Godmorgen, Søster",1993.0,30.0,1993,Unknown,Unknown,1990,Vamp
+4527,5714debf25ac0d8aee37dfc6,Vamp,Folk Rock,56d98f61cc2ddd0c0f6be588,Horisonter,1994.0,7.0,1994,Unknown,Unknown,1990,Vamp
+4528,5714debf25ac0d8aee37dfc7,Vamp,Folk Rock,56d98f61cc2ddd0c0f6be588,13 Humler,1996.0,12.0,1996,nor,Unknown,1990,Vamp
+4529,5714debf25ac0d8aee37dfc8,Vamp,Folk Rock,56d98f61cc2ddd0c0f6be588,Folken,1996.0,6.0,1996,Unknown,Unknown,1990,Vamp
+4530,5714debf25ac0d8aee37dfc9,Vamp,Folk Rock,56d98f61cc2ddd0c0f6be588,Flua På Veggen,1998.0,5.0,1998,Unknown,Unknown,1990,Vamp
+4552,5714debf25ac0d8aee37e4f1,Vicious Crusade,Folk Metal,56d990afcc2ddd0c0f6be766,Life That Kills,1997.0,Unknown,1996-12,Unknown,Unknown,1990,Vicious Crusade
+4553,5714debf25ac0d8aee37e4f2,Vicious Crusade,Folk Metal,56d990afcc2ddd0c0f6be766,Faces Of Vice,1997.0,Unknown,1997-09-01,Unknown,Unknown,1990,Vicious Crusade
+4568,5714debf25ac0d8aee37e501,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Vicious Rumors,1990.0,159.0,1990-02-08,Unknown,Unknown,1990,Vicious Rumors
+4569,5714debf25ac0d8aee37e502,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Welcome To The Ball,1992.0,124.0,1991-07-23,Unknown,Unknown,1990,Vicious Rumors
+4570,5714debf25ac0d8aee37e503,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Word Of Mouth,1994.0,Unknown,1994,Unknown,Unknown,1990,Vicious Rumors
+4571,5714debf25ac0d8aee37e504,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Something Burning,1996.0,Unknown,1996,eng,Unknown,1990,Vicious Rumors
+4572,5714debf25ac0d8aee37e505,Vicious Rumors,Power Metal,56d990b1cc2ddd0c0f6be76c,Cyberchrist,1998.0,Unknown,1998-08-25,Unknown,Unknown,1990,Vicious Rumors
+4598,5714debf25ac0d8aee37d9b2,UGK,Unknown,56d98dd7cc2ddd0c0f6be302,Banned,1992.0,109.0,Unknown,Unknown,Schlager,1990,UGK
+4599,5714debf25ac0d8aee37d9b3,UGK,Southern Hip Hop,56d98dd7cc2ddd0c0f6be302,Too Hard To Swallow,1992.0,169.0,Unknown,Unknown,Unknown,1990,UGK
+4600,5714debf25ac0d8aee37d9b4,UGK,Southern Hip Hop,56d98dd7cc2ddd0c0f6be302,Super Tight...,1994.0,199.0,Unknown,Unknown,Unknown,1990,UGK
+4601,5714debf25ac0d8aee37d9b5,UGK,Southern Hip Hop,56d98dd7cc2ddd0c0f6be302,Ridin' Dirty,1996.0,3254.0,Unknown,Unknown,Unknown,1990,UGK
+4615,5714debf25ac0d8aee37dfd5,Vampire Rodents,Avant-garde,56d98f64cc2ddd0c0f6be58b,War Music,1991.0,1.0,1991,eng,Unknown,1990,Vampire Rodents
+4616,5714debf25ac0d8aee37dfd6,Vampire Rodents,Avant-garde,56d98f64cc2ddd0c0f6be58b,Premonition,1992.0,2.0,1992,eng,Unknown,1990,Vampire Rodents
+4617,5714debf25ac0d8aee37dfd7,Vampire Rodents,Avant-garde,56d98f64cc2ddd0c0f6be58b,Lullaby Land,1993.0,7.0,1994,eng,Unknown,1990,Vampire Rodents
+4618,5714debf25ac0d8aee37dfd8,Vampire Rodents,Avant-garde,56d98f64cc2ddd0c0f6be58b,Clockseed,1994.0,3.0,1994-04-14,eng,Unknown,1990,Vampire Rodents
+4619,5714debf25ac0d8aee37dfd9,Vampire Rodents,Avant-garde,56d98f64cc2ddd0c0f6be58b,Gravity's Rim,1996.0,1.0,1996,eng,Unknown,1990,Vampire Rodents
+4657,5714debf25ac0d8aee37e518,Vico C,Unknown,56d990b5cc2ddd0c0f6be775,Aquel Que Había Muerto,1998.0,8341.0,Unknown,Unknown,Schlager,1990,Vico C
+4664,5714debf25ac0d8aee37e51f,Victims Family,Hardcore Punk,56d990b7cc2ddd0c0f6be779,White Bread Blues,1990.0,73.0,1990,Unknown,Unknown,1990,Victims Family
+4665,5714debf25ac0d8aee37e520,Victims Family,Hardcore Punk,56d990b7cc2ddd0c0f6be779,The Germ,1992.0,65.0,1992,Unknown,Unknown,1990,Victims Family
+4666,5714debf25ac0d8aee37e521,Victims Family,Punk Rock,56d990b7cc2ddd0c0f6be779,Headache Remedy,1994.0,55.0,1994-02-11,Unknown,Unknown,1990,Victims Family
+4667,5714debf25ac0d8aee37e522,Victims Family,Punk Rock,56d990b7cc2ddd0c0f6be779,4 Great Thrash Songs,1995.0,44.0,1995-05-05,Unknown,Unknown,1990,Victims Family
+4703,5714debf25ac0d8aee37d9d7,Ugly Kid Joe,Hard Rock,56d98ddccc2ddd0c0f6be307,As Ugly As They Wanna Be,1991.0,Unknown,1991-10-15,Unknown,Unknown,1990,Ugly Kid Joe
+4704,5714debf25ac0d8aee37d9d8,Ugly Kid Joe,Hard Rock,56d98ddccc2ddd0c0f6be307,America's Least Wanted,1992.0,8443.0,1992,eng,Unknown,1990,Ugly Kid Joe
+4705,5714debf25ac0d8aee37d9d9,Ugly Kid Joe,Hard Rock,56d98ddccc2ddd0c0f6be307,Menace To Sobriety,1995.0,79.0,1995-06-13,eng,Unknown,1990,Ugly Kid Joe
+4706,5714debf25ac0d8aee37d9da,Ugly Kid Joe,Hard Rock,56d98ddccc2ddd0c0f6be307,Motel California,1996.0,1296.0,1996-10-22,eng,Unknown,1990,Ugly Kid Joe
+4707,5714debf25ac0d8aee37d9db,Ugly Kid Joe,Hard Rock,56d98ddccc2ddd0c0f6be307,The Very Best Of Ugly Kid Joe: As Ugly As It Gets,1998.0,8443.0,Unknown,Unknown,Unknown,1990,Ugly Kid Joe
+4756,5714debf25ac0d8aee37da0c,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Ich Will Dich Haben,1991.0,756.0,1991-02-21,Unknown,Schlager,1990,Udo Lindenberg
+4757,5714debf25ac0d8aee37da0d,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Gustav,1991.0,756.0,1991-10-21,deu,Schlager,1990,Udo Lindenberg
+4758,5714debf25ac0d8aee37da0e,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Panik-Panther,1992.0,300.0,1992-09-28,deu,Schlager,1990,Udo Lindenberg
+4759,5714debf25ac0d8aee37da0f,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Benjamin,1993.0,250.0,1993-10-18,deu,Schlager,1990,Udo Lindenberg
+4760,5714debf25ac0d8aee37da10,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Kosmos,1995.0,Unknown,1995-05-17,deu,Schlager,1990,Udo Lindenberg
+4761,5714debf25ac0d8aee37da11,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Und Ewig Rauscht Die Linde,1996.0,243.0,1996-04-22,deu,Schlager,1990,Udo Lindenberg
+4762,5714debf25ac0d8aee37da12,Udo Lindenberg,Unknown,56d98ddecc2ddd0c0f6be312,Zeitmaschine,1998.0,293.0,1998,deu,Schlager,1990,Udo Lindenberg
+4777,5714debf25ac0d8aee37e001,Van Dyke Parks,Unknown,56d98f6dcc2ddd0c0f6be599,Orange Crate Art,1995.0,66.0,Unknown,Unknown,Schlager,1990,Van Dyke Parks
+4806,5714debf25ac0d8aee37e01e,Van Halen,Rock,56d98f73cc2ddd0c0f6be59e,For Unlawful Carnal Knowledge,1991.0,2792.0,1991-06-18,Unknown,Unknown,1990,Van Halen
+4807,5714debf25ac0d8aee37e01f,Van Halen,Hard Rock,56d98f73cc2ddd0c0f6be59e,"Live: Right Here, Right Now",1993.0,3869.0,1993-02-23,Unknown,Unknown,1990,Van Halen
+4808,5714debf25ac0d8aee37e020,Van Halen,Rock,56d98f73cc2ddd0c0f6be59e,Live: Jump,1993.0,2678.0,1993,Unknown,Unknown,1990,Van Halen
+4809,5714debf25ac0d8aee37e021,Van Halen,Rock,56d98f73cc2ddd0c0f6be59e,Balance,1995.0,4242.0,1995-01-24,Unknown,Unknown,1990,Van Halen
+4810,5714debf25ac0d8aee37e022,Van Halen,Hard Rock,56d98f73cc2ddd0c0f6be59e,"Best Of Van Halen, Volume 1",1996.0,22404.0,1996-10-17,Unknown,Unknown,1990,Van Halen
+4811,5714debf25ac0d8aee37e023,Van Halen,Unknown,56d98f73cc2ddd0c0f6be59e,Van Halen III,1998.0,2596.0,1998-03-10,Unknown,Schlager,1990,Van Halen
+4830,5714debf25ac0d8aee37e53e,Victor Wooten,Unknown,56d990bfcc2ddd0c0f6be789,A Show Of Hands,1996.0,1226.0,1996-02-20,eng,Schlager,1990,Victor Wooten
+4831,5714debf25ac0d8aee37e53f,Victor Wooten,Unknown,56d990bfcc2ddd0c0f6be789,What Did He Say?,1997.0,138.0,1997-08-19,eng,Schlager,1990,Victor Wooten
+4832,5714debf25ac0d8aee37e540,Victor Wooten,Unknown,56d990bfcc2ddd0c0f6be789,Yin Yang,1999.0,857.0,1999-06-22,eng,Schlager,1990,Victor Wooten
+4839,5714debf25ac0d8aee37e547,Victoria,Freestyle,56d990c0cc2ddd0c0f6be78d,Don't Break My Heart,1994.0,Unknown,Unknown,Unknown,Unknown,1990,Victoria
+4858,5714debf25ac0d8aee37e55a,Victoria Shaw,Unknown,56d990c3cc2ddd0c0f6be797,In Full View,1995.0,Unknown,Unknown,Unknown,Schlager,1990,Victoria Shaw
+4869,5714debf25ac0d8aee37e565,Victoria Williams,Unknown,56d990c8cc2ddd0c0f6be7a0,Swing The Statue,1999.0,14.0,1990,eng,Schlager,1990,Victoria Williams
+4870,5714debf25ac0d8aee37e566,Victoria Williams,Unknown,56d990c8cc2ddd0c0f6be7a0,Loose,1994.0,21.0,1994,eng,Schlager,1990,Victoria Williams
+4871,5714debf25ac0d8aee37e567,Victoria Williams,Unknown,56d990c8cc2ddd0c0f6be7a0,This Moment-Live In Toronto,1995.0,14.0,1995,eng,Schlager,1990,Victoria Williams
+4872,5714debf25ac0d8aee37e568,Victoria Williams,Unknown,56d990c8cc2ddd0c0f6be7a0,Musings Of A Creekdipper,1998.0,8.0,1998,eng,Schlager,1990,Victoria Williams
+4882,5714debf25ac0d8aee37e572,Victory,Heavy Metal,56d990c8cc2ddd0c0f6be7a2,Temples Of Gold,1990.0,73.0,1990-10-25,eng,Unknown,1990,Victory
+4883,5714debf25ac0d8aee37e573,Victory,Heavy Metal,56d990c8cc2ddd0c0f6be7a2,You Bought It - You Name It,1992.0,73.0,1992,eng,Unknown,1990,Victory
+4884,5714debf25ac0d8aee37e574,Victory,Unknown,56d990c8cc2ddd0c0f6be7a2,Liveline,1994.0,73.0,Unknown,Unknown,Schlager,1990,Victory
+4885,5714debf25ac0d8aee37e575,Victory,Unknown,56d990c8cc2ddd0c0f6be7a2,Voiceprint,1996.0,13.0,1996-03-18,Unknown,Schlager,1990,Victory
+4900,5714debf25ac0d8aee37e584,Videodrone,Unknown,56d990cccc2ddd0c0f6be7ad,Videodrone,1999.0,32.0,1999-02-23,eng,Schlager,1990,Videodrone
+4912,5714debf25ac0d8aee37e590,Viejas Locas,Blues Rock,56d990cfcc2ddd0c0f6be7b6,Viejas Locas,1995.0,2424.0,Unknown,Unknown,Unknown,1990,Viejas Locas
+4913,5714debf25ac0d8aee37e591,Viejas Locas,Blues Rock,56d990cfcc2ddd0c0f6be7b6,Hermanos De Sangre,1997.0,2013.0,Unknown,Unknown,Unknown,1990,Viejas Locas
+4914,5714debf25ac0d8aee37e592,Viejas Locas,Blues Rock,56d990cfcc2ddd0c0f6be7b6,Especial,1999.0,3589.0,Unknown,Unknown,Unknown,1990,Viejas Locas
+4952,5714debf25ac0d8aee37da3f,Ulla Wiesner,Pop,56d98de5cc2ddd0c0f6be322,Haut An Haut,1993.0,Unknown,Unknown,Unknown,Unknown,1990,Ulla Wiesner
+4987,5714debf25ac0d8aee37da62,Ulrich Roski,Chanson,56d98deccc2ddd0c0f6be328,Jahre Später... - Lieder Aus Drei Jahrzehnten,1998.0,Unknown,2000-09-25,deu,Unknown,1990,Ulrich Roski
+5005,5714debf25ac0d8aee37e035,Van Langen,Folk Metal,56d98f7fcc2ddd0c0f6be5a5,Van Langen,1996.0,13.0,Unknown,Unknown,Unknown,1990,Van Langen
+5006,5714debf25ac0d8aee37e036,Van Langen,Folk Rock,56d98f7fcc2ddd0c0f6be5a5,Ask The Runes,1997.0,13.0,1996,eng,Unknown,1990,Van Langen
+5007,5714debf25ac0d8aee37e037,Van Langen,Folk Rock,56d98f7fcc2ddd0c0f6be5a5,Chosen Ones,1999.0,13.0,1999,mul,Unknown,1990,Van Langen
+5008,5714debf25ac0d8aee37e038,Van Langen,Medieval,56d98f7fcc2ddd0c0f6be5a5,Des Teufels Lockvögel,1999.0,13.0,Unknown,Unknown,Unknown,1990,Van Langen
+5026,5714debf25ac0d8aee37e04a,Van Zant,Unknown,56d98f87cc2ddd0c0f6be5ab,Brother To Brother,1998.0,6.0,1998,eng,Schlager,1990,Van Zant
+5052,5714debf25ac0d8aee37e064,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,The Best Of Van Morrison,1990.0,3700.0,1990-01,Unknown,Unknown,1990,Van Morrison
+5053,5714debf25ac0d8aee37e065,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Enlightenment,1990.0,512.0,1990,Unknown,Unknown,1990,Van Morrison
+5054,5714debf25ac0d8aee37e066,Van Morrison,Folk Rock,56d98f87cc2ddd0c0f6be5ac,Hymns To The Silence,1991.0,865.0,1991-09-24,Unknown,Unknown,1990,Van Morrison
+5055,5714debf25ac0d8aee37e067,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Bang Masters,1991.0,265.0,1991-02-26,Unknown,Unknown,1990,Van Morrison
+5056,5714debf25ac0d8aee37e068,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,"The Best Of Van Morrison, Volume Two",1993.0,281.0,Unknown,Unknown,Unknown,1990,Van Morrison
+5057,5714debf25ac0d8aee37e069,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Too Long In Exile,1993.0,497.0,1993-06-08,Unknown,Unknown,1990,Van Morrison
+5058,5714debf25ac0d8aee37e06a,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Payin' Dues,1994.0,143.0,1999-11-01,Unknown,Unknown,1990,Van Morrison
+5059,5714debf25ac0d8aee37e06b,Van Morrison,Blues,56d98f87cc2ddd0c0f6be5ac,A Night In San Francisco,1994.0,820.0,1994-05-17,Unknown,Unknown,1990,Van Morrison
+5060,5714debf25ac0d8aee37e06c,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Days Like This,1995.0,971.0,1995-06-05,Unknown,Unknown,1990,Van Morrison
+5061,5714debf25ac0d8aee37e06d,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,How Long Has This Been Going On,1996.0,216.0,1996-01-09,Unknown,Unknown,1990,Van Morrison
+5062,5714debf25ac0d8aee37e06e,Van Morrison,Jazz,56d98f87cc2ddd0c0f6be5ac,Tell Me Something: The Songs Of Mose Allison,1996.0,7.0,1996-10-08,Unknown,Unknown,1990,Van Morrison
+5063,5714debf25ac0d8aee37e06f,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,The Healing Game,1997.0,572.0,1997-03,Unknown,Unknown,1990,Van Morrison
+5064,5714debf25ac0d8aee37e070,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,The Philosopher's Stone,1998.0,606.0,1998-06-16,Unknown,Unknown,1990,Van Morrison
+5065,5714debf25ac0d8aee37e071,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Brown Eyed Girl,1998.0,230.0,2000,Unknown,Unknown,1990,Van Morrison
+5066,5714debf25ac0d8aee37e072,Van Morrison,Rock,56d98f87cc2ddd0c0f6be5ac,Back On Top,1999.0,626.0,1999-03-09,Unknown,Unknown,1990,Van Morrison
+5095,5714debf25ac0d8aee37e5a1,Viento En Contra,Hard Rock,56d990d3cc2ddd0c0f6be7bf,Esto Va Algo Asi,1997.0,1798.0,Unknown,Unknown,Unknown,1990,Viento En Contra
+5108,5714debf25ac0d8aee37e5ae,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,The Classified Table,1994.0,Unknown,Unknown,Unknown,Schlager,1990,Vigilante
+5109,5714debf25ac0d8aee37e5af,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,Fatal Superstition,1995.0,Unknown,Unknown,Unknown,Schlager,1990,Vigilante
+5110,5714debf25ac0d8aee37e5b0,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,Chaos-Pilgrimage,1998.0,Unknown,Unknown,Unknown,Schlager,1990,Vigilante
+5111,5714debf25ac0d8aee37e5b1,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,Thumbnail At You Master,1999.0,Unknown,Unknown,Unknown,Schlager,1990,Vigilante
+5112,5714debf25ac0d8aee37e5b2,Vigilante,Unknown,56d990d6cc2ddd0c0f6be7c7,Edge Of Time,1999.0,Unknown,1999,Unknown,Schlager,1990,Vigilante
+5136,5714debf25ac0d8aee37da71,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Svea Hjältar,1991.0,97.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5137,5714debf25ac0d8aee37da72,Ultima Thule,Viking Metal,56d98df1cc2ddd0c0f6be330,För Fäderneslandet,1992.0,175.0,1992,mul,Unknown,1990,Ultima Thule
+5138,5714debf25ac0d8aee37da73,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,The Early Years 1984-1987,1992.0,73.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5139,5714debf25ac0d8aee37da74,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Vikingabalk,1993.0,81.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5140,5714debf25ac0d8aee37da75,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Lejonet Från Norden,1995.0,62.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5141,5714debf25ac0d8aee37da76,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Karoliner,1996.0,96.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5142,5714debf25ac0d8aee37da77,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Nu Grönskar Det,1997.0,137.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5143,5714debf25ac0d8aee37da78,Ultima Thule,Unknown,56d98df1cc2ddd0c0f6be330,Sverige,1999.0,138.0,Unknown,Unknown,Schlager,1990,Ultima Thule
+5147,5714debf25ac0d8aee37da7c,Ultimate Fakebook,Unknown,56d98df1cc2ddd0c0f6be332,Electric Kissing Parties,1997.0,6.0,1997,Unknown,Schlager,1990,Ultimate Fakebook
+5153,5714debf25ac0d8aee37da82,Ultimatum,Thrash Metal,56d98df1cc2ddd0c0f6be334,Fatal Delay,1993.0,20.0,Unknown,Unknown,Unknown,1990,Ultimatum
+5154,5714debf25ac0d8aee37da83,Ultimatum,Thrash Metal,56d98df1cc2ddd0c0f6be334,Symphonic Extremities,1995.0,20.0,Unknown,eng,Unknown,1990,Ultimatum
+5155,5714debf25ac0d8aee37da84,Ultimatum,Thrash Metal,56d98df1cc2ddd0c0f6be334,Live Extremities,1997.0,20.0,Unknown,Unknown,Unknown,1990,Ultimatum
+5156,5714debf25ac0d8aee37da85,Ultimatum,Thrash Metal,56d98df1cc2ddd0c0f6be334,Puppet Of Destruction,1998.0,13.0,Unknown,Unknown,Unknown,1990,Ultimatum
+5163,5714debf25ac0d8aee37e5c2,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Jugular,1990.0,0.0,1990,Unknown,Unknown,1990,Vigilantes Of Love
+5164,5714debf25ac0d8aee37e5c3,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Driving The Nails,1991.0,1.0,1991,eng,Unknown,1990,Vigilantes Of Love
+5165,5714debf25ac0d8aee37e5c4,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Killing Floor,1992.0,1.0,1992,eng,Unknown,1990,Vigilantes Of Love
+5166,5714debf25ac0d8aee37e5c5,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Welcome To Struggleville,1994.0,8.0,1994,Unknown,Unknown,1990,Vigilantes Of Love
+5168,5714debf25ac0d8aee37e5c7,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Blister Soul,1995.0,5.0,1995,Unknown,Unknown,1990,Vigilantes Of Love
+5169,5714debf25ac0d8aee37e5c8,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,V.O.L.,1996.0,1.0,1996,eng,Unknown,1990,Vigilantes Of Love
+5170,5714debf25ac0d8aee37e5c9,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Slow Dark Train,1997.0,4.0,1997,eng,Unknown,1990,Vigilantes Of Love
+5171,5714debf25ac0d8aee37e5ca,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,To The Roof Of The Sky,1998.0,2.0,1998,Unknown,Unknown,1990,Vigilantes Of Love
+5172,5714debf25ac0d8aee37e5cb,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Live At The 40 Watt,1998.0,2.0,1998,Unknown,Unknown,1990,Vigilantes Of Love
+5173,5714debf25ac0d8aee37e5cc,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,'Cross The Big Pond,1999.0,3.0,1999,eng,Unknown,1990,Vigilantes Of Love
+5174,5714debf25ac0d8aee37e5cd,Vigilantes Of Love,Rock,56d990ddcc2ddd0c0f6be7cd,Audible Sigh,1999.0,5.0,2000,eng,Unknown,1990,Vigilantes Of Love
+5180,5714debf25ac0d8aee37e5d3,Viikate,Unknown,56d990dfcc2ddd0c0f6be7cf,Vaiennut Soitto,1998.0,61.0,1998,fin,Schlager,1990,Viikate
+5181,5714debf25ac0d8aee37e5d4,Viikate,Unknown,56d990dfcc2ddd0c0f6be7cf,Roudasta Rospuuttoon,1999.0,61.0,1999,fin,Schlager,1990,Viikate
+5243,5714debf25ac0d8aee37e096,Vanden Plas,Progressive Metal,56d98f8dcc2ddd0c0f6be5b9,Colour Temple,1994.0,63.0,1994,eng,Unknown,1990,Vanden Plas
+5244,5714debf25ac0d8aee37e097,Vanden Plas,Progressive Metal,56d98f8dcc2ddd0c0f6be5b9,AcCult,1996.0,63.0,1996,eng,Unknown,1990,Vanden Plas
+5245,5714debf25ac0d8aee37e098,Vanden Plas,Progressive Metal,56d98f8dcc2ddd0c0f6be5b9,The God Thing,1997.0,85.0,1997-10-28,eng,Unknown,1990,Vanden Plas
+5246,5714debf25ac0d8aee37e099,Vanden Plas,Progressive Metal,56d98f8dcc2ddd0c0f6be5b9,Far Off Grace,1999.0,62.0,1999,eng,Unknown,1990,Vanden Plas
+5255,5714debf25ac0d8aee37e0a2,Vander Lee,Unknown,56d98f8fcc2ddd0c0f6be5bd,No Balanço Do Balaio,1999.0,578.0,1999,Unknown,Hard Rock,1990,Vander Lee
+5290,5714debf25ac0d8aee37e60f,Vilain Pingouin,Unknown,56d990e5cc2ddd0c0f6be7de,Vilain Pingouin,1990.0,134.0,Unknown,Unknown,Hard Rock,1990,Vilain Pingouin
+5291,5714debf25ac0d8aee37e610,Vilain Pingouin,Unknown,56d990e5cc2ddd0c0f6be7de,Roche Et Roule,1992.0,97.0,Unknown,Unknown,Hard Rock,1990,Vilain Pingouin
+5292,5714debf25ac0d8aee37e611,Vilain Pingouin,Unknown,56d990e5cc2ddd0c0f6be7de,Y'é Quelle Heure?,1998.0,9.0,Unknown,Unknown,Hard Rock,1990,Vilain Pingouin
+5298,5714debf25ac0d8aee37e617,Vildsvin,Unknown,56d990e7cc2ddd0c0f6be7e1,Grisfesten,1995.0,1.0,Unknown,Unknown,Hard Rock,1990,Vildsvin
+5299,5714debf25ac0d8aee37e618,Vildsvin,Unknown,56d990e7cc2ddd0c0f6be7e1,Till Eder Tjänst,1996.0,2.0,Unknown,Unknown,Hard Rock,1990,Vildsvin
+5300,5714debf25ac0d8aee37e619,Vildsvin,Unknown,56d990e7cc2ddd0c0f6be7e1,Iskallt Begär,1997.0,2.0,Unknown,Unknown,Hard Rock,1990,Vildsvin
+5303,5714debf25ac0d8aee37e61c,Vile,Death Metal,56d990e7cc2ddd0c0f6be7e3,Stench Of The Deceased,1999.0,2.0,1999-05-15,eng,Unknown,1990,Vile
+5339,5714debf25ac0d8aee37e0cd,Vanessa Bell Armstrong,Gospel,56d98f98cc2ddd0c0f6be5c8,The Secret Is Out,1995.0,28.0,Unknown,Unknown,Unknown,1990,Vanessa Bell Armstrong
+5350,5714debf25ac0d8aee37e0d8,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,Kids' Classics,1991.0,Unknown,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5351,5714debf25ac0d8aee37e0d9,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,Tchaikovsky And Beethoven Violin Concertos,1991.0,Unknown,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5352,5714debf25ac0d8aee37e0da,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,Violin,1991.0,Unknown,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5353,5714debf25ac0d8aee37e0db,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,The Violin Player,1995.0,5007.0,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5354,5714debf25ac0d8aee37e0dc,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,The Classical Album 1,1996.0,Unknown,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5355,5714debf25ac0d8aee37e0dd,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,Storm,1997.0,5007.0,1997-10-24,eng,Hard Rock,1990,Vanessa Mae
+5356,5714debf25ac0d8aee37e0de,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,The Classical Album 2 - China Girl,1997.0,5007.0,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5357,5714debf25ac0d8aee37e0df,Vanessa Mae,Unknown,56d98fb7cc2ddd0c0f6be5cf,The Original Four Seasons,1998.0,1276.0,Unknown,Unknown,Hard Rock,1990,Vanessa Mae
+5362,5714debf25ac0d8aee37e0e4,Vanessa Paradis,French Pop,56d98fb8cc2ddd0c0f6be5d1,Variations Sur Le Même T'Aime,1990.0,10391.0,Unknown,Unknown,Unknown,1990,Vanessa Paradis
+5363,5714debf25ac0d8aee37e0e5,Vanessa Paradis,French Pop,56d98fb8cc2ddd0c0f6be5d1,Vanessa Paradis,1992.0,12347.0,1992-10,eng,Unknown,1990,Vanessa Paradis
+5364,5714debf25ac0d8aee37e0e6,Vanessa Paradis,French Pop,56d98fb8cc2ddd0c0f6be5d1,Live,1994.0,4800.0,1994,eng,Unknown,1990,Vanessa Paradis
+5387,5714debf25ac0d8aee37e636,Villanos,Punk Rock,56d990eccc2ddd0c0f6be7ef,Sacate Todo!,1999.0,113.0,2005,Unknown,Unknown,1990,Villanos
+5401,5714debf25ac0d8aee37e644,Village People,Pop,56d990edcc2ddd0c0f6be7f0,The Best Of Village People,1994.0,996.0,1994,Unknown,Unknown,1990,Village People
+5413,5714debf25ac0d8aee37e0f1,Vanessa Rangel,MPB,56d98fb9cc2ddd0c0f6be5d5,Vanessa Rangel,1997.0,19.0,1997,Unknown,Unknown,1990,Vanessa Rangel
+5421,5714debf25ac0d8aee37e0f9,Vanessa Williams,R&amp;B,56d98fc0cc2ddd0c0f6be5da,The Comfort Zone,1991.0,Unknown,1991-08-20,eng,Unknown,1990,Vanessa Williams
+5422,5714debf25ac0d8aee37e0fa,Vanessa Williams,R&amp;B,56d98fc0cc2ddd0c0f6be5da,The Sweetest Days,1994.0,40.0,1994,eng,Unknown,1990,Vanessa Williams
+5423,5714debf25ac0d8aee37e0fb,Vanessa Williams,R&amp;B,56d98fc0cc2ddd0c0f6be5da,Star Bright,1996.0,32.0,1996,eng,Unknown,1990,Vanessa Williams
+5424,5714debf25ac0d8aee37e0fc,Vanessa Williams,R&amp;B,56d98fc0cc2ddd0c0f6be5da,Next,1997.0,23.0,1997,eng,Unknown,1990,Vanessa Williams
+5434,5714debf25ac0d8aee37e106,Vanguarda,Unknown,56d98fc1cc2ddd0c0f6be5de,Filme De Amor,1996.0,Unknown,Unknown,Unknown,Hard Rock,1990,Vanguarda
+5449,5714debf25ac0d8aee37e115,Vangelis,Electronic,56d98fc1cc2ddd0c0f6be5df,The City,1990.0,302.0,1990-11-19,Unknown,Unknown,1990,Vangelis
+5450,5714debf25ac0d8aee37e116,Vangelis,Unknown,56d98fc1cc2ddd0c0f6be5df,1492: Conquest Of Paradise,1992.0,19085.0,1992-10-16,Unknown,Hard Rock,1990,Vangelis
+5451,5714debf25ac0d8aee37e117,Vangelis,Unknown,56d98fc1cc2ddd0c0f6be5df,Blade Runner,1994.0,13195.0,1993-12,Unknown,Hard Rock,1990,Vangelis
+5452,5714debf25ac0d8aee37e118,Vangelis,Electronic,56d98fc1cc2ddd0c0f6be5df,Voices,1995.0,1081.0,1995-10-17,Unknown,Unknown,1990,Vangelis
+5453,5714debf25ac0d8aee37e119,Vangelis,Electronic,56d98fc1cc2ddd0c0f6be5df,Oceanic,1996.0,2602.0,1996-10-25,eng,Unknown,1990,Vangelis
+5454,5714debf25ac0d8aee37e11a,Vangelis,New Age,56d98fc1cc2ddd0c0f6be5df,Portraits So Long Ago So Clear,1997.0,3558.0,1996,Unknown,Unknown,1990,Vangelis
+5455,5714debf25ac0d8aee37e11b,Vangelis,Classical,56d98fc1cc2ddd0c0f6be5df,El Greco,1998.0,1286.0,1998-10-26,Unknown,Unknown,1990,Vangelis
+5456,5714debf25ac0d8aee37e11c,Vangelis,Electronic,56d98fc1cc2ddd0c0f6be5df,Reprise 1990-1999,1999.0,1973.0,1999-11-16,Unknown,Unknown,1990,Vangelis
+5482,5714debf25ac0d8aee37e64f,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,Vilma Palma E Vampiros,1991.0,10387.0,1992,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5483,5714debf25ac0d8aee37e650,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,3980,1993.0,10387.0,1993,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5484,5714debf25ac0d8aee37e651,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,Fondo Profundo,1994.0,744.0,1994,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5485,5714debf25ac0d8aee37e652,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,"Sepia, Blanco Y Negro",1995.0,230.0,1995,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5486,5714debf25ac0d8aee37e653,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,Ángeles Y Demonios,1997.0,Unknown,Unknown,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5487,5714debf25ac0d8aee37e654,Vilma Palma E Vampiros,Rock,56d990f4cc2ddd0c0f6be7fa,Hecatombe Disco,1998.0,744.0,1998,Unknown,Unknown,1990,Vilma Palma E Vampiros
+5503,5714debf25ac0d8aee37e664,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,Pocket Full Of Gold,1991.0,444.0,1991-03-05,eng,Unknown,1990,Vince Gill
+5504,5714debf25ac0d8aee37e665,Vince Gill,Unknown,56d990f6cc2ddd0c0f6be7fe,I Never Knew Lonely,1992.0,291.0,1993-03,eng,Hard Rock,1990,Vince Gill
+5505,5714debf25ac0d8aee37e666,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,I Still Believe In You,1992.0,444.0,1992-09-01,eng,Unknown,1990,Vince Gill
+5506,5714debf25ac0d8aee37e667,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,Let There Be Peace On Earth,1993.0,67.0,1993,eng,Unknown,1990,Vince Gill
+5507,5714debf25ac0d8aee37e668,Vince Gill,Unknown,56d990f6cc2ddd0c0f6be7fe,Vince Gill And Friends,1994.0,108.0,1994-08-16,eng,Hard Rock,1990,Vince Gill
+5508,5714debf25ac0d8aee37e669,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,When Love Finds You,1994.0,174.0,1994-06-07,eng,Unknown,1990,Vince Gill
+5509,5714debf25ac0d8aee37e66a,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,The Essential Vince Gill,1995.0,291.0,Unknown,Unknown,Unknown,1990,Vince Gill
+5510,5714debf25ac0d8aee37e66b,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,Souvenirs,1995.0,444.0,1995-11-20,eng,Unknown,1990,Vince Gill
+5511,5714debf25ac0d8aee37e66c,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,High Lonesome Sound,1996.0,Unknown,1996-05-28,eng,Unknown,1990,Vince Gill
+5512,5714debf25ac0d8aee37e66d,Vince Gill,Unknown,56d990f6cc2ddd0c0f6be7fe,Super Hits,1996.0,108.0,1996-10-08,eng,Hard Rock,1990,Vince Gill
+5513,5714debf25ac0d8aee37e66e,Vince Gill,Unknown,56d990f6cc2ddd0c0f6be7fe,Breath Of Heaven,1998.0,37.0,1998,eng,Hard Rock,1990,Vince Gill
+5514,5714debf25ac0d8aee37e66f,Vince Gill,Country,56d990f6cc2ddd0c0f6be7fe,The Key,1998.0,123.0,1998-08-11,eng,Unknown,1990,Vince Gill
+5536,5714debf25ac0d8aee37e685,Vince Neil,Unknown,56d990facc2ddd0c0f6be807,Exposed,1993.0,644.0,1993-04-27,eng,Hard Rock,1990,Vince Neil
+5537,5714debf25ac0d8aee37e686,Vince Neil,Unknown,56d990facc2ddd0c0f6be807,Carved In Stone,1995.0,223.0,1995,eng,Hard Rock,1990,Vince Neil
+5542,5714debf25ac0d8aee37e135,Vanilla Ice,Hip Hop,56d98fc6cc2ddd0c0f6be5e9,To The Extreme,1990.0,2671.0,1990-09-04,eng,Unknown,1990,Vanilla Ice
+5543,5714debf25ac0d8aee37e136,Vanilla Ice,Hardcore Hip Hop,56d98fc6cc2ddd0c0f6be5e9,Mind Blowin,1994.0,94.0,1994-03-22,Unknown,Unknown,1990,Vanilla Ice
+5544,5714debf25ac0d8aee37e137,Vanilla Ice,Nu Metal,56d98fc6cc2ddd0c0f6be5e9,Hard To Swallow,1998.0,Unknown,1998-10-20,eng,Unknown,1990,Vanilla Ice
+5566,5714debf25ac0d8aee37e14d,Vanishing Point,Progressive Metal,56d98fcacc2ddd0c0f6be5f1,In Thought,1997.0,36.0,Unknown,Unknown,Unknown,1990,Vanishing Point
+5573,5714debf25ac0d8aee37e68b,Vincent Baguian,Unknown,56d990fbcc2ddd0c0f6be809,Pas Mal,1996.0,Unknown,1996-05,Unknown,Hard Rock,1990,Vincent Baguian
+5598,5714debf25ac0d8aee37e6a4,Vindsval,Unknown,56d990ffcc2ddd0c0f6be819,Imperium Grotesque,1999.0,13.0,Unknown,Unknown,Hard Rock,1990,Vindsval
+5605,5714debf25ac0d8aee37e6ab,Vinicio Capossela,Jazz,56d99103cc2ddd0c0f6be81f,All'una E Trentacinque Circa,1990.0,325.0,Unknown,Unknown,Unknown,1990,Vinicio Capossela
+5606,5714debf25ac0d8aee37e6ac,Vinicio Capossela,Jazz,56d99103cc2ddd0c0f6be81f,Modì,1991.0,283.0,Unknown,Unknown,Unknown,1990,Vinicio Capossela
+5607,5714debf25ac0d8aee37e6ad,Vinicio Capossela,Jazz,56d99103cc2ddd0c0f6be81f,Camera A Sud,1994.0,416.0,Unknown,Unknown,Unknown,1990,Vinicio Capossela
+5608,5714debf25ac0d8aee37e6ae,Vinicio Capossela,Jazz,56d99103cc2ddd0c0f6be81f,Il Ballo Di San Vito,1996.0,431.0,Unknown,Unknown,Unknown,1990,Vinicio Capossela
+5609,5714debf25ac0d8aee37e6af,Vinicio Capossela,Jazz,56d99103cc2ddd0c0f6be81f,Liveinvolvo,1998.0,214.0,1998,ita,Unknown,1990,Vinicio Capossela
+5614,5714debf25ac0d8aee37e153,Vanitas,Dark Metal,56d98fcbcc2ddd0c0f6be5f3,Vereinsamt,1999.0,28.0,Unknown,deu,Unknown,1990,Vanitas
+5637,5714debf25ac0d8aee37e16a,Vapid Dolly,Unknown,56d98fd0cc2ddd0c0f6be5fc,The Queen Of Pseudo Psychos,1997.0,Unknown,Unknown,eng,Hard Rock,1990,Vapid Dolly
+5653,5714debf25ac0d8aee37e17a,Varathron,Unknown,56d98fd3cc2ddd0c0f6be607,His Majesty At The Swamp,1993.0,49.0,Unknown,Unknown,Hard Rock,1990,Varathron
+5654,5714debf25ac0d8aee37e17b,Varathron,Unknown,56d98fd3cc2ddd0c0f6be607,Walpurgisnacht,1995.0,19.0,Unknown,Unknown,Hard Rock,1990,Varathron
+5655,5714debf25ac0d8aee37e17c,Varathron,Unknown,56d98fd3cc2ddd0c0f6be607,Genesis Of Apocryphal Desire,1997.0,8.0,Unknown,Unknown,Hard Rock,1990,Varathron
+5656,5714debf25ac0d8aee37e17d,Varathron,Unknown,56d98fd3cc2ddd0c0f6be607,The Lament Of Gods,1999.0,10.0,Unknown,Unknown,Hard Rock,1990,Varathron
+5669,5714debf25ac0d8aee37e18a,Varjo,Unknown,56d98fd9cc2ddd0c0f6be60f,Ensinäytös,1998.0,0.0,Unknown,Unknown,Hard Rock,1990,Varjo
+5670,5714debf25ac0d8aee37e18b,Varjo,Unknown,56d98fd9cc2ddd0c0f6be60f,Eilen Klo 22:00 Luulin Löytäneeni Sen Oikean Odotan Viimeistä Yötä,1999.0,1.0,Unknown,Unknown,Hard Rock,1990,Varjo
+5677,5714debf25ac0d8aee37e192,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,The Beginning,1990.0,Unknown,1990-03,eng,Hard Rock,1990,Varius Manx
+5678,5714debf25ac0d8aee37e193,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,Emu,1994.0,104.0,1994,mul,Hard Rock,1990,Varius Manx
+5679,5714debf25ac0d8aee37e194,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,Elf,1995.0,143.0,1995,mul,Hard Rock,1990,Varius Manx
+5680,5714debf25ac0d8aee37e195,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,Ego,1996.0,143.0,1996,pol,Hard Rock,1990,Varius Manx
+5681,5714debf25ac0d8aee37e196,Varius Manx,Unknown,56d98fd9cc2ddd0c0f6be610,End,1997.0,143.0,1997,pol,Hard Rock,1990,Varius Manx
+5691,5714debf25ac0d8aee37e1a0,Vas,Unknown,56d98fdccc2ddd0c0f6be615,Offerings,1998.0,413.0,1998-09-22,Unknown,Hard Rock,1990,Vas
+5694,5714debf25ac0d8aee37e1a3,Vasaria,Unknown,56d98fdccc2ddd0c0f6be616,Vasaria,1997.0,3.0,Unknown,Unknown,Hard Rock,1990,Vasaria
+5714,5714debf25ac0d8aee37e1b7,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,Gli Spari Sopra,1993.0,2851.0,1993,ita,Unknown,1990,Vasco Rossi
+5715,5714debf25ac0d8aee37e1b8,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,Nessun Pericolo... Per Te,1996.0,2201.0,1996,ita,Unknown,1990,Vasco Rossi
+5716,5714debf25ac0d8aee37e1b9,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,Rock,1997.0,1182.0,1997,ita,Unknown,1990,Vasco Rossi
+5717,5714debf25ac0d8aee37e1ba,Vasco Rossi,Rock,56d98fe4cc2ddd0c0f6be61b,Canzoni Per Me,1998.0,2358.0,1998,ita,Unknown,1990,Vasco Rossi
+5747,5714debf25ac0d8aee37e6c8,Vinterland,Unknown,56d9911ecc2ddd0c0f6be82a,Welcome My Last Chapter,1996.0,Unknown,1996-09,eng,Hard Rock,1990,Vinterland
+5753,5714debf25ac0d8aee37e6ce,Vinx,Unknown,56d99122cc2ddd0c0f6be82f,I Love My Job,1992.0,16.0,Unknown,eng,Hard Rock,1990,Vinx
+5755,5714debf25ac0d8aee37e6d0,Vintersorg,Folk Metal,56d99122cc2ddd0c0f6be830,Hedniskhjärtad,1998.0,1.0,1998-07-06,swe,Unknown,1990,Vintersorg
+5756,5714debf25ac0d8aee37e6d1,Vintersorg,Folk Metal,56d99122cc2ddd0c0f6be830,Till Fjälls,1998.0,Unknown,1998,swe,Unknown,1990,Vintersorg
+5757,5714debf25ac0d8aee37e6d2,Vintersorg,Folk Metal,56d99122cc2ddd0c0f6be830,Ödemarkens Son,1999.0,106.0,1999,swe,Unknown,1990,Vintersorg
+5793,5714debf25ac0d8aee37e6f6,Vio-Lence,Unknown,56d99126cc2ddd0c0f6be839,Oppressing The Masses,1990.0,125.0,1990,eng,Alternative Rock,1990,Vio-Lence
+5794,5714debf25ac0d8aee37e6f7,Vio-Lence,Unknown,56d99126cc2ddd0c0f6be839,Torture Tactics,1991.0,125.0,Unknown,eng,Alternative Rock,1990,Vio-Lence
+5795,5714debf25ac0d8aee37e6f8,Vio-Lence,Unknown,56d99126cc2ddd0c0f6be839,Nothing To Gain,1993.0,Unknown,1993,Unknown,Alternative Rock,1990,Vio-Lence
+5812,5714debf25ac0d8aee37e709,Viola Valentino,Unknown,56d9912bcc2ddd0c0f6be83e,Un Angelo Dal Cielo,1991,96.0,1991,ita,Alternative Rock,1990,Viola Valentino
+5813,5714debf25ac0d8aee37e70a,Viola Valentino,Unknown,56d9912bcc2ddd0c0f6be83e,Esisto,1993,8.0,1993,ita,Alternative Rock,1990,Viola Valentino
+5814,5714debf25ac0d8aee37e70b,Viola Valentino,Unknown,56d9912bcc2ddd0c0f6be83e,Il Viaggio,1998,107.0,1998,ita,Alternative Rock,1990,Viola Valentino
+5828,5714debf25ac0d8aee37e1cc,Vast,Alternative Rock,56d98fe7cc2ddd0c0f6be621,Visual Audio Sensory Theater,1998,676.0,1998-04-28,eng,Unknown,1990,Vast
+5839,5714debf25ac0d8aee37e1d7,Vate,Unknown,56d98fe9cc2ddd0c0f6be624,V1.0,1999,1.0,Unknown,Unknown,Alternative Rock,1990,Vate
+5863,5714debf25ac0d8aee37e1ef,Vaya Con Dios,Pop,56d98ff0cc2ddd0c0f6be631,Time Flies,1992,1482.0,1992-09-02,eng,Unknown,1990,Vaya Con Dios
+5864,5714debf25ac0d8aee37e1f0,Vaya Con Dios,Pop,56d98ff0cc2ddd0c0f6be631,Night Owls,1993,1933.0,1990,eng,Unknown,1990,Vaya Con Dios
+5865,5714debf25ac0d8aee37e1f1,Vaya Con Dios,Unknown,56d98ff0cc2ddd0c0f6be631,Roots And Wings,1995,804.0,1995,eng,Alternative Rock,1990,Vaya Con Dios
+5866,5714debf25ac0d8aee37e1f2,Vaya Con Dios,Pop,56d98ff0cc2ddd0c0f6be631,Best Of Vaya Con Dios,1997,15743.0,1996-10-21,eng,Unknown,1990,Vaya Con Dios
+5870,5714debf25ac0d8aee37e711,Violadores Del Verso,Unknown,56d9912bcc2ddd0c0f6be83f,Violadores Del Verso,1998,2301.0,1998,Unknown,Alternative Rock,1990,Violadores Del Verso
+5871,5714debf25ac0d8aee37e712,Violadores Del Verso,Hip Hop,56d9912bcc2ddd0c0f6be83f,Genios,1999,3494.0,1999,Unknown,Unknown,1990,Violadores Del Verso
+5879,5714debf25ac0d8aee37e71a,Viola Wills,Unknown,56d9912ccc2ddd0c0f6be841,Gonna Get Along Without You,1995,36.0,Unknown,Unknown,Alternative Rock,1990,Viola Wills
+5899,5714debf25ac0d8aee37e205,Ved Buens Ende,Progressive Metal,56d98ff6cc2ddd0c0f6be63c,Written In Waters,1995,Unknown,1995,eng,Unknown,1990,Ved Buens Ende
+5900,5714debf25ac0d8aee37e206,Ved Buens Ende,Unknown,56d98ff6cc2ddd0c0f6be63c,Those Who Caress The Pale,1997,Unknown,1994,Unknown,Alternative Rock,1990,Ved Buens Ende
+5906,5714debf25ac0d8aee37e20c,Vazelina Bilopphøggers,Unknown,56d98ff7cc2ddd0c0f6be63f,Gammel Oppland,1994,15.0,Unknown,Unknown,Alternative Rock,1990,Vazelina Bilopphøggers
+5931,5714debf25ac0d8aee37e72e,Violent Femmes,Unknown,56d99130cc2ddd0c0f6be84a,Why Do Birds Sing?,1991,864.0,1991-04-30,eng,Alternative Rock,1990,Violent Femmes
+5933,5714debf25ac0d8aee37e730,Violent Femmes,Unknown,56d99130cc2ddd0c0f6be84a,New Times,1994,661.0,1994,eng,Alternative Rock,1990,Violent Femmes
+5934,5714debf25ac0d8aee37e731,Violent Femmes,Rock,56d99130cc2ddd0c0f6be84a,Rock!!!!!,1995,136.0,1995,eng,Unknown,1990,Violent Femmes
+5935,5714debf25ac0d8aee37e732,Violent Femmes,Unknown,56d99130cc2ddd0c0f6be84a,Viva Wisconsin,1999,Unknown,Unknown,Unknown,Alternative Rock,1990,Violent Femmes
+5964,5714debf25ac0d8aee37e21c,Vegas,Electronic,56d98ffacc2ddd0c0f6be646,Vegas,1992,15.0,Unknown,Unknown,Unknown,1990,Vegas
+5996,5714debf25ac0d8aee37e23c,Veles,Black Metal,56d99003cc2ddd0c0f6be658,Night On The Bare Mountain,1995,Unknown,1995-07,Unknown,Unknown,1990,Veles
+5997,5714debf25ac0d8aee37e23d,Veles,Black Metal,56d99003cc2ddd0c0f6be658,Black Hateful Metal,1997,Unknown,Unknown,Unknown,Unknown,1990,Veles
+6000,5714debf25ac0d8aee37e240,Veljanov,Pop,56d99003cc2ddd0c0f6be659,Secrets Of The Silver Tongue,1998,33.0,1998-03-02,eng,Unknown,1990,Veljanov
+6001,5714debf25ac0d8aee37e241,Veljanov,Pop,56d99003cc2ddd0c0f6be659,The Past And Forever,1998,33.0,Unknown,Unknown,Unknown,1990,Veljanov
+6012,5714debf25ac0d8aee37e24c,Velhas Virgens,Unknown,56d99004cc2ddd0c0f6be65c,Foi Bom Pra Você?,1995,344.0,1999-11,por,Alternative Rock,1990,Velhas Virgens
+6013,5714debf25ac0d8aee37e24d,Velhas Virgens,Unknown,56d99004cc2ddd0c0f6be65c,Vocês Não Sabem Como É Bom Aqui Dentro!,1997,1638.0,1997,Unknown,Alternative Rock,1990,Velhas Virgens
+6014,5714debf25ac0d8aee37e24e,Velhas Virgens,Unknown,56d99004cc2ddd0c0f6be65c,Senhor Sucesso,1999,221.0,1999,Unknown,Alternative Rock,1990,Velhas Virgens
+6031,5714debf25ac0d8aee37e25f,Velocity Girl,Indie Rock,56d99006cc2ddd0c0f6be665,Velocity Girl,1993,854.0,1992,Unknown,Unknown,1990,Velocity Girl
+6032,5714debf25ac0d8aee37e260,Velocity Girl,Indie Rock,56d99006cc2ddd0c0f6be665,Copacetic,1993,25.0,1993,Unknown,Unknown,1990,Velocity Girl
+6033,5714debf25ac0d8aee37e261,Velocity Girl,Indie Rock,56d99006cc2ddd0c0f6be665,¡Simpatico!,1994,14.0,1994-06-14,Unknown,Unknown,1990,Velocity Girl
+6034,5714debf25ac0d8aee37e262,Velocity Girl,Indie Rock,56d99006cc2ddd0c0f6be665,Sorry Again,1994,1.0,1994-05-01,Unknown,Unknown,1990,Velocity Girl
+6035,5714debf25ac0d8aee37e263,Velocity Girl,Indie Rock,56d99006cc2ddd0c0f6be665,Gilded Stars And Zealous Hearts,1996,10.0,1996-03-12,Unknown,Unknown,1990,Velocity Girl
+6045,5714debf25ac0d8aee37e26d,Velvet Belly,Unknown,56d9900ccc2ddd0c0f6be66a,Window Tree,1995,2.0,1995,eng,Alternative Rock,1990,Velvet Belly
+6046,5714debf25ac0d8aee37e26e,Velvet Belly,Unknown,56d9900ccc2ddd0c0f6be66a,The Landing,1996,2.0,1996,eng,Alternative Rock,1990,Velvet Belly
+6047,5714debf25ac0d8aee37e26f,Velvet Belly,Unknown,56d9900ccc2ddd0c0f6be66a,Easy (cd-single),1997,9.0,Unknown,Unknown,Alternative Rock,1990,Velvet Belly
+6048,5714debf25ac0d8aee37e270,Velvet Belly,Unknown,56d9900ccc2ddd0c0f6be66a,Lucia,1997,9.0,Unknown,eng,Alternative Rock,1990,Velvet Belly
+6052,5714debf25ac0d8aee37e274,Velvet Garden,J-Pop,56d9900dcc2ddd0c0f6be66c,Feel Your Heart,1996,Unknown,1996-10-28,jpn,Unknown,1990,Velvet Garden
+6053,5714debf25ac0d8aee37e275,Velvet Garden,J-Pop,56d9900dcc2ddd0c0f6be66c,ねぇ いいでしょ,1997,Unknown,Unknown,Unknown,Unknown,1990,Velvet Garden
+6054,5714debf25ac0d8aee37e276,Velvet Garden,J-Pop,56d9900dcc2ddd0c0f6be66c,プライドになるよ,1997,Unknown,Unknown,Unknown,Unknown,1990,Velvet Garden
+6055,5714debf25ac0d8aee37e277,Velvet Garden,J-Pop,56d9900dcc2ddd0c0f6be66c,白夜の空、約束の大地,1998,Unknown,Unknown,Unknown,Unknown,1990,Velvet Garden
+6056,5714debf25ac0d8aee37e278,Velvet Garden,Unknown,56d9900dcc2ddd0c0f6be66c,扉 開けたくて,1998,Unknown,Unknown,Unknown,Alternative Rock,1990,Velvet Garden
+6058,5714debf25ac0d8aee37e27a,Velvet Acid Christ,Industrial,56d9900ecc2ddd0c0f6be66e,Church Of Acid,1996,22.0,1996,eng,Unknown,1990,Velvet Acid Christ
+6059,5714debf25ac0d8aee37e27b,Velvet Acid Christ,Industrial,56d9900ecc2ddd0c0f6be66e,Calling Ov The Dead,1997,Unknown,1997,Unknown,Unknown,1990,Velvet Acid Christ
+6060,5714debf25ac0d8aee37e27c,Velvet Acid Christ,Industrial,56d9900ecc2ddd0c0f6be66e,Neuralblastoma,1998,23.0,1998-10-06,eng,Unknown,1990,Velvet Acid Christ
+6061,5714debf25ac0d8aee37e27d,Velvet Acid Christ,Industrial,56d9900ecc2ddd0c0f6be66e,Fun With Knives,1999,58.0,1999-04-26,eng,Unknown,1990,Velvet Acid Christ
+6078,5714debf25ac0d8aee37e74b,Violeta Parra,Unknown,56d99135cc2ddd0c0f6be855,Últimas Composiciones,1994,275.0,Unknown,Unknown,Alternative Rock,1990,Violeta Parra
+6088,5714debf25ac0d8aee37e755,Viper,Heavy Metal,56d99137cc2ddd0c0f6be85a,Evolution,1992,294.0,1992,eng,Unknown,1990,Viper
+6089,5714debf25ac0d8aee37e756,Viper,Heavy Metal,56d99137cc2ddd0c0f6be85a,Vipera Sapiens,1992,1.0,1993,eng,Unknown,1990,Viper
+6090,5714debf25ac0d8aee37e757,Viper,Heavy Metal,56d99137cc2ddd0c0f6be85a,Maniacs In Japan,1993,294.0,1996-01-17,eng,Unknown,1990,Viper
+6091,5714debf25ac0d8aee37e758,Viper,Heavy Metal,56d99137cc2ddd0c0f6be85a,Coma Rage,1995,0.0,1995,eng,Unknown,1990,Viper
+6092,5714debf25ac0d8aee37e759,Viper,Heavy Metal,56d99137cc2ddd0c0f6be85a,Tem Pra Todo Mundo,1996,Unknown,1996,eng,Unknown,1990,Viper
+6101,5714debf25ac0d8aee37e762,Viral Load,Unknown,56d9913acc2ddd0c0f6be860,Brutalized Beyond Belief,1997,23.0,2005-04-20,Unknown,Alternative Rock,1990,Viral Load
+6105,5714debf25ac0d8aee37e766,Virgin Black,Unknown,56d9913ecc2ddd0c0f6be861,Virgin Black EP,1996,Unknown,1995,Unknown,Alternative Rock,1990,Virgin Black
+6106,5714debf25ac0d8aee37e767,Virgin Black,Unknown,56d9913ecc2ddd0c0f6be861,Trance EP,1998,Unknown,Unknown,Unknown,Alternative Rock,1990,Virgin Black
+6121,5714debf25ac0d8aee37e28d,Velvet Viper,Unknown,56d9900ecc2ddd0c0f6be670,Velvet Viper,1991,Unknown,Unknown,Unknown,Alternative Rock,1990,Velvet Viper
+6122,5714debf25ac0d8aee37e28e,Velvet Viper,Unknown,56d9900ecc2ddd0c0f6be670,The 4th Quest For Fantasy,1992,Unknown,Unknown,Unknown,Alternative Rock,1990,Velvet Viper
+6134,5714debf25ac0d8aee37e29a,Vendetta Red,Unknown,56d99012cc2ddd0c0f6be679,Six Kisses- A Blatant Reminder Of Why We Are Alive EP,1999,11.0,Unknown,Unknown,Alternative Rock,1990,Vendetta Red
+6149,5714debf25ac0d8aee37e2a9,Velvet Chain,Unknown,56d99014cc2ddd0c0f6be67d,Warm,1997,74.0,1997,eng,Alternative Rock,1990,Velvet Chain
+6150,5714debf25ac0d8aee37e2aa,Velvet Chain,Unknown,56d99014cc2ddd0c0f6be67d,The Buffy E.P.,1999,74.0,1999-02,eng,Alternative Rock,1990,Velvet Chain
+6154,5714debf25ac0d8aee37e2ae,Venerea,Punk Rock,56d99015cc2ddd0c0f6be67e,Shake Your Booty,1996,2.0,1996,Unknown,Unknown,1990,Venerea
+6155,5714debf25ac0d8aee37e2af,Venerea,Punk Rock,56d99015cc2ddd0c0f6be67e,Both Sides Burning,1997,Unknown,2003-02-12,Unknown,Unknown,1990,Venerea
+6156,5714debf25ac0d8aee37e2b0,Venerea,Punk Rock,56d99015cc2ddd0c0f6be67e,We Shall Overcome,1998,Unknown,1998,Unknown,Unknown,1990,Venerea
+6162,5714debf25ac0d8aee37e2b6,Venetian Snares,Unknown,56d99019cc2ddd0c0f6be681,Fuck Canada // Fuck America,1999,Unknown,Unknown,Unknown,Alternative Rock,1990,Venetian Snares
+6183,5714debf25ac0d8aee37e2cb,Vengeance,Unknown,56d9901acc2ddd0c0f6be682,Back From Flight 19,1997,11.0,Unknown,eng,Alternative Rock,1990,Vengeance
+6200,5714debf25ac0d8aee37e2dc,Vengaboys,Eurodance,56d9901acc2ddd0c0f6be685,The Party Album!,1999,9.0,1998-11-09,Unknown,Unknown,1990,Vengaboys
+6206,5714debf25ac0d8aee37e2e2,Vengeance Rising,Thrash Metal,56d9901bcc2ddd0c0f6be688,Once Dead,1990,56.0,1990,Unknown,Unknown,1990,Vengeance Rising
+6207,5714debf25ac0d8aee37e2e3,Vengeance Rising,Thrash Metal,56d9901bcc2ddd0c0f6be688,Destruction Comes,1991,43.0,1991,Unknown,Unknown,1990,Vengeance Rising
+6208,5714debf25ac0d8aee37e2e4,Vengeance Rising,Thrash Metal,56d9901bcc2ddd0c0f6be688,Released Upon The Earth,1992,48.0,1992,Unknown,Unknown,1990,Vengeance Rising
+6209,5714debf25ac0d8aee37e2e5,Venice,Unknown,56d9901bcc2ddd0c0f6be689,Born & Raised,1997,194.0,1997-03,eng,Alternative Rock,1990,Venice
+6212,5714debf25ac0d8aee37e2e8,Veni Domine,Power Metal,56d9901ccc2ddd0c0f6be68b,Fall Babylon Fall,1992,Unknown,1995,eng,Unknown,1990,Veni Domine
+6213,5714debf25ac0d8aee37e2e9,Veni Domine,Power Metal,56d9901ccc2ddd0c0f6be68b,Material Sanctuary,1995,Unknown,1994,eng,Unknown,1990,Veni Domine
+6214,5714debf25ac0d8aee37e2ea,Veni Domine,Power Metal,56d9901ccc2ddd0c0f6be68b,Spiritual Wasteland,1998,Unknown,1998,eng,Unknown,1990,Veni Domine
+6224,5714debf25ac0d8aee37e2f4,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Ltn. Schmidt'i Pojad,1991,88.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6225,5714debf25ac0d8aee37e2f5,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Rockpiraadid,1992,88.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6226,5714debf25ac0d8aee37e2f6,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Usk. Lootus. Armastus.,1993,12.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6227,5714debf25ac0d8aee37e2f7,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Vaenlane Ei Maga,1993,88.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6228,5714debf25ac0d8aee37e2f8,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Võluri Tagasitulek,1994,15.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6229,5714debf25ac0d8aee37e2f9,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Inglid Ja Kangelased,1995,20.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6230,5714debf25ac0d8aee37e2fa,Vennaskond,Unknown,56d9901ecc2ddd0c0f6be690,Reis Kuule,1997,17.0,Unknown,Unknown,Alternative Rock,1990,Vennaskond
+6236,5714debf25ac0d8aee37e779,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,Life Among The Ruins,1993,157.0,1993,eng,Unknown,1990,Virgin Steele
+6237,5714debf25ac0d8aee37e77a,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,The Marriage Of Heaven And Hell (Part One),1994,213.0,1994,eng,Unknown,1990,Virgin Steele
+6238,5714debf25ac0d8aee37e77b,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,The Marriage Of Heaven And Hell (Part Two),1994,213.0,1996,eng,Unknown,1990,Virgin Steele
+6239,5714debf25ac0d8aee37e77c,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,Invictus,1998,213.0,1998,eng,Unknown,1990,Virgin Steele
+6240,5714debf25ac0d8aee37e77d,Virgin Steele,Power Metal,56d9913fcc2ddd0c0f6be865,The House Of Atreus: Act I,1999,138.0,1999-11-16,eng,Unknown,1990,Virgin Steele
+6259,5714debf25ac0d8aee37e790,Virginia Coalition,Rock,56d99142cc2ddd0c0f6be868,Colors Of The Sound,1998,13.0,1998,eng,Unknown,1990,Virginia Coalition
+6271,5714debf25ac0d8aee37e79c,Virginiana Miller,Alternative Rock,56d99143cc2ddd0c0f6be86e,Gelaterie Sconsacrate,1997,55.0,Unknown,Unknown,Unknown,1990,Virginiana Miller
+6272,5714debf25ac0d8aee37e79d,Virginiana Miller,Alternative Rock,56d99143cc2ddd0c0f6be86e,Italiamobile,1999,12.0,Unknown,Unknown,Unknown,1990,Virginiana Miller
+6289,5714debf25ac0d8aee37eedc,WC,West Coast Hip Hop,56d992e9cc2ddd0c0f6beb0d,The Shadiest One,1998,1326.0,1998-04-28,Unknown,Unknown,1990,WC
+6294,5714debf25ac0d8aee37eee1,WC And The Maad Circle,Unknown,56d992e9cc2ddd0c0f6beb0e,Ain't A Damn Thang Changed,1991,177.0,1991-09-17,Unknown,Alternative Rock,1990,WC And The Maad Circle
+6295,5714debf25ac0d8aee37eee2,WC And The Maad Circle,Unknown,56d992e9cc2ddd0c0f6beb0e,Curb Servin',1995,101.0,1995-10-03,Unknown,Alternative Rock,1990,WC And The Maad Circle
+6318,5714debf25ac0d8aee37e304,Venom,Heavy Metal,56d99022cc2ddd0c0f6be693,Tear Your Soul Apart,1990,218.0,Unknown,Unknown,Unknown,1990,Venom
+6319,5714debf25ac0d8aee37e305,Venom,Speed Metal,56d99022cc2ddd0c0f6be693,Temples Of Ice,1991,9.0,Unknown,Unknown,Unknown,1990,Venom
+6320,5714debf25ac0d8aee37e306,Venom,Heavy Metal,56d99022cc2ddd0c0f6be693,The Waste Lands,1992,9.0,Unknown,Unknown,Unknown,1990,Venom
+6321,5714debf25ac0d8aee37e307,Venom,Heavy Metal,56d99022cc2ddd0c0f6be693,In Memorium,1993,6.0,Unknown,Unknown,Unknown,1990,Venom
+6322,5714debf25ac0d8aee37e308,Venom,Speed Metal,56d99022cc2ddd0c0f6be693,Cast In Stone,1997,16.0,Unknown,Unknown,Unknown,1990,Venom
+6335,5714debf25ac0d8aee37e315,Venus (BR),Unknown,56d99042cc2ddd0c0f6be699,Ordinary Existence,1998,Unknown,Unknown,Unknown,Post-Hardcore,1990,Venus (BR)
+6336,5714debf25ac0d8aee37e316,Venus,Unknown,56d99042cc2ddd0c0f6be69a,Welcome To The Modern Dance Hall,1999,55.0,1999-10-19,Unknown,Post-Hardcore,1990,Venus
+6337,5714debf25ac0d8aee37e317,Venus,Unknown,56d99042cc2ddd0c0f6be69a,She's So Disco,1999,164.0,Unknown,Unknown,Post-Hardcore,1990,Venus
+6344,5714debf25ac0d8aee37e31e,Venus (HU),Unknown,56d99043cc2ddd0c0f6be69b,Egy Új Érzés,1999,Unknown,Unknown,Unknown,Post-Hardcore,1990,Venus (HU)
+6346,5714debf25ac0d8aee37e320,Venus (PL),Unknown,56d99044cc2ddd0c0f6be69c,Nasza Nastolatka,1996,Unknown,Unknown,Unknown,Post-Hardcore,1990,Venus (PL)
+6347,5714debf25ac0d8aee37e321,Venus (PL),Unknown,56d99044cc2ddd0c0f6be69c,Magiczne Miejsca,1998,Unknown,Unknown,Unknown,Post-Hardcore,1990,Venus (PL)
+6348,5714debf25ac0d8aee37e322,Venus (CL),Unknown,56d99044cc2ddd0c0f6be69d,Dolor De Fin De Siglo,1998,Unknown,Unknown,Unknown,Post-Hardcore,1990,Venus (CL)
+6355,5714debf25ac0d8aee37e329,Venus Outback,Unknown,56d99045cc2ddd0c0f6be6a0,Spiron Johd,1999,1.0,Unknown,Unknown,Post-Hardcore,1990,Venus Outback
+6465,5714debf25ac0d8aee37e7b2,Virtue,Gospel,56d99149cc2ddd0c0f6be879,Virtue,1997,46.0,Unknown,eng,Unknown,1990,Virtue
+6466,5714debf25ac0d8aee37e7b3,Virtue,Gospel,56d99149cc2ddd0c0f6be879,Get Ready,1999,52.0,Unknown,eng,Unknown,1990,Virtue
+6482,5714debf25ac0d8aee37e7c3,Virus,Unknown,56d9914acc2ddd0c0f6be87c,Nueve,1998,65.0,1998,spa,Post-Hardcore,1990,Virus
+6502,5714debf25ac0d8aee37e335,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,Vol. 1-Sincerely Yours,1992,3.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6503,5714debf25ac0d8aee37e336,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,It's A Lovely Day Tomorrow,1994,24.0,1994-02-22,Unknown,Post-Hardcore,1990,Vera Lynn
+6504,5714debf25ac0d8aee37e337,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,Something To Remember,1995,21.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6505,5714debf25ac0d8aee37e338,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,We'll Meet Again,1995,56.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6506,5714debf25ac0d8aee37e339,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,Sweetheart Of The Forces,1996,11.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6507,5714debf25ac0d8aee37e33a,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,White Cliffs Of Dover,1996,26.0,2001,Unknown,Post-Hardcore,1990,Vera Lynn
+6508,5714debf25ac0d8aee37e33b,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,Golden Hits,1997,11.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6509,5714debf25ac0d8aee37e33c,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,More Of The Best,1997,161.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6510,5714debf25ac0d8aee37e33d,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,Some Of The Best,1997,161.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6511,5714debf25ac0d8aee37e33e,Vera Lynn,Unknown,56d9904ccc2ddd0c0f6be6ab,It's Like Old Times,1998,16.0,Unknown,Unknown,Post-Hardcore,1990,Vera Lynn
+6530,5714debf25ac0d8aee37e351,Verbena,Rock,56d99051cc2ddd0c0f6be6b6,Pilot Park,1996,Unknown,1996,eng,Unknown,1990,Verbena
+6531,5714debf25ac0d8aee37e352,Verbena,Rock,56d99051cc2ddd0c0f6be6b6,Souls For Sale,1997,42.0,1997-04-01,eng,Unknown,1990,Verbena
+6532,5714debf25ac0d8aee37e353,Verbena,Rock,56d99051cc2ddd0c0f6be6b6,Into The Pink,1999,57.0,1999-07-27,eng,Unknown,1990,Verbena
+6591,5714debf25ac0d8aee37e7cf,Visceral Evisceration,Doom Metal,56d9914ecc2ddd0c0f6be883,Incessant Desire For Palatable Flesh,1994,13.0,1994,eng,Unknown,1990,Visceral Evisceration
+6592,5714debf25ac0d8aee37e7d0,Visceral Evisceration,Unknown,56d9914ecc2ddd0c0f6be883,Promo,1995,Unknown,Unknown,Unknown,Post-Hardcore,1990,Visceral Evisceration
+6597,5714debf25ac0d8aee37e7d5,Visage,Unknown,56d9914fcc2ddd0c0f6be885,Fade To Grey: The Best Of Visage,1994,3298.0,1993-11-02,Unknown,Post-Hardcore,1990,Visage
+6605,5714debf25ac0d8aee37e7dd,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Visací Zámek,1990,14.0,1995,Unknown,Unknown,1990,Visací Zámek
+6606,5714debf25ac0d8aee37e7de,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Start 02,1991,76.0,1991,Unknown,Unknown,1990,Visací Zámek
+6607,5714debf25ac0d8aee37e7df,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Three Locks,1992,58.0,1992,Unknown,Unknown,1990,Visací Zámek
+6608,5714debf25ac0d8aee37e7e0,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Traktor,1993,83.0,1993,Unknown,Unknown,1990,Visací Zámek
+6609,5714debf25ac0d8aee37e7e1,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Jako Vždycky,1994,63.0,1994,Unknown,Unknown,1990,Visací Zámek
+6610,5714debf25ac0d8aee37e7e2,Visací Zámek,Punk Rock,56d99152cc2ddd0c0f6be88b,Sex,1996,54.0,1996,Unknown,Unknown,1990,Visací Zámek
+6616,5714debf25ac0d8aee37e7e8,Visegruppa Kilden,Religious,56d99152cc2ddd0c0f6be88c,Tilbakeblikk,1998,Unknown,Unknown,Unknown,Unknown,1990,Visegruppa Kilden
+6618,5714debf25ac0d8aee37e7ea,Vishwa Mohan Bhatt,Unknown,56d99153cc2ddd0c0f6be88d,A Meeting By The River,1993,7.0,Unknown,Unknown,Post-Hardcore,1990,Vishwa Mohan Bhatt
+6624,5714debf25ac0d8aee37e7f0,Vision,Unknown,56d99157cc2ddd0c0f6be891,Just Short Of Living,1992,142.0,Unknown,Unknown,Post-Hardcore,1990,Vision
+6625,5714debf25ac0d8aee37e7f1,Vision,Unknown,56d99157cc2ddd0c0f6be891,One And The Same,1996,15.0,Unknown,Unknown,Post-Hardcore,1990,Vision
+6626,5714debf25ac0d8aee37e7f2,Vision,Unknown,56d99157cc2ddd0c0f6be891,Kids Still Have A Lot To Say,1998,661.0,Unknown,Unknown,Post-Hardcore,1990,Vision
+6630,5714debf25ac0d8aee37e7f6,Vision Divine,Unknown,56d99157cc2ddd0c0f6be892,Vision Divine,1999,Unknown,1999,eng,Post-Hardcore,1990,Vision Divine
+6640,5714debf25ac0d8aee37e359,Verdi,Unknown,56d99052cc2ddd0c0f6be6ba,Viva Verdi,1997,0.0,Unknown,Unknown,Post-Hardcore,1990,Verdi
+6660,5714debf25ac0d8aee37e36d,Verdena,Unknown,56d99058cc2ddd0c0f6be6c6,Verdena (Demo Tape),1997,629.0,1997,ita,Post-Hardcore,1990,Verdena
+6661,5714debf25ac0d8aee37e36e,Verdena,Unknown,56d99058cc2ddd0c0f6be6c6,Valvonauta EP,1999,629.0,1999,ita,Post-Hardcore,1990,Verdena
+6662,5714debf25ac0d8aee37e36f,Verdena,Grunge,56d99058cc2ddd0c0f6be6c6,Verdena,1999,629.0,1999-09-24,ita,Unknown,1990,Verdena
+6712,5714debf25ac0d8aee37e3a1,Vern Gosdin,Country,56d9905fcc2ddd0c0f6be6d4,10 Years Of Greatest Hits: Newly Recorded,1990,68.0,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6713,5714debf25ac0d8aee37e3a2,Vern Gosdin,Country,56d9905fcc2ddd0c0f6be6d4,Out Of My Heart,1991,Unknown,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6714,5714debf25ac0d8aee37e3a3,Vern Gosdin,Country,56d9905fcc2ddd0c0f6be6d4,It's Not Over,1992,47.0,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6715,5714debf25ac0d8aee37e3a4,Vern Gosdin,Country,56d9905fcc2ddd0c0f6be6d4,Nickels And Dimes And Love,1993,63.0,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6716,5714debf25ac0d8aee37e3a5,Vern Gosdin,Gospel,56d9905fcc2ddd0c0f6be6d4,The Gospel Album,1995,32.0,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6717,5714debf25ac0d8aee37e3a6,Vern Gosdin,Country,56d9905fcc2ddd0c0f6be6d4,24 Karat Heartache,1997,47.0,Unknown,Unknown,Unknown,1990,Vern Gosdin
+6733,5714debf25ac0d8aee37ef94,Webb Wilder,Unknown,56d99325cc2ddd0c0f6beb60,Doo Dad,1991,401.0,1991,eng,Post-Hardcore,1990,Webb Wilder
+6734,5714debf25ac0d8aee37ef95,Webb Wilder,Unknown,56d99325cc2ddd0c0f6beb60,Town & Country,1995,34.0,1995,eng,Post-Hardcore,1990,Webb Wilder
+6735,5714debf25ac0d8aee37ef96,Webb Wilder,Unknown,56d99325cc2ddd0c0f6beb60,Acres Of Suede,1996,27.0,1996,eng,Post-Hardcore,1990,Webb Wilder
+6757,5714debf25ac0d8aee37e3a9,Vernice,Unknown,56d9905fcc2ddd0c0f6be6d5,Vernice,1993,Unknown,Unknown,Unknown,Post-Hardcore,1990,Vernice
+6758,5714debf25ac0d8aee37e3aa,Vernice,Unknown,56d9905fcc2ddd0c0f6be6d5,Quando Tramonta Il Sole,1994,Unknown,Unknown,Unknown,Post-Hardcore,1990,Vernice
+6759,5714debf25ac0d8aee37e3ab,Vernice,Unknown,56d9905fcc2ddd0c0f6be6d5,Vernice - Stefano D'Orazio,1995,Unknown,Unknown,Unknown,Post-Hardcore,1990,Vernice
+6768,5714debf25ac0d8aee37e3b4,Veronica,Unknown,56d99061cc2ddd0c0f6be6da,V... As In Veronica,1995,317.0,Unknown,Unknown,Post-Hardcore,1990,Veronica
+6769,5714debf25ac0d8aee37e3b5,Veronica,Unknown,56d99061cc2ddd0c0f6be6da,Rise,1997,41.0,Unknown,Unknown,Post-Hardcore,1990,Veronica
+6799,5714debf25ac0d8aee37e3d3,"Veronika, Blezdinga, Gytis",Folk,56d99066cc2ddd0c0f6be6eb,Literatūrinės Dainos,1998,Unknown,Unknown,Unknown,Unknown,1990,"Veronika, Blezdinga, Gytis"
+6810,5714debf25ac0d8aee37e7ff,Vision Of Disorder,Unknown,56d99157cc2ddd0c0f6be894,Vision Of Disorder,1996,426.0,1996-10-22,eng,Symphonic Metal,1990,Vision Of Disorder
+6811,5714debf25ac0d8aee37e800,Vision Of Disorder,Unknown,56d99157cc2ddd0c0f6be894,Imprint,1998,539.0,1998,eng,Symphonic Metal,1990,Vision Of Disorder
+6812,5714debf25ac0d8aee37e801,Vision Of Disorder,Unknown,56d99157cc2ddd0c0f6be894,For The Bleeders,1999,296.0,1999-08-24,eng,Symphonic Metal,1990,Vision Of Disorder
+6816,5714debf25ac0d8aee37e805,Visiting Kids,Unknown,56d99159cc2ddd0c0f6be896,Visiting Kids,1990,0.0,Unknown,Unknown,Symphonic Metal,1990,Visiting Kids
+6836,5714debf25ac0d8aee37e819,Vital Signs,Unknown,56d9915ecc2ddd0c0f6be89f,Aitebar,1993,39.0,Unknown,Unknown,Symphonic Metal,1990,Vital Signs
+6837,5714debf25ac0d8aee37e81a,Vital Signs,Unknown,56d9915ecc2ddd0c0f6be89f,Hum Tum,1995,172.0,Unknown,Unknown,Symphonic Metal,1990,Vital Signs
+6845,5714debf25ac0d8aee37e822,Vital Remains,Unknown,56d9915ecc2ddd0c0f6be8a3,Excruciating Pain (DEMO),1990,90.0,Unknown,Unknown,Symphonic Metal,1990,Vital Remains
+6846,5714debf25ac0d8aee37e823,Vital Remains,Unknown,56d9915ecc2ddd0c0f6be8a3,Let Us Pray,1992,114.0,Unknown,Unknown,Symphonic Metal,1990,Vital Remains
+6847,5714debf25ac0d8aee37e824,Vital Remains,Unknown,56d9915ecc2ddd0c0f6be8a3,Into Cold Darkness,1995,102.0,1995-03-25,eng,Symphonic Metal,1990,Vital Remains
+6848,5714debf25ac0d8aee37e825,Vital Remains,Unknown,56d9915ecc2ddd0c0f6be8a3,Forever Underground,1997,312.0,1997-03-25,eng,Symphonic Metal,1990,Vital Remains
+6859,5714debf25ac0d8aee37efb2,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,The Weddings Play Sports (And Falcons),1990,13.0,Unknown,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6860,5714debf25ac0d8aee37efb3,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,No Show Without Punch,1990,21.0,Unknown,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6861,5714debf25ac0d8aee37efb4,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,Difficult Loves,1992,6.0,1992-01-01,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6862,5714debf25ac0d8aee37efb5,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,King Tide,1993,19.0,Unknown,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6863,5714debf25ac0d8aee37efb6,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,River'esque,1996,12.0,Unknown,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6864,5714debf25ac0d8aee37efb7,Weddings Parties Anything,Unknown,56d99329cc2ddd0c0f6beb68,They Were Better Live,1999,30.0,Unknown,Unknown,Symphonic Metal,1990,Weddings Parties Anything
+6900,5714debf25ac0d8aee37efdb,Webb Pierce,Country,56d9932acc2ddd0c0f6beb6b,The Wondering Boy: 1951-1958,1990,9.0,1990,Unknown,Unknown,1990,Webb Pierce
+6901,5714debf25ac0d8aee37efdc,Webb Pierce,Country,56d9932acc2ddd0c0f6beb6b,Unavailable Sides (1950-1951),1994,13.0,1994,eng,Unknown,1990,Webb Pierce
+6904,5714debf25ac0d8aee37efdf,Weekend Excursion,Unknown,56d9932bcc2ddd0c0f6beb6d,Weekend Excursion,1999,4.0,Unknown,Unknown,Symphonic Metal,1990,Weekend Excursion
+6905,5714debf25ac0d8aee37efe0,Weekend Excursion,Unknown,56d9932bcc2ddd0c0f6beb6d,Twelve To Six,1999,4.0,Unknown,Unknown,Symphonic Metal,1990,Weekend Excursion
+6924,5714debf25ac0d8aee37e82b,Vitamin C,Pop,56d99160cc2ddd0c0f6be8a5,Vitamin C,1999,196.0,2005-03-29,eng,Unknown,1990,Vitamin C
+6932,5714debf25ac0d8aee37e833,Vitamin X,Unknown,56d99163cc2ddd0c0f6be8aa,Straight Edge Crew,1998,Unknown,1998-05-29,Unknown,Symphonic Metal,1990,Vitamin X
+6933,5714debf25ac0d8aee37e834,Vitamin X,Unknown,56d99163cc2ddd0c0f6be8aa,Once Upon A Time...,1999,Unknown,Unknown,Unknown,Symphonic Metal,1990,Vitamin X
+6947,5714debf25ac0d8aee37e842,Vitesse,Unknown,56d99165cc2ddd0c0f6be8b2,Back On Earth,1992,46.0,1992,Unknown,Symphonic Metal,1990,Vitesse
+6952,5714debf25ac0d8aee37e847,Vitorino,Unknown,56d99165cc2ddd0c0f6be8b4,As Mais Bonitas,1993,52.0,1993,Unknown,Symphonic Metal,1990,Vitorino
+7005,5714debf25ac0d8aee37e3fe,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,Let's Electrify!,1993,Unknown,Unknown,Unknown,Symphonic Metal,1990,Versus (US)
+7006,5714debf25ac0d8aee37e3ff,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,The Stars Are Insane,1994,Unknown,Unknown,Unknown,Symphonic Metal,1990,Versus (US)
+7007,5714debf25ac0d8aee37e400,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,Dead Leaves,1995,Unknown,Unknown,Unknown,Symphonic Metal,1990,Versus (US)
+7008,5714debf25ac0d8aee37e401,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,Secret Swingers,1996,Unknown,Unknown,Unknown,Symphonic Metal,1990,Versus (US)
+7009,5714debf25ac0d8aee37e402,Versus (US),Unknown,56d9906dcc2ddd0c0f6be6fc,Two Cents Plus Tax,1998,Unknown,Unknown,Unknown,Symphonic Metal,1990,Versus (US)
+7014,5714debf25ac0d8aee37e407,Versus X,Unknown,56d9906fcc2ddd0c0f6be6fe,Versus X,1994,7.0,Unknown,Unknown,Symphonic Metal,1990,Versus X
+7015,5714debf25ac0d8aee37e408,Versus X,Unknown,56d9906fcc2ddd0c0f6be6fe,Disturbance,1996,13.0,Unknown,Unknown,Symphonic Metal,1990,Versus X
+7018,5714debf25ac0d8aee37eff2,Ween,Unknown,56d99330cc2ddd0c0f6beb75,GodWeenSatan: The Oneness,1991,210.0,1990,Unknown,Symphonic Metal,1990,Ween
+7019,5714debf25ac0d8aee37eff3,Ween,Unknown,56d99330cc2ddd0c0f6beb75,The Pod,1991,209.0,1991-09-20,eng,Symphonic Metal,1990,Ween
+7020,5714debf25ac0d8aee37eff4,Ween,Unknown,56d99330cc2ddd0c0f6beb75,Pure Guava,1992,331.0,1992-11-10,eng,Symphonic Metal,1990,Ween
+7021,5714debf25ac0d8aee37eff5,Ween,Experimental Rock,56d99330cc2ddd0c0f6beb75,Chocolate & Cheese,1994,220.0,1994-09-27,eng,Unknown,1990,Ween
+7022,5714debf25ac0d8aee37eff6,Ween,Unknown,56d99330cc2ddd0c0f6beb75,12 Golden Country Greats,1996,485.0,1996-07-16,eng,Symphonic Metal,1990,Ween
+7023,5714debf25ac0d8aee37eff7,Ween,Unknown,56d99330cc2ddd0c0f6beb75,The Mollusk,1997,804.0,1997-06-25,eng,Symphonic Metal,1990,Ween
+7024,5714debf25ac0d8aee37eff8,Ween,Unknown,56d99330cc2ddd0c0f6beb75,Paintin' The Town Brown: Ween Live 1990-1998,1999,96.0,Unknown,Unknown,Symphonic Metal,1990,Ween
+7025,5714debf25ac0d8aee37eff9,Ween,Unknown,56d99330cc2ddd0c0f6beb75,Craters Of The Sac,1999,187.0,1999,eng,Symphonic Metal,1990,Ween
+7038,5714debf25ac0d8aee37f006,Weepers Circus,Francophone,56d99334cc2ddd0c0f6beb79,Le Fou Et La Balance,1997,367.0,1999-01,fra,Unknown,1990,Weepers Circus
+7039,5714debf25ac0d8aee37f007,Weepers Circus,Francophone,56d99334cc2ddd0c0f6beb79,L'Épouvantail,1999,421.0,1999,fra,Unknown,1990,Weepers Circus
+7048,5714debf25ac0d8aee37f010,Weeping Willows,Unknown,56d9933acc2ddd0c0f6beb7b,Broken Promise Land,1997,151.0,1997,eng,Symphonic Metal,1990,Weeping Willows
+7049,5714debf25ac0d8aee37f011,Weeping Willows,Unknown,56d9933acc2ddd0c0f6beb7b,Endless Night,1999,59.0,1999,eng,Symphonic Metal,1990,Weeping Willows
+7065,5714debf25ac0d8aee37e414,Vertical Horizon,Acoustic,56d99071cc2ddd0c0f6be703,There And Back Again,1992,185.0,1992,Unknown,Unknown,1990,Vertical Horizon
+7066,5714debf25ac0d8aee37e415,Vertical Horizon,Acoustic,56d99071cc2ddd0c0f6be703,Running On Ice,1995,136.0,1995-04-07,eng,Unknown,1990,Vertical Horizon
+7067,5714debf25ac0d8aee37e416,Vertical Horizon,Rock,56d99071cc2ddd0c0f6be703,Live Stages,1997,136.0,1999-01-12,eng,Unknown,1990,Vertical Horizon
+7068,5714debf25ac0d8aee37e417,Vertical Horizon,Alternative Rock,56d99071cc2ddd0c0f6be703,Everything You Want,1999,2286.0,1999-06-15,eng,Unknown,1990,Vertical Horizon
+7079,5714debf25ac0d8aee37e422,Veruca Salt,Post-Grunge,56d99074cc2ddd0c0f6be70b,American Thighs,1994,178.0,1994-11-08,eng,Unknown,1990,Veruca Salt
+7080,5714debf25ac0d8aee37e423,Veruca Salt,Unknown,56d99074cc2ddd0c0f6be70b,Seether,1994,Unknown,1994,Unknown,Symphonic Metal,1990,Veruca Salt
+7081,5714debf25ac0d8aee37e424,Veruca Salt,Indie Rock,56d99074cc2ddd0c0f6be70b,Number One Blind,1995,42.0,1995-01,eng,Unknown,1990,Veruca Salt
+7082,5714debf25ac0d8aee37e425,Veruca Salt,Unknown,56d99074cc2ddd0c0f6be70b,All Hail Me,1995,178.0,1995,Unknown,Symphonic Metal,1990,Veruca Salt
+7083,5714debf25ac0d8aee37e426,Veruca Salt,Indie Rock,56d99074cc2ddd0c0f6be70b,Blow It Out Your Ass It's Veruca Salt,1996,Unknown,1996,eng,Unknown,1990,Veruca Salt
+7084,5714debf25ac0d8aee37e427,Veruca Salt,Post-Grunge,56d99074cc2ddd0c0f6be70b,Eight Arms To Hold You,1997,1084.0,1997-02-08,Unknown,Unknown,1990,Veruca Salt
+7085,5714debf25ac0d8aee37e428,Veruca Salt,Unknown,56d99074cc2ddd0c0f6be70b,Volcano Girls,1997,1084.0,1996,Unknown,Symphonic Metal,1990,Veruca Salt
+7086,5714debf25ac0d8aee37e429,Veruca Salt,Unknown,56d99074cc2ddd0c0f6be70b,Shutterbug,1997,1084.0,1997,Unknown,Symphonic Metal,1990,Veruca Salt
+7087,5714debf25ac0d8aee37e42a,Veruca Salt,Unknown,56d99074cc2ddd0c0f6be70b,Benjamin,1997,1084.0,1997,Unknown,Symphonic Metal,1990,Veruca Salt
+7100,5714debf25ac0d8aee37e437,Verônica Sabino,MPB,56d99079cc2ddd0c0f6be70e,Verônica,1993,69.0,Unknown,por,Unknown,1990,Verônica Sabino
+7101,5714debf25ac0d8aee37e438,Verônica Sabino,MPB,56d99079cc2ddd0c0f6be70e,Vênus,1995,69.0,Unknown,Unknown,Unknown,1990,Verônica Sabino
+7102,5714debf25ac0d8aee37e439,Verônica Sabino,MPB,56d99079cc2ddd0c0f6be70e,Novo Sentido,1997,22.0,1997,por,Unknown,1990,Verônica Sabino
+7128,5714debf25ac0d8aee37e86b,Vivid,Unknown,56d9916ecc2ddd0c0f6be8ce,Go!,1997,0.0,1997,Unknown,Symphonic Metal,1990,Vivid
+7129,5714debf25ac0d8aee37e86c,Vivid,Unknown,56d9916ecc2ddd0c0f6be8ce,Sundown To Sunrise,1999,1.0,1999-07-26,Unknown,Symphonic Metal,1990,Vivid
+7145,5714debf25ac0d8aee37e87c,Vița De Vie,Alternative Rock,56d99172cc2ddd0c0f6be8d8,Fenomental,1999,131.0,1999,ron,Unknown,1990,Vița De Vie
+7148,5714debf25ac0d8aee37e87f,Vixen,Hard Rock,56d99173cc2ddd0c0f6be8d9,Rev It Up,1990,1114.0,1990,eng,Unknown,1990,Vixen
+7149,5714debf25ac0d8aee37e880,Vixen,Grunge,56d99173cc2ddd0c0f6be8d9,Tangerine,1998,2.0,1998-05,eng,Unknown,1990,Vixen
+7150,5714debf25ac0d8aee37e881,Vixen,Hard Rock,56d99173cc2ddd0c0f6be8d9,The Best Of Vixen: Full Throttle,1999,1734.0,1999-02,eng,Unknown,1990,Vixen
+7157,5714debf25ac0d8aee37f018,Weeping Tile,Alternative Rock,56d9933acc2ddd0c0f6beb7d,Eepee,1995,10.0,1995,eng,Unknown,1990,Weeping Tile
+7158,5714debf25ac0d8aee37f019,Weeping Tile,Rock,56d9933acc2ddd0c0f6beb7d,Cold Snap,1996,15.0,1996-02-27,eng,Unknown,1990,Weeping Tile
+7159,5714debf25ac0d8aee37f01a,Weeping Tile,Alternative Rock,56d9933acc2ddd0c0f6beb7d,Valentino,1997,11.0,1997,eng,Unknown,1990,Weeping Tile
+7160,5714debf25ac0d8aee37f01b,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Weezer,1994,7081.0,1994-05-10,eng,Unknown,1990,Weezer
+7161,5714debf25ac0d8aee37f01c,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,Pinkerton,1996,4659.0,1996-09-24,eng,Unknown,1990,Weezer
+7171,5714debf25ac0d8aee37f026,Weezer,Alternative Rock,56d9933bcc2ddd0c0f6beb7e,The Good Life,1997,3462.0,1996-10-29,Unknown,Unknown,1990,Weezer
+7188,5714debf25ac0d8aee37f037,Weissglut,Unknown,56d9933dcc2ddd0c0f6beb86,Etwas Kommt In Deine Welt,1998,37.0,Unknown,Unknown,Symphonic Metal,1990,Weissglut
+7213,5714debf25ac0d8aee37e452,Vesa-Matti Loiri,Schlager,56d9907acc2ddd0c0f6be711,Seitsemän Kertaa,1990,9.0,Unknown,Unknown,Unknown,1990,Vesa-Matti Loiri
+7214,5714debf25ac0d8aee37e453,Vesa-Matti Loiri,Schlager,56d9907acc2ddd0c0f6be711,Vesa-Matti Loiri,1994,14.0,Unknown,Unknown,Unknown,1990,Vesa-Matti Loiri
+7215,5714debf25ac0d8aee37e454,Vesa-Matti Loiri,Schlager,56d9907acc2ddd0c0f6be711,Kaksin,1995,Unknown,Unknown,Unknown,Unknown,1990,Vesa-Matti Loiri
+7216,5714debf25ac0d8aee37e455,Vesa-Matti Loiri,Folk,56d9907acc2ddd0c0f6be711,Rurja,1998,6.0,Unknown,Unknown,Unknown,1990,Vesa-Matti Loiri
+7217,5714debf25ac0d8aee37e456,Vesa-Matti Loiri,Unknown,56d9907acc2ddd0c0f6be711,Sydämeeni Joulun Teen,1998,232.0,Unknown,Unknown,Symphonic Metal,1990,Vesa-Matti Loiri
+7232,5714debf25ac0d8aee37e465,Vesperian Sorrow,Symphonic Black Metal,56d9907ccc2ddd0c0f6be718,Beyond The Cursed Eclipse,1999,2.0,Unknown,eng,Unknown,1990,Vesperian Sorrow
+7244,5714debf25ac0d8aee37e88b,VLA,Unknown,56d99175cc2ddd0c0f6be8df,I Gave My Heart / We Won't Let Each Other Go,1995,Unknown,Unknown,Unknown,Symphonic Metal,1990,VLA
+7258,5714debf25ac0d8aee37e899,VNV Nation,Electronic,56d9917acc2ddd0c0f6be8e6,Advance And Follow,1995,455.0,1995-12,eng,Unknown,1990,VNV Nation
+7259,5714debf25ac0d8aee37e89a,VNV Nation,Electronic,56d9917acc2ddd0c0f6be8e6,Praise The Fallen,1998,288.0,1998-06-02,eng,Unknown,1990,VNV Nation
+7260,5714debf25ac0d8aee37e89b,VNV Nation,Electro,56d9917acc2ddd0c0f6be8e6,Solitary EP,1998,397.0,1998-09-14,eng,Unknown,1990,VNV Nation
+7261,5714debf25ac0d8aee37e89c,VNV Nation,Electro,56d9917acc2ddd0c0f6be8e6,Darkangel,1999,161.0,1999-06-28,eng,Unknown,1990,VNV Nation
+7262,5714debf25ac0d8aee37e89d,VNV Nation,Electro,56d9917acc2ddd0c0f6be8e6,Empires,1999,768.0,1999-10-25,eng,Unknown,1990,VNV Nation
+7278,5714debf25ac0d8aee37e8ad,Vlado Kreslin,Unknown,56d9917acc2ddd0c0f6be8e7,Namesto Koga Roža Cveti,1991,116.0,1991,Unknown,Symphonic Metal,1990,Vlado Kreslin
+7288,5714debf25ac0d8aee37e8b7,VOF De Kunst,Unknown,56d9919dcc2ddd0c0f6be8eb,Dikkertje Dap & Andere Bekende TV-Liedjes Van Annie M.G. Schmidt,1990,47.0,1990,Unknown,Symphonic Metal,1990,VOF De Kunst
+7306,5714debf25ac0d8aee37f051,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Es Ist An Der Zeit (Demo),1992,217.0,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7307,5714debf25ac0d8aee37f052,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Nyntändo-Schock,1993,Unknown,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7308,5714debf25ac0d8aee37f053,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Frontalaufprall,1994,217.0,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7309,5714debf25ac0d8aee37f054,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Alles Ist Möglich,1995,217.0,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7310,5714debf25ac0d8aee37f055,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:W.O.L.F.,1995,Unknown,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7311,5714debf25ac0d8aee37f056,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Tanzpalast 2000,1996,217.0,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7312,5714debf25ac0d8aee37f057,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Telephon W-38,1996,Unknown,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7313,5714debf25ac0d8aee37f058,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Deine Augen & Arbeit Adelt!,1998,Unknown,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7314,5714debf25ac0d8aee37f059,Welle:Erdball,Unknown,56d99345cc2ddd0c0f6beb98,Erdball:Der Sinn Des Lebens,1998,217.0,Unknown,Unknown,Symphonic Metal,1990,Welle:Erdball
+7330,5714debf25ac0d8aee37f069,Wellwater Conspiracy,Unknown,56d99347cc2ddd0c0f6beb9a,Declaration Of Conformity,1997,47.0,Unknown,Unknown,Symphonic Metal,1990,Wellwater Conspiracy
+7331,5714debf25ac0d8aee37f06a,Wellwater Conspiracy,Alternative Rock,56d99347cc2ddd0c0f6beb9a,Brotherhood Of Electric: Operational Directives,1999,13.0,1998,Unknown,Unknown,1990,Wellwater Conspiracy
+7343,5714debf25ac0d8aee37f076,Wendy & Lisa,Rock,56d99348cc2ddd0c0f6beb9e,Eroica,1990,307.0,1990,eng,Unknown,1990,Wendy & Lisa
+7344,5714debf25ac0d8aee37f077,Wendy & Lisa,Rock,56d99348cc2ddd0c0f6beb9e,Girl Bros.,1998,47.0,Unknown,Unknown,Unknown,1990,Wendy & Lisa
+7356,5714debf25ac0d8aee37e8c0,Voice,Unknown,56d9919fcc2ddd0c0f6be8f1,Prediction,1997,1.0,1997,Unknown,Death Metal,1990,Voice
+7357,5714debf25ac0d8aee37e8c1,Voice,Unknown,56d9919fcc2ddd0c0f6be8f1,Trapped In Anguish,1999,11.0,1999-08,Unknown,Death Metal,1990,Voice
+7363,5714debf25ac0d8aee37e8c7,Voice Of The Beehive,Pop Rock,56d991a0cc2ddd0c0f6be8f3,Honey Lingers,1991,295.0,Unknown,Unknown,Unknown,1990,Voice Of The Beehive
+7364,5714debf25ac0d8aee37e8c8,Voice Of The Beehive,Pop Rock,56d991a0cc2ddd0c0f6be8f3,Sex & Misery,1996,4.0,Unknown,Unknown,Unknown,1990,Voice Of The Beehive
+7365,5714debf25ac0d8aee37e8c9,Voices,Unknown,56d991a0cc2ddd0c0f6be8f4,Just The Beginning...,1992,1253.0,Unknown,Unknown,Death Metal,1990,Voices
+7391,5714debf25ac0d8aee37f07c,Wendy Bucklew,Folk Rock,56d99348cc2ddd0c0f6beb9f,Painting Sidewalks,1993,Unknown,Unknown,Unknown,Unknown,1990,Wendy Bucklew
+7394,5714debf25ac0d8aee37f07f,Wendy James,Unknown,56d99349cc2ddd0c0f6beba2,Now Ain't The Time For All Your Tears,1993,5.0,Unknown,Unknown,Death Metal,1990,Wendy James
+7403,5714debf25ac0d8aee37f088,Wendy Matthews,Unknown,56d9934ccc2ddd0c0f6beba8,Lily,1992,15.0,1992-09-28,Unknown,Death Metal,1990,Wendy Matthews
+7404,5714debf25ac0d8aee37f089,Wendy Matthews,Unknown,56d9934ccc2ddd0c0f6beba8,The Witness Tree,1994,4.0,1994-11-14,Unknown,Death Metal,1990,Wendy Matthews
+7405,5714debf25ac0d8aee37f08a,Wendy Matthews,Unknown,56d9934ccc2ddd0c0f6beba8,Ghosts,1997,3.0,1997-08-25,Unknown,Death Metal,1990,Wendy Matthews
+7411,5714debf25ac0d8aee37f090,Wendy Moten,R&amp;B,56d9934dcc2ddd0c0f6beba9,Wendy Moten,1992,59.0,1992,Unknown,Unknown,1990,Wendy Moten
+7412,5714debf25ac0d8aee37f091,Wendy Moten,R&amp;B,56d9934dcc2ddd0c0f6beba9,Time For Change,1995,141.0,1995,Unknown,Unknown,1990,Wendy Moten
+7437,5714debf25ac0d8aee37f0aa,Wes,World Music,56d99352cc2ddd0c0f6bebbb,Welenga,1996,856.0,1998,Unknown,Unknown,1990,Wes
+7442,5714debf25ac0d8aee37f0af,Wes King,Contemporary Christian,56d99353cc2ddd0c0f6bebc0,The Ultimate Underlying No Denying Motivation,1990,13.0,Unknown,eng,Unknown,1990,Wes King
+7443,5714debf25ac0d8aee37f0b0,Wes King,Contemporary Christian,56d99353cc2ddd0c0f6bebc0,Sticks & Stones,1991,10.0,Unknown,eng,Unknown,1990,Wes King
+7444,5714debf25ac0d8aee37f0b1,Wes King,Contemporary Christian,56d99353cc2ddd0c0f6bebc0,The Robe,1993,10.0,Unknown,eng,Unknown,1990,Wes King
+7445,5714debf25ac0d8aee37f0b2,Wes King,Unknown,56d99353cc2ddd0c0f6bebc0,Common Creed,1995,16.0,Unknown,eng,Death Metal,1990,Wes King
+7446,5714debf25ac0d8aee37f0b3,Wes King,Unknown,56d99353cc2ddd0c0f6bebc0,A Room Full Of Stories,1997,8.0,Unknown,eng,Death Metal,1990,Wes King
+7447,5714debf25ac0d8aee37f0b4,Wes King,Contemporary Christian,56d99353cc2ddd0c0f6bebc0,Signature Songs,1999,6.0,1999,eng,Unknown,1990,Wes King
+7455,5714debf25ac0d8aee37e8e8,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,Angel Rat,1991,45.0,1991-10-15,Unknown,Unknown,1990,Voivod
+7456,5714debf25ac0d8aee37e8e9,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,The Outer Limits,1993,250.0,1993-08-03,Unknown,Unknown,1990,Voivod
+7457,5714debf25ac0d8aee37e8ea,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,Negatron,1995,267.0,1995,Unknown,Unknown,1990,Voivod
+7458,5714debf25ac0d8aee37e8eb,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,Phobos,1997,276.0,1997,Unknown,Unknown,1990,Voivod
+7459,5714debf25ac0d8aee37e8ec,Voivod,Progressive Metal,56d991a9cc2ddd0c0f6be903,Kronik,1998,160.0,1998,Unknown,Unknown,1990,Voivod
+7486,5714debf25ac0d8aee37e907,Volebeats,Unknown,56d991adcc2ddd0c0f6be910,Up North,1994,2.0,1994-09-13,Unknown,Death Metal,1990,Volebeats
+7487,5714debf25ac0d8aee37e908,Volebeats,Unknown,56d991adcc2ddd0c0f6be910,Sky And The Ocean,1997,7.0,1997-03-11,Unknown,Death Metal,1990,Volebeats
+7527,5714debf25ac0d8aee37f0dd,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Spookydisharmoniousconflicthellride,1992,35.0,Unknown,Unknown,Unknown,1990,Wesley Willis
+7528,5714debf25ac0d8aee37f0de,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Radiohead,1993,35.0,1994,Unknown,Unknown,1990,Wesley Willis
+7529,5714debf25ac0d8aee37f0df,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Double Door,1994,40.0,Unknown,Unknown,Unknown,1990,Wesley Willis
+7530,5714debf25ac0d8aee37f0e0,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Machine Gun Kelly,1994,40.0,1994,Unknown,Unknown,1990,Wesley Willis
+7531,5714debf25ac0d8aee37f0e1,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Prisonshake,1994,40.0,1994,Unknown,Unknown,1990,Wesley Willis
+7532,5714debf25ac0d8aee37f0e2,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Rev. Norb Number 2,1994,35.0,1994,Unknown,Unknown,1990,Wesley Willis
+7533,5714debf25ac0d8aee37f0e3,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Rock Power,1995,35.0,1995,Unknown,Unknown,1990,Wesley Willis
+7534,5714debf25ac0d8aee37f0e4,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Wesley Willis,1995,40.0,1995,Unknown,Unknown,1990,Wesley Willis
+7535,5714debf25ac0d8aee37f0e5,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Dr. Wax,1995,40.0,1995,Unknown,Unknown,1990,Wesley Willis
+7536,5714debf25ac0d8aee37f0e6,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Drag Disharmony Hell Ride,1995,35.0,1995,Unknown,Unknown,1990,Wesley Willis
+7537,5714debf25ac0d8aee37f0e7,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Fireman Rick,1995,40.0,1995,Unknown,Unknown,1990,Wesley Willis
+7538,5714debf25ac0d8aee37f0e8,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Greatest Hits,1995,35.0,1995-06-28,Unknown,Unknown,1990,Wesley Willis
+7539,5714debf25ac0d8aee37f0e9,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Black Light Diner,1996,40.0,1996,Unknown,Unknown,1990,Wesley Willis
+7540,5714debf25ac0d8aee37f0ea,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Feel The Power,1996,40.0,1996,Unknown,Unknown,1990,Wesley Willis
+7541,5714debf25ac0d8aee37f0eb,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,"Mr. Magoo Goes To Jail, Vol. 1",1996,26.0,1996,Unknown,Unknown,1990,Wesley Willis
+7542,5714debf25ac0d8aee37f0ec,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,"Mr. Magoo Goes To Jail, Vol. 3",1996,8.0,1996,Unknown,Unknown,1990,Wesley Willis
+7543,5714debf25ac0d8aee37f0ed,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Fabian Road Warrior,1996,35.0,1996,Unknown,Unknown,1990,Wesley Willis
+7544,5714debf25ac0d8aee37f0ee,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Rock 'N' Roll Will Never Die,1996,40.0,1996-02-20,Unknown,Unknown,1990,Wesley Willis
+7545,5714debf25ac0d8aee37f0ef,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Daren Hacker,1996,40.0,1996,Unknown,Unknown,1990,Wesley Willis
+7546,5714debf25ac0d8aee37f0f0,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,"New York, New York",1996,35.0,1996,Unknown,Unknown,1990,Wesley Willis
+7547,5714debf25ac0d8aee37f0f1,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,SMD Promotions,1998,26.0,1998-06-02,Unknown,Unknown,1990,Wesley Willis
+7548,5714debf25ac0d8aee37f0f2,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Rock 'N' Roll Jackflash,1998,8.0,1998,Unknown,Unknown,1990,Wesley Willis
+7549,5714debf25ac0d8aee37f0f3,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Silver Fish Sea World,1999,Unknown,1999,Unknown,Unknown,1990,Wesley Willis
+7550,5714debf25ac0d8aee37f0f4,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Dead End Street,1999,8.0,1999-07-13,Unknown,Unknown,1990,Wesley Willis
+7551,5714debf25ac0d8aee37f0f5,Wesley Willis,Punk Rock,56d99366cc2ddd0c0f6bebe1,Greatest Hits Vol. 2,1999,26.0,1999-04-20,Unknown,Unknown,1990,Wesley Willis
+7568,5714debf25ac0d8aee37e914,Volkan Konak,Unknown,56d991b3cc2ddd0c0f6be919,Efulim,1993,1009.0,1993-02-04,Unknown,Death Metal,1990,Volkan Konak
+7569,5714debf25ac0d8aee37e915,Volkan Konak,Unknown,56d991b3cc2ddd0c0f6be919,Gelir Misin Benimle,1994,3140.0,1994,Unknown,Death Metal,1990,Volkan Konak
+7570,5714debf25ac0d8aee37e916,Volkan Konak,Unknown,56d991b3cc2ddd0c0f6be919,Pedaliza,1998,220.0,1998,Unknown,Death Metal,1990,Volkan Konak
+7604,5714debf25ac0d8aee37f0fd,Westlife,Pop,56d99368cc2ddd0c0f6bebe3,Westlife,1999,12181.0,1999-11-08,Unknown,Unknown,1990,Westlife
+7605,5714debf25ac0d8aee37f0fe,Westlife,Pop,56d99368cc2ddd0c0f6bebe3,Swear It Again EP,1999,12181.0,Unknown,Unknown,Unknown,1990,Westlife
+7625,5714debf25ac0d8aee37f112,Westworld,Rock,56d99368cc2ddd0c0f6bebe6,Westworld,1999,Unknown,Unknown,Unknown,Unknown,1990,Westworld
+7631,5714debf25ac0d8aee37f118,Westside Connection,Hip Hop,56d99369cc2ddd0c0f6bebe9,Bow Down,1996,5598.0,1996-10-22,eng,Unknown,1990,Westside Connection
+7664,5714debf25ac0d8aee37e94a,Volumia!,Unknown,56d991bbcc2ddd0c0f6be92a,Volumia!,1998,209.0,1998,Unknown,Death Metal,1990,Volumia!
+7665,5714debf25ac0d8aee37e94b,Volumia!,Unknown,56d991bbcc2ddd0c0f6be92a,Wakker,1999,121.0,Unknown,Unknown,Death Metal,1990,Volumia!
+7671,5714debf25ac0d8aee37e951,Vomitorial Corpulence,Grindcore,56d991bfcc2ddd0c0f6be92d,Karrionic Hacktician,1995,Unknown,Unknown,Unknown,Unknown,1990,Vomitorial Corpulence
+7674,5714debf25ac0d8aee37e954,Volxsturm,Unknown,56d991bfcc2ddd0c0f6be92e,Alk Vereint,1994,Unknown,Unknown,Unknown,Death Metal,1990,Volxsturm
+7675,5714debf25ac0d8aee37e955,Volxsturm,Unknown,56d991bfcc2ddd0c0f6be92e,Oi!,1995,Unknown,Unknown,Unknown,Death Metal,1990,Volxsturm
+7676,5714debf25ac0d8aee37e956,Volxsturm,Unknown,56d991bfcc2ddd0c0f6be92e,Oi! Is Fun!,1996,Unknown,1996,Unknown,Death Metal,1990,Volxsturm
+7677,5714debf25ac0d8aee37e957,Volxsturm,Unknown,56d991bfcc2ddd0c0f6be92e,Mach Die Augen Auf,1998,297.0,1998,Unknown,Death Metal,1990,Volxsturm
+7680,5714debf25ac0d8aee37e95a,Vomitory,Unknown,56d991bfcc2ddd0c0f6be92f,Raped In Their Own Blood,1996,105.0,1996,eng,Death Metal,1990,Vomitory
+7681,5714debf25ac0d8aee37e95b,Vomitory,Unknown,56d991bfcc2ddd0c0f6be92f,Redemption,1998,105.0,1999-11-23,Unknown,Death Metal,1990,Vomitory
+7700,5714debf25ac0d8aee37e96e,Von Lmo,Space Rock,56d991c2cc2ddd0c0f6be935,Cosmic Interception,1994,14.0,Unknown,eng,Unknown,1990,Von Lmo
+7714,5714debf25ac0d8aee37e97c,Vonda Shepard,Pop,56d991c7cc2ddd0c0f6be93e,The Radical Light,1992,220.0,1992,eng,Unknown,1990,Vonda Shepard
+7715,5714debf25ac0d8aee37e97d,Vonda Shepard,Pop,56d991c7cc2ddd0c0f6be93e,It's Good Eve,1996,2.0,1996-01-23,eng,Unknown,1990,Vonda Shepard
+7716,5714debf25ac0d8aee37e97e,Vonda Shepard,Soundtrack,56d991c7cc2ddd0c0f6be93e,Songs From Ally McBeal,1998,3460.0,1998-05-05,Unknown,Unknown,1990,Vonda Shepard
+7717,5714debf25ac0d8aee37e97f,Vonda Shepard,Soundtrack,56d991c7cc2ddd0c0f6be93e,Heart And Soul: New Songs From Ally McBeal,1999,3460.0,1999-11-09,Unknown,Unknown,1990,Vonda Shepard
+7718,5714debf25ac0d8aee37e980,Vonda Shepard,Pop,56d991c7cc2ddd0c0f6be93e,By 7:30,1999,Unknown,1999-04-20,Unknown,Unknown,1990,Vonda Shepard
+7734,5714debf25ac0d8aee37f126,Weto,Unknown,56d9937acc2ddd0c0f6bebf3,Tatort Bühne,1997,67.0,1997,Unknown,Death Metal,1990,Weto
+7735,5714debf25ac0d8aee37f127,Weto,Unknown,56d9937acc2ddd0c0f6bebf3,Scherben Im Kopf,1999,67.0,1999,Unknown,Death Metal,1990,Weto
+7755,5714debf25ac0d8aee37f13b,Wham!,Pop,56d9937bcc2ddd0c0f6bebf9,If You Were There (The Best Of Wham),1997,15360.0,Unknown,Unknown,Unknown,1990,Wham!
+7769,5714debf25ac0d8aee37f149,Wet Wet Wet,Pop,56d99380cc2ddd0c0f6bec03,High On The Happy Side,1991,1215.0,1992,eng,Unknown,1990,Wet Wet Wet
+7770,5714debf25ac0d8aee37f14a,Wet Wet Wet,Unknown,56d99380cc2ddd0c0f6bec03,Cloak & Dagger,1992,Unknown,1992-01-28,Unknown,Death Metal,1990,Wet Wet Wet
+7771,5714debf25ac0d8aee37f14b,Wet Wet Wet,Pop,56d99380cc2ddd0c0f6bec03,End Of Part One - Their Greatest Hits,1993,9.0,1994-07-18,eng,Unknown,1990,Wet Wet Wet
+7772,5714debf25ac0d8aee37f14c,Wet Wet Wet,Pop,56d99380cc2ddd0c0f6bec03,Picture This,1995,2530.0,1995-03-31,eng,Unknown,1990,Wet Wet Wet
+7773,5714debf25ac0d8aee37f14d,Wet Wet Wet,Pop,56d99380cc2ddd0c0f6bec03,10,1997,49.0,Unknown,Unknown,Unknown,1990,Wet Wet Wet
+7790,5714debf25ac0d8aee37f15e,Wheat,Unknown,56d99384cc2ddd0c0f6bec0e,Medeiros,1997,11.0,1997,eng,Death Metal,1990,Wheat
+7791,5714debf25ac0d8aee37f15f,Wheat,Unknown,56d99384cc2ddd0c0f6bec0e,Hopes And Adams,1999,83.0,Unknown,Unknown,Death Metal,1990,Wheat

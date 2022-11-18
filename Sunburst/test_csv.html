@@ -1,5 +1,7 @@
 <head>
 	<!-- Load d3.js into the DOM -->
+  <!-- <link rel="stylesheet" href="../Parallel Coordinates/styleParallelCoord.css">
+  -->
 	<script src="https://cdn.plot.ly/plotly-2.16.1.min.js" charset="utf-8"></script>
 	<script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
 </head>
@@ -11,6 +13,47 @@
         <button  type="button" value="create page"  onclick="change_page_parallelCoord()" class="buttonMenu"> Coordonées parallèles </button>
       </div>
       <h1>Sunburst</h1>
+    
+    <div class="filterDown">
+
+      <label for="displayAlbums" class="container">
+        <input type="checkbox" id="displayYear1970" checked="true">
+        <span class="checkmark"></span>
+        Afficher les données liées aux années 1970
+      </label>
+<br>  
+
+<label for="displayAlbums" class="container">
+  <input type="checkbox" id="displayYear1980" checked="true">
+  <span class="checkmark"></span>
+  Afficher les données liées aux années 1980
+</label>
+<br>  
+
+<label for="displayAlbums" class="container">
+  <input type="checkbox" id="displayYear1990" checked="true">
+  <span class="checkmark"></span>
+  Afficher les données liées aux années 1990
+</label>
+<br>  
+
+<label for="displayAlbums" class="container">
+  <input type="checkbox" id="displayYear2000" checked="true">
+  <span class="checkmark"></span>
+  Afficher les données liées aux années 2000
+</label>
+<br> 
+
+<label for="displayAlbums" class="container">
+  <input type="checkbox" id="displayYear2010" checked="true">
+  <span class="checkmark"></span>
+  Afficher les données liées aux années 2010
+</label>
+<br> 
+<button onclick="checkCheckbox()">Submit</button> <br>  
+    </div>
+    </div>
+    <div>
     <div id="myDiv">
     </div>
     <script src="script_csv.js"></script>
