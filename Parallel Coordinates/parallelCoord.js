@@ -1,4 +1,8 @@
-
+// Fonction qui permet l'affichage de la visualisation
+//     data = les données à afficher
+//     titles = liste des titres des chansons
+//     rangeColors = liste des couleurs à utiliser
+//     displayColomns = liste des colonnes à afficher
 function loadVisualization(data, titles, rangeColors,displayColomns){  
     var margin = {top: 30, right: 0, bottom: 10, left: 0},
     width = 780 - margin.left - margin.right,
@@ -13,9 +17,10 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
       background,
       foreground;
   
+  // Suppression de la visualisation précédente
   var clear = d3.select("svg").remove();  
   
-  
+  // Création de la nouvelle visualisation
   var svg = d3.select("#my_dataviz")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -28,7 +33,6 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
          "translate(" + margin.left + "," + margin.top + ")");
    
     
-  
   
     
     var color = d3.scale.ordinal()
@@ -206,34 +210,20 @@ function loadVisualization(data, titles, rangeColors,displayColomns){
   }
   
 
+  // Fonction reliée au bouton confirmer qui permet de filtrer les données en fonction des choix de l’utilisateur
   function displayVisualisation(){
-  
       readCsvArtist("../../DATA/artists.csv");
       readCsvSong();
   
   }
     
-  function filter() {
-    var input, filter, ul, li, a, i;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    div = document.getElementById("myDropdown");
-    a = div.getElementsByTagName("a");
-    for (i = 0; i < a.length; i++) {
-      txtValue = a[i].textContent || a[i].innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        a[i].style.display = "";
-      } else {
-        a[i].style.display = "none";
-      }
-    }
-  }
-  
 
+// Fonction qui permet de lire le fichier csv des artistes
 function readCsvArtist(filename){
     getListOfArtists(filename);
   }
   
+// Fonction qui permet d'obtenir les informations du fichier csv des artistes afin de remplir le menu déroulant
 function getListOfArtists(file){
     d3.csv(file, function(data){
       var listArtist = [];
@@ -254,6 +244,9 @@ function getListOfArtists(file){
     })
   }
   
+  // Fonction qui permet de lire le fichier csv des chansons
+  // Cette fonction tient compte des filtres et crées les données à utilisées pour la visualisation
+  // Elle appelle ensuite la fonction qui permet de créer la visualisation
   function readCsvSong(){
     var artist = document.getElementById("artists-select").value;
     artist = artist.replace("/","")
@@ -456,9 +449,12 @@ function getListOfArtists(file){
   
   }
 
+  // Fonction qui permet de charger la visualisation du graphe
   function change_page_graphe(){
     window.location.href = "../Graph/search_graph.html";
   } 
+
+  // Fonction qui permet de charger la visualisation du sunburst
   function change_page_Sunburst(){
     window.location.href = "../SunBurst/test_csv.html";
   } 
